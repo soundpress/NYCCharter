@@ -1,9 +1,9 @@
-.. New York City Administrative Code documentation master file, created by
+.. New York City Charters documentation master file, created by
    sphinx-quickstart
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-NYC Administrative Code
+NYC Charters
 =================================
 
 .. toctree::
