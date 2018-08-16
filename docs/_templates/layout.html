@@ -1,0 +1,211 @@
+{%- extends "basic/layout.html" %}
+
+{# Do this so that bootstrap is included before the main css file #}
+{%- block htmltitle %}
+  {% set script_files = script_files + ["_static/myscript.js"] %}
+  <!-- Licensed under the Apache 2.0 License -->
+  <link rel="stylesheet" type="text/css" href="{{ pathto('_static/fonts/open-sans/stylesheet.css', 1) }}" />
+  <!-- Licensed under the SIL Open Font License -->
+  <link rel="stylesheet" type="text/css" href="{{ pathto('_static/fonts/source-serif-pro/source-serif-pro.css', 1) }}" />
+  <link rel="stylesheet" type="text/css" href="{{ pathto('_static/css/bootstrap.min.css', 1) }}" />
+  <link rel="stylesheet" type="text/css" href="{{ pathto('_static/css/bootstrap-theme.min.css', 1) }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{ super() }}
+{%- endblock %}
+
+{%- block extrahead %}
+  {% if theme_touch_icon %}
+  <link rel="apple-touch-icon" href="{{ pathto('_static/' ~ theme_touch_icon, 1) }}" />
+  {% endif %}
+  {{ super() }}
+{% endblock %}
+
+{# Displays the URL for the homepage if it's set or the master_doc if it is not #}
+{% macro homepage() -%}
+  {%- if theme_homepage %}
+    {%- if hasdoc(theme_homepage) %}
+      {{ pathto(theme_homepage) }}
+    {%- else %}
+      {{ theme_homepage }}
+    {%- endif %}
+  {%- else %}
+    {{ pathto(master_doc) }}
+  {%- endif %}
+{%- endmacro %}
+
+{# Displays the URL for the tospage if it's set or falls back to homepage macro #}
+{% macro tospage() -%}
+  {%- if theme_tospage %}
+    {%- if hasdoc(theme_tospage) %}
+      {{ pathto(theme_tospage) }}
+    {%- else %}
+      {{ theme_tospage }}
+    {%- endif %}
+  {%- else %}
+    {{ homepage() }}
+  {%- endif %}
+{%- endmacro %}
+
+{# Displays the URL for the projectpage if it's set or falls back to homepage macro #}
+{% macro projectlink() -%}
+  {%- if theme_projectlink %}
+    {%- if hasdoc(theme_projectlink) %}
+      {{ pathto(theme_projectlink) }}
+    {%- else %}
+      {{ theme_projectlink }}
+    {%- endif %}
+  {%- else %}
+    {{ homepage() }}
+  {%- endif %}
+{%- endmacro %}
+
+{# Displays the next and previous links both before and after content #}
+{% macro render_relations() -%}
+  {% if prev or next %}
+  <div class="footer-relations">
+    {% if prev %}
+      <div class="pull-left">
+        <a class="btn btn-default" href="{{ prev.link|e }}" title="{{ _('previous chapter')}} (use the left arrow)">{{ prev.title }}</a>
+      </div>
+    {% endif %}
+    {%- if next and next.title != '&lt;no title&gt;' %}
+      <div class="pull-right">
+        <a class="btn btn-default" href="{{ next.link|e }}" title="{{ _('next chapter')}} (use the right arrow)">{{ next.title }}</a>
+      </div>
+    {%- endif %}
+    </div>
+    <div class="clearer"></div>
+  {% endif %}
+{%- endmacro %}
+
+{%- macro guzzle_sidebar() %}
+  <div id="left-column">
+    <div class="sphinxsidebar">
+      {#%- if sidebars != None %#}
+        {#- new style sidebar: explicitly include/exclude templates #}
+        {#%- for sidebartemplate in sidebars %#}
+        {#%- include sidebartemplate %#}
+        {#%- endfor %#}
+      {#% else %#}
+        {% include "logo-text.html" %}
+        {% include "globaltoc.html" %}
+        {% include "searchbox.html" %}
+      {#%- endif %#}
+    </div>
+  </div>
+{%- endmacro %}
+
+{%- block content %}
+
+  {%- if pagename == 'index' and theme_index_template %}
+    {% include theme_index_template %}
+  {%- else %}
+    <div class="container-wrapper">
+
+      <div id="mobile-toggle">
+        <a href="#"><span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span></a>
+      </div>
+
+      {%- block sidebar1 %}{{ guzzle_sidebar() }}{% endblock %}
+
+      {%- block document_wrapper %}
+        {%- block document %}
+        <div id="right-column">
+          {% block breadcrumbs %}
+          <div role="navigation" aria-label="breadcrumbs navigation">
+            <ol class="breadcrumb">
+              <li><a href="{{ pathto(master_doc) }}">Docs</a></li>
+              {% for doc in parents %}
+                <li><a href="{{ doc.link|e }}">{{ doc.title }}</a></li>
+              {% endfor %}
+              <li>{{ title }}</li>
+            </ol>
+          </div>
+          {% endblock %}
+          <div class="document clearer body">
+            {% block body %} {% endblock %}
+          </div>
+          {%- block bottom_rel_links %}
+            {{ render_relations() }}
+          {%- endblock %}
+        </div>
+        <div class="clearfix"></div>
+        {%- endblock %}
+      {%- endblock %}
+
+      {%- block comments -%}
+        {% if theme_disqus_comments_shortname %}
+        <div class="container comment-container">
+          {% include "comments.html" %}
+        </div>
+        {% endif %}
+      {%- endblock %}
+    </div>
+  {%- endif %}
+  {%- endblock %}
+
+{%- block footer %}
+<script type="text/javascript">
+  $("#mobile-toggle a").click(function () {
+    $("#left-column").toggle();
+  });
+</script>
+<script type="text/javascript" src="{{ pathto('_static/js/bootstrap.js', 1)}}"></script>
+<script>
+  jQuery(function($) {
+    $('pre').each(function(i, e) {
+      var text = $(e).text().replace(/\n\s/g, '\n<br><br> ');
+      $(e).html(text);})
+  });
+</script>
+{%- block footer_wrapper %}
+<style>
+  pre {
+    text-align: justify;
+    white-space: normal;
+    word-break: break-word;
+  }
+  @media screen and (min-width: 769px) {
+    div.footer {
+      max-width: 900px;
+      margin-left: 300px;
+      width: auto;
+    }
+  }
+  .footer p:first-child {
+    padding-left: 100px;
+    position: relative;
+  }
+  .license-icon {
+    left: 0;
+    top: 5px;
+    position: absolute;
+  }
+</style>
+  <div class="footer">
+    <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+      <a class="license-icon" rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
+        <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+      </a>
+      To the extent possible under law, <a rel="dct:publisher" href="http://votedevin.com"><span property="dct:title">Friends of Devin Balkind for Public Advocate</span></a> has waived all copyright and related or neighboring rights to <span property="dct:title">New York City Administrative Code</span>. This work is published from: <span property="vcard:Country" datatype="dct:ISO3166" content="US" about="http://nycadministrativecode.readthedocs.io/index.html">United States</span>.
+    </p>
+    <p>
+      Special thanks to <a href="http://benkallos.com/law">Benjarmin Kallos</a> and <a href="http://thomneale.com/">Thom Neale</a> who made this content publicly available as a bulk download.
+    </p>
+  </div>
+{%- endblock %}
+{%- block ga %}
+  {%- if theme_google_analytics_account %}
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '{{ theme_google_analytics_account }}']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  {%- endif %}
+{%- endblock %}
+{%- endblock %}
