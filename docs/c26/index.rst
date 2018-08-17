@@ -1,194 +1,174 @@
-Chapter 26 - Department of Buildings
+Chapter 19: Fire Department
 =================
-Section 641.
+Section 481.
 ----------
 
-Section 641. Department; commissioner. ::
+Section 481. Department; commissioner. ::
 
 
-	   There shall be a department of buildings, the head of which shall be the commissioner of buildings. The commissioner or the first deputy commissioner shall be a registered architect or a licensed professional engineer in good standing under the education law.
+	   There shall be a fire department the head of which shall be the commissioner.
 
 
 
 
-Section 642.
+Section 482.
 ----------
 
-Section 642. Deputies. ::
+Section 482. Chief may be designated as commissioner. ::
 
 
-	   The commissioner shall appoint two deputies, one of whom shall be the first deputy commissioner. The commissioner may, by instrument in writing filed with the department, designate a deputy commissioner who is a registered architect or a licensed professional engineer to possess any of the powers granted to the commissioner by subdivision (b) or (d) of section six hundred forty-five of this chapter. The deputy commissioner so designated shall possess such powers in addition to any other powers that may be assigned to him or her by the commissioner pursuant to any other provision of law.
+	   The mayor may designate the chief of the fire department to serve as commissioner, and in such case he shall exercise the powers and duties of commissioner and shall continue to exercise his powers and duties as chief and shall receive the salary of the commissioner. While serving as commissioner the chief shall forfeit none of his pension rights and privileges as chief or his civil service status, and such service and the time during which he so serves shall be part of his time and service as chief. Such designation as commissioner shall be in writing filed in the office of the department and in the office of the mayor.
 
 
 
 
-Section 643.
+Section 483.
 ----------
 
-Section 643. Department; functions. ::
+Section 483. Deputies. ::
 
 
-	   The department shall enforce, with respect to buildings and structures, such provisions of the building code, zoning resolution, multiple dwelling law, labor law and other laws, rules and regulations as may govern the construction, alteration, maintenance, use, occupancy, safety, sanitary conditions, mechanical equipment and inspection of buildings or structures in the city, and shall perform the functions of the city of New York relating to
-	
-	      (1)   the designation of buildings and structures as unsafe and the necessary legal action in relation thereto prior to the removal of the unsafe condition through demolition or sealing except as provided in section eighteen hundred two of this charter;
-	
-	      (2)   the shoring of hazardous and unsafe buildings and structures;
-	
-	      (3)   the testing and approval of power-operated cranes and derricks used for construction, alteration, demolition, excavation and maintenance purposes, including such uses in highways or sewers, or used to hoist or lower any article on the outside of any building, excluding cranes and derricks used in industrial plants or yards;
-	
-	      (4)   the location, construction, alteration and removal of signs, illuminated or non-illuminated, attached to the exterior of any building or structure;
-	
-	      (5)   (i) all surface and subsurface construction within the curb line, including curb cuts and driveways, the covering thereof and entrances thereto and the issuance of permits in reference thereto, (ii) in conjunction with the issuance of permits for surface and subsurface construction within the curbline, such surface and subsurface construction outside the curbline as shall be expressly delegated to the department in the administrative code and the issuance of permits in relation thereto and, (iii) notwithstanding any inconsistent provision of section fourteen hundred three of this charter, in conjunction with the issuance of a permit for the construction of a building, the commissioner may approve the installation of and issue a permit for the construction of an individual on site private sewage disposal system for the premises. Such permit shall be issued in accordance with standards and specifications prescribed by the commissioner, in consultation with the commissioner of environmental protection, for the installation of individual on site private sewage disposal systems;
-	
-	      (6)   the regulation, inspection and testing of gas and electricity used for light, heat and power purposes, electric, gas and steam meters, electric wires and all lights furnished to the city; and
-	
-	      (7)   the regulation, inspection and testing of electric wires and wiring apparatus and other appliances used or to be used for the transmission of electricity for electric light, heat, power, signaling, communication, alarm and data transmission in or on any building or structure in the city; provided, however, that the jurisdiction of the department, except for the testing and approval of power-operated cranes and derricks used for construction, alteration, demolition, excavation and maintenance purposes and the licensing of the operators of such equipment, the regulation, inspection and testing of gas and electricity used for light, heat and power purposes, electric, gas and steam meters, electric wires and lights and the regulation, inspection and testing of wiring and appliances for electric light, heat and power, shall not extend to waterfront property owned by the city and under the jurisdiction of the department of ports, international trade and commerce, or to the following structures on any such waterfront property; wharves, piers, docks, bulkheads, structures wholly or partly thereon, or to such other structures used in conjunction with or in furtherance of waterfront commerce or navigation, or to bridges, tunnels or subways or structures appurtenant thereto.
+	   The commissioner may appoint three deputies, one of whom may perform all the duties and exercise all of the powers of the commissioner except appointment or promotion, detail or dismissal of any member of the uniformed force when thereunto authorized by instrument in writing to be filed in the offices of the mayor and the comptroller.
 
 
 
 
-Section 644.
+Section 484.
 ----------
 
-Section 644. Department; powers. ::
+Section 484. Designation of officers to act. ::
 
 
-	   (a)   There shall be a main office of the department and in each borough at least one branch office and a borough superintendent. Persons appointed as inspectors to perform functions of the department shall have such qualifications as shall be prescribed by the commissioner of citywide administrative services after consultation with the commissioner; provided however that, for inspections related to work on medical and natural gas piping systems, backflow prevention, electrical work and other work as the department may include through rule, such qualifications shall include:
-	
-	      (1)   a minimum of five years of acceptable experience working in the construction industry;
-	
-	      (2)   a license as a professional engineer or architect issued pursuant to the education law;
-	
-	      (3)   a minimum of three years of acceptable experience working in the construction industry and a minimum of two years of formal training or education in a field of study relevant to the discipline(s) inspected;
-	
-	      (4)   a minimum of two years of acceptable experience working in the construction industry and completion of an apprentice program, a minimum of three years in length, in a trade relevant to the discipline(s) inspected;
-	
-	      (5)   a minimum of two years of formal training or education in a field of study relevant to the discipline(s) inspected and completion of an apprentice program, a minimum of three years in length, in a trade relevant to the discipline(s) inspected; or
-	
-	      (6)   equivalent education and experience.
-	
-	   Further provided however that, for all other inspections, such qualifications shall include:
-	
-	      (1)   a minimum of two years of acceptable experience working in the construction industry;
-	
-	      (2)   60 credits towards a degree in a field of study relevant to the discipline(s) inspected;
-	
-	      (3)   a minimum of one year of acceptable experience working in the construction industry and a minimum of one year of formal training or education in a field of study relevant to the discipline(s) inspected;
-	
-	      (4)   a license or certification in a field of study relevant to the discipline(s) inspected;
-	
-	      (5)   completion of an apprentice program, a minimum of two years in length, in a trade relevant to the discipline(s) inspected; or
-	
-	      (6)   equivalent education and experience.
-	
-	   (b)   With respect to buildings and structures, the commissioner shall have the following powers and duties exclusively, subject to review only by the board of standards and appeals as provided by law:
-	
-	      (1)   to examine and approve or disapprove plans for the construction or alteration of any building or structure, including the installation or alteration of any service equipment therein, and to direct the inspection of such building or structure, and the service equipment therein, in the course of construction, installation or alteration;
-	
-	      (2)   to require that the construction or alteration of any building or structure, including the installation or alteration of any service equipment therein, shall be in accordance with the provisions of law and the rules, regulations and orders applicable thereto; but where there is a practical difficulty in the way of carrying out the strict letter of any provision of law relating to buildings in respect to the use of prescribed materials, or the installation or alteration of service equipment, or methods of construction and where equally safe and proper materials or forms of construction may be employed in a specific case, he may permit the use of such materials or of such forms of construction, provided that the spirit of the law shall be observed, safety secured and substantial justice done, but he shall have no power to allow any variance from the provisions of any law in any respect except as expressly allowed therein, or from any appellate ruling of the board of standards and appeals;
-	
-	      (3)   to issue certificates of occupancy for any building or structure situated in the city, provided that:
-	
-	         a.   no building or structure hereafter constructed may be occupied or used in whole or in part for any purpose until a certificate of occupancy has been issued;
-	
-	         b.   no building or structure or part thereof for which a certificate of occupancy has not been previously issued or required shall be occupied or used for any purpose whatever in case such building shall hereafter be altered or converted so as to decrease or increase the number of living rooms or apartments, until a certificate of occupancy has been issued, except that this requirement shall not apply to any old law or new law tenement wherein two or more apartments are combined creating larger residential units, the total legal number of families within the building is being decreased, and the bulk of the building is not being increased;
-	
-	         c.   no buildings hereafter altered or converted from one class to another class shall be occupied or used for any purpose whatever in case such building was vacant during the progress of the work, until a certificate of occupancy has been issued; in case such an alteration does not necessitate the vacating of the building during the progress of the work, the occupancy or use of the building shall not continue more than thirty days after the completion of such alteration, unless a certificate of occupancy has been issued;
-	
-	         d.   a certificate of occupancy of a building or structure shall certify that such building or structure conforms to the requirements of all laws, rules, regulations and orders applicable to it and shall be in such form as the commissioner shall direct;
-	
-	         e.   every certificate of occupancy shall, unless and until set aside, vacated or modified by the board of standards and appeals or a court of competent jurisdiction, be and remain binding and conclusive upon all agencies and officers of the city, and shall be binding and conclusive upon the department of labor of the state of New York, as to all matters therein set forth, and no order, direction or requirement affecting or at variance with any matter set forth in any certificate of occupancy shall be made or issued by any agency or officer of the city, or by the department of labor of the state of New York, or any commission, board, officer or member thereof, unless and until the certificate is set aside, vacated or modified by the board of standards and appeals or a court of competent jurisdiction upon the application of the agency, department, commission, officer or member thereof seeking to make or issue such order, direction or requirement. All such applications shall be made in writing and filed with the board or court for hearing thereon; and copies of the application and order, direction or requirement sought to be made or issued shall be served upon the owner of the building or structure and upon the commissioner of buildings, if he is not the applicant, and upon such terms and conditions as to service, notice, time and place of hearing as the board or court shall direct;
-	
-	         f.   the commissioner may, on request of the owner of a building or structure or his authorized representative, issue a temporary certificate of occupancy for any part of such building or structure provided that such temporary occupancy or use would not in any way jeopardize life or property;
-	
-	         g.   the commissioner may permit in specific cases experimental or demonstration construction not in compliance with the building code in order to obtain knowledge and information not supplied from other experiments within the city; the owner of such construction shall conduct such periodic tests and evaluations as the commissioner may specify and submit results and reports to the department of buildings as the commissioner may require; except as otherwise specifically permitted by the commissioner, the construction shall be erected and maintained in accordance with all provisions of applicable laws, rules and regulations.
-	
-	   (c)   The commissioner may, by instrument in writing filed in the department, designate a borough superintendent of the department to possess within a borough any of the powers granted to the commissioner by subdivision (b) of this section and to exercise the same within such borough in the name of the commissioner for such times and under such conditions as he may specify. The borough superintendent shall also perform such other duties as the commissioner may direct.
-	
-	   (d)   The commissioner shall review and certify any proposed subdivision of a zoning lot with any building thereon, in order to ensure that the subdivision will not result in any violation of the applicable zoning laws. For such purposes, the subdivision applicant shall file with the commissioner, prior to recordation with the city register or the county clerk in the case of Staten Island the following:
-	
-	      (1)   a subdivision map of the entire original zoning lot with any building thereon; and
-	
-	      (2)   a statement by the subdivision applicant assuring compliance of the proposed subdivision with applicable zoning laws.
-	
-	
+	   The commissioner may designate a clerk or chief of a bureau, who shall have power, when thereunto authorized by the commissioner by instrument in writing to be filed in the offices of the mayor and comptroller, to sign warrants and perform such other duties incidental thereto as may be required during the absence of the commissioner, and for a period of time to be designated in the instrument.
 
 
 
 
-Section 646.
+Section 485.
 ----------
 
-Section 646. Conduct of investigations. ::
+Section 485. Seal. ::
 
 
-	   The commissioner shall have the power and duty to conduct such inquiries as may assist him in the performance of the functions of the department where the public safety is involved and for such purpose he shall have subpoena power to compel the attendance of witnesses, to administer oaths, examine witnesses and to compel the production of books, papers and documents.
+	   The commissioner may adopt a seal for the department and direct its use.
 
 
 
 
-Section 647.
+Section 486.
 ----------
 
-Section 647. Definition of "class". ::
+Section 486. Treasurer. ::
 
 
-	   The term "class" as used in this chapter refers to the classification of buildings in the building code or other applicable laws and shall be deemed to refer also to the terms "class" or "kinds" as used in the multiple dwelling law where such law is applicable.
+	   The commissioner shall be the treasurer of the department and shall file in the office of the comptroller a bond for the faithful performance of his duties as such treasurer.
 
 
 
 
-Section 648.
+Section 487.
 ----------
 
-Section 648. Appeals. ::
+Section 487. Powers. ::
 
 
-	   Appeals may be taken from decisions of the commissioner and of a deputy commissioner or the borough superintendent acting under a written delegation of power filed in accordance with the provisions of section six hundred forty-two or subdivision (c) of section six hundred forty-five of this chapter, to the board of standards and appeals as provided by law.
+	   a.   The commissioner shall have sole and exclusive power and perform all duties for the government, discipline, management, maintenance and direction of the fire department and the premises and property in the custody thereof, however, the commissioner shall provide written notice with supporting documentation at least forty-five days prior to the permanent closing of any firehouse or the permanent removal or relocation of any fire fighting unit to the council members, community boards and borough presidents whose districts are served by such facility or unit and the chairperson of the council's public safety committee. For purposes of this section, the term "permanent" shall mean a time period in excess of six months. In the event that the permanent closing of any firehouse or the permanent removal or relocation of any firefighting unit does not occur within four months of the date of the written notice, the commissioner shall issue another written notice with supporting documentation prior to such permanent removal or relocation. The four months during which the written notice is effective shall be tolled for any period in which a restraining order or injunction prohibiting the closing of such noticed facility or unit shall be in effect.
+	
+	   b.   The department shall have sole and exclusive power and authority to extinguish fires at any place within the jurisdiction of the city and shall have power and authority to extinguish fires upon any vessel in the port of New York or upon any dock, wharf, pier, warehouse or other structure bordering upon or adjacent to such port.
+	
+	   c.   The commissioner shall have power to cause any vessel moored to or anchored near any dock or pier in the city to be removed to and secured at such place in the harbor as shall be designated by the commissioner, provided that such vessel shall be on fire or in danger of catching fire or may be, by reason of its condition or the nature of its cargo, a fire menance to shipping, to property or to the water front of the city.
+	
+	   d.   The commissioner shall have sole and exclusive jurisdiction over the approval of the installation of all containers for combustibles, chemicals, explosives, inflammables or other dangerous substances, articles, compounds or mixtures, except storage tanks and auxiliary storage tanks for oil-burning equipment and except where the location of the container may affect the structural condition of the building, in which case the commissioner shall not give his approval without the approval of the commissioner of buildings. The commissioner shall certify his approval of all installations of containers in buildings except storage tanks and auxiliary storage tanks for oil-burning equipment to the commissioner of buildings.
+	
+	   e.   The commissioner shall have the sole and exclusive power from time to time to designate and fix the location of all fire alarm telegraph, signal and alarm stations in the city, and shall have access to and control of the same for the purpose of the department.
+	
+	   f.   The department shall have the power and authority to provide general ambulance services, emergency medical services and other response services necessary to preserve public health, safety and welfare, and to perform any functions relating to the provision of such services. This subdivision shall not be construed to limit or impair the powers of any other agency established pursuant to this charter.
+	
+	   g.   The department shall have the power and authority to regulate helicopter landings and takeoffs at or from locations other than airports, heliports or other facilities approved by the commissioner of small business services, helicopter external load lift operations, seaplane landings and takeoffs at or from seaplane bases approved by the commissioner of small business services, and hot air balloon operations. This subdivision shall not be construed to limit or impair the powers of any other agency established pursuant to this charter, except to the extent that the aforementioned powers granted to the department were previously exercised by the commissioner of small business services.
 
 
 
 
-Section 649.
+Section 488.
 ----------
 
-Section 649. Inspection. ::
+Section 488. Enforcement of fire laws. ::
 
 
-	   The commissioner, any deputy commissioner, borough superintendents, inspectors, or any officer of the department authorized in writing by the commissioner or a borough superintendent to act in his borough may, in accordance with law, for the purpose of performing their respective official duties, enter and inspect any building, structure, enclosure, premises or any part thereof or anything therein or attached thereto; and any refusal to permit such entry or inspection shall be a misdemeanor triable in criminal court and punishable upon conviction by not more than thirty days imprisonment or by a fine of not more than one hundred dollars, or both.
+	   The commissioner shall have the power and it shall be his duty to enforce all laws and the rules and regulations of the board of standards and appeals in respect to:
+	
+	      1.   The manufacture, storage, sale, transportation or use of combustibles, chemicals, explosives, inflammable or other dangerous substances, articles, compounds or mixtures.
+	
+	      2.   The investigation of the cause, circumstances and origin of fires and the suppression of arson.
+	
+	      3.   The prevention of fires or danger to life or property therefrom, excluding provisions relating to structural conditions and excluding provisions relating to the installation of oil-burning equipment and all appurtenances thereof.    The powers conferred by this section shall not extend to the enforcement of any provision of the health code or the regulations of the board of health, or of any provision of the building code relating to the construction or alteration of buildings or the installation of service equipment, except as otherwise provided therein, or interfere in any manner with the powers and duties of the board of health or the chairman of the board of health or of the department of buildings or of the commissioner of buildings.
 
 
 
 
-Section 650.
+Section 489.
 ----------
 
-Section 650. [Office of the tenant advocate.] ::
+Section 489. Regulation of combustibles, etc. ::
 
 
-	   a.   Establishment of the office of the tenant advocate. There shall be in the department an office of the tenant advocate, whose duties shall include, but not be limited to:
+	   The commissioner may make and enforce rules and regulations for the manufacture, storage, sale, transportation or use of combustibles, chemicals, explosives, inflammables or other dangerous substances, articles, compounds or mixtures.
+
+
+
+
+Section 490.
+----------
+
+Section 490. Powers of inspection of the commissioner. ::
+
+
+	   a.   The commissioner is empowered to:
 	
-	      1.   monitoring tenant protection plans to ensure that such plans comply with the requirements of section 28-104.8.4 of the administrative code;
+	      (1)   Cause any building, structure, tunnel, enclosure, vessel, place or premises to be inspected for fire hazards by any officer or employee of the department designated for such purpose.
 	
-	      2.   establishing a system to receive comments, questions and complaints with respect to tenant protection plans, including, but not limited to, establishing and publicizing the availability of a telephone number to receive such comments, questions and complaints;
+	      (2)   Inspect and test any automatic or other fire alarm system or fire extinguishing equipment.
 	
-	      3.   establishing a system to communicate with tenants who are affected by work in occupied multiple dwellings to ensure that such tenants have notice of such work, understand the applicable tenant protection plan and understand their rights as tenants during such work; and
+	   b.   Whenever in any investigation or inspection carried on by the department a condition is found which in the opinion of the commissioner should be referred to any other department, he shall promptly make such reference in writing.
+
+
+
+
+Section 491.
+----------
+
+Section 491. Orders of the commissioner; enforcement. ::
+
+
+	   a.   The commissioner shall have the power and it shall be his duty:
 	
-	      4.   monitoring sites with tenant protection plans to ensure that such sites are complying with such plans and, if the office finds that a site is not complying with such plan, making a recommendation to the commissioner to issue a stop work order for such site until such site is in compliance.
+	      (1)   To order in writing the remedying of any condition in violation of any rule or regulation or any provision of law which he is empowered to enforce.
 	
-	   b.   Reporting. The office of the tenant advocate shall submit to the mayor and the speaker of the city council, and publish on the department’s website, quarterly reports related to the responsibilities of the office, including but not limited to:
+	      (2)   To cause any order of the commissioner which is not complied with within the time fixed in the order for such compliance to be enforced and to take proceedings for the enforcement thereof as may be provided by law.
 	
-	      1.   the number of complaints received by the office and a description of such complaints;
-	
-	      2.   the average time taken to respond to such complaints;
-	
-	      3.   a description of efforts made to communicate with tenants; and
-	
-	      4.   the number of recommendations made to the commissioner to issue a stop work order for a site that is not in complying with a tenant protection plan and the number of such recommendations followed by the commissioner.
-	
-	   c.    Posting of office information. The department shall post on its website the phone number of the office of the tenant advocate and a statement indicating that any person may contact such office if such person has a comment, question or complaint regarding tenant protection plans.
-	
-	
+	   b.   Every order, requirement, decision or determination of the commissioner shall be in writing. The commissioner shall not vary from or take any proceeding or issue any order contrary to the Labor Law, the Multiple Dwelling Law, the building code or any other provision of law or any rule or decision of the board of standards and appeals.
+
+
+
+
+Section 492.
+----------
+
+Section 492. Right of entry of officers of the department. ::
+
+
+	   The commissioner and his deputies and such other officers or employees of the department as are authorized by the commissioner may without fee or hindrance enter and inspect all vessels, premises, grounds, structures, buildings and every part thereof and all underground passages of every sort in the city or in the port of New York for compliance with the provisions of law or rules and regulations enforced by the department. Any refusal to permit such entry or inspection shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days' imprisonment, or by a fine of not more than fifty dollars, or both.
+
+
+
+
+Section 493.
+----------
+
+Section 493. Member of department; no other office. ::
+
+
+	   Notwithstanding any inconsistent provision of any general, special or local law, or rule or regulation, a chief of the fire department shall not serve in any other capacity to the department during his term of office of chief. Any person violating the provisions of this section shall be deemed to have vacated the office of chief so held.
 
 
 

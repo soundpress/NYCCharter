@@ -1,509 +1,529 @@
-Chapter 10 - Budget Process
+Chapter 9: Capital Projects and Budget
 =================
-Section 225.
+Section 210.
 ----------
 
-Section 225. Budgetary responsibilities of the mayor, the director of management and budget and the comptroller. ::
+Section 210. Definitions. ::
 
 
-	   a.   The mayor shall each year, in accordance with the provisions of this chapter, prepare and submit to the council a preliminary budget and an executive budget each of which shall present a complete financial plan for the city and its agencies for the ensuing fiscal year, setting forth proposed operating and capital expenditures, proposed interfund transfers, anticipated revenues and any other anticipated sources and uses of funds. Each such budget shall consist of three parts: the expense budget, which shall set forth proposed appropriations for the operating expenses of the city including debt service; the capital budget and program, which shall set forth proposed appropriations for capital projects for the ensuing fiscal year and the three succeeding fiscal years; and the revenue budget, which shall set forth the estimated revenues and receipts of the city.
+	   As used in this charter:
 	
-	   b.   There shall be an office of management and budget in the executive office of the mayor, the head of which shall be director of management and budget who shall be appointed by the mayor. It shall be the duty of the director to perform all such duties in regard to the budget and related matters as the mayor may direct. The director of management and budget shall have the power, personally or through representatives, to survey each agency for the purpose of ascertaining its budgetary requirements. The director may require any agency, or any officer or employee, to furnish data and information and to answer inquiries pertinent to the exercise of any of the director's duties in regard to the budget and related matters.
+	   1.   The term "capital project" shall mean:
 	
-	   c.   The comptroller shall produce timely analyses of the preliminary and executive budgets including evaluations of the recommendations of the borough presidents, as well as those of the mayor, and of the assumptions and methodologies used by the mayor in making the revenue estimates contained in such budgets.
+	      (a)   A project which provides for the construction, reconstruction, acquisition or installation of a physical public betterment or improvement which would be classified as a capital asset under generally accepted accounting principles for municipalities or any preliminary studies and surveys relative thereto or any underwriting or other costs incurred in connection with the financing thereof.
+	
+	      (b)   The acquisition of property of a permanent nature including wharf property.
+	
+	      (c)   The acquisition of any furnishings, machinery, apparatus or equipment for any public betterment or improvement when such betterment or improvement is first constructed or acquired.
+	
+	      (d)   Any public betterment involving either a physical improvement or the acquisition of real property for a physical improvement consisting in, including or affecting:
+	
+	         (1)   Streets and parks;
+	
+	         (2)   Bridges and tunnels;
+	
+	         (3)   Receiving basins, inlets and sewers, including intercepting sewers, plants or structures for the treatment, disposal or filtration of sewage, including grit chambers, sewer tunnels and all necessary accessories thereof;
+	
+	         (4)   The fencing of vacant lots and the filling of sunken lots.
+	
+	      (e)   Any other project allowed to be financed by the local finance law, with the approval of the mayor and the comptroller.
+	
+	      (f)   Any combination of the above.
+	
+	   2.   The term "pending" shall mean not yet completed.
+	
+	   3.   The term "standards" for each category of capital projects to which they apply shall include: maximum gross and net areas allowed; types of programs which may be operated in the facility; performance requirements for environmental systems; allowable materials and finishes; maximum areas allowed for different functions and activities; approximate cost limits per square foot of construction; and such other items designated by the mayor or by resolution of the council.
+	
+	   4.   The term "scope of project" or "proposed scope of project" shall mean a description of a capital project included in the capital budget that contains specific guidelines for the design and implementation of such project consistent with the standards for the appropriate category of capital projects and includes each of the following items of information which are relevant to the capital project involved:
+	
+	      (a)   Purposes and public to be served;
+	
+	      (b)   Programs to be conducted in the facility;
+	
+	      (c)   Gross and net amounts of space and bulk for any building or structure and for areas for different functions and activities;
+	
+	      (d)   Identification of required architectural, engineering or other consultants and estimated fees for such consultants;
+	
+	      (e)   Estimated completion dates for scope, design and construction;
+	
+	      (f)   Total estimated project costs, including costs for site acquisition, preparation and tenant relocation, design, construction and equipment;
+	
+	      (g)   Estimated expenditures for the project for each fiscal year until its completion;
+	
+	      (h)   Estimated annual costs to operate programs within the facility when fully staffed and to maintain the facility; and,
+	
+	      (i)   Such other information as shall be required by the mayor or by resolution of the council.
+	
+	   5.   The term "cost" shall include the contract liabilities and expenditure incurred for work in carrying out the physical improvement and interest thereon, and the compensation to be made to the owner of any real property acquired for the improvement as determined by a court or by agreement, and interest thereon.
+	
+	   6.   The term "expenses" shall mean any expenses incurred in relation to an assessable improvement exclusive of cost and of damages assessed by the board of assessors.
+	
+	   7.   The term "street," as used in this chapter, shall include street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, and viaduct, and every class of public road, square and place, except marginal streets.
+	
+	   8.   The term "real property" shall include all lands and improvements, lands under water, water front property, the water of any lake, pond or stream, all easements and hereditaments, corporeal or incorporeal, and every estate, interest and right, legal or equitable, in lands or water, and right, interest, privilege, easement and franchise relating to the same, including terms for years and liens by way judgment, mortgage or otherwise.
 
 
 
 
-Section 226.
+Section 211.
 ----------
 
-Section 226. Fiscal year. ::
+Section 211. Capital budget borough allocations. ::
 
 
-	   The fiscal year of the city shall commence on the first day of July in each year and shall terminate at midnight on the ensuing thirtieth day of June.
+	   a.   Borough allocation. Five percent of the appropriations, funded by debt supported by city tax levy funds and state and federal funds over which the city has substantial discretion, proposed in the executive capital budget for the ensuing fiscal year, except any lump sum appropriation for school construction or rapid transit proposed to be made to public authorities established pursuant to the provisions of state law, shall be allocated among the boroughs by a formula based on an equal weighting of factors relating to population and geographic area, and shall be known as the capital budget borough allocation. Such formula shall be established by local law, but in any fiscal year for which no such local law is effective such amount shall be allocated among the boroughs on the basis of the average of (i) each borough's share of the total population of the city, and (ii) each borough's share of the total land area of the city.
+	
+	   b.   Preliminary borough allocations; initial borough president notification. Concomitantly with the submission of the preliminary capital budget and preliminary certificate, the mayor shall inform each borough president of the portion of the executive capital budget for the ensuing fiscal year and of the executive capital budgets for each of the three succeeding years that, pursuant to the formula required by subdivision a of this section, would be allocated to each borough if the amount of the appropriations proposed in the executive capital budget for each of such fiscal years were the same as the maximum amounts of appropriations for such years which the mayor anticipates to be certified in the preliminary certificate issued in accordance with section two hundred thirty-five. The amount of such portion shall be known as the preliminary capital budget borough allocation.
+	
+	   c.   Borough president proposals.
+	
+	      1.   Each borough president, during the consultations required by section two hundred forty-four, shall submit to the mayor, in such form as the mayor shall prescribe, proposed capital appropriations in an amount not exceeding that borough's allocation of the capital budget borough allocation as certified by the mayor to the borough presidents during such consultations. The timing of such certification shall allow sufficient time for such consultations and for meeting the deadlines established by section two hundred forty-nine. Each such proposed appropriation shall be accompanied by the following information:
+	
+	         (a)   for each such proposed appropriation for construction of a capital project, the estimated annual cost to operate and maintain the facility to be constructed pursuant to such appropriation when construction is completed. Such estimates shall be prepared in accordance with the standards established for this purpose pursuant to section two hundred twenty-one of this chapter and shall be certified by the director of the office of management and budget. In the event that a borough president and the director of management and budget do not agree on such estimate for a particular project, such director and the director of the independent budget office shall jointly certify an estimate for such purpose;
+	
+	         (b)   for each such proposed appropriation for the planning and design of a capital project, (i) the estimated cost of the construction of the project, and (ii) the fiscal year in which the borough president intends to propose an appropriation for the construction of the project, if no technical problems regarding the viability of the project are identified during planning, site selection or design;
+	
+	         (c)   the total of all appropriations which will be necessary during the three ensuing fiscal years to provide for the construction of projects for which planning and design appropriations are being proposed.
+	
+	      2.   If a borough president proposes an appropriation for the construction of a capital project, the appropriation must provide for the total amount estimated to be necessary for the completion of the project. If such a proposed appropriation for the construction of a capital project is for an amount which is less than the amount that the office of management and budget estimates to be necessary for the completion of the project, the borough's capital budget borough allocation in any future year in which additional appropriations are necessary for the completion of the project shall be reduced by the amount of such additional appropriations.
+	
+	      3.   If the total appropriations necessary, during any of the ensuing three fiscal years, to provide for the construction of (i) projects for which the borough president is proposing appropriations for planning and design, and (ii) projects for which appropriations were previously made for planning and design on the recommendation of the borough president, is greater than the capital budget borough allocation anticipated to be available during such years based on the certificate issued pursuant to paragraph sixteen of section two hundred fifty of this charter, then the borough president shall submit for inclusion in the executive budget a list of the projects requiring construction appropriations during such year, in priority order.
+	
+	      4.   If the estimated annual cost to operate and maintain the capital projects being proposed for construction by a borough president is greater than the amounts dedicated to such expense budget purposes from the expense budget borough allocation and the capital budget borough allocation expense budget contingency projected to be available to the borough president in one or more ensuing fiscal years then such proposed appropriations may only be included by a borough president in the capital budget with the concurrence of the mayor.
+	
+	   d.   The mayor shall include the proposed appropriations submitted by the borough presidents in accordance with subdivision c of this section in the executive capital budget provided however, that the mayor may also include such comments and recommendations relating to such proposals as the mayor deems appropriate.
 
 
 
 
-Section 227.
+Section 212.
 ----------
 
-Section 227. Spending pursuant to appropriations. ::
+Section 212. Format of departmental estimates for capital projects, preliminary capital budget and executive capital budget. ::
 
 
-	   a.   No money, except for grants or gifts from private entities, shall be paid from any fund under the management of the city, or any fund under the management of any agency or officer of the city, or any other entity the majority of the members of whose board are city officials or are appointed directly or indirectly by city officials, except in pursuance of an appropriation by the council or other specific legal authorization; provided, however, that
-	
-	      (1)   if at any time the council shall fail to make an appropriation for the payment of debt service on any debts of the city as they fall due, or for the payments to the several sinking funds, the commissioner of finance shall set apart, from the first revenues thereafter received applicable to the general fund of the city, a sum sufficient to pay such amounts and shall so apply such sum; and
-	
-	      (2)   money, the ownership and equitable title of which belongs to an individual, corporation, organization or government other than the city and which is being held by any agency or officer of the city pending transfer of such money to such individual, corporation, organization or government in accordance with the terms and conditions pursuant to which it was placed in the custody of such agency or officer, may be transferred to such individual, corporation, organization or government by such agency or officer without an appropriation by law, provided such transfers are made in accordance with such terms and conditions; and
-	
-	      (3)   money or other financial resources may only be transferred from one fund to another without specific statutory authorization for such a transfer if that money or those other financial resources are being loaned temporarily to such other fund and an accurate accounting and reporting of the balance of financial resources in each fund and of the amount due by each fund to each other fund is made at the end of each month; and
-	
-	      (4)   grants or gifts from private entities exempt from the requirements of this section, and expenditures of such funds, shall be subject to disclosure, at least annually, by the responsible agency, officer or entity in a form and containing such information as the mayor shall prescribe for this purpose by rule.
-	
-	   b.   The head of each agency of the city, and each entity the majority of the members of whose board are city officials or individuals appointed directly or indirectly by city officials, shall, on or before the fifteenth day of October in each year, submit to the mayor and the council, in such form as the mayor shall prescribe, a statement of the sources, amounts and disposition of all money received by such agency or entity, or by a unit or officer of such agency during the preceding fiscal year, other than (i) money appropriated for the use of such agency or entity by the council, or (ii) money paid by such agency or entity into the city treasury and reported in the annual report of the comptroller for such fiscal year. The mayor shall ensure that copies of such statements are available for public inspection, and shall designate a city officer to maintain copies of such statements for such purpose.
+	   The departmental estimates for capital projects and the executive capital budget shall consist of a detailed estimate of all capital projects pending or which the agency head, for departmental estimates, or the mayor, for the executive budget, believes should be undertaken within the ensuing fiscal year and the three succeeding fiscal years. Each agency head, for departmental estimates, and the mayor, for the executive budget, shall submit a written response to each of the capital budget priorities included in the community board's statement of budget priorities submitted in accordance with section two hundred thirty. Such responses shall include the response of the agency head and the mayor, as appropriate, regarding the disposition of each such priority and meaningful explanations of any disapprovals contained in such estimates or budget.
 
 
 
 
-Section 228.
+Section 213.
 ----------
 
-Section 228. Draft ten-year capital strategy. ::
+Section 213. Preliminary capital budget. ::
 
 
-	   Not later than the first day of November in each even-numbered year, the director of management and budget and the director of city planning shall jointly submit to the mayor, the council, the borough presidents and the city planning commission a draft ten-year capital strategy prepared in accordance with the provisions of section two hundred fifteen.
+	   The preliminary capital budget shall consist of: (1) a financial plan, consistent with section two hundred fifty-eight, covering estimates of capital expenditures for the four ensuing fiscal years, (2) departmental estimates for capital projects as provided in section two hundred twelve together with the cash flow requirements and proposed sources of funding for each project included in such estimates, (3) a capital program status report which sets forth the appropriations for each project included in the capital budget for the current fiscal year together with the expenditures to date, and (4) a summary description of the purpose of each capital project and the needs it will fulfill, the schedule for beginning and constructing the project, its period of probable usefulness and an appropriate maintenance schedule.
 
 
 
 
-Section 229.
+Section 214.
 ----------
 
-Section 229. Revenue reports of the comptroller and mayor. ::
+Section 214. Executive capital budget. ::
 
 
-	   a.   Not later than the first day of November, the comptroller shall certify to the mayor the actual revenues for the previous fiscal year.
+	   a.   The executive capital budget shall set forth separately each capital project, including the capital projects proposed by the borough presidents in accordance with section two hundred eleven, and shall include:
 	
-	   b.   Not later than the fifteenth day of November, the mayor shall issue a report comparing actual revenues to estimated revenues in the budget as adopted for the previous fiscal year, accompanied by a detailed listing and an explanation of any variances between actual revenues and estimated revenues. This report shall be published in the City Record.
+	      (1)   A brief description and the location of each project; the total estimated cost of the project; the appropriations which have been previously adopted for this project; the amount of appropriations recommended to be adopted for the ensuing fiscal year, the aggregate amount of which shall not exceed the amount in the mayor's certificate; the amount of appropriations required thereafter to complete the project; the sources of funds for the project including state, federal, private and other funds; the period of probable usefulness; the estimated additional annual maintenance and operation costs; any terms and conditions of the project; and the estimated dates of completion of final scope, final design and final construction;
+	
+	      (2)   A listing of all pending projects; and any recommendations that any pending projects be modified, rescinded or postponed accompanied by a statement of the budgetary impact of any such action; and
+	
+	      (3)   A listing of proposed capital projects by community district and by borough and an identification of those projects which were included in the statement of capital priorities submitted by each community board and borough board.
+	
+	   b.   The executive capital program shall set forth for both program categories and individual projects:
+	
+	      (1)   A statement for each of the three succeeding fiscal years of the total dollar amounts necessary to complete projects initiated in prior years and projects proposed in the executive budget, the amounts necessary for projects proposed to be initiated in future years and the amounts necessary for amendments and contingencies; and
+	
+	      (2)   A statement of the likely impact on the expense budget of staffing, maintaining and operating the capital projects included in or contemplated by the capital program.
 
 
 
 
-Section 230.
+Section 215.
 ----------
 
-Section 230. Community board budget priorities. ::
+Section 215. Ten-year capital strategy. ::
 
 
-	   a.   Not later than thirty days prior to the date set by the mayor in accordance with section two hundred thirty-one for the submission of departmental estimates, each community board shall submit to the mayor and the appropriate borough president a statement of its expense budget priorities and a statement of its capital budget priorities for the ensuing fiscal year, in such form and containing such information as the mayor shall prescribe. The form prescribed by the mayor shall include (i) a method by which continuing support may be expressed by a community board for existing programs and capital projects and (ii) reasonable limitations on the total number of expense and capital budget priorities which a community board may propose. The mayor shall provide each community board with reasonable notice of the date set for the submission of such priorities. The mayor shall ensure that representatives of each agency that delivers local services, or is responsible for capital projects, within any community district shall be available for consultation with the community board for such community district in the preparation of its statement of budget priorities.
+	   a.   The ten-year capital strategy shall be issued by the mayor pursuant to section two hundred forty-eight after (i) submission of a preliminary strategy by the department of city planning and the office of management and budget pursuant to section two hundred twenty-eight, and (ii) submission of a report on the preliminary strategy by the city planning commission following a public hearing, pursuant to section two hundred thirty-four.
 	
-	   b.   Each community board in the preparation of its statement of budget priorities, shall, upon adequate public notice, hold a public hearing at which residents of the community district and other interested individuals may express their opinions as to the service and capital needs of the district.
+	   b.   Contents of ten-year capital strategy. Each ten-year capital strategy shall include:
 	
-	   c.   Copies of each statement of budget priorities shall be provided expeditiously by the mayor to the city planning commission and the head of each agency affected.
+	      (1)   a narrative describing the strategy for the development of the city's capital facilities for the ensuing ten fiscal years; the factors underlying such strategy including goals, policies, constraints and assumptions and the criteria for assessment of capital needs; the anticipated sources of financing for such strategy; and the implications of the strategy, including possible economic, social and environmental effects;
+	
+	      (2)   tables presenting the capital commitments estimated to be made during each of the ensuing ten fiscal years, by program category and agency. Where relevant the anticipated sources of financing for particular categories and projects shall be specified; and
+	
+	      (3)   a map or maps which illustrate major components of the strategy as relevant.
+	
+	   c.   In the preparation of the preliminary ten-year capital strategy, the department of city planning and office of management and budget shall consider (i) the strategic policy statements of the mayor and the borough presidents pursuant to section seventeen, (ii) relevant citywide, borough and community plans adopted pursuant to section one hundred ninety seven-a, and (iii) the reports pursuant to section two hundred fifty-seven comparing the most recent ten-year capital strategy with the capital budgets and programs adopted for the current and previous fiscal years.
 
 
 
 
-Section 231.
+Section 216.
 ----------
 
-Section 231. Departmental estimates. ::
+Section 216. Amendment. ::
 
 
-	   a.   Not later than such date as the mayor may direct, the head of each agency shall submit to the mayor, in such form and containing such information as the mayor shall require, a detailed estimate of the expense budget requirements of such agency for the ensuing fiscal year and capital budget and program requirements for the ensuing fiscal year and three succeeding fiscal years, prepared in accordance with the provisions of section one hundred and section two hundred twelve, respectively, and a detailed estimate of all receipts, from sources other than taxes, which the agency anticipates collecting during the ensuing fiscal year. Such estimates shall be known collectively as departmental estimates and shall be known respectively as expense budget departmental estimates, capital budget and program departmental estimates and revenue budget departmental estimates. Copies of such departmental estimates shall be provided expeditiously by the mayor to each borough president.
+	   a.   Upon receipt of a recommendation in writing from the mayor or a borough president, in manner specified herein, the council may amend the capital budget or capital program in the same manner as the adoption of the capital budget and capital program including the right to approve the proposed amendment as submitted or to increase or decrease the amounts of funds proposed to be appropriated thereby, but only if funds are available within the capital budget and the applicable program category of the capital program; provided, however, that (i) the mayor may only recommend such an amendment relating to an appropriation included in the capital budget pursuant to section two hundred eleven with the concurrence of the relevant borough president; and (ii) the borough president may only make such a recommendation with regard to such an appropriation if it provides for an offsetting reduction in another appropriation included in the capital budget pursuant to section two hundred eleven on the recommendation of such borough president and it is concurred in by the mayor.
 	
-	   b.   In the preparation of such departmental estimates, the head of each agency that delivers local services, or is responsible for capital projects, within any community district shall (1) consult with the community board for such community district through appropriate officers and employees of the agency, and (2) consider the community board statements of expense and capital budget priorities submitted in accordance with section two hundred thirty of this chapter.
+	   b.   Upon the adoption of any such amendment by the council, it shall be certified by the mayor, the public advocate and the city clerk and the capital budget shall be amended accordingly.
+	
+	   c.   Not later than five days after such certification such amendment shall be filed in the office of the comptroller and shall be published forthwith in the City Record.
 
 
 
 
-Section 232.
+Section 217.
 ----------
 
-Section 232. Report of the comptroller on capital debt and obligations. ::
+Section 217. Restrictions on capital projects. ::
 
 
-	   Not later than the first day of December, the comptroller shall submit to the mayor, the council and the city planning commission a report, which shall be published forthwith in the City Record, setting forth the amount and nature of all obligations authorized on account of each pending capital project and the liabilities incurred for each such project outstanding on the first day of July and setting forth and commenting in detail upon the city's financial condition and advising as to the maximum amount and nature of debt and reserves which in the comptroller's opinion the city may soundly incur for capital projects during each of the four succeeding fiscal years, and containing such other information relevant to this subject as may be required by local law, by the mayor by executive order, or which the comptroller deems necessary and relevant.
+	   a.   No obligations of the city shall be issued or authorized for or on account of any capital project not included in a capital budget, or for which funds have not been reserved in an appropriate program category of the capital program for any year of such program in which it is projected that funds will be expended for the completion of the project, or in excess of the maximum amount of obligations which may be issued on account of such project as fixed in such capital budget; and no amount may be expended on account of any capital project in excess of the amount appropriated for such purposes in a capital budget, except that the amount appropriated for such purposes may be increased by the mayor by not more than fifteen per centum thereof in order to meet any costs required to advance such project. Notice of any such increase shall be provided to the council together with a statement of identifiable funds available for payment of the increase.
+	
+	   b.   Funds included in the capital budget for a capital project that are not obligated or committed during the fiscal year in which appropriated shall not be obligated or committed in the subsequent fiscal year unless reappropriated in a subsequent capital budget or an amendment thereto. A capital project included in a capital budget that is not initiated by the expenditure of funds within two years after its inclusion in the budget shall be eliminated from the budget.
+	
+	   c.   The city may issue capital debt only to finance capital projects as defined in section two hundred ten. The capital budget may not include expense items that are properly includable only in the expense budget, as determined in accordance with the accounting principles set forth in the state comptroller's uniform system of accounts for municipalities, as the same may be modified by the state comptroller, in consultation with the city comptroller, for application to the city.
+	
+	   d.   No capital project shall be included in the proposed executive capital budget or otherwise adopted as part of the capital budget or as an amendment thereto unless sufficient funds are available within the appropriate general program category of the capital program for any year of such program in which it is projected that additional appropriations will be necessary for the completion of the project.
 
 
 
 
-Section 233.
+Section 218.
 ----------
 
-Section 233. Report of the comptroller on the state of the city's finances. ::
+Section 218. Site selection. ::
 
 
-	   Not later than the fifteenth day of December, the comptroller shall report to the council, at a stated meeting of the council, on the state of the city's economy and finances, including evaluations of the city's financial plan, as most recently updated by the mayor in accordance with section two hundred fifty-eight, and the assumptions on which the revenue and expenditure forecasts contained therein are based.
+	   a.   The selection of sites for capital projects shall be pursuant to the uniform procedures provided pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d, except for acquisition of office space pursuant to section one hundred ninety-five.
+	
+	   b.   To the maximum extent feasible, final approval of a site for a capital project shall occur prior to or simultaneously with the approval of the scope of the project pursuant to this chapter.
+	
+	   c.   During the review required by subdivision a, the community board and borough president shall also review, and may comment on, the scope of the project.
 
 
 
 
-Section 234.
+Section 219.
 ----------
 
-Section 234. City planning commission hearing and statement on the draft ten-year capital strategy. ::
+Section 219. Project initiation; commitment plan. ::
 
 
-	   Not later than the sixteenth day of January in each odd numbered year, the city planning commission shall submit to the mayor, the borough presidents and the council a report containing its comments on the draft ten-year capital strategy submitted in accordance with section two hundred twenty-eight of this chapter, including such recommendations as it deems appropriate. The city planning commission, in the preparation of such report, shall, upon adequate public notice, hold a public hearing at which interested organizations and individuals may express their opinions regarding the draft ten-year capital strategy.
+	   a.   The inclusion of a capital project in the capital budget as adopted or amended shall constitute a direction and order to the agency to proceed with the preparation of a scope of project pursuant to this chapter unless sufficient planning funds for such purpose have not been appropriated in the capital budget. The head of the agency shall notify the comptroller of the amount of appropriated planning funds to be encumbered for such purpose.
+	
+	   b.   The approval of a scope of project for a capital project pursuant to this chapter, including the amount of obligations necessary to finance the design and construction of the project, shall constitute a direction and order to the agency to design the project, unless sufficient funds for such purpose have not been appropriated in the capital budget or are otherwise not available within the appropriate program category of the capital program. Such approval shall constitute notification to the comptroller of the comptroller's authorization to expend appropriated design funds.
+	
+	   c.   The approval of the final design for a capital project pursuant to this chapter shall constitute a direction and order to the agency responsible for construction to prepare bid and award documents and to proceed to bid, unless sufficient funds for such purpose have not been appropriated in the capital budget or are otherwise not available within each year of the capital program in which it is projected that funds will be expended for the completion of the project. Such approval shall constitute notification to the comptroller of the comptroller's authorization to expend appropriated construction funds.
+	
+	   d.   The mayor shall require each agency to prepare and submit periodic reports in regard to the progress of its capital projects, including schedules and clear explanations of any delays for particular prospects and summary information on each agency's record on such matters. Such reports shall be published at least three times each year: within ninety days of the adoption of the capital budget; with the preliminary capital budget; and with the executive capital budget. Copies of such reports shall be transmitted by the mayor to the council, the city planning commission, and the community boards, the borough boards and borough presidents. Such reports shall include, for each project, the dates set in the adopted capital budget for the completion of scope, design, and construction and any changes in such dates.
+	
+	      1.   The report issued with the executive budget shall include, for each new capital project being proposed in the executive budget, a description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
+	
+	      2.   The report issued following the adoption of the budget shall include, for each capital project added to the budget, a description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
+	
+	      3.   The report issued following the adoption of the budget shall include, for each capital project for which a substantial change was made, a revised description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
+	
+	   e.   Any capital project which results in the acquisition or construction of a capital asset which will be subject to the requirements of section eleven hundred ten-a shall contain a provision requiring a comprehensive manual setting forth the useful life of the asset and explaining the activities necessary to maintain the asset throughout such useful life.
+	
+	   f.   The mayor may issue directives and adopt rules and regulations in regard to the execution of capital projects, consistent with the requirements of subdivisions a, b, c and d of this section, which shall be binding upon all agencies.
 
 
 
 
-Section 235.
+Section 220.
 ----------
 
-Section 235. Preliminary certificate of the mayor on capital debt and obligations. ::
+Section 220. Improvements payable other than by city. ::
 
 
-	   No later than the sixteenth day of January, the mayor shall submit to the council, the comptroller, the borough presidents and the city planning commission and publish a preliminary certificate setting forth the maximum amount of debt and reserves which, in the mayor's opinion, the city may soundly incur for capital projects during the ensuing fiscal year and during each of the following three fiscal years, and the maximum amount of appropriations and expenditures for capital projects which the city, given such maximum amount of debt and reserves, may soundly make during each such fiscal year. At any time up to the submission of the executive capital budget to the council, the mayor may amend such preliminary certificate. Any such amendments shall be submitted to the council, the comptroller, the borough presidents and the city planning commission, and published forthwith in the City Record.
+	   Any owner of real property or any other person interested may apply to the council to authorize an improvement referred to in paragraph d of subdivision one of section two hundred ten hereof, not included in the capital budget. The council may authorize such improvement to be made by the city or by such owner or other person interested upon compliance with the following conditions:
+	
+	      1.   Such owner or group or other persons interested shall enter into an agreement with the city, whereby they will either authorize the city, or themselves agree, to perform such work in accordance with such plans and specifications approved by the agencies having jurisdiction thereover and under their supervision.
+	
+	      2.   All of such work shall be done for the account of or at the sole cost and expense of the person or persons applying for permission to do the same, who shall furnish to the city such security and in such amount as may be required to secure the payment of such cost and expense or the proper performance of the said work in the time and in the manner agreed upon, and shall further secure the city, in the latter case, against latent defects in such work for a period of two years.
+	
+	      3.   Such improvement shall be approved by the city planning commission and reviewed pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d.
+	
+	      4.   Any agreement providing for the performance of such work and the furnishing of such security, shall be first approved by the council before the same shall become effective.
 
 
 
 
-Section 236.
+Section 221.
 ----------
 
-Section 236. Submission of the preliminary budget. ::
+Section 221. Standards for capital projects. ::
 
 
-	   Not later than the sixteenth day of January, the mayor shall submit to the council and publish a preliminary budget for the ensuing fiscal year. Copies of such budget shall be provided to the council, borough presidents, each community board and borough board, the city planning commission, and the department of city planning. A copy of such preliminary budget shall also be provided to the council not later than the sixteenth day of January in both a human-readable format or spreadsheet and in a non-proprietary format or spreadsheet that permits automated processing and renders such data capable of being downloaded in bulk or any other format mutually agreed upon between the mayor and the council.
-	
-	
+	   The mayor shall prepare general standards and cost limits for categories of capital projects and standards for the preparation of the scope of project for capital projects of various types. Such standards and limits shall be submitted by the mayor to the council for review. The proposed standards shall become effective thirty days after they have been filed with the council unless within that time the council modifies or disapproves them or part of them, after conducting a public hearing. Any modification by the council shall be subject to disapproval by the mayor in accordance with section thirty-eight and any such disapproval shall be subject to override by the council in accordance with such section.
 
 
 
 
-Section 237.
+Section 222.
 ----------
 
-Section 237. Report of independent budget office on revenues and expenditures. ::
+Section 222. Scope of project. ::
 
 
-	   On or before the first day of February, the director of the independent budget office shall publish a report, for the ensuing fiscal year, with respect to expected levels of revenues and expenditures, taking into account projected economic factors and the proposals contained in the preliminary budget submitted by the mayor for such fiscal year. Such report shall also include a discussion of city budget priorities, including alternative ways of allocating the total amount of appropriations, expenditures and commitments for such fiscal year among major programs or functional categories taking into account how such alternative allocations will meet major city needs and effect balanced growth and development in the city.
+	   a.   Each agency, with respect to a capital project under its jurisdiction included in a capital budget, shall prepare a proposed scope of project within appropriated planning funds. In preparing the proposed scope of project, the agency shall consult with the community board for the community district in which the capital project is to be located. The proposed scope of project, or, in the case of a delay, an explanation for such delay along with a revised schedule, shall be submitted to the mayor and to the respective council committee, borough president and community board by the date specified in the adopted capital budget in which the capital project is included. Such proposed scope shall identify all substantial differences between the guidelines for the capital project as contained in such scope and the description of the capital project contained in the report issued pursuant to subdivision d of section two hundred nineteen at the time such project was proposed in the executive budget or following the budget adoption in which such project was added to the capital budget.
+	
+	   b.   Not later than sixty days after receipt of the proposed scope of project from an agency pursuant to subdivision a of this section, the mayor shall approve, modify, or disapprove the proposed scope of project and notify the agency, and the respective council committee, borough president and community board. In the case of a scope approved by the mayor with modifications, such notification shall include a copy of the scope as approved.
+	
+	   c.   During the review of the selection of a site of a capital project pursuant to the uniform land use review procedure established by section one hundred ninety-seven-c, the community board and borough president shall also review, and may comment on, the scope of the project.
+	
+	   d.   No scope of project shall be approved by the mayor unless (1) it contains the information required by paragraph four of section two hundred ten and it conforms to the applicable standards for the type of project adopted pursuant to this chapter, and (2) funds are available within the appropriate program category of the capital program that can be reserved for each fiscal year required to complete the project.
 
 
 
 
-Section 238.
+Section 223.
 ----------
 
-Section 238. Community board review of preliminary budget. ::
+Section 223. Design of capital project. ::
 
 
-	   Not later than the fifteenth day of February, each community board shall submit to the mayor, the council, director of management and budget, the appropriate borough president and each member of the borough board of the borough in which the community board is located, a statement containing the community board's assessment of the responsiveness of the preliminary budget to its statement of budget priorities submitted pursuant to section two hundred thirty and any other comments or recommendations which it wishes to make in regard to the preliminary budget.
+	   The proposed design and final design for a capital project shall be made available for review to the respective council committee, borough president and the community board for the community district in which the project is to be located. The mayor or his representative shall review the final design to determine its conformance with the approved scope of project pursuant to this chapter.
 
 
 
 
-Section 239.
+Section 224.
 ----------
 
-Section 239. Estimate of assessed valuation, and statement of taxes due and uncollected by the commissioner of finance. ::
+Section 224. Works of art. ::
 
 
-	   Not later than the fifteenth day of February, the commissioner of finance shall submit to the mayor and to the council:
+	   a.   For purposes of this section:
 	
-	   a.   a tentative estimate of the assessed valuation of real property subject to taxation for the ensuing fiscal year, which shall be published forthwith in the City Record; and
+	      Demographic information. The term "demographic information" includes age, gender, race and any other related information the department of cultural affairs deems relevant.
 	
-	   b.   a certified statement showing as of a specified date the amount of all real property taxes due, the amount expected to be received and the amount actually uncollected by such categories and classifications as will facilitate understanding of such information.
+	      Design agency. The term "design agency" means the agency responsible for the preparation of the design for the capital project that includes works of art pursuant to this section.
+	
+	      Sponsor agency. The term "sponsor agency" means the agency whose capital project is subject to the provisions of this section.
+	
+	      Works of art. The term "works of art" includes all forms of the visual and performing arts conceived in any medium, material or combination thereof.
+	
+	   b.   Works of art shall be provided for each capital project which involves the construction or the substantial reconstruction of a city-owned public building or structure the intended use of which requires that it be accessible to the public generally or to members of the public participating in, requiring or receiving programs, services or benefits provided thereat.
+	
+	   c.   An amount not less than one percent of the first fifty million dollars and one-half of one percent of any amount in excess of fifty million dollars of capital funds appropriated by the city for each such capital project, other than funds appropriated for the acquisition of real property, shall be allocated for works of art; provided, however, that this section shall in no case require, but shall not prohibit, the expenditure of more than nine hundred thousand dollars for works of art for any capital project nor more than the sum of four million dollars for all works of art in any fiscal year. The mayor may exempt a capital project from the provisions of this section if in the mayor's sole judgment the inclusion of works of art as provided hereby would be inappropriate.
+	
+	   d.   1.   The department of cultural affairs shall engage in outreach and education efforts regarding the opportunity to submit works of art for consideration for inclusion in capital projects as provided for by this section. Such outreach and education efforts shall include but not be limited to information sessions in each borough that shall be open to the public and the development of written materials that describe the submission and selection process for works of art. The department shall make such written materials available in a manner deemed appropriate by the department, including but not limited to making such materials available to arts and cultural organizations, community-based organizations, and colleges and universities. Such written materials shall be made available in English and in the six languages most commonly spoken by limited English proficient individuals in the city as determined by the department of city planning.
+	
+	      2.   Reasonable advance notification of the intention to include works of art in a project shall be provided to the appropriate council member, borough president and chairperson of the community board of the community district in which the project is located. Reasonable advance notification of the intention to include works of art in a project shall also be posted on the website of the department of cultural affairs. Following notification of the intention to include works of art in any project, the department of cultural affairs shall hold or present at a public meeting, such as a meeting of the community board of the community district in which the project is located, on such works of art prior to such inclusion. A notice of such public meeting shall be posted on the website of the department of cultural affairs not less than fourteen days prior to any such meeting. All such works of art shall be subject to the approval of the art commission pursuant to section eight hundred fifty-four of this charter.
+	
+	   e.   The mayor shall adopt rules and regulations to implement the provisions of this section.
+	
+	   f.   The department of cultural affairs shall post on the department’s website information about works of art that were included in a capital project pursuant to this section after the effective date of the local law that added this subdivision.
+	
+	      1.   Such information shall include but not be limited to the name of the work of art; name of the artist; capital project completion date; medium and dimensions of the work of art; location of the work of art, including council district and borough; sponsor agency; and design agency.
+	
+	      2.   The department shall post on the department’s website aggregated demographic information about the artists whose works of art are subject to the provisions of this subdivision, to the extent such demographic information is provided to the department.
+	
+	   g.   There shall be an advisory panel to recommend eligible works of art to be included in a capital project pursuant to this section. The commissioner of cultural affairs or his or her designee shall serve as chairperson of such panel and shall ensure that such panel includes members who are knowledgeable about public art, knowledgeable about the project, and knowledgeable about the community in which the project will be located. The panel shall further include but not be limited to at least one representative of the president of the borough in which the project will be located, at least one representative of the council member in whose district the project will be located, and at least one representative of the community board for the community district in which the project will be located, provided, however, that such representatives shall be non-voting ex officio members.
+	
+	
 
 
 
 
-Section 240.
+Section 224.
 ----------
 
-Section 240. Tax Benefit Report. ::
+Section 224. 1. Green building standards. ::
 
 
-	   Not later than the fifteenth day of February the mayor shall submit to the council a tax benefit report which shall include:
+	   a.   As used in this section the following terms shall have the following meanings:
 	
-	      a.   a listing of all exclusions, exemptions, abatements, credits or other benefits allowed against city tax liability, against the base or the rate of, or the amount due pursuant to, each city tax, provided however that such listing need not include any benefits which are applicable without any city action to such city tax because they are available in regard to a federal or state tax on which such city tax is based; and
+	      Capital project. The term "capital project" means a capital project as defined in section 210 of this chapter that is paid for in whole or in part from the city treasury.
 	
-	      b.   a description of each tax benefit included in such listing, providing the following information:
+	      City agency. The term "city agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid, in whole or in part, from the city treasury.
 	
-	         1.   the legal authority for such tax benefit;
+	      Construction work. The term "construction work" means any work or operations necessary or incidental to the erection, demolition, assembling, alteration, installing, or equipping of any building.
 	
-	         2.   the objectives of, and eligibility requirements for, such tax benefit;
+	      Green building standards. The term "green building standards" means design guidelines, a rating system or rules for constructing buildings that ensure site planning, water efficiency, energy efficiency and renewable energy, conservation of materials and resources and indoor environmental quality.
 	
-	         3.   such data and supporting documentation as are available and meaningful regarding the number and kind of taxpayers using benefits pursuant to such tax benefit and the total amount of benefits used pursuant to such tax benefit, by taxable and/or fiscal year;
+	      Inflation. The term "inflation" shall mean the annual 12-month average of the consumer price index published by the United States department of labor.
 	
-	         4.   for each tax benefit pursuant to which a taxpayer is allowed to claim benefits in one year and carry them over for use in one or more later years, the number and kind of taxpayers carrying forward benefits pursuant to such tax benefit and the total amount of benefits carried forward, by taxable and/or fiscal year;
+	      LEED energy and atmosphere: optimize energy performance credit. The term "LEED energy and atmosphere: optimize energy performance credit" means the credit to achieve points under LEED for New Construction version 4 intended to achieve increased energy performance.
 	
-	         5.   for nineteen hundred ninety and each year thereafter for which the information required by paragraphs three and four are not available, the reasons therefor, the steps being taken to provide such information as soon as possible, and the first year for which such information will be    available;
+	      LEED green building rating system. The term "LEED green building rating system" means a version of the Leadership in Energy and Environmental Design (LEED) building rating system published by the U.S. Green Building Council, not less stringent than the selected green building rating system, including a standard developed by or for the city consisting of practices and technologies derived from the LEED rating system that are reasonable and appropriate for building in New York city.
 	
-	         6.   such data and supporting documentation as are available and meaningful regarding the economic and social impact and other consequences of such tax benefit; and
+	      LEED water efficiency: indoor water use reduction credit. The term "LEED water efficiency: indoor water use reduction credit" means the credit to achieve points under the LEED for New Construction version 4 intended to achieve water use reduction.
 	
-	         7.   a listing and summary of all evaluations and audits of such tax benefit issued during the previous two years.
+	      Not less stringent. The term "not less stringent" means providing no less net environmental and health benefits.
+	
+	      Occupancy group. The term "occupancy group" means occupancy group as classified in accordance with the New York city construction codes.
+	
+	      Rehabilitation work. The term "rehabilitation work" means any restoration, replacement or repair of any materials, systems and/or components.
+	
+	      Selected green building rating system. The term "selected green building rating system" means the U.S. Green Building Council; provided, however, at the mayor's discretion, the term "selected green building rating system" shall mean] Building Design and Construction version 4, Building Operations and Maintenance version 4 or Interior Design and Construction version 4 of the building rating system published by the U.S. Green Building Council, whichever is most appropriate for the project under U.S. Green Building Council guidelines.
+	
+	      Substantial reconstruction. For buildings other than buildings classified in occupancy group R, the term "substantial reconstruction" means a capital project in which (i) the scope of work includes rehabilitation work in at least two of the following three major systems of the building: electrical, HVAC (heating, ventilating and air conditioning) and plumbing, and (ii) construction work affects at least 50 percent of the building's floor area. For buildings classified in occupancy group R, the term "substantial reconstruction" means a capital project that includes (i) heating system replacement, (ii) work on at least 75 percent of dwelling units contained within such building, including but not limited to fixture replacements in kitchens and bathrooms, and (iii) substantial work on the building envelope, including but not limited to the addition of building wide air sealing measures performed in conjunction with window replacements on at least 50 percent of total glazing, addition of roof insulation on 100 percent of the roof or the addition of at least 50 percent wall insulation.
+	
+	   b.   (1)   Except as provided in paragraphs (3) of this subdivision, each capital project with an estimated construction cost of $2,000,000 or more involving (i) the construction of a new building, (ii) an addition to an existing building, or (iii) the substantial reconstruction of an existing building shall be designed and constructed to comply with green building standards not less stringent than the standards prescribed for buildings designed in accordance with the LEED green building rating system to achieve a LEED gold or higher rating, or, with respect to buildings classified in groups F or H, to achieve a LEED certified or higher rating, or with respect to buildings classified in occupancy group R, to comply with the version of the New York city overlay of the Enterprise green communities criteria in effect as of the effective date of the local law adding paragraph (3) of this subdivision, or the version of such criteria designated by the department of housing preservation and development by rule; provided that capital projects with an estimated construction cost of less than $10,000,000 and that involve only an addition to or substantial reconstruction of an existing building classified in occupancy groups F or H are exempted from complying with this subdivision; and further provided that capital projects with an estimated construction cost of $10,000,000 or more involving an addition to or substantial reconstruction of an existing building classified in occupancy groups F or H may be designed and constructed as low energy intensity buildings, as defined in subdivision l of this section, in lieu of complying with this subdivision. If the mayor elects to utilize green building standards other than the LEED green building rating system, the mayor shall publish findings demonstrating that such other green building standards are not less stringent than the LEED standards described above for achievement of a LEED gold or, if applicable, a LEED certified rating. The green building standards utilized by the city in accordance with this section shall be reviewed and updated, as necessary, by the mayor no less often that once every three years.
+	
+	      (2)   In addition, if the estimated construction cost of a capital project required to comply with green building standards in accordance with paragraph (1) of this subdivision is $12,000,000 or more, such project shall be designed and constructed to reduce energy cost as follows; provided that this paragraph shall not apply to capital projects involving city-owned buildings or buildings classified in occupancy groups E or R:
+	
+	         (i)   Capital projects with an estimated construction cost of $12,000,000 or more but less than $30,000,000 shall be designed and constructed to reduce energy cost by a minimum of 20 percent , as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent. In addition to such 20 percent reduction in energy cost, the design agency shall make investments in energy efficiency that reduce energy cost by an additional five percent if it finds that the payback on such investment through savings in energy cost would not exceed seven years.
+	
+	         (ii)   Capital projects with an estimated construction cost of $30,000,000 or more shall be designed and constructed to reduce energy cost by a minimum of 25 percent, as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent. In addition to such 25 percent reduction in energy cost, the design agency shall make investments in energy efficiency that reduce energy cost by an additional five percent if it finds that the payback on such investment through savings in energy cost would not exceed seven years.
+	
+	      (3)   For capital projects required to comply with paragraph (1) of this subdivision which are buildings classified in occupancy groups E, I-2 or in any occupancy group that, before the enactment of the local law adding this paragraph, was not required to comply with paragraph (1) of this subdivision, the mayor or an office or agency designated by the mayor may, in conjunction with the New York city economic development corporation, the New York city school construction authority and any other relevant offices or agencies, establish alternative design and construction standards. Such alternative standards may be as stringent or more stringent than the standards described by paragraph (1) of this subdivision. For buildings that are not classified in occupancy group E, such alternative standards may be less stringent than the standards described by paragraph (1) of this subdivision if the mayor or such designated office or agency determines that compliance with the standards described by such paragraph would be impracticable or unduly burdensome for a particular occupancy group; provided that such alternative standards may be less stringent than the standards described by such paragraph only to the minimum extent necessary and, except in the case of alternative standards prescribed for buildings classified in occupancy group R, shall be not less stringent than standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system. For buildings that are classified in occupancy group E, such alternative standards may be the New York city green schools guide in effect as of the effective date of the local law adding this paragraph, or the version of such guide designated by rule by the mayor or such designated office or agency; provided that such alternative standards are not less stringent than standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system. If the mayor or such designated office or agency establishes alternative standards under this paragraph, the mayor or such designated office or agency shall:
+	
+	         (i)   Within 60 days after adopting such alternative standards, submit to the council and make publicly available online a report that, at a minimum:
+	
+	            (A)   Describes such standards and the occupancy groups to which they will apply;
+	
+	            (B)   Identifies any provisions in such standards that are less stringent than the standards described in paragraph (1) of this subdivision and, for each such provision, sets forth the reasons why compliance with the standards described in such paragraph would be impracticable or unduly burdensome for buildings classified in such occupancy groups;
+	
+	            (C)   Except in the case of alternative standards prescribed for buildings classified in occupancy group R, describes how such alternative standards are not less stringent than the standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system; and
+	
+	         (ii)   If such alternative standards are less stringent than the standards described in paragraph (1) of this subdivision, in every third fiscal year thereafter, submit to the council and make publicly available online a report that, at a minimum, states whether the mayor or such designated office or agency has determined that such less stringent standards continue to be necessary and, if so, a description of the reasons therefor and whether such standards can reasonably be made more stringent.
+	
+	   c.   Capital projects, other than those required to comply with green building standards in accordance with subdivision b of this section, shall be subject to the following:
+	
+	      (1)   Each capital project that includes the installation or replacement of a boiler at an estimated construction cost for such installation or replacement of $2,000,000 or more, or that involves the installation or replacement of lighting systems in a building at an estimated construction cost for such installation or replacement of $1,000,000 or more, shall be designed and constructed to reduce energy cost by a minimum of ten percent, as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent; provided that compliance with this paragraph shall not be required for capital projects that would be subject to this paragraph solely because such project involves replacement of a boiler, unless the cost of such project equals or exceeds 50 percent of the cost of replacing the heating distribution system of such building.
+	
+	      (2)   Each capital project, other than a project required to comply with paragraph (1) of this subdivision, that involves the installation or replacement of HVAC systems at an estimated construction cost for such installation or replacement of $2,000,000 or more, shall be designed and constructed to reduce energy cost by a minimum of five percent as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent.
+	
+	   d.   In addition to complying with any other applicable subdivision in this section, each capital project involving the installation or replacement of plumbing systems that includes the installation or replacement of plumbing fixtures at an estimated construction cost for such installation or replacement of plumbing systems of $500,000 or more shall be designed and constructed to reduce potable water consumption in the aggregate by a minimum of 30 percent, as determined by a methodology not less stringent than that prescribed in LEED water efficiency: indoor water use reduction credit; provided, however, that such percentage shall be reduced to a minimum of 20 percent if the department of buildings rejects an application for the use of waterless urinals for the project.
+	
+	   e.   This section shall not apply to capital projects that only involve buildings classified in occupancy groups A-5 or U.
+	
+	   f.   The mayor may exempt from each provision of this section capital projects accounting for up to 20 percent of the capital dollars in each fiscal year subject to such provision if in such mayor's sole judgment such exemption is necessary in the public interest. At the conclusion of each fiscal year the mayor shall report to the council the exemptions granted pursuant to this section.
+	
+	   g.   This section shall not apply to capital projects of entities that are not city agencies unless 50 percent or more of the estimated cost of such project is to be paid for out of the city treasury. This exemption shall not apply to any capital project that receives $10,000,000 or more out of the city treasury.
+	
+	   h.   This section shall not apply to capital projects that have received capital dollars from the city treasury before January 1, 2007.
+	
+	   i.   The mayor shall promulgate rules to carry out the provisions of this section.
+	
+	   j.   The costs listed in subdivisions b, c, d and g of this section are denominated in January 2007 dollars and shall be indexed to inflation annually.
+	
+	   k.   Capital projects that are subject to paragraph (1) of subdivision b of this section that utilize a version of the LEED green building rating system for which the U.S. Green Building Council will accept applications for certification, shall apply to the U.S. Green Building Council for certification that such projects have achieved a gold or higher rating under the LEED green building rating system. The mayor or an office or agency designated by the mayor shall by rule establish an alternative certification process for capital projects that are complying with alternative standards promulgated by the mayor or such designated office or agency under paragraph (3) of subdivision b of this section.
+	
+	   l.   (1)   As used in this subdivision:
+	
+	         ASHRAE 90.1-2013. The term "ASHRAE 90.1-2013" means the 2013 edition of the energy standard for buildings except low-rise residential buildings, standard reference number 90.1-2013, published by the American society of heating, refrigerating and air conditioning engineers (ASHRAE).
+	
+	         Base building systems. The term "base building systems" has the same meaning as set forth in section 28-308.1 of the administrative code.
+	
+	         Design energy use intensity. The term "design energy use intensity" means, for a building, the source energy use intensity projected for such building based on its design at the time of filing with the department of buildings.
+	
+	         Energy use intensity baseline. The term "energy use intensity baseline" means, for a building either (i) the median source energy use intensity for buildings designed and constructed for similar uses according to benchmarking data obtained under article 309 of title 28 of the administrative code within the year preceding the effective date of the local law that added this paragraph or (ii) the design energy use intensity of such building if designed and constructed according to the prescriptive and mandatory requirements of ASHRAE 90.1-2013.
+	
+	         Low energy intensity building. The term "low energy intensity building" means (i) a building that is not classified in occupancy groups F or H and that has been designed and constructed such that its design energy use intensity is equal to or less than (A) the low energy intensity target for such building or (B) if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target or (ii) a building that is classified in occupancy groups F or H and that has been designed and constructed such that (A) the energy usage of its base building systems, exclusive of process loads, is equal to or less than the low energy intensity target for such building or, if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target for such building or (B) its design energy use intensity is at least 50 percent below the median source energy use intensity for buildings designed and constructed for similar uses according to benchmarking data obtained under article 309 of title 28 of the administrative code within the year preceding the effective date of the local law that added this paragraph.
+	
+	         Low energy intensity target. The term "low energy intensity target" means, (i) for a building that is not classified in occupancy groups F or H, the less stringent of (A) 50 percent below the energy use intensity baseline or (B) for new buildings, a source energy use intensity of 38 kBTU/yr per square foot of floor area and for additions to, or substantial reconstructions of, existing buildings, a source energy use intensity of 42 kBTU/yr per square foot of floor area and (ii) for a building classified in occupancy groups F or H, energy usage of the base building systems, exclusive of process loads, which is at least 50 percent less than such energy usage would be if such building were designed and constructed according to ASHRAE 90.1-2013.
+	
+	         Net zero energy building. The term "net zero energy building" means a building that has been designed and constructed to produce energy onsite from renewable energy sources in an amount equal to or greater than such building's total energy needs.
+	
+	         Onsite energy generating building. The term "onsite energy generating building" means a building that has been designed and constructed to produce energy onsite from renewable energy sources in an amount equal to or greater than ten percent of such building's total energy needs.
+	
+	         Renewable energy sources. The term "renewable energy sources" means qualified energy resources, as such term is defined in section 45 of title 26 of the United States code. Source energy use intensity. The term "source energy use intensity" means, for a building, the total energy used by such building in a year, including losses that take place during generation, transmission and distribution of such energy, divided by the building's gross floor area.
+	
+	      (2)   (i)   Each capital project that involves the construction of a new city-owned building and each capital project that involves an addition to an existing city-owned building or the substantial reconstruction of an existing city-owned building, where such substantial reconstruction involves substantial work on the building envelope, shall be designed and constructed as a low energy intensity building.
+	
+	         (ii)   For each capital project subject to subparagraph (i) of this paragraph the design agency shall consider the feasibility of designing and constructing such project as an onsite energy generating building.
+	
+	         (iii)   For each capital project subject to subparagraph (i) of this paragraph with an estimated height of no more than three stories above grade, the design agency shall consider the feasibility of designing and constructing such project as a net zero energy building.
+	
+	         (iv)    For each capital project subject to subparagraph (i) of this paragraph the design agency shall consider the feasibility of designing and constructing such project to incorporate green infrastructure.
+	
+	         (v)   This paragraph shall apply only to capital projects which are added to the capital plan on or after July 1, 2017.
+	
+	      (3)   The mayor, or an office or agency designated by the mayor, may establish an alternative low energy intensity target for buildings designed and constructed for a particular use, or for additions to, or substantial reconstructions of, existing buildings. Such alternative target may be equivalent to or more stringent than the low energy intensity target or, if the mayor or such designated office or agency determines that compliance with subparagraph (i) of paragraph (2) of this subdivision would be impracticable or unduly burdensome for such buildings or such work using the low energy intensity target, less stringent than such target. Where the mayor or such designated office or agency adopts such an alternative target, the mayor or such designated office or agency shall, no later than 60 days after such adoption, submit to the council and make publicly available online a report describing such alternative target and the types of buildings or work to which it will apply. If such alternative target is less stringent than the corresponding low energy intensity target, such report shall set forth the reasons that compliance with subparagraph (i) of paragraph (2) of this subdivision using such low energy intensity target would be impracticable or unduly burdensome for such types of buildings or work and, in each fiscal year thereafter, the mayor or such designated office or agency shall submit to the council and make publicly available online a report stating whether the mayor or such designated office or agency has determined that such alternative targets continue to be necessary and, if so, a description of the reasons therefor and whether such targets can reasonably be made more stringent.
+	
+	      (4)   No later than January 1, 2017, the mayor shall submit to the speaker of the council and make publicly available online a plan for ensuring that by 2030 capital projects subject to paragraph (2) of this subdivision will be designed and constructed so that new buildings have a source energy use intensity no greater than 38 kBTU/yr per square foot of floor area and that additions to, or substantial reconstructions of, existing buildings have a source energy use intensity of no greater than 42 kBTU/yr per square foot of floor area. Such plan shall include a list of policies, programs and actions that the city will seek to undertake to achieve such targets.
+	
+	      (5)   In 2019 and every third year thereafter, the mayor shall, by June 30 of such year, submit to the speaker of the council and make publicly available online a report containing, at a minimum, recommended practices for designing and constructing low energy intensity buildings.
+	
+	   m.   By no later than December 1 of each year, the mayor shall submit to the speaker of the council a report, in accordance with the procedure and format established by the department of design and construction, containing, at a minimum, the following information:
+	
+	      (1)   for each capital project subject to this section completed during the preceding fiscal year:
+	
+	         (i)   a brief description of such project, including the total cost of the project;
+	
+	         (ii)   the street address of such project and the community district and council district in which such project is located;
+	
+	         (iii)   the estimated level of LEED certification such project has achieved as determined by the city agency that designed such project in accordance with the LEED green building rating system or, if applicable, the level achieved, as certified by the U.S. Green Building Council;
+	
+	         (iv)   additional costs attributed to complying with the LEED green building rating system or any other green building standard;
+	
+	         (v)   a statement as to whether such project has been designed and constructed as a low energy intensity building, onsite energy generating building or a net zero energy building and, for each project designed and constructed as a low energy intensity building, the low energy intensity target for such building or if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target;
+	
+	         (vi)   if such capital project was not designed and constructed as an onsite energy generating building, a description of the reasons therefor, a statement as to whether such building has been designed and constructed to produce any energy onsite from renewable energy sources and, if so, the amount of such onsite energy production expressed as a percentage of the building's total energy needs;
+	
+	         (vii)   additional costs attributable to complying with the low energy intensity building requirements, the onsite energy generating requirements and the net zero energy building requirements of paragraph (2) of subdivision 1 of this section; and
+	
+	         (viii)   an assessment of the health, environmental and energy-related benefits achieved in comparison with a base-case code compliant project, including projected energy savings and reductions in peak load, reductions in emissions and potable water use;
+	
+	      (2)   for each capital project subject to paragraph (2) of subdivision l that was commissioned before the preceding fiscal year and that is not a low energy intensity building, a summary of remedial actions taken and to be taken and the anticipated or actual start and completion dates of such actions;
+	
+	      (3)   a summary of agency findings related to additional investment in energy efficiency pursuant to subparagraphs (i) and (ii) of paragraph 2 of subdivision b of this section, including any additional investment in energy efficiency considered and the estimated payback time for such investment through savings in energy cost; and
+	
+	      (4)   the total value of capital allocations in the preceding calendar year to projects exempted from the requirements of this section by the mayor pursuant to subdivision f of this section, and a list and brief description of each such project, including but not limited to square footage, project cost and the reason for such exemption, disaggregated by city agency.
+	
+	
 
 
 
 
-Section 241.
+Section 224.
 ----------
 
-Section 241. Borough board preliminary budget hearings. ::
+Section 224. 2. Required energy conservation projects in city buildings. ::
 
 
-	   Not later than the twenty-fifth day of February each borough board shall submit a comprehensive statement on the budget priorities of the borough to the mayor, council, and director of management and budget. Each borough board, in the preparation of this statement, shall, upon adequate public notice, hold one or more public hearings on the preliminary budget, to obtain the views and recommendations of the community boards within the borough, residents of the borough and others with substantial interests in the borough, on the proposals contained in the preliminary budget and on the capital and service needs of the borough. Officers of agencies, when requested by the borough board, shall appear and be heard.
+	   a.   Definitions. For the purposes of this section, the terms "base building systems", "city building", "energy audit", "energy efficiency report", and "simple payback" shall have the same meanings as defined in section 28-308.1 of the administrative code.
+	
+	   b.   No later than one year after the submission, in accordance with article three hundred eight of chapter three of title twenty-eight of the administrative code, of an energy efficiency report for a city building, reasonable capital improvements to the building's base building systems that are recommended in the building's energy audit shall be completed, including, at a minimum, all those improvements of the base building systems having a simple payback of not more than seven years or capital improvements that, when combined, would equal or exceed the overall reduction in energy consumption of such recommended capital improvements having a simple payback of not more than seven years.
+	
+	   c.   The mayor shall promulgate rules as may be necessary to carry out the provisions of this section.
 
 
 
 
-Section 242.
+Section 224.
 ----------
 
-Section 242. Statement of debt service by the comptroller. ::
+Section 224. 3. Induction loop systems. ::
 
 
-	   Not later than the first day of March, the comptroller shall submit to the mayor and to the council a certified statement which shall be published forthwith in the City Record and which shall contain a schedule of the appropriations required during the ensuing fiscal year for debt service, including appropriations to the several sinking funds as required by law, and such other information as may be required by law.
-
-
-
-
-Section 243.
-----------
-
-Section 243. The operating budget of the council. ::
-
-
-	   Not later than the tenth day of March, the council shall approve and submit to the mayor detailed itemized estimates of the financial needs of the council for the ensuing fiscal year. Such estimates shall be comprised of at least one personal service unit of appropriation and at least one other than personal service unit of appropriation for each standing committee of the council and for each organizational unit established pursuant to section forty-five of this charter. The mayor shall include such estimates in the executive budget without revision, but with such recommendations as the mayor may deem proper.
-
-
-
-
-Section 244.
-----------
-
-Section 244. Preparation of the executive budget. ::
-
-
-	   In preparing the executive budget to be submitted in accordance with section two hundred forty-nine, the mayor shall consult with the borough presidents.
-
-
-
-
-Section 245.
-----------
-
-Section 245. Borough president recommendations to the mayor. ::
-
-
-	   a.   Not later than the tenth day of March, each borough president shall submit to the mayor and council, in such form and containing such information as the mayor shall prescribe, any proposed modifications of the preliminary budget which the borough president recommends in accordance with the provisions of subdivision b of this section.
+	   a.   As used in this section, the following terms have the following meanings:
 	
-	   b.   Each borough president shall propose such modifications to the preliminary budget as the borough president deems to be in the best interest of the borough, taking into consideration community and borough board priorities and testimony received at public hearings held pursuant to section two hundred forty-one. The net effects of any such modifications recommended by the borough president may not result in an increase in the total amount of appropriations proposed in the preliminary budget. If increases in appropriations within the borough are recommended, offsetting reductions in other appropriations within the borough must also be recommended. Each proposed increase or reduction must be stated separately and distinctly and refer each to a single object or purpose.
-
-
-
-
-Section 246.
-----------
-
-Section 246. Report of independent budget office on preliminary budget. ::
-
-
-	   On or before the fifteenth day of March, the director of the independent budget office shall publish a report analyzing the preliminary budget for the ensuing fiscal year.
-
-
-
-
-Section 247.
-----------
-
-Section 247. Council preliminary budget hearings and recommendations. ::
-
-
-	   a.   Not later than the twenty-fifth day of March, the council, through its committees, shall hold hearings on the program objectives and fiscal implications of the preliminary budget, the statements of budget priorities of the community boards and borough boards, the draft ten-year capital strategy and the report of the city planning commission on such strategy, the borough presidents recommendations submitted pursuant to section two hundred forty-five to the extent that such recommendations are available at the time of these hearings, and the status of capital projects and expense appropriations previously authorized. The public and representatives of community boards and borough boards may attend and be heard in regard to all such matters. Representatives of the director of management and budget and the director of city planning may attend the hearings and ask questions. Officials of agencies, when requested by the committees of the council, shall appear and be heard.
+	      Assembly area. The term “assembly area” means an assembly area, as defined in section 106.5 of the 2010 Americans with Disabilities Act standards for accessible design, in which audible communication is integral to the use of the space, except that such term shall not include classrooms in schools; facilities primarily used to deploy first responders, courthouses and outdoor facilities such as athletic fields and stadiums.
 	
-	   b.   Findings and recommendations of the council, or its committees, including recommendations for any changes in the unit of appropriation structure which the council deems appropriate, shall be submitted to the mayor and published not later than the twenty-fifth day of March. The net effect of the changes recommended by the council in the preliminary capital budget shall not result in a capital budget which exceeds the maximum amount set forth in the preliminary certificate issued pursuant to section two hundred thirty-five of this charter.
-
-
-
-
-Section 248.
-----------
-
-Section 248. Ten-year capital strategy. ::
-
-
-	   Not later than the twenty-sixth day of April in each odd-numbered year, the mayor shall issue and publish a ten-year capital strategy, prepared in accordance with the provisions of section two hundred fifteen of this chapter.
-
-
-
-
-Section 249.
-----------
-
-Section 249. Submission of the executive budget. ::
-
-
-	   a.   Not later than the twenty-sixth day of April, the mayor shall submit to the council (1) a proposed executive budget for the ensuing fiscal year, and (2) a budget message, both of which, along with any accompanying reports and schedules, shall be printed forthwith. Copies of such proposed executive budget, budget message and any accompanying reports and schedules shall also be provided to the council not later than the twenty-sixth day of April in both a human-readable format or spreadsheet and in a non-proprietary format or spreadsheet that permits automated processing and renders such data capable of being downloaded in bulk or any other format mutually agreed upon between the mayor and the council.
+	      Baseline construction cost. The term "baseline construction cost" means the total cost of a proposed capital project not including the cost of installing an assistive listening system.
 	
-	   b.   As soon after the submission of the executive budget as is practicable, the mayor shall submit to the council copies of all proposed local laws and all proposed home rule requests necessary to implement the recommendations made in the executive budget.
+	      Capital project. The term "capital project" means a capital project as defined in section 210 of this chapter that is paid for in whole or in part from the city treasury.
 	
-	   c.   Adjustment of expense budget borough allocation. If the executive expense budget submitted by the mayor in accordance with this section includes an expense budget borough allocation which is greater or less than the expense budget borough allocation certified by the mayor to the borough presidents in accordance with subdivision d of section one hundred two, the mayor shall, concomitantly with the submission of the executive expense budget, notify each borough president of the difference between such amounts and of the portion of such difference allocable to each borough pursuant to the provisions of section one hundred two. Within seven days of receiving such notification, each borough president shall submit to the mayor and the council, in such form as the mayor shall prescribe, proposed additional appropriations or proposed reductions in appropriations equaling such portion of such difference.
+	   b.   Each capital project with an estimated baseline construction cost of $950,000 or more involving the construction or reconstruction of one or more assembly areas shall be designed and constructed to include in at least one assembly area the installation of an induction loop assistive listening system that complies with section N102 of appendix N of the New York city building code, or an alternative assistive listening system that complies with appendix N of the New York city building code that has been determined by the mayor in accordance with subdivision i of this section to be significantly more effective for the hard of hearing than an induction loop system. Each security, information, or reception desk used for the checking-in or screening of persons attending a meeting or event held in a looped assembly area shall be equipped with microloops. This section shall not apply to a capital project involving the reconstruction of an assembly area if the estimated cost of installing an induction loop system or alternative system exceeds 5% of the baseline construction cost of the project.
 	
-	   d.   Adjustments of capital budget borough allocations. If the executive capital budget submitted by the mayor in accordance with this section includes a capital budget borough allocation which is greater or less than the capital budget borough allocation certified by the mayor to the borough presidents in accordance with subdivision c of section two hundred eleven the mayor shall, concomitantly with the submission of such executive capital budget, notify each borough president of the difference between such amounts and of the portion of such difference allocable to each borough pursuant to the provisions of subdivision a of section two hundred eleven. Within seven days of receiving such notification, each borough president shall submit to the mayor and the council, in such form as the mayor shall prescribe, proposed additional appropriations or proposed reductions in appropriations equaling such portion of such difference.
+	   c.   Directional signage that includes guidance to an assistive listening assembly area, including raised graphics and letters with Braille descriptors, must be provided in accordance with section 1110.2 of the New York city building code, and other signage indicating any special accessibility features must be provided in accordance with section 1110.3 of such code.
+	
+	   d.   The entrance to any building containing an assistive listening assembly area and any security, information, or reception area used for the checking-in or screening of persons attending a meeting or event held in such assembly area shall display the international symbol of access for hearing loss pursuant to figure 703.6.3.3 of ICC A117.1-2009 and a “T” in the lower right-hand corner of such symbol indicating the availability of an induction loop system or a symbol indicating an alternative system if applicable.
+	
+	   e.   No later than July 1, 2018, the mayor or an office or agency designated by the mayor shall post on its website the locations of facilities owned or operated by the city at which an assistive listening system such as an induction loop, infrared, FM, or other type of system, is permanently available or in the process of being installed, as well as which type of assistive listening system is permanently available or in the process of being installed, including the cost associated with installation of new assistive listening systems. The list shall be updated annually thereafter.
+	
+	   f.   This section shall not apply to capital projects involving the construction or reconstruction of assembly areas that are not owned by the city unless 50 percent or more of the estimated cost of such project is to be paid for out of the city treasury, provided that this exemption shall not apply to any capital project that receives $1,000,000 or more out of the city treasury.
+	
+	   g.   The mayor may exempt from this section projects accounting for up to 20% of the capital dollars in each fiscal year subject to this section for the installation of assistive listening systems if in his or her sole judgment such exemption is necessary in the public interest. At the conclusion of each fiscal year the mayor shall report to the council the exemptions granted pursuant to this section, including the basis for such exemption.
+	
+	   h.   The mayor or an office or agency designated by the mayor shall promulgate rules to carry out the provisions of this section.
+	
+	   i.   Where the mayor determines, after consulting with experts in the field of hearing disabilities and assistive listening systems and advocates for people who are hard of hearing, that there is new technology with respect to an assistive listening system that makes such system significantly more effective than an induction loop system, the mayor may promulgate a rule allowing the use of such system as an alternative to an induction loop system in accordance with subdivision b.
 	
 	
-
-
-
-
-Section 250.
-----------
-
-Section 250. The budget message. ::
-
-
-	   The budget message, which shall not be deemed a part of the budget, shall include:
 	
-	      1.   An explanation, in summary terms, of the major programs, projects, emphases and objectives of the budget, the general fiscal and economic condition of the city, the tax and fiscal base of the city, and intergovernmental fiscal relations.
-	
-	      2.   Itemized information and supporting schedules of positions, salaries and other than personal service expenses, anticipated for the ensuing fiscal year.
-	
-	      3.   Recommendations for any changes in the revenue sources and fiscal operations of the city, including intergovernmental revenue and fiscal arrange- ments.
-	
-	      4.   An itemized statement of the actual revenues and receipts and accruals of the general fund and of all other revenue sources, including state and federal aid and revenues for specified purposes, for each of the four preceding fiscal years, and for the first eight months of the current fiscal year, and the estimated amount of such items for the balance of the current fiscal year, and for the ensuing fiscal year. In preparing such information the mayor shall consult with the comptroller.
-	
-	      5.   A listing of the sources and amounts of all revenues and other monies of a nonrecurring nature that are being proposed to be utilized during the ensuing fiscal year and that are not expected to be available or used in subsequent fiscal years.
-	
-	      6.   An update of the four-year financial plan, as set forth in section two hundred fifty-eight of this chapter, containing, (a) for each agency, for all existing programs, forecasts of expenditures for the ensuing fiscal year and the succeeding three fiscal years at existing levels of service; (b) forecasts of revenue by source from existing sources of revenue for the ensuing fiscal year and the succeeding three fiscal years; and (c) for each new or expanded program, an indication of when such program is projected to be fully implemented and a forecast of the annual recurring costs for such program or program expansion after it is fully implemented.
-	
-	      7.   For each agency, a comparison of the proposed appropriations for the ensuing fiscal year with (i) the amounts appropriated in the current expense budget as originally adopted and as modified through the first eight months of the current fiscal year, (ii) the amounts actually expended in the previous fiscal year and (iii) the amounts actually expended through the first eight months of the current fiscal year and the estimated expenditures for the balance of the current fiscal year.
-	
-	      8.   For each agency that has local service districts within community districts and boroughs, a statement of proposed direct expenditures in each service district for each unit of appropriation and a statement of the basis for the allocation of direct expenditures to local service districts of each such agency.
-	
-	      9.   An explanation of principal changes in performance goals and indicators from the date of submission of the preliminary management report to the submission of the proposed executive budget.
-	
-	      10.   An itemized statement, covering the city's entire capital plant, except for those portions of the capital plant which have been committed to the care and control of the board of education or officers or employees thereof, by agency and project type and, within project type, by personal services and other than personal services, of the amounts appropriated for maintenance of such capital plant in the previous and current fiscal years as originally adopted and as modified through the first eight months of the current fiscal year, and of the amounts actually expended for such maintenance in the previous fiscal year and through the first eight months of the current fiscal year and the amounts estimated to be expended for such purpose during the balance of the current fiscal year; and, for each agency, an explanation of the substantive differences, if any, between the amounts actually expended for such maintenance in the previous fiscal year or projected to be expended for such purpose in the current fiscal year and the amounts originally appropriated for such purpose for such years.
-	
-	      11.   A presentation of the maintenance activities proposed by the mayor to be completed during the ensuing fiscal year for all major portions of the capital plant, as such terms are defined in subdivision a of section eleven hundred ten-a, categorized by agency and project type; an explanation of the differences, if any, between such proposed activities and the activities scheduled to be undertaken during such fiscal year pursuant to subdivision c of such section; an explanation of the differences, if any, between the proposed appropriations for such activities and the estimates of the amounts submitted, pursuant to subdivision f of such section, as necessary to maintain such portions of the capital plant; and a presentation and explanation of the differences, if any, between the maintenance activities for all major portions of the capital plant proposed by the mayor, in the budget message for the previous fiscal year, to be completed during such fiscal year and the activities actually completed during such fiscal year.
-	
-	      12.   A statement of the extent to which the executive budget incorporates the revisions to the preliminary budget suggested by the borough presidents, in accordance with subdivision a of section two hundred forty-five and the reasons why any other suggested revisions were not incorporated in the executive budget.
-	
-	      13.   A statement of the modifications, if any, which the mayor recommends that the council make in the appropriations submitted by the borough presidents pursuant to sections one hundred two and two hundred eleven.
-	
-	      14.   A statement of any substantive changes in the methodology and assumptions used to determine the revenue estimates presented pursuant to subdivisions four, five and six of this section from the methodology and assumptions presented in the preliminary budget.
-	
-	      15.   A statement of the implications for the orderly development of the city, its community districts and boroughs of the capital projects included in or contemplated by the capital budget and program.
-	
-	      16.   A certificate setting forth the maximum amount of debt and reserves which, in the mayor's opinion, the city may soundly incur for capital projects during the ensuing fiscal year and during each of the following three fiscal years, and the maximum amount of appropriations and expenditures for capital projects which the city, given such maximum amount of debt and reserves, may soundly make during each such fiscal year.
-
-
-
-
-Section 251.
-----------
-
-Section 251. Borough president recommendations on the executive budget. ::
-
-
-	   Not later than the sixth day of May, each borough president shall submit to the mayor and the council a response to the mayor's executive budget. Such response shall indicate which of the recommended appropriations submitted by the borough president pursuant to section two hundred forty-five, which were not included by the mayor in the executive budget, should be considered by the council for inclusion in the budget. Any appropriations recommended in this manner for inclusion in the budget shall be accompanied by recommendations for offsetting reductions in other appropriations within the borough. Any such increases or reductions must be stated separately and distinctly and refer each to a single object or purpose.
-
-
-
-
-Section 252.
-----------
-
-Section 252. Report of independent budget office on executive budget. ::
-
-
-	   On or before the fifteenth day of May, the director of the independent budget office shall publish a report analyzing the executive budget for the ensuing fiscal year.
-
-
-
-
-Section 253.
-----------
-
-Section 253. Executive budget hearings. ::
-
-
-	   Between the sixth day of May and the twenty-fifth day of May, the council shall hold public hearings on the budget as presented by the mayor. The council may hold such hearings either as a body or by its finance committee or other committees. Officers of agencies and representatives of community boards and borough boards shall have the right, and it shall be their duty when requested by the council, to appear and be heard in regard to the executive budget and to the capital and service needs of the communities, boroughs and the city.
-
-
-
-
-Section 254.
-----------
-
-Section 254. Amendment and adoption of the executive budget. ::
-
-
-	   a.   The council may not alter the budget as submitted by the mayor pursuant to section two hundred forty-nine except to increase, decrease, add or omit any unit of appropriation for personal service or other than personal service or any appropriation for any capital project or add, omit or change any terms or conditions related to any or all such appropriations; provided, however, that each increase or addition must be stated separately and distinctly from any items of the budget and refer each to a single object or purpose; and, provided, further, that the aggregate amount appropriated for capital projects shall not exceed the maximum amount of appropriations contained in the mayor's certificate issued pursuant to subdivision sixteen of section two hundred fifty.
-	
-	   b.   The council shall consider, and act upon, all recommendations made by the borough presidents pursuant to section two hundred fifty-one of this chapter and all recommendations made by the mayor pursuant to paragraph thirteen of section two hundred fifty of this chapter.
-	
-	   c.   The budget when adopted by the council shall become effective immediately without further action by the mayor, except that appropriations for the council or appropriations added to the mayor's executive budget by the council or any changes in terms and conditions, shall be subject to the veto of the mayor.
-	
-	   d.   If an expense budget has not been adopted by the fifth day of June pursuant to subdivisions a and b of this section, the expense budget and tax rate adopted as modified for the current fiscal year shall be deemed to have been extended for the new fiscal year until such time as a new expense budget has been adopted.
-	
-	   e.   If a capital budget and a capital program have not been adopted by the fifth day of June pursuant to subdivisions a and b of this section, the unutilized portion of all prior capital appropriations shall be deemed reappropriated.
-
-
-
-
-Section 255.
-----------
-
-Section 255. Veto of the mayor. ::
-
-
-	   a.   The mayor, not later than the fifth day after the council has acted upon the budget or capital program submitted with the executive budget, may disapprove any increase or addition to the budget, any unit of appropriation, or any change in any term or condition of the budget. The mayor, by such date, may also disapprove any item or term or condition included in such budget pursuant to the provisions of section two hundred forty-three of this chapter. The mayor shall return the budget by that date to the council, setting forth objections in writing.
-	
-	   b.   The council, by a two-thirds vote of all the council members, may override any disapproval by the mayor pursuant to subdivision a of this section; provided, however, that if no such action by the council is taken within ten days of such disapproval, the expense budget to which such disapprovals relate shall be deemed adopted as modified by the disapprovals by the mayor.
-
-
-
-
-Section 256.
-----------
-
-Section 256. Appropriation, certification and publication. ::
-
-
-	   Not later than the day after the budget is finally adopted, the budget as finally adopted in such year shall be certified by the mayor, the comptroller and the city clerk as the budget for the ensuing fiscal year, and the several amounts therein specified as appropriations or units of appropriation shall be and become appropriated to the several purposes therein named, whether payable from the tax levy or otherwise and subject to the terms and conditions of the budget. The budget shall thereupon be filed in the offices of the comptroller and the city clerk, and shall be published forthwith. When finally adopted in accordance with sections two hundred fifty-four and two hundred fifty-five, such budget as adopted and as modified during the fiscal year in accordance with sections one hundred seven and two hundred sixteen shall have the force of law.
-
-
-
-
-Section 257.
-----------
-
-Section 257. Comparison of adopted budget and ten-year capital strategy. ::
-
-
-	   Not later than thirty days after the budget is finally adopted, the mayor shall prepare a statement of how the capital budget and program as finally adopted vary, if at all, from the ten-year capital strategy, submitted pursuant to section two hundred forty-eight. Such statement shall be published as an appendix to the ten year capital strategy.
-
-
-
-
-Section 258.
-----------
-
-Section 258. Standards for budget and financial plan. ::
-
-
-	   a.   The operations of the city shall be such that, at the end of the fiscal year, the results thereof shall not show a deficit when reported in accordance with generally accepted accounting principles. The mayor shall take all actions necessary in accordance with the provisions of the charter, including but not limited to section one hundred six, or other applicable law to ensure that the city is in compliance with this subdivision.
-	
-	   b.   Pursuant to the procedures contained in subdivision c of this section, each year the mayor shall develop, and from time to time modify, a four year financial plan. Each such financial plan and financial plan modification shall comply with the requirements of subdivision d of this section and shall conform to the following standards:
-	
-	      (1)   For each fiscal year, the city's budget covering all expenditures other than capital items shall be prepared and balanced so that the results thereof would not show a deficit when reported in accordance with generally accepted accounting principles and would permit comparison of the budget with the report of actual financial results prepared in accordance with generally accepted accounting principles.
-	
-	      (2)   The city shall issue no obligations which shall be inconsistent with the financial plan prepared in accordance with this section.
-	
-	      (3)   Provision shall be made for the payment in full of the debt service on all bonds and notes of the city and for the adequate funding of programs of the city which are mandated by state or federal law and for which obligations are going to be incurred during the fiscal year.
-	
-	      (4)   All projections of revenues and expenditures contained in the financial plan shall be based on reasonable and appropriate assumptions and methods of estimation. All cash flow projections shall be based upon reasonable and appropriate assumptions as to sources and uses of cash (including but not limited to the timing thereof), and shall provide for operations of the city to be conducted within the cash resources so projected.
-	
-	      (5)   A general reserve shall be provided for each fiscal year to cover potential reductions in projected revenues or increases in projected expenditures during each such fiscal year. The amount provided for such general reserve shall be estimated in accordance with paragraph four of this subdivision, but in no event shall it be less than one hundred million dollars at the beginning of any fiscal year.
-	
-	      (6)   In the event that the results of the city's operations during the preceding fiscal year have not comported with subdivision a of this section, the first fiscal year included in any financial plan shall make provision for the repayment of any deficit incurred by the city during the preceding fiscal year.
-	
-	   c.   The financial plan shall be developed and may from time to time be modified, in accordance with the following procedures:
-	
-	      (1)   The mayor shall, in conjuction with the preliminary budget prepared pursuant to section one hundred one, prepare a financial plan covering the four ensuing fiscal years (the first year of which is the year for which such preliminary budget is being prepared) as well as updating the current fiscal year.
-	
-	      (2)   After the preparation by the mayor of a financial plan in accordance with the preceding paragraph, the mayor shall reexamine, at least on a quarterly basis, the projections of revenues and expenditures and other estimates contained in the financial plan, and shall prepare modifications in accordance with the following procedures:
-	
-	         (a)   The budget message, issued pursuant to section two hundred fifty of this chapter, shall include an update of the financial plan covering the four ensuing fiscal years (the first year of which is the year for which such budget message is being prepared) as well as an update for the current fiscal year.
-	
-	         (b)   Not later than thirty days after the budget is finally adopted, the mayor shall issue an update of the financial plan covering the four ensuing fiscal years (the first year of which shall be the year for which such budget has been adopted) as well as an update for the fiscal year that is ending or has just ended. Such update shall reflect changes which were made in the budget in accordance with sections two hundred fifty-four and two hundred fifty-five; provided, however, that the budget adopted in accordance with such sections shall be consistent with the standards applicable to the financial plan set forth in this section.
-	
-	         (c)   During the second quarter of the fiscal year, the mayor shall issue an update of the financial plan covering the fiscal year in which such quarter occurs and the three ensuing fiscal years.
-	
-	         (d)   In addition, on such schedule as the mayor deems appropriate, the mayor may issue further updates of the financial plan during the fiscal year.
-	
-	   d.   The financial plan shall include projections of all revenues, expenditures and cash flows (including but not limited to projected capital expenditures and debt issuances) and a schedule of projected capital commitments of the city. In addition, each financial plan and financial plan modification shall include a statement of the significant assumptions and methods of estimation used in arriving at the projections contained therein.
-	
-	   e.   Notwithstanding any inconsistent provision of this charter, in the event of any change in generally accepted accounting principles, or change in the application of generally accepted accounting principles to the city, if the mayor determines that immediate compliance with such change will have a material effect on the city's budget over a time period insufficient to accommodate the effect without a substantial adverse impact on the delivery of essential services, the mayor may authorize and approve a method of phasing the requirements of such change into the budget over such reasonably expeditious time period as the mayor deems appropriate.
-	
-	   f.   The powers, duties, and obligations set forth in this section shall be subject to the powers, duties, and obligations placed upon any state or local officer or agency, including but not limited to the New York state financial control board, by or pursuant to the New York State Financial Emergency Act for the City of New York, while such act remains in effect.
+	Editor's note: L.L. 2017/051, 3/21/2017, eff. 1/1/2018, § 2 provides: "This local law takes effect on January 1, 2018, and applies to projects for which an application for construction document approval is filed with the department of buildings on and after such date, except that prior to such effective date the mayor or office or agency designated by the mayor shall take all actions necessary for the timely implementation of this local law, including the promulgation of rules."
 
 
 

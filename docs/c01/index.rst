@@ -1,4 +1,4 @@
-Chapter 1 - Mayor
+Chapter 1: Mayor
 =================
 Section 3.
 ----------
@@ -522,7 +522,7 @@ Section 15. Office of operations. ::
 	
 	      7.   No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information respecting students and families serviced by the New York city department of education. If any category requested contains between 1 and 5, or allows another category to be narrowed to between 1 and 5, the number shall be replaced with a symbol.
 	
-	(Am. L.L. 2015/065, 6/29/2015, eff. 7/29/2015; Am. L.L. 2015/067, 6/29/2015, eff. 7/29/2015; Am. L.L. 2016/126, 10/31/2016, eff. 4/29/2017; Am. L.L. 2016/127, 10/31/2016, eff. 4/29/2017; Am. L.L. 2016/128, 10/31/2016, eff. 4/29/2017; Am. L.L. 2017/030, 3/18/2017, eff. 7/1/2017; Am. L.L. 2018/076, 1/19/2018)
+	
 	
 	Editor's note: division g.4. of this Section 15 shall expire and be deemed repealed on 12/31/2021; see L.L. 2015/067 § 5.
 
@@ -902,7 +902,7 @@ Section 20-c. Drug strategy. ::
 	
 	      5.   Hold at least four meetings each fiscal year, at least one of which shall be open to the general public for input and comments.
 	
-	(L.L. 2017/048, 3/21/2017; Am. L.L. 2018/129, 6/26/2018)
+	
 	
 	Editor's note: L.L. 2017/048, 3/21/2017, § 2 provides: "This local law takes effect immediately and shall expire and be deemed repealed following the submission of the required report pursuant to this local law due in February 2022."
 

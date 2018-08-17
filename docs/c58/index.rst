@@ -1,567 +1,260 @@
-Chapter 58 - Department of Finance
+Chapter 52: General Provisions
 =================
-Section 1501.
+Section 1150.
 ----------
 
-Section 1501. Department; commissioner. ::
+Section 1150. Definitions. ::
 
 
-	   There shall be a department of finance, the head of which shall be the commissioner of finance.
+	   For the purposes of this charter:
+	
+	      1.   The term "city" shall mean the city of New York, and unless the context otherwise requires, shall include the several boroughs.
+	
+	      2.   The term "agency" shall mean a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid in whole or in part from the city treasury.
+	
+	      3.   The term "law" or "laws" shall include the constitution, this charter, any statute, the administrative code, any local law, and any ordinance, rule or regulation having the force of law.
+	
+	      4.   The term "statute" shall mean an act of the legislature.
+	
+	      5.   The term "maintenance" shall include minor repairs, and in case of doubt the mayor or an officer designated by him shall decide whether a repair is a minor repair.
+	
+	      6.   The term "intercepting sewer" shall mean a sewer the principal purpose of which is the interception from other sewers and conveyance of sewage to treatment plants. In case of doubt the council shall decide whether a sewer is an intercepting sewer.
+	
+	      7.   a.   The term "wharf property" shall mean wharves, piers, docks and bulkheads and structures thereon and slips and basins, the land beneath any of the foregoing, and all rights, privileges and easements appurtenant thereto and land under water in the port of New York, and such upland or made land adjacent thereto as was vested in the department of docks on January first, nineteen hundred thirty-eight or thereafter was or may be assigned to it or its successor agencies.
+	
+	         b.   "Water front property" shall mean all property fronting on all the tidal waters in the port and city of New York and extending inshore to the property line of the first adverse owner and shall include such land under water extending outshore to the pierhead line or the property line, whichever extends furthest outshore.
+	
+	         c.   "Water front commerce" shall mean the activity on water front property which encompasses the receipt of cargo or goods at the wharves, piers, docks or bulkheads from ships and their delivery to points inland or the receipt of such cargo or goods at such wharves, piers, docks or bulkheads from points inland for shipment by ships and shall include the temporary storage of such cargo or goods in the sheds or warehouses on such property pending their delivery or shipment.
+	
+	         d.   "Furtherance of navigation" shall mean the activity on water front property which involves ship building, ship repairing, boating, dry dock facilities and similar uses.
+	
+	      8.   The term "the port of New York" shall include all the waters of the North river, the East river and the Harlem river and all the tidal waters embraced within or adjacent to or opposite to the shores of the city.
+	
+	      9.   The terms "three-fourths vote" and "two-thirds vote" when they apply to the council shall mean respectively three-fourths and two-thirds of all the members of the council are entitled to cast.
+	
+	      10.   The term "administrative code" shall mean the administrative code of the city.
+	
+	      11.   The term "budget" shall mean the expense budget unless the context otherwise requires.
+	
+	      12.   Except as in this charter otherwise provided, the term "real property" shall include real estate, lands, tenements and hereditaments, corporeal or incorporeal.
+	
+	      13.   The term "domestic partner" shall mean persons who have a registered domestic partnership pursuant to section 3-240 of the administrative code, a domestic partnership registered in accordance with executive order number 123, dated August 7, 1989, or a domestic partnership registered in accordance with executive order number 48, dated January 7, 1993.
 
 
 
 
-Section 1502.
+Section 1151.
 ----------
 
-Section 1502. Deputies. ::
+Section 1151. Effect of this charter on existing law. ::
 
 
-	   The mayor may appoint three deputy commissioners. In addition, the mayor shall appoint one deputy commissioner whose function shall be to serve as the city sheriff. The commissioner and deputy commissioners shall provide a bond. The first deputy commissioner shall supervise and be responsible for the operations of the parking violations bureau.
+	   a.   All laws and parts of laws relating to or affecting the city of New York or the municipalities consolidated therein in force when this charter as amended shall take effect are hereby repealed and superseded to the extent that the same are inconsistent with the provisions of this charter and no further.
+	
+	   b.   All other laws and parts of laws shall continue in force until repealed, amended, modified or superseded.
+	
+	   c.   Insofar as the provisions of this charter are the same in terms or in substance and effect as provisions of law in force when this charter shall take effect, relating to or affecting the city of New York, the provisions of this charter are intended to be not a new enactment but a continuation of such provisions of law, and this charter shall be so construed and applied.
 
 
 
 
-Section 1503.
+Section 1152.
 ----------
 
-Section 1503. Powers and duties of the commissioner. ::
+Section 1152. Time of taking effect. ::
 
 
-	   In the performance of his or her functions, the commissioner shall have, in addition to such others as may be conferred upon such commissioner from time to time by law, the power and duty to prepare and disburse payroll checks upon a master warrant prepared by the comptroller as prescribed in the administrative code.
+	   a.   This charter shall take effect on the first day of January, nineteen hundred sixty-three and thereafter shall control in respect to all the powers, functions and duties of all officers, agencies, and employees of the city as provided herein, except that chapter twelve hereof shall take effect on January first, nineteen hundred sixty-two.
+	
+	   b.   The amendments to the charter approved by the electors on November fourth, nineteen hundred seventy-five shall take effect on January first, nineteen hundred seventy-seven, and thereafter shall control as provided in respect to all the powers, functions and duties of all offices, agencies, and employees except as further specifically provided in other sections of this revised charter and except:
+	
+	      (1)   that existing community districts and community boards shall continue in force and effect until the new community districts and community boards pursuant to chapters sixty-nine and seventy are established pursuant to this revised charter;
+	
+	      (2)   that powers and duties of community boards and borough boards pursuant to chapters six, eight, nine, fourteen, fifteen, twenty-seven, sixty-nine and seventy shall be assumed by the existing community boards and borough boards on July first, nineteen hundred seventy-six and such boards shall continue to have such powers and duties until new community boards and borough boards are established within the new community districts and the boroughs pursuant to chapters sixty-nine and seventy, which boards shall assume the powers and duties specified in this charter at such time; and
+	
+	      (3)   that the other amended provisions of this charter requiring any act to be done prior to January first, nineteen hundred seventy-seven shall take effect immediately upon adoption.
+	
+	   c.   The amendments to the charter approved by the electors on November eighth, nineteen hundred eighty-eight shall take effect immediately, and thereafter shall control as provided in respect to all the powers, functions and duties of all offices, agencies, and employees except as further specifically provided in other sections of this revised charter and except:
+	
+	      (1)   that, with respect to the tax appeals tribunal established in section one hundred sixty-eight,
+	
+	         (a)   the mayor shall appoint the first three commissioners, and shall designate one of them as president, no later than the first day of July, nineteen hundred eighty-nine;
+	
+	         (b)   the tribunal shall adopt rules of procedure pursuant to section one hundred sixty-nine no later than the first day of December, nineteen hundred eighty-nine; and
+	
+	         (c)   the tribunal shall begin accepting, hearing and determining appeals on the first day of January, nineteen hundred ninety;
+	
+	      (2)   that the effective date of section one thousand forty-six shall be the first day of July nineteen hundred ninety, and
+	
+	      (3)   that the provisions of the new chapter sixty-eight, entitled conflicts of interest, shall take effect on the first day of January, nineteen hundred ninety, and the provisions of chapter sixty-eight heretofore in effect, entitled ethics, shall remain in effect up to and including the thirty-first day of December of nineteen hundred and eighty-nine, at which time they shall be repealed, provided, however, that:
+	
+	         (a)   section twenty-six hundred eight of chapter sixty-eight heretofore in effect shall not be repealed but shall be renumbered as section one hundred thirty-one and shall continue in effect;
+	
+	         (b)   section twenty-six hundred two shall take effect immediately and subdivisions a, b, c, d, i, j and k of section twenty-six hundred three of the new chapter sixty-eight shall become effective upon confirmation of the members nominated by the mayor pursuant to subdivision c of such section twenty-six hundred two;
+	
+	         (c)   section twenty-six hundred of chapter sixty-eight heretofore in effect, shall only remain in effect until the confirmation of the members nominated by the mayor pursuant to subdivision c of section twenty-six hundred two of the new chapter sixty-eight;
+	
+	         (d)   the powers vested in the board of ethics by chapter sixty-eight heretofore in effect shall, upon the expiration of section twenty-six hundred of such chapter, be transferred, assigned and devolved upon the conflicts of interest board established by section twenty-six hundred two of the new chapter sixty-eight of the charter;
+	
+	         (e)   the provisions of sections twenty-six hundred four, twenty-six hundred five, twenty-six hundred six, and twenty-six hundred seven of chapter sixty-eight heretofore in effect shall govern the conduct of officers or employees of the city or of any city agency and former officers or employees of the city or of any city agency engaged in prior to the effective date of section twenty-six hundred four of the new chapter sixty-eight;
+	
+	         (f)   the provisions of subdivision h of section twenty-six hundred four of chapter sixty-eight heretofore in effect shall govern the conduct of former officers or employees of the city or of any city agency who leave city employ prior to the effective date of subdivision d of section twenty-six hundred four of the new chapter sixty-eight, engaged in on or after such date, and shall be enforceable pursuant to subdivisions j, k and l of such section.
+	
+	         (g)   for any officer or employee of the city who is in city employ as of the thirty-first day of December, nineteen hundred eighty-nine, the provisions of subdivisions g, h and i of section twenty-six hundred four of chapter sixty-eight heretofore in effect shall remain in effect up to and including the thirty-first day of March, nineteen hundred ninety and shall be enforceable pursuant to subdivisions j, k and l of such section, and the provisions of paragraphs one, two, four, six and seven of subdivision d of section twenty-six hundred four of the new chapter sixty-eight shall become effective on the first day of April, nineteen hundred ninety, provided, however, that this subparagraph shall not apply to elected officials, members of the city planning commission, including the chair, and employees of the department of city planning.
+	
+	         (h)   for members of the city planning commission, including the chair, and employees of the department of city planning, the provisions of subdivisions g, h and i of section twenty-six hundred four of chapter sixty-eight heretofore in effect shall remain in effect up to and including the thirtieth day of June, nineteen hundred ninety and shall be enforceable pursuant to subdivisions j, k and l of such section, and the provisions of paragraphs one, two, three, four, six, and seven of subdivision d of section twenty-six hundred four of the new chapter sixty-eight shall become effective on the first day of July, nineteen hundred ninety.
+	
+	   d.   The amendments to the charter approved by the electors on November seventh, nineteen hundred eighty-nine shall take effect on the first day of January, nineteen hundred ninety, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter and except:
+	
+	      (1)   that, except for the new section three hundred eleven which shall take effect on the first day of January, nineteen hundred ninety, the amendments of chapter thirteen shall take effect on the first day of September, nineteen hundred ninety, provided, however, that:
+	
+	         (a)   the appointments required to be made by the mayor and the comptroller to the procurement policy board pursuant to section three hundred eleven shall be made by the fifteenth day of January, nineteen hundred ninety;
+	
+	         (b)   the procurement policy board, upon its creation, shall be authorized to exercise the authority granted to it by the remaining sections of chapter thirteen otherwise not to take effect until the first day of September, nineteen hundred ninety, to promulgate rules prior to the effective date of those sections as are necessary to implement the provisions of the chapter. Such rules required by the chapter to be promulgated shall be proposed in accordance with the requirements of subdivision b of section one thousand forty-three of this charter by the first day of June, nineteen hundred ninety; and
+	
+	         (c)   contract solicitations initiated prior to the first day of September, nineteen hundred ninety which would otherwise require the approval of the board of estimate that are not submitted to the board of estimate for approval by such date shall be awarded by the agency in accordance with the provisions of chapter thirteen otherwise not to take effect until the first day of September, nineteen hundred ninety and, to the extent practicable, with the rules of the procurement policy board; and
+	
+	         (d)   all other contract solicitations for which the contract will be executed on or after the first day of September, nineteen hundred ninety shall be awarded in accordance with the provisions of chapter thirteen otherwise not to take effect until the first day of September, nineteen hundred ninety, and, to the extent practicable, with the rules of the procurement policy board;
+	
+	         (e)   notwithstanding anything to the contrary herein, the proceedings of any contractor board of responsibility pending as of the thirty-first day of August, nineteen hundred ninety may be continued after such date until final determination.
+	
+	      (2)   that chapter eleven of the charter shall take effect on the first day of January, nineteen hundred ninety-six and the provisions of subdivision b of section two hundred fifty-nine of such chapter shall apply with respect to the fiscal year beginning on the first day of July, nineteen hundred ninety-six and that, pursuant to the requirements of such chapter, the comptroller and the public advocate shall appoint the independent budget office advisory committee no later than the fifteenth day of February of nineteen hundred ninety-six; such advisory committee shall make its recommendations, to the special committee convened to appoint the director of the independent budget office, no later than the fifteenth day of June of nineteen hundred ninety-six; and such special committee shall make its appointment of a director no later than the first day of August nineteen hundred ninety-six;
+	
+	      (3)   that, effective immediately, no appointment to the civil service commission shall be made except upon the recommendation of the screening committee required by section eight hundred twelve of the charter;
+	
+	      (4)   that, the provisions of subdivision b of section one hundred and four of the charter shall not apply to the contract budget submitted by the mayor for the fiscal year beginning the first day of July, nineteen hundred ninety nor to the contract budget adopted by the council for such year;
+	
+	      (5)   that, the amendments to sections one hundred ninety-two, one hundred ninety-six, one hundred ninety-eight and to chapters twenty-seven and seventy-one, and the provisions of section two hundred three shall take effect immediately upon certification that the electors have approved the amendments to the charter, provided, however, that the amendments to subdivision a of section one hundred ninety-two (other than the portions thereof requiring appointments of the members of the city planning commission on or before the first day of March, nineteen hundred ninety and providing for the length of the terms of the first appointees to the commission) shall take effect on the first day of July, nineteen hundred ninety;
+	
+	      (6)   that, the amendments to sections one hundred ninety-one, one hundred ninety-three, one hundred ninety-seven-a, one hundred ninety-seven-b, one hundred ninety-seven-c, one hundred ninety-nine, two hundred, two hundred one and two hundred two; the provisions of sections one hundred ninety-five, one hundred ninety-seven-d and two hundred four (except for subdivisions (g) and (h) thereof); the amendments to chapters fourteen, fifteen, twenty-one, twenty-nine, fifty-nine and sixty-one; and the provisions of chapters forty-eight and seventy-four shall take effect on the first day of July, nineteen hundred ninety, provided, however, that:
+	
+	         (a)   notwithstanding anything to the contrary herein, the board of estimate shall continue to review and approve applications pursuant to sections one hundred ninety-seven-c and two hundred as heretofore in effect that have been acted upon by the city planning commission on or before the thirtieth day of June, nineteen hundred ninety;
+	
+	         (b)   notwithstanding anything to the contrary herein, subdivisions b, d, e, f and g of section one hundred ninety-seven-c shall take effect on the second day of May, nineteen hundred ninety; and the period for review of applications by the borough presidents provided for in such subdivision g shall extend until the thirtieth day of June, nineteen hundred ninety in the case of all applications referred to the borough presidents in the month of May, nineteen hundred ninety;
+	
+	         (c)   notwithstanding anything to the contrary herein, any application pursuant to sections one hundred ninety-seven-c or two hundred heretofore in effect that requires borough board review and is acted on by the affected borough board after the second day of May, nineteen hundred ninety shall be forwarded to the affected borough president for review pursuant to subdivision g of section one hundred ninety-seven-c in accordance with paragraph (b) of this subdivision; and
+	
+	         (d)   notwithstanding anything to the contrary herein, the board of estimate shall continue up to and including the thirty-first day of August, nineteen hundred ninety, to review designations by the landmarks preservation commission, pursuant to section 25-303 of the administrative code, which have been approved by the landmarks preservation commission on or before the first day of May, nineteen hundred ninety; and designations by the landmarks preservation commission made after the first day of May and on or before the thirtieth day of June, nineteen hundred ninety, shall be subject to subdivisions eight and nine of section three thousand twenty, provided that the period for any reviews by the city planning commission and the council under such subdivisions eight and nine shall commence on the first day of July, nineteen hundred ninety;
+	
+	      (7)   that, subdivisions g and h of section two hundred four shall take effect on the first day of July, nineteen hundred ninety-one;
+	
+	      (8)   that, an elected city official who, as of the first day of January nineteen hundred ninety, holds both an elected city office and a party office, shall not be subject to the requirements of paragraph fifteen of subdivision b of section twenty-six hundred four in regard to such offices until the earlier of (i) the expiration of the term of the city office to which such official was elected prior to such date or (ii) the expiration of the term of the party office to which such official was elected or appointed prior to such date;
+	
+	      (9)   that, notwithstanding the provisions of section twenty-five, the council members elected at the general election in the year nineteen hundred eighty-nine shall serve for a term of two years and an additional election of council members shall be held at the general election in the year nineteen hundred ninety-one. The council members elected at such election shall serve for a term of two years.
+	
+	      (10)   that, notwithstanding the provisions of paragraph two of subdivision b, and subdivision c, of section fifty, a districting commission shall be appointed to prepare a districting plan for the nineteen hundred ninety-one additional election of council members in accordance with all of the requirements of chapter two-A except that such appointments shall be made in accordance with the following schedule:
+	
+	         (a)   between the tenth and twentieth days of January nineteen hundred ninety, the mayor shall convene the meeting or meetings required by paragraph two of subdivision b of section fifty;
+	
+	         (b)   on or before the fifteenth day of March of nineteen hundred ninety, each council delegation authorized to make appointments to the districting commission shall make such appointments, and each chairperson of a county committee of a political party authorized to submit nominations to the mayor shall submit such nominations; and
+	
+	         (c)   following the actions required by subparagraph (b) of this paragraph but no later than the fifteenth day of April of nineteen hundred ninety, the mayor shall make the remaining appointments to the districting commission.
+	
+	         (d)   The commission's term shall end sixty days after the day of the general election of the council in the year nineteen hundred ninety-one.
+	
+	      (11)   that, notwithstanding the provisions of chapter two-A, the districting commission appointed pursuant to paragraph ten of ten of this subdivision shall prepare a districting plan for the nineteen hundred ninety-one additional election of council members in accordance with the provisions of this paragraph and in accordance with the provisions of chapter two-A, to the extent that the provisions of such chapter are not inconsistent with the provisions of this paragraph.
+	
+	         (a)   Following its appointment, the districting commission appointed pursuant to paragraph ten of this subdivision shall meet at least once each month during nineteen hundred ninety and at least once every two weeks during nineteen hundred ninety-one until such time as it has completed its duties pursuant to this paragraph and chapter two-A.
+	
+	         (b)   In carrying out its responsibilities under this paragraph and chapter two-A, the commission shall utilize the final count results of the nineteen hundred ninety census delivered to the governor no later than the first day of April, nineteen hundred ninety-one in accordance with the provisions of section one hundred forty-one of title thirteen of the United States code.
+	
+	         (c)   As soon as practicable, the commission shall (i) establish liaison with the United States census bureau and relevant New York state agencies to facilitate the orderly and timely receipt of the results of the nineteen hundred ninety census in a format that will facilitate the commission's completion of its responsibilities and (ii) obtain such equipment, software, services and personnel as are necessary for it to effectively carry out its responsibilities under this paragraph and chapter two-A.
+	
+	         (d)   On or before the fifteenth day of May, nineteen hundred ninety, the director of city planning shall present to the commission an analysis of the demographic changes that have occurred in the city of New York since the nineteen hundred eighty census, a summary of the various estimates that have been made of the nineteen hundred ninety population of the city and various subdivisions of the city, an analysis of the implications of such forecasts for the establishment of districts for the nineteen hundred ninety-one council elections, and estimates of the nineteen hundred ninety population and population characteristics of existing council, assembly, community and congressional districts, to the extent such information is available. The director of city planning shall periodically thereafter provide the commission with any revisions of such information and any such additional information that will be of assistance to the commission in carrying out its responsibilities under chapter two-A. The director of city planning shall, to the maximum extent practicable, provide the commission with such technical assistance as it may require to carry out its responsibilities.
+	
+	         (e)   On or before the fifteenth day of June of nineteen hundred ninety, the director of city planning and the corporation counsel shall provide the commission with all information, available to them, regarding the status of the nineteen hundred ninety census and the schedule for the release of the results of such census, as will assist the commission in developing the work plan and schedule required by this paragraph.
+	
+	         (f)   On or before the fifteenth day of June, nineteen hundred ninety, the director of city planning and the commissioner of computer and data communications services shall provide the commission with as complete a listing as possible of the computer software products available for the utilization of census data in the establishment of districts and the analysis of the demographic characteristics of such districts; a comparative evaluation of the strengths, weaknesses, costs and benefits of the various products available including information as to the quantity and type of staff necessary to utilize the various products; an identification and description of the relevant professional services available from public and private entities; including information regarding the rates at which such services are likely to be available; and a description of the assistance which the department of city planning and the computer and data communications services agency can provide to the commission.
+	
+	         (g)   On or before the fifteenth day of September, nineteen hundred ninety, the commission shall adopt a work plan and time schedule for the establishment of council districts for the nineteen hundred ninety-one elections in accordance with the provisions of this paragraph and chapter two-A.
+	
+	         (h)   Between the first day of October and the tenth day of December, nineteen hundred ninety, the commission shall hold at least one public hearing in each borough to obtain (i) information regarding demographic trends and conditions and suggestions regarding the factors that interested parties believe the commission should consider and the procedures that it should utilize in the establishment of council districts for the nineteen hundred ninety-one elections.
+	
+	         (i)   On or before the first day of February, nineteen hundred ninety-one, the commission shall produce, and make available for public inspection, prototype fifty-one district plans for the purpose of testing and demonstrating the analytical and technical capabilities necessary to meet the deadlines set forth in subparagraph j of this paragraph.
+	
+	         (j)   Notwithstanding the provisions of section fifty-one, the commission shall complete the following steps in accordance with the following schedule:
+	
+	            (i)   on or before the first day of May, nineteen hundred ninety-one, the commission shall make its plan available to the public and the council for review and comment; and on or before the tenth day of such month the commission shall hold one or more public hearings on such plan;
+	
+	            (ii)   on or before the twentieth day of May, nineteen hundred ninety-one, the commission, after consideration of all comments received from the public and the council by the fourteenth day of May of such year, shall make a revised plan and supporting data available for public inspection and shall give public notice that comments on such revised plan may be submitted through the twenty-seventh day of May, nineteen hundred ninety-one; and on or before such latter date, the commission shall hold one or more public hearings on such plan; and
+	
+	            (iii)   on or before the seventh day of June, nineteen hundred ninety-one, the commission shall adopt its final plan in accordance with subdivision g of section fifty-one.
+	
+	         (k)   After the commission files its final plan with the city clerk pursuant to clause (iii) of subparagraph (j) of paragraph (10) of subdivision (d) of this section, the commission shall make such adjustments in its plan as may be required by court order or upon a determination of the United States Department of Justice.
+	
+	      (12)   that the amendments to chapter forty-six shall take effect immediately;
+	
+	      (13)   that the provisions of subdivision a of section twenty eight hundred shall take effect immediately and:
+	
+	         (a)   that for the purpose of appointing members of community boards for terms commencing on the first day of April, nineteen hundred ninety and on the first day of April, nineteen hundred ninety-one pursuant to such subdivision, the city planning commission shall, by the first day of January, nineteen hundred ninety, determine the proportion of the community district's population represented by each council member on the basis of data available as of such date and file the determination with the appropriate borough president, community board and council member; and
+	
+	         (b)   that the terms of community board members which would expire on the thirty-first day of December, nineteen hundred eighty nine, pursuant to the charter heretofore in effect, shall expire on the thirty-first day of March, nineteen hundred ninety and that the terms of community board members which would expire on the thirty-first day of December, nineteen hundred ninety, pursuant to the charter heretofore in effect, shall expire on the thirty-first day of March, nineteen hundred ninety-one.
+	
+	      (14)   that the repeal of sections sixty-one through sixty-six of chapter three, the amendment of subdivision nine of section eleven hundred fifty and the amendments to subdivisions one and sixteen of section thirty-eight, as renumbered by these amendments, deleting references to the Board of Estimate shall take effect on the first day of September of nineteen hundred ninety.
+	
+	      (15)   that, subdivisions a, b, and c and the first sentence of subdivision d of section one hundred ninety-five shall take effect upon the first to occur of (a) November 1, 1990 or (b) the effective date of the criteria for the location of city facilities promulgated pursuant to section two hundred three. Any agency proposing an acquisition pursuant to section one hundred ninety-five prior thereto shall, upon receiving approval of such acquisition from the commissioner of general services, file a notice of intent to acquire with the Council, which may consider and act upon the acquisition pursuant to the last sentence of subdivision d of such section.
+	
+	      (16)   that the provisions of paragraph a of subdivision three of section sixteen hundred two requiring the commissioner of general services to consider the criteria for location of city facilities prior to submitting an application pursuant to section one hundred ninety-seven-c for an acquisition or disposition of property shall take effect upon the effective date of such criteria pursuant to section two hundred three.
+	
+	   e.   On and after the first day of September of nineteen hundred ninety the powers and responsibilities of the board of estimate, set forth in any state or local law, that are not otherwise devolved by the terms of such law, upon another body, agency or officer shall devolve upon the body, agency or officer of the city charged with comparable and related powers and responsibilities under this charter, consistent with the purposes and intent of this charter, provided specifically that the council shall succeed to the powers and responsibilities exercised by the board of estimate pursuant to article sixteen of the general municipal law.
+	
+	   f.   Officers and employees of the city may take any actions as are necessary and appropriate to prepare for the implementation of the provisions of amendments to the charter approved by the electors on November seventh, nineteen hundred eighty-nine prior to such effective dates as are prescribed by subdivision d of this section.
+	
+	   g.   The amendments to the charter approved by the electors on November third, nineteen hundred ninety-eight shall take effect on the first day of January, nineteen hundred ninety-nine, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	   h.   (1)   (a)   The amendments to the charter, amending section six hundred three and adding a new chapter twenty-four-B, approved by the electors on November sixth, two thousand-one, shall take effect immediately, or as soon thereafter as a transfer of agency functions may be effectuated, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	         (b)   Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of the provisions of the amendments to the charter, approved by the electors on November sixth, two thousand-one, prior to the effective dates prescribed in subparagraph a of this section.*
+	
+	      (2)   The amendments to the charter, adding new chapters eighteen-C and eighteen-D, and a new section five hundred twenty-six-a, approved by the electors on November sixth, two thousand-one, shall take effect immediately upon certification that the electors have approved the amendments to the charter, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	      (3)   The amendments to the charter, adding a new subdivision g to section eight, a new section eighteen, and a new chapter forty, approved by the electors on November sixth, two thousand-one, shall take effect immediately, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	      (4)   (a)   The amendments to the charter, amending section fifteen and chapter twenty-two, repealing chapter twenty-three, renumbering section one thousand fifty-eight, amending renumbered section one thousand fifty-seven-a and sections fourteen hundred three, fourteen hundred four, and twenty-nine hundred three, approved by the electors on November sixth, two thousand-one, shall take effect immediately, or as soon thereafter as a transfer of agency functions may be effectuated, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter, except that the amendments to the charter, amending section five hundred fifty-three of such chapter twenty-two, shall take effect June 1, 2002 or the date upon which the ten members of the reconstituted and expanded board other than the chairperson have been duly appointed and qualified, whichever is earlier, provided, however, that of the first nine members of the board of health appointed on or after the effective date of these amendments, three members shall serve for two years, three members shall serve for four years, and the remainder shall serve for six years, provided further, however, that the term of any member of the board of health serving on the date of the approval of these amendments shall be deemed expired on such effective date.
+	
+	         (b)   Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of the provisions of the amendments to the charter, approved by the electors on November sixth, two thousand-one, prior to the effective dates prescribed in subparagraph a of this section.*
+	
+	      (5)   (a)   The amendments to the charter, adding new chapters nineteen-A and sixty-three, and new sections nineteen, three hundred thirty-five, and three hundred ninety-eight, approved by the electors on November sixth, two thousand-one, shall take effect immediately, or as soon thereafter as a transfer of agency functions may be effectuated, and thereafter shall control as provided in respect to all the powers, functions and duties of all officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	         (b)   Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of the provisions of the amendments to the charter, approved by the electors on November sixth, two thousand-one, prior to the effective dates prescribed in subparagraph a of this section.*
+	
+	   i.   (1)   The amendments to the charter, amending sections ten, twenty-four, and forty-four, approved by the electors on November fifth, two thousand two, shall take effect immediately, provided that any vacancy that occurs in the office of the mayor on or after September twentieth, two thousand two, and before the effective date of the amendments referenced in this subdivision, shall be governed by such amendments, and any such vacancy shall be deemed to have occurred on such effective date.
+	
+	      (2)   Notwithstanding the provisions of section 1153, in the event that the amendment set forth in paragraph 10 of the new subdivision c of section 10 is finally adjudicated to be invalid or otherwise cannot be implemented, all of the amendments referenced in this subdivision shall be without any further force and effect and, at such time, sections ten, twenty-four, and forty-four as they existed immediately prior to the effective date of such amendments shall be reinstated and shall be deemed to have always remained in full force and effect and unamended by such amendments.
+	
+	   j.   (1)   The amendments to the charter, adding a new section thirteen-a and amending subdivision two of section one thousand forty-nine, approved by the electors on November eighth, two thousand five, shall take effect immediately, and thereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	      (2)   The amendments to the charter, repealing and reenacting section two hundred fifty-eight and amending sections ninety-five, one hundred one, two hundred thirteen, two hundred thirty-three and two hundred sixty-six and subdivision six of section two hundred fifty, approved by the electors on November eighth, two thousand five, shall take effect immediately, and thereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	   (k)   (1)   The amendments to the charter, amending sections eleven hundred thirty-seven and eleven hundred thirty-eight, approved by the electors on November second, two thousand ten, shall take effect immediately, and hereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees; provided, however, that, notwithstanding any inconsistent provision of the charter, persons holding the offices of mayor, public advocate, comptroller, borough president or council member on the date such amendments take effect shall be subject, with respect to eligibility to be elected to or serve in the offices so held, to the provisions of section eleven hundred thirty-eight that were in effect immediately prior to the approval of such amendments, and to the provisions of subdivision b of such section as added by such amendments until one full term or more has elapsed since having last held such offices, after which such persons shall be fully subject to the provisions of section eleven hundred thirty-eight, as amended by such amendments, in its entirety.
+	
+	      (2)   (a)   (i)   The amendments to the charter, amending subdivision d of section two hundred four, subdivision e of section one thousand forty-six, section one thousand forty-eight, subdivision one of section one thousand forty-nine, subdivision a of section one thousand forty-nine-a, paragraph one of subdivision a of section one thousand fifty-two, paragraph two of subdivision b of section twenty-six hundred three, and subdivision b of section twenty-six hundred six, and adding a new paragraph fifteen of subdivision a of section one thousand fifty-two, a new section one thousand fifty-seven-b, a new subdivision (g) of section twenty-two hundred three, and a new subdivision b-one of section twenty-six hundred six, approved by the electors on November second, two thousand ten, shall take effect immediately, and thereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter, and, with respect to section one thousand fifty-seven-b, shall apply to elections for the offices specified in such section held after such date; provided, however, that the amendments to the charter, amending sections one thousand fifty-six, one thousand fifty-seven and subdivision one of section one thousand fifty-seven-a, repealing and reenacting section one thousand fifty-four, repealing section one thousand fifty-five, and adding a new subdivision e of section one thousand fifty-two and a new section eleven hundred thirteen, approved by the electors on November second, two thousand ten, shall take effect on the first day of January, two thousand eleven, and thereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+	
+	            (ii)   Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of such amendment prior to the effective date prescribed in this subparagraph.
+	
+	         (b)   Severability. If any clause, sentence, subparagraph, paragraph, subdivision, section or part of the amendments described in subparagraph (a) of this paragraph shall be adjudged by any court of competent jurisdiction to be invalid or otherwise cannot be implemented pursuant to law, such judgment or inability to implement shall not affect, impair or invalidate the remainder thereof, but shall be confined in its operation to the clause, sentence, subparagraph, paragraph, subdivision, section or part thereof directly involved in the controversy in which such judgment shall have been rendered or in the matter with respect to which implementation may not occur.
 
 
 
 
-Section 1504.
+Section 1153.
 ----------
 
-Section 1504. Functions of the department. ::
+Section 1153. Separability clause. ::
 
 
-	   Except as otherwise provided by law, the department shall perform those functions and operations of the city which relate to the administration and collection of all taxes, assessments and charges imposed by the city, the collection of arrears due the city and all other sums due the city, including state and federal aid, the receipt and safekeeping of all moneys paid into the city treasury and payment of money out of the treasury, and the administration and management of certain trust funds held by the city, including, without limitation, the following:
-	
-	      1.   Real property assessment. With respect to real property tax assessment, the department shall assess for taxation all the taxable real property in the city and prepare the assessment rolls. The commissioner shall appoint, within the appropriation therefor, as many assessors as shall be necessary for the performance of such functions in accordance with the provisions of this chapter.
-	
-	      2.   Tax collection.
-	
-	         a.   The department shall administer all excise and non-property taxes imposed or administered by the city. With respect to such taxes, the department shall have the power to settle and adjust all claims in favor of or against the city and, except with respect to cases within the jurisdiction of the tax appeals tribunal established by section one hundred sixty-eight of this charter, to make determinations in contested cases. For such purposes, the commissioner or his delegate may, except with respect to cases within the jurisdiction of such tax appeals tribunal, hold hearings and administer oaths.
-	
-	         b.   The department shall collect all real property taxes, water and sewer charges, other assessments and arrears against real property and all other taxes, assessments and arrears payable to the city.
-	
-	         c.   Notwithstanding the provisions of any general, special or local law to the contrary, the commissioner shall have the exclusive authority to compromise any excise or nonproperty taxes or annual vault charges or any warrant or judgment for excise or nonproperty taxes or annual vault charges administered by the commissioner, and the civil penalties, interest and additions to tax or charge in connection therewith, if the tax debtor has been discharged in bankruptcy, or is shown by proofs submitted to be insolvent, but the amount payable in compromise shall in no event be less than the amount, if any, recoverable through legal proceedings, and provided that where the amount owing for excise or nonproperty taxes or annual vault charges, exclusive of any civil penalties, interest and additions to tax or charge, or the warrant or judgment, exclusive of any civil penalties, interest and additions to tax or charge, is more than one hundred thousand dollars, such compromise shall be effective only when approved by a justice of the supreme court.
-	
-	         d.   Notwithstanding the provisions of any general, special or local law to the contrary, the commissioner shall have the exclusive authority to compromise civil liability, with such qualifications and limitations as may be established pursuant to such rules as the commissioner may prescribe, where such liability arises in connection with an excise or nonproperty tax or annual vault charge administered by the commissioner, at any time prior to the time the tax or administrative action becomes finally and irrevocably fixed and no longer subject to administrative review. Upon acceptance of an offer in compromise by the commissioner, the matter may not be reopened except upon a showing of fraud, malfeasance or misrepresentation of a material fact. The corporation counsel may compromise any such liability after reference to the law department for prosecution or defense at any time prior to the time the tax or administrative action taken by the department is no longer subject to administrative or judicial review. Whenever a compromise is made by the department of any such liability, there shall be placed on file in the office of the commissioner the opinion of the commissioner or a deputy commissioner, with reasons therefor, with a statement of: (i) the amount of excise or nonproperty tax or annual vault charge and any other issues that may be the subject of such compromise, (ii) the amount of interest, additions to the tax or penalty imposed by law on the taxpayer or other persons against whom the administrative action was taken by the department, and (iii) the amount actually paid in accordance with the terms of the compromise. Notwithstanding the preceding sentence, no such opinion shall be required with respect to the compromise of any civil liability in which the unpaid amount of the excise or nonproperty tax or annual vault charge that was the subject of the administrative action (including any interest, additions to tax, or penalty) is less than twenty-five thousand dollars.
-	
-	         e.   Nothing in paragraph c or d of this subdivision shall be construed to diminish or otherwise impair any power of the department exercised pursuant to any other provision of law.
-	
-	      3.   Deposit and payment of moneys in the city treasury; trust funds.
-	
-	         a.   The department shall have the power and duty to provide for the reception and safekeeping of all moneys paid into the treasury of the city and for the payment of all moneys on warrants drawn by the comptroller and countersigned by the commissioner.
-	
-	         b.   The department shall administer and manage all trust funds received or held by the city pursuant to a judgment, decree or order of any court or under section eleven hundred twenty-three of the surrogate's court procedure act, section ninety-nine-m of the general municipal law, sections eighty-seven and one hundred eleven-h of the social services law, sections four hundred twenty-six and four hundred thirty-two of the real property law, section two hundred four of the lien law and section five hundred fifty-three of the county law, and in such administration it shall be deemed to be acting in a fiduciary capacity. The department shall provide for the receipt and safekeeping of all such moneys of the trust funds held by the city and disburse the same on warrants signed by the comptroller. The department may waive the fees to which the commissioner is entitled under section ninety-nine-m of the general municipal law after consideration of the budgetary impact on the city of such a waiver, the purpose of orders of bail and the equitable administration of justice.
-	
-	         c.   (i)   Notwithstanding any provision of law to the contrary and unless otherwise determined by the court which directed payment of the funds in the first instance, for purposes of administering and managing the trust funds, other than cemetery trust funds, enumerated in paragraph b of this subdivision, whenever the department is permitted or required by law to deposit such funds in a savings bank, trust company, bank, or banking association, or to invest such funds in its discretion or in legal investments for trustees or savings banks, the department may combine all such trust funds into one or more common trust funds, which may be deposited in such savings banks, trust companies, banks or banking associations as are designated by the state comptroller pursuant to section one hundred eighty-two of the state finance law, or invested in legal investments for trustees or savings banks. Such funds, when deposited in a savings bank, trust company, bank or banking association, may be placed in demand or time deposit accounts, including time certificates of deposit, and such deposits shall be either insured by a federal deposit insurance corporation or full collateralized by securities acceptable to the state comptroller.
-	
-	            (ii)   The department may retain trust funds temporarily pending investment or deposit or to meet cash requirements in connection with the deposit or withdrawal of such funds, but such temporary retention of trust funds shall not deprive any owner or beneficiary of any income therefrom to which the owner or beneficiary would otherwise be entitled by law.
-	
-	            (iii)   When trust funds are received by the department it shall forthwith open and maintain a separate ledger account for each action, proceeding or matter and shall keep an exact accounting of all such funds and all income earned thereon in such manner as the state comptroller may prescribe.
-	
-	      4.   Parking violations bureau. The department shall operate and control the parking violations bureau. The commissioner shall appoint the director of the bureau, deputy director and all other officers and employees of the bureau, and hearing examiners.
-	
-	
+	   If any provisions of this charter or of any amendments thereto shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, it is the purpose and intent of this charter that all other provisions thereof shall nevertheless be separately and fully effective and that the application of any such provision to other persons or situations shall not be affected.
 
 
 
 
-Section 1504-a.
+Section 1154.
 ----------
 
-Section 1504-a. Tribunal for tax appeals. [Repealed] ::
+Section 1154. Short title. ::
 
 
-	   The department shall have those powers and duties with respect to the assessment of real property for taxation as are prescribed by this chapter and, in addition such other powers and duties as may be conferred upon it by law. The department shall maintain in each borough an office for the performance of such powers and duties.
-
-
-
-
-Section 1506.
-----------
-
-Section 1506. Duties of the assessors. ::
-
-
-	   The assessors, under the direction of the commissioner, shall assess all the real property in the several districts that may be assigned to them by the commissioner and shall prepare the assessment rolls. The term "assessment" shall mean a determination by the assessors of (a) the taxable status of real property as of the taxable status date; and (b) the valuation of real property, including the valuation of exempt real property, and where such property is partially exempt, the valuation of both the taxable and exempt portions.
-
-
-
-
-Section 1507.
-----------
-
-Section 1507. Taxable status of property. ::
-
-
-	   The taxable status of all real property assessable for taxation in the city shall be fixed for the succeeding fiscal year on the fifth day of January in each year.
-
-
-
-
-Section 1508.
-----------
-
-Section 1508. Assessment of real property. ::
-
-
-	   The assessors shall commence to assess real estate on the first day of July in each year, not a Saturday, Sunday or legal holiday.
-
-
-
-
-Section 1509.
-----------
-
-Section 1509. Statement of assessed valuation. ::
-
-
-	   An assessor or other person designated by the commissioner shall compute from the annual record of the assessed valuation of real estate in each borough the total aggregate amount of the assessed valuation of real property appearing on such annual record for such borough, and shall transmit a statement of such aggregate amount to the commissioner on or before the fifth day of January in each year.
-
-
-
-
-Section 1510.
-----------
-
-Section 1510. Annual record of assessed valuation; public inspection. ::
-
-
-	   The books of the annual record of the assessed valuation of real estate shall be opened to the public not later than the fifteenth day of January in each year, not a Saturday, Sunday or legal holiday, and remain open during the usual business hours for public inspection and examination until the first day of March thereafter. The commissioner, previous to and during the time such books are open to public inspection, shall advertise such fact in the City Record and in such other newspaper or newspapers published in the several boroughs as may be authorized by the director of the City Record with the approval of the mayor and the comptroller.
-
-
-
-
-Section 1511.
-----------
-
-Section 1511. Notice of increase in assessed valuation of real property. ::
-
-
-	   The department or division responsible for the assessment of real property shall, upon an increase in assessed valuation of real property, notify the owner, as recorded in said department or division, of such increase by first-class mail at least thirty days prior to the final date for filing any appeal. The department or division shall notify the commissioner of the mailing of such notices by the filing of an affidavit of such mailing in the main office of the department.
-
-
-
-
-Section 1512.
-----------
-
-Section 1512. Annual record of assessed valuation, additions and changes. ::
-
-
-	   During the time the books of the annual record of the assessed valuation of real estate remain open for public inspection and examination, and, in the case of real estate other than residential real estate, during an additional period ending the tenth day of May in each year, the commissioner may place on such books any real estate and also the assessed valuation of any such real estate that may have been omitted from such books on the day of the opening thereof, and may increase or diminish the assessed valuation of any real estate as in the commissioner's judgment may be just or necessary for the equalization of taxation; but no such addition to the books and no such increase in assessed valuation shall be made, except upon mailing ten days' prior written notice addressed to the person whose name appears on the records in the office of the city collector as being the owner or agent of the owner of the real estate affected thereby at the last known address of such owner or agent. Where no name appears on such records such notice shall be sent to the premises addressed to either the owner or agent. An affidavit of such mailing shall be filed in the main office of the department. When such notice is mailed after the first day of February, such owners may apply for a correction of such assessment so added or so increased within twenty days after the mailing of such notice with the same force and effect as if such application were made on or before the first day of March in such year. For purposes of this section the term "residential real estate" shall include but not be limited to one and two-family homes and multiple dwellings (including co-operative and condominium dwelling units), but shall not include hotels, apartment hotels and motels.
-
-
-
-
-Section 1513.
-----------
-
-Section 1513. Apportionment of assessments. ::
-
-
-	   When any separately assessed parcel of real estate shall have been divided prior to the first day of June, the commissioner may apportion the assessment thereof in such manner as may be provided by law.
-
-
-
-
-Section 1514.
-----------
-
-Section 1514. Assessment rolls; preparation and delivery. ::
-
-
-	   1.   Commencing immediately after the close of the period for public inspection and examination of the books of annual record of the assessed valuation of real estate, the commissioner shall cause to be prepared, from such books, assessment rolls for each borough in such manner as shall be provided by law.
-	
-	   2.   As soon as such rolls are completed, the commissioner shall annex to each of such rolls a certificate that the same is correct in accordance with the entries and corrected entries in the several books of annual record. The rolls so certified must, on or before the twentieth day of June in each year, be delivered by the commissioner to the council.
-
-
-
-
-Section 1515.
-----------
-
-Section 1515. Statement and estimate by the mayor. ::
-
-
-	   a.   The mayor shall prepare and submit to the council, immediately upon the adoption of a single budget pursuant to section two hundred fifty-four, a statement setting forth the amount of the budget as approved by the council for the ensuing year and the mayor shall prepare and submit to the council not later than the fifth day of June an estimate of the probable amount of (1) receipts into the city treasury during the ensuing fiscal year from all the sources of revenue of the general fund and (2) all receipts other than those of the general fund and taxes on real property. The mayor may include in the statement of the amount of the budget as approved by the council a confirmation of such amount, and thereby waive mayoral veto power pursuant to section two hundred fifty-five.
-	
-	   b.   If, as a result of the exercise of the mayor's veto pursuant to section two hundred fifty-five, the amount of the budget for the ensuing fiscal year differs from the amount of the budget approved by the council pursuant to section two hundred fifty-four, not later than two days after the budget is finally adopted the mayor shall prepare and submit to the council a statement setting forth the amount of the budget for the ensuing year, and the council shall, if necessary, fix new annual tax rates pursuant to subdivision c of section one thousand five hundred sixteen.
-	
-	   c.   The mayor, prior to establishing the final estimate of revenues for the ensuing fiscal year as required by this section, shall consider any alternative estimate of revenues which is submitted pursuant to subdivision d of this section and which is accompanied by a statement of the methodologies and assumptions upon which such estimate is based in such detail as is necessary to facilitate official and public understanding of such estimates.
-	
-	   d.   Any person or organization may, prior to the fifteenth day of May, submit to the mayor an official alternative estimate of revenues for consideration by the mayor in accordance with subdivision c. Such estimate shall be in a form prescribed by the mayor.
-
-
-
-
-Section 1516.
-----------
-
-Section 1516. Fixing of tax rates. ::
-
-
-	   a.   The council shall fix the annual tax rates immediately upon the approval of the budget pursuant to section two hundred fifty-four. The council shall deduct the total amount of receipts as estimated by the mayor from the amount of the budget, for the ensuing fiscal year, and shall cause to be raised by tax on real property such sum as shall be as nearly as possible but not less than, the balance so arrived at, by fixing tax rates in cents and thousandths of a cent upon each dollar of assessed valuation. The tax rates shall be such to produce a balanced budget within generally accepted accounting principles for municipalities.
-	
-	   b.   If a single budget has not been adopted by the fifth day of June pursuant to subdivision b of section two hundred fifty-four, the tax rates adopted for the current fiscal year shall be deemed to have been extended for the new fiscal year until such time as a new budget is adopted.
-	
-	   c.   In the event the mayor exercises the veto power pursuant to section two hundred fifty-five, the council shall, if necessary, fix new annual rates not later than the date the budget is finally adopted in accordance with the requirements of subdivision a of this section.
-
-
-
-
-Section 1516-a.
-----------
-
-Section 1516-a. Fixing of tax rates. ::
-
-
-	   Notwithstanding the provisions of sections fifteen hundred sixteen, fifteen hundred seventeen and fifteen hundred eighteen or any other provisions of law to the contrary:
-	
-	      (a)   If the city council has not fixed the tax rates for the ensuing fiscal year pursuant to section fifteen hundred sixteen on or before the fifth day of June, the commissioner of finance shall be authorized to complete the assessment rolls using estimated rates and to collect the sums therein mentioned according to law. The estimated rates shall equal the tax rates for the current fiscal year.
-	
-	      (b)   If, subsequent to the fifth day of June, the council shall, pursuant to section fifteen hundred sixteen, fix the tax rates for the ensuing fiscal year at percentages differing from the estimated rates, real estate tax payment shall nevertheless be payable in accordance with subdivision a of this section at the estimated rates. However, in such event, prior to the first day of January in such fiscal year, the commissioner of finance shall cause the completed assessment rolls to be revised to reflect the tax rates fixed by the council pursuant to section fifteen hundred sixteen, and an amended bill for the installment or installments for such fiscal year due and payable on or after the first day of January shall be submitted to each taxpayer in which whatever adjustment may be required as a result of the estimated bill previously submitted to the taxpayer shall be reflected.
-
-
-
-
-Section 1517.
-----------
-
-Section 1517. Completion of assessment rolls. ::
-
-
-	   At such annual meeting the council shall cause to be set down in the assessment rolls, opposite to the several sums set down in the valuation of real property, the respective sums, in dollars and cents, to be paid as a tax thereon, rejecting the fractions of a cent. It shall also cause to be added and set down the aggregate valuations of the real property in the several boroughs, and shall transmit to the comptroller of the state by mail a certificate of such aggregate valuation in each borough.
-
-
-
-
-Section 1518.
-----------
-
-Section 1518. Collection of the real property tax. ::
-
-
-	   1.   Immediately upon the completion of the assessment rolls, the city clerk shall procure the proper warrants authorizing and requiring the commissioner to collect the several sums therein mentioned according to law. Such warrants need be signed only by the public advocate and counter-signed by the city clerk. Immediately thereafter and on or before the thirtieth day of June, the assessment rolls of each borough, as corrected according to law and finally completed, or a fair copy thereof, shall be delivered by the public advocate to the commissioner with the proper warrants, so signed and counter-signed, annexed thereto. At the same time the public advocate shall notify the comptroller of the amount of taxes in each book of the assessment rolls so delivered.
-	
-	   2.   The commissioner upon receiving the assessment rolls and warrants shall immediately cause the assessment rolls and warrants to be filed in the respective borough offices.
-
-
-
-
-Section 1519.
-----------
-
-Section 1519. Real property taxes due and payable. ::
-
-
-	   The commissioner, immediately after receiving the assessment rolls, shall give notice for at least five days in the City Record that the assessment rolls have been delivered to the commissioner and that all taxes shall be due and payable at the commissioner's offices as follows:
-	
-	      1.   a.   With respect to all properties which are:
-	
-	            (1)   real property with an assessed valuation of forty thousand dollars or less on such assessment roll, except such property held in a cooperative form of ownership;
-	
-	            (2)   real property held in a cooperative form of ownership, provided that the assessed valuation on such assessment roll of such property divided by the number of dwelling units contained in such property shall equal forty thousand dollars or less;
-	
-	            (3)   for the fiscal year commencing on the first day of July, nineteen hundred ninety-eight, and for each fiscal year thereafter, real property (i) with an assessed valuation of eighty thousand dollars or less on such assessment roll, except such property held in a cooperative form of ownership, and (ii) classified as class one or class two in accordance with subdivision one of section eighteen hundred two of the real property tax law as such subdivision was in effect on January fifth, nineteen hundred ninety-seven; and
-	
-	            (4)   for the fiscal year commencing on the first day of July, nineteen hundred ninety-eight, and for each fiscal year thereafter, real property held in a cooperative form of ownership, provided that (i) the assessed valuation on such assessment roll of such property divided by the number of dwelling units contained in such property shall equal eighty thousand dollars or less, and (ii) such property is classified as class one or class two in accordance with subdivision one of section eighteen hundred two of the real property tax law as such subdivision was in effect on January fifth, nineteen hundred ninety-seven; all taxes upon real estate for each fiscal year shall be due and payable in four equal installments each of which shall be due and payable in such year as follows: the first payment on the first day of July, the second payment on the first day of October, the third payment on the first day of January, the fourth payment on the first day of April. However, if any property is acquired by the city in condemnation proceedings, the proportionate share of the amount of the tax on such property which would be due and payable on the next succeeding installment date, shall be due and payable on the date when the title to such property vests in the city.
-	
-	         b.   With respect to real property other than such property listed in paragraph a of this subdivision one, for the fiscal year commencing on the first day of July nineteen hundred eighty-three and for each fiscal year thereafter: all taxes upon real estate for each fiscal year shall be due and payable in two equal installments, the first of which shall be due and payable on the first day of July in such year, and the second of which shall be due and payable on the first day of January in such year. However, if any property is acquired by the city in condemnation proceedings, the proportionate share of the amount of the tax on such property which would be due and payable on the next succeeding installment date, shall be due and payable on the date when the title to such property vests in the city.
-	
-	      2.   All taxes shall be and become liens on the real estate affected thereby and shall be construed as and deemed to be charged thereon on the respective days when they become due and payable, and not earlier, and shall remain such liens until paid.
-	
-	      3.   Any installment of taxes on real estate for any fiscal year may be paid, in full or in part, twenty-five days prior to the date on which the first installment for such fiscal year would otherwise become due and payable or at any time thereafter and, provided that payment of any installment or part thereof is made not later than fifteen days prior to the date that such installment would otherwise become due and payable and provided that all prior installments shall have been paid or shall be paid at the same time, a discount shall be allowed from the date of payment of such installment or part thereof to and including the fifteenth day of the calendar month on which such installment would otherwise become due and payable at the rate fixed by the council and a receipt shall be furnished to the extent of such payment and the discount thereon. Upon payment of any such installment or part thereof prior to the date such installment would otherwise become due and payable, such installment or part thereof shall be deemed due and payable and shall be satisfied and extinguished to the extent of the amount so paid plus the discount provided for herein. Not later than the fifteenth day of May in each year, the banking commission shall transmit a written recommendation to the council of the proposed discount rate for the ensuing fiscal year. The council may adopt a discount rate for such ensuing fiscal year on the fifth day of June preceding such ensuing fiscal year or at any time thereafter. As used in this subdivision, the words "taxes on real estate," in the case of utility companies, shall also include special franchise taxes.
-	
-	      4.   a.   (1)   Notwithstanding anything in subdivision three to the contrary, the discount allowed pursuant to such subdivision shall not be allowed to and including the fifteenth day of the calendar month in which an installment of taxes on real property would otherwise become due and payable if the real property with respect to which such installment is paid is described in paragraph b of this subdivision. With respect to real property described in paragraph b, the discount shall be allowed only to and including the date on which an installment of taxes becomes due and payable.
-	
-	            (2)   Notwithstanding anything in subdivision three to the contrary, no discount shall be allowed with respect to an installment of taxes on real property described in paragraph b of this subdivision unless such installment is paid no later than thirty days prior to the date on which such installment becomes due and payable.
-	
-	         b.   Real property is described in this paragraph if:
-	
-	            (1)   its assessed valuation is more than forty thousand dollars, provided that, for this purpose, real property held in a cooperative form of ownership shall not be deemed to have an assessed valuation of more than forty thousand dollars if its assessed valuation divided by the number of dwelling units contained therein equals forty thousand dollars or less, except that for the fiscal year commencing on the first day of July, nineteen hundred ninety-eight, and for each fiscal year thereafter, such property shall not include real property with an assessed valuation of eighty thousand dollars or less, provided that, for this purpose, real property held in a cooperative form of ownership shall not be deemed to have an assessed valuation of more than eighty thousand dollars if its assessed valuation divided by the number of dwelling units contained therein equals eighty thousand dollars or less, and provided, further, that such real property or such real property held in a cooperative form of ownership is classified as class one or class two in accordance with subdivision one of section eighteen hundred two of the real property tax law as such subdivision was in effect on January fifth, nineteen hundred ninety-seven; or
-	
-	            (2)   irrespective of its assessed valuation, real property taxes on such property are held in escrow and paid to the commissioner by a mortgage escrow agent.
-	
-	         c.   For purposes of this subdivision, the term "mortgage escrow agent" shall include every banking organization, federal savings bank, federal savings and loan association, federal credit union, bank, trust company, licensed mortgage banker, savings bank, savings and loan association, credit union, insurance corporation organized under the laws of any state other than New York, or any other person, entity or organization which, in the regular course of its business, requires, maintains or services escrow accounts in connection with mortgages on real property located in the city.
-	
-	      5.   The provisions of this section shall not apply to any installment of tax that becomes due and payable on or after July first, two thousand five.
-
-
-
-
-Section 1519-a.
-----------
-
-Section 1519-a. Real property taxes due and payable. ::
-
-
-	   The commissioner, immediately after receiving the assessment rolls, shall give notice for at least five days in the City Record that the assessment rolls are final and that all taxes shall be due and payable as follows:
-	
-	      1.   The provisions of this section shall apply to any installment of tax that becomes due and payable on or after July first, two thousand five.
-	
-	      2.   Real property with an assessed value of two hundred fifty thousand dollars or less.
-	
-	         (a)   Quarterly installments. All property taxes shall be due in four equal installments.
-	
-	         (b)   Due date of installments. The first installment shall be due on July first, the second installment shall be due on October first, the third installment shall be due on January first and the fourth installment shall be due on April first.
-	
-	         (c)   Discount for early payment. A discount, at a percentage provided for in subdivision seven of this section, shall be allowed for early payment of an installment in accordance with this subdivision, as follows:
-	
-	            (i)   if all the installments due for a fiscal year are paid in full on or before July fifteenth, a discount shall be allowed for such installments.
-	
-	            (ii)   if the installments due on October first, January first and April first are paid in full on or before October fifteenth, a discount shall be allowed for such installments.
-	
-	            (iii)   if the installments due on January first and April first are paid in full on or before January fifteenth, a discount shall be allowed for such installments.
-	
-	      3.   Real property with an assessed value of over two hundred fifty thousand dollars.
-	
-	         (a)   Semi-annual installments. All property taxes shall be due in two equal installments.
-	
-	         (b)   Due date of installments. The first installment shall be due on July first and the second installment shall be due on January first.
-	
-	         (c)   Discount for early payment. A discount, at a percentage provided for in subdivision seven of this section, shall be allowed for early payment of installments if all the installments due for a fiscal year are paid in full on or before July first.
-	
-	      4.   Cooperative property. For purposes of this section, property held in the cooperative form of ownership shall not be deemed to have an assessed value of over two hundred fifty thousand dollars if the property's assessed value divided by the number of residential dwelling units is two hundred fifty thousand dollars or less per unit.
-	
-	      5.   For purposes of this section, a property's assessed value shall be based on the assessed value listed on the final assessment roll on or around May twenty-fifth.
-	
-	      6.   All taxes shall be and become liens on the property on the date such taxes become due and payable, and shall remain liens until paid.
-	
-	      7.   Calculation of discount for early payment.
-	
-	         (a)   Calculation of discount. Where a discount is allowed under this section, the discount shall be a percentage of the installments paid.
-	
-	         (b)   Determination of discount percentage. Not later than the thirteenth day of May in each year, the banking commission shall send a written recommendation to the council of a proposed discount percentage for the ensuing fiscal year. Such recommendation shall include a report detailing the research and analytical methods used by the commission to provide the recommendation on the discount percentage; factors considered when determining the recommendation, including whether the city's current cash balance was a factor; and the rationale for the use of such factors. The information contained in the report required by this paragraph shall be in a searchable and machine-readable format, sortable by council district, real property tax class, and real property tax sub class. Such report shall include the following information for the two previous fiscal years unless otherwise specified, provided that such information shall be reported for fiscal years prior to the 2016 fiscal year only to the extent such information is available, and provided further that the information required in subparagraphs (vi) through (x) of this paragraph shall be reported using discount percentages in the amount of one-half of one percent, one percent, one and one-half percent, two percent, and the six-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect on the thirtieth day of April as published by the Federal Reserve Bank of St. Louis in the Federal Reserve Economic Data (FRED) database:
-	
-	            (i)   the total number of properties for which the taxes were paid in semi-annual installments, disaggregated by fiscal year, and the estimated total number of properties for which the taxes were paid in semi-annual installments in the current fiscal year;
-	
-	            (ii)   the total number of properties for which the taxes were paid in quarterly installments, disaggregated by fiscal year, and the estimated total number of properties for which the taxes were paid in quarterly installments in the current fiscal year;
-	
-	            (iii)   the total amount of real property taxes paid for the properties described in subparagraphs (i) and (ii) of this paragraph, disaggregated by fiscal year, and the estimated amount of real property taxes paid for such properties in the current fiscal year;
-	
-	            (iv)   the total amount of real property taxes due for the properties described in subparagraphs (i) and (ii) of this paragraph for which a discount for early payment pursuant to paragraph (c) of subdivision two or three of this section was applied, before the application of any such discount;
-	
-	            (v)   the total amount of real property taxes due for the properties described in subparagraphs (i) and (ii) of this paragraph for which a discount for early payment pursuant to paragraph (c) of subdivision two or three of this section was applied, after the application of any such discount;
-	
-	            (vi)   the average amount of real property taxes paid for the properties described in subparagraph (v) of this paragraph;
-	
-	            (vii)   the average amount of the discount provided for the properties described in subparagraph (v) of this paragraph;
-	
-	            (viii)   the difference between subparagraphs (iv) and (v) of this paragraph, disaggregated by fiscal year, including such estimated difference for the current fiscal year;
-	
-	            (ix)   the interest income not earned on unpaid taxes due for the properties described in subparagraph (v) of this paragraph, and the estimated interest income not earned on unpaid taxes due for such properties in the current fiscal year;
-	
-	            (x)   any other information deemed relevant by the commission; and
-	
-	            (xi)   the discount percentage provided for the early payment of real property taxes in comparable cities for the two previous fiscal years.
-	
-	         (c)   Not earlier than the fourteenth day of May, the council may adopt by resolution a discount percentage. In the event the council adopts a discount percentage different than the proposed discount percentage recommended by the banking commission pursuant to paragraph (b) of this subdivision, such resolution shall contain the research and analytical methods used by the council when determining the discount percentage; factors considered when determining the discount percentage, including the city's current cash balance; and the rationale for the use of such factors.
-	
-	         (d)   If the council does not adopt a discount percentage prior to the date that the statement of account or other similar bill or statement is prepared, the discount percentage shall be the annualized interest rate on six-month United States treasury bills, as reported by the Board of Governors of the Federal Reserve System in its H.15 report or similar statistical report detailing selected interest rates, plus seventy-five basis points, the sum of which shall be divided by four for the last business day of April preceding the ensuing fiscal year where a discount is allowed for payments made on or before the last day that the installment due July first could be paid without interest, and this percentage shall continue to apply until the council adopts a discount percentage pursuant to paragraph (c) of this subdivision.
-	
-	         (e)   Application of discount percentages.
-	
-	            (i)   For properties the taxes for which are due in quarterly or semi-annual installments, the discount percentage applied for payments made on or before the last day that the installment due July first could be paid without interest, as set forth in subparagraph (i) of paragraph (c) of subdivision two of this section or paragraph (c) of subdivision three of this section, shall be the percentage established pursuant to paragraph (c) of this subdivision or, where applicable, paragraph (d) of this subdivision.
-	
-	            (ii)   For properties the taxes for which are due in quarterly installments, the discount percentage applied for payments made on or before October fifteenth, as set forth in subparagraph (ii) of paragraph (c) of subdivision two of this section, shall be two-thirds of the discount percentage described in subparagraph (i) of this paragraph.
-	
-	            (iii)   For properties the taxes for which are due in quarterly installments, the discount percentage applied for payments made on or before January fifteenth, as set forth in subparagraph (iii) of paragraph (c) of subdivision two of this section, shall be one-third of the discount percentage described in subparagraph (i) of this paragraph.
-	
-	         (f)   A discount shall be allowed only if all prior installments have been paid or are paid at the same time as the payments for which a discount would apply.
-	
-	         (g)   (i)   The commissioner may provide a discount, at a percentage not more than two times the discount percentage established pursuant to paragraph (c) or (d) of this subdivision, to taxpayers who pay their real property taxes by electronic funds transfer. This subparagraph shall apply only to taxpayers who are not required by law to pay their real property taxes by electronic funds transfer. The commissioner shall establish such discount percentage by rule and may promulgate such other rules as may be necessary to implement this subpara- graph.
-	
-	            (ii)   The commissioner may provide a discount, at a percentage not more than two times the discount percentage established pursuant to paragraph (c) or (d) of this subdivision, to taxpayers whose annual real property tax liability exceeds one million dollars and who pay their real property taxes before the date such taxes become due and payable, where the commissioner determines by rule that it would be in the best interests of the city to provide an incentive for such payment by a specified date and at a specified discount percentage. The commissioner may promulgate such other rules as may be necessary to implement this subparagraph.
-	
-	      8.   As used in this section, "taxes" shall include special franchise taxes in the case of utility companies.
-	
-	      9.   If property is acquired by the city in a condemnation proceeding, on the date that title vests in the city, any tax due prior to the title vesting date, and interest, shall be due and payable, and shall become an equitable lien with first priority against any condemnation award.
-	
-	      10.   When property tax bills for the quarterly or semi-annual installments of tax due in accordance with this section are available online, the commissioner shall notify by electronic mail owners of real property who have registered an electronic mail address online with the commissioner to receive department of finance property information updates that such bills are available online.
-	
-	
-
-
-
-
-Section 1520.
-----------
-
-Section 1520. Interest and penalties on real property taxes. ::
-
-
-	   The commissioner shall charge, receive and collect the interest and penalties upon taxes on real estate not paid when due and payable in such manner and at such rates as shall be provided by law, provided, however, where such taxes are not escrowed, and where such interest does not exceed five dollars, it shall be forgiven.
-
-
-
-
-Section 1521.
-----------
-
-Section 1521. Right of entry. ::
-
-
-	   The commissioner or any assessor may, in accordance with law, enter upon real property and into buildings and structures at all reasonable times to ascertain the character of the property. Refusal by the owner or the agent of such owner to permit such entry shall be a misdemeanor triable by a judge of the criminal court of the city of New York and punishable by not more than thirty days' imprisonment or a fine of not more than fifty dollars, or both.
-
-
-
-
-Section 1522.
-----------
-
-Section 1522. Warrants. ::
-
-
-	   No money shall be paid out of the treasury except on a warrant authorized by law, signed by the comptroller and countersigned by the commissioner of finance which shall refer to the law under and to the appropriation against which it is drawn. No warrant shall be paid on account of any appropriation after the amount authorized to be raised for the purpose specified in the appropriation shall have been expended. In counter-signing warrants drawn by the comptroller, the commissioner shall be under no duty of inquiring as to the legality or propriety thereof but may rely on the comptroller's signature thereto.
-
-
-
-
-Section 1523.
-----------
-
-Section 1523. Deposits. ::
-
-
-	   1.   The commissioner shall deposit all moneys which shall come into the commissioner's hands on account of the city on the day of receipt thereof, or on the business day next succeeding, in such banks and trust companies as shall have been designated as deposit banks, but no amount shall be on deposit at any one time in any one bank or trust company exceeding one-half of the amount of the capital and net surplus of such bank or trust company. The moneys so deposited shall be placed to the account of the commissioner who shall keep a record in which shall be entered the commissioner's accounts of deposits in, and moneys drawn from, the banks and trust companies in which the deposits shall be made. Each such bank and trust company shall transmit to the comptroller a weekly statement of the moneys which shall be received and paid by it on account of the commissioner.
-	
-	   2.   The commissioner shall draw moneys of the city from said banks or trust companies only by checks subjoined and attached to warrants and subscribed by the commissioner or by payment orders duly authorized by the comptroller and the commissioner, and no moneys shall be paid by any such banks or trust companies on account of the commissioner except upon such checks or orders; but this provision shall not apply to transfers of such funds from one city depository to another.
-	
-	   3.   The commissioner of finance, in consultation with agency heads, shall by rule establish criteria by which to evaluate whether banks are using the means at their disposal to comply with the embargo on trade and financial transactions with Burma and any other sanctions imposed by the United States government with regard to Burma, including but not limited to:
-	
-	      a.   withdrawal of operations from Burma;
-	
-	      b.   the denial of loans, letters of credit and other correspondent banking services to Burmese entities;
-	
-	      c.   restrictions on the rescheduling of loans owed by Burmese entities, and on conversion of outstanding loans to instruments having longer maturity dates; and
-	
-	      d.   divestiture of outstanding debt owed by Burmese entities.
-	
-	   The commissioner shall, after offering banks designated pursuant to section fifteen hundred twenty-four and the public an opportunity to be heard, classify such banks according to such criteria and publish notice of such classification in the City Record. The commissioner may at any time, upon the request of a bank or at his or her own initiative and after offering the public and the bank an opportunity to be heard, change the classification of a bank and publish notice of such change. The failure of a bank to provide information requested by the commissioner for the purposes of this subdivision shall be grounds for the commissioner to lower the classification of the bank. When choosing among banks offering comparable services at a comparable cost, city agencies shall, in a manner consistent with guidelines established by the commissioner of finance, seek to deposit or invest funds at, and obtain services from, the available banks that have received the highest classification.
-
-
-
-
-Section 1524.
-----------
-
-Section 1524. Deposit banks. ::
-
-
-	   1.   The banking commission which consists of the mayor, the commissioner and the comptroller shall, by majority vote, by written notice to the commissioner, designate the banks or trust companies in which all moneys of the city shall be deposited, and may by like notice in writing from time to time change the banks and trust companies thus designated. The banking commission shall notify the council within thirty days of receiving an application for designation or redesignation, and shall also notify the council within thirty days of approving or denying such application and, if designation or redesignation was denied, the basis for denial.
-	
-	   2.   a.   No bank or trust company shall be designated pursuant to this section unless:
-	
-	         (1)   it shall agree to pay into the city treasury interest or to provide the city with equivalent value on the daily balances at a rate which the banking commission shall negotiate according to the current rate of interest upon like balances deposited in banks and trust companies in the city by private persons or corporations; and
-	
-	         (2)   it shall file with the banking commission and city clerk a certificate signed by the president or other duly authorized officer of such bank setting forth that its board of directors has established and will adhere to a policy of hiring and promotion of employees and officers without regard to sex, race, color, religion, religious affiliation, national origin, disability, age, marital status, or sexual orientation, which certificate shall further set forth affirmatively the steps taken by the bank or trust company to implement said policy.
-	
-	         (3)   it does not provide the following services, either directly or through a subsidiary or agent, to the Government of Burma; (a) advertising or otherwise promoting the sale, outside of Burma, coins minted in Burma. (b) underwriting securities of the Government of Burma, or (c) making loans to the Government of Burma.
-	
-	         (4)   it has certified that neither it nor any of its affiliates is or will become a predatory lender or an affiliate thereof, as such terms are defined in section 6-128 of the administrative code of the city of New York.
-	
-	      b.   If the banking commission by a majority vote shall decide that a requirement or condition contained in paragraph a of this subdivision has been violated after giving the bank or trust company an opportunity to be heard, then upon thirty days' notice to the bank or trust company such designation may be revoked. The banking commission shall post notice of such revocation and the reason for such revocation on the department's website.
-	
-	   3.   The commissioner may, with the approval of the comptroller, make time deposits of city moneys, for a period not to exceed six months, in any bank or trust company designated for deposit of city funds. Each such bank or trust company shall before deposits are made, other than such as are of a temporary character and specifically relate to the current business of the city, execute and file with the commissioner a bond to the city in such form and in such amount as may be prescribed and approved by the commissioner and the comptroller for the safekeeping and prompt payment of city moneys on demand with interest at the rate agreed upon and, as security for such funds, shall deposit with the comptroller outstanding unmatured obligations of the United States of America, or any obligation fully guaranteed or insured as to interest and principal by the United States of America acting through an agency, subdivision, department or division thereof, obligations of the state of New York or obligations of the city of New York, the value of which at the existing prices on the open market shall be equal to the estimated amount of the proposed deposit, for which the comptroller shall deliver a certificate of deposit containing the condition of such bond.
-	
-	   4.   On the withdrawal of all or a part of the funds deposited in any depository and a closing or depleting of the account thereof, or in the event of the deposit actually made being less than the estimated amount of such deposit, the commissioner and the comptroller shall certify to such settlement or depletion of difference and direct the surrender of the whole or a proportionate share of the securities so deposited to the owner or owners thereof.
-
-
-
-
-Section 1524-a.
-----------
-
-Section 1524-a. Community investment advisory board. ::
-
-
-	   1.   There is hereby established within the department an advisory board known as the community investment advisory board, which shall perform the following functions:
-	
-	      a.   Conduct a needs assessment every two years, the first of which shall be published on the department's website on or before March 1, 2014. In conducting such needs assessment the board shall (1) assess the credit, financial and banking services needs throughout the City with a particular emphasis on low and moderate income individuals and communities, by means including but not limited to (i) convening at least one public hearing in each borough of the city; (ii) accepting, reviewing and considering public comments which describe the nature and extent of such needs; and (iii) considering the data and information collected by the board pursuant to subdivision 3 of this section; and (2) establish benchmarks, best practices, and recommendations for meeting the needs identified in such needs assessment, by, among other things, considering the data and information collected by the board pursuant to subdivision 3 of this section; and
-	
-	      b.   Issue an annual report in plain language, the first of which shall be published on the department's website and transmitted to the banking commission on or before March 1, 2015 and each March first thereafter, which may be considered by the banking commission in reviewing a bank's application for designation or redesignation as a deposit bank, covering the preceding fiscal year, which (i) addresses how each bank that is designated as a deposit bank pursuant to section 1524 of the charter is meeting the needs identified pursuant to paragraph a of this subdivision and subdivision 3 of this section, including an evaluation of how each bank performed relative to the benchmarks and best practices applicable to such bank as established by the board pursuant to the needs assessment required pursuant to paragraph a of this subdivision, (ii) identifies areas of improvement from past evaluations, where applicable, and areas where improvement is necessary, taking into account the information collected by the board pursuant to subdivision 3 of this section, (iii) specifically identifies any deposit bank's failure to provide information requested in writing by the board pursuant to subdivision 3 of this section that is applicable to such deposit bank, (iv) summarizes written comments submitted to the board pursuant to subdivision 4 of this section and the role played by such comments; and (v) summarizes, in tabular format, the data collected by the board pursuant to paragraphs a through g of subdivision 3 of this section, and to the extent not deemed confidential or proprietary by the bank, paragraph h, at the community district, borough, and citywide levels of aggregation. For purposes of this section, "fiscal year"shall mean the period from July first to June thirtieth.
-	
-	   2.   The board shall consist of eight members who shall be: the mayor or his or her designee, the comptroller or his or her designee, the speaker of the council or his or her designee, the commissioner of the department of housing preservation and development, the commissioner of the department of finance, a member of a community-based organization whose principal purpose is community and/or economic development, or consumer protection who shall be designated by the speaker, a representative of an organization or association that represents small business owners who shall be designated by the speaker and a representative of the city banking industry who shall be designated by the mayor. The mayor, comptroller, speaker and commissioners shall serve for the duration of their tenure. The three nongovernmental members shall serve four years from the date of their appointment, or through the issuance of two needs assessments pursuant to paragraph a of subdivision 1 of this section, whichever is longer, and be eligible for reappointment; provided, however, that each member shall serve until his or her qualified successor is appointed. Any vacancy occurring other than by expiration of term shall be filled in the same manner as the original position was filled for the unexpired portion of the term. Members shall serve without compensation. The members of the board shall be appointed within sixty days of the effective date of the local law that added this section.
-	
-	   3.   In performing its functions as set forth in subdivision 1 of this section, the board shall seek to collect and consider information at the census tract level, relating to the credit, financial and banking services needs throughout the City and the extent to which such needs are being met, including but not limited to, information, to the extent applicable, regarding each deposit bank's efforts to:
-	
-	      a.   address the key credit and financial services needs of small businesses;
-	
-	      b.   develop and offer financial services and products that are most needed by low and moderate income individuals and communities throughout the city and provide physical branches;
-	
-	      c.   provide funding, including construction and permanent loans and investments, for affordable housing and economic development projects in low and moderate income communities;
-	
-	      d.   In the case of properties acquired by foreclosure and owned by the bank, reasonably address serious material and health and safety deficiencies in the maintenance and condition of the property;
-	
-	      e.   conduct consumer outreach, settlement conferences, and similar actions relating to mortgage assistance and foreclosure prevention, and provide information, at the community district level to the board, relating to mortgage and foreclosure actions, including, but not limited to, total number of loans serviced and/or owned by the bank, total number of loans that are at least sixty days delinquent, total number of foreclosures commenced, total number of foreclosures prevented through loan modification, short sales, deeds in lieu of foreclosure or other mechanisms, total number of loan modifications applications, total number of loan modifications made and denied, and bank owned properties donated or sold at a discount;
-	
-	      f.   partner in the community development efforts of the city;
-	
-	      g.   positively impact on the city and its communities through activities including, but not limited to, philanthropic work and charitable giving; and
-	
-	      h.   plan for and articulate how the bank will respond to the credit, financial and banking services needs of the city identified by the needs assessment pursuant to paragraph a of subdivision 1 of this section, as applicable to the bank's type and size.
-	
-	      In performing the needs assessment pursuant to paragraph a of subdivision 1 of this section, the board shall also consider, to the extent practicable, the information listed in paragraphs a through g of this subdivision relating to the efforts of the city's banking industry as a whole.
-	
-	   4.   In preparation for each annual report pursuant to paragraph b of subdivision 1 of this section, the board shall publish all information collected pursuant to paragraphs a through g of subdivision 3 of this section, and to the extent not deemed confidential or proprietary by the bank, paragraph h, summarized at the community district, borough, and citywide levels of aggregation, for each deposit bank on the department's website no later than November first of the year preceding the issuance of the report. At least thirty days after such publication, but no later than December fifteenth, the board shall hold a public hearing at which the public may testify concerning the efforts and extent to which the deposit banks are meaningfully addressing the credit and financial needs throughout the city. The board shall also take written comments for at least thirty days preceding such public hearing.
-	
-	   5.   On or before March 1, 2013 and on or before March 1, 2014, the board shall publish on the department's website, for each deposit bank, the information collected pursuant to paragraphs a through g of subdivision 3 of this section, and to the extent not deemed confidential or proprietary by the bank, paragraph h, summarized at the community district, borough, and citywide levels of aggregation. Each such publication of information shall specifically identify any deposit bank's failure to provide information requested in writing by the board pursuant to subdivision 3 of this section that is applicable to such deposit bank.
-
-
-
-
-Section 1525.
-----------
-
-Section 1525. City register. ::
-
-
-	   1.   There shall be within the department a city register who shall be appointed by the mayor.
-	
-	   2.   The functions, powers and duties formerly exercised by the registers or registrars of the several counties shall remain with the city register.
-
-
-
-
-Section 1526.
-----------
-
-Section 1526. Office of city sheriff. ::
-
-
-	   1.   There shall be within the department an office of the city sheriff which shall be subject to the supervision and control of the commissioner of finance. Notwithstanding any other provision of law, the commissioner of finance may exercise or assign within the department such management functions of the office of the sheriff, including but not limited to those functions related to the appointment and removal of deputy sheriffs and other personnel of such office pursuant to the civil service law, as he or she may deem appropriate to achieve effective and efficient functioning and management of such office.
-	
-	   2.   Except as otherwise provided by law, the city sheriff shall exercise the functions, powers and duties formerly exercised by the sheriffs of the several counties.
-
-
-
-
-Section 1527.
-----------
-
-Section 1527. Contracts with collection agencies. ::
-
-
-	   1.   Notwithstanding any other provisions of law to the contrary, the commissioner may enter into contracts with collection agencies for the collection of (i) any or all tax warrants and judgments for all city taxes subject to collection by the department, other than real property taxes, or (ii) city water and sewer charges, or both; provided however, that any such contract shall be subject to the provisions of sections three hundred twelve and three hundred thirteen.
-	
-	   2.   Any such contract shall apply only to such tax warrants and judgments and to such water and sewer charges as the commissioner may refer to the collection agency, and shall be terminable at the will of the commissioner.
-	
-	   3.   The consideration to be paid to such collection agency may be a percentage or percentages of the amount collected by such agency, or as otherwise provided in the contract, but shall be within the amount appropriated and available for such purpose.
-	
-	   4.   No legal action to collect tax warrants and judgments or water and sewer charges under any contract entered into pursuant to this section shall be initiated without the express written permission of the corporation counsel, and the selection of any attorney to take such legal action shall be subject to the approval of the corporation counsel.
-	
-	   5.   Before beginning performance of a contract authorized by subdivision one of this section, the contracting collection agency shall give security for faithful performance and shall provide such insurance policies, including but not limited to a comprehensive general liability insurance, naming the city as a party in interest, as the commissioner may require. The adequacy and sufficiency of such security and insurance policies, as well as the justification and acknowledgement thereof, shall be subject to the approval of the comptroller. The commissioner, in his or her discretion, may require additional security or insurance in such amounts and running to such city officers and employees as the commissioner may require, to indemnify them for any liability incurred by reason of any act or omission of such collection agency.
-	
-	   6.   No contract entered into pursuant to this section may be so worded as to grant to any contracting collection agency the exclusive right to perform any work authorized by this section.
+	   This charter shall be known and may be cited as "The New York city charter."
 
 
 

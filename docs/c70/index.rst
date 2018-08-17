@@ -1,83 +1,170 @@
-Chapter 70 - City Government In the Community
+Chapter 67: Department of Cultural Affairs
 =================
-Section 2800.
+Section 2501.
 ----------
 
-Section 2800. Community boards. ::
+Section 2501. Department; commissioner. ::
 
 
-	   a.   For each community district created pursuant to chapter sixty-nine there shall be a community board which shall consist of (1) not more than fifty persons appointed by the borough president for staggered terms of two years, at least one-half of whom shall be appointed from nominees of the council members elected from council districts which include any part of the community district, and (2) all such council members as non-voting members. The number of members appointed on the nomination of each such council member shall be proportional to the share of the district population represented by such council member. The city planning commission, after each council redistricting pursuant to chapter two-A, and after each community redistricting pursuant to section twenty-seven hundred two, shall determine the proportion of the community district's population represented by each council member. Copies of such determinations shall be filed with the appropriate borough president, community board, and council member. One-half of the members appointed to any community board shall serve for a term of two years beginning on the first day of April in each odd-numbered year in which they take office and one half of the members appointed to any community board shall serve for a term of two years beginning on the first day of April in each even-numbered year in which they take office. Members shall serve until their successors are appointed but no member may serve for more than sixty days after the expiration of his or her original term unless reappointed by the borough president. Not more than twenty-five percent of the appointed members shall be city employees. No person shall be appointed to or remain as a member of the board who does not have a residence, business, professional or other significant interest in the district. The borough president shall assure adequate representation from the different geographic sections and neighborhoods within the community district. In making such appointments, the borough president shall consider whether the aggregate of appointments fairly represents all segments of the community. Community boards, civic groups and other community groups and neighborhood associations may submit nominations to the borough president and to council members.
-	
-	   b.   An appointed member may be removed from a community board for cause, which shall include substantial nonattendance at board or committee meetings over a period of six months, by the borough president or by a majority vote of the community board. Vacancies among the appointed members shall be filled promptly upon the occurrence of the vacancy by the borough president for the remainder of the unexpired term in the same manner as regular appointments.
-	
-	   c.   Members of community boards shall serve as such without compensation but shall be reimbursed for actual and necessary out-of-pocket expenses in connection with attendance at regularly scheduled meetings of the community board.
-	
-	   d.   Each community board shall:
-	
-	      (1)   Consider the needs of the district which it serves;
-	
-	      (2)   Cooperate with, consult, assist and advise any public officer, agency, local administrators of agencies, legislative body, or the borough president with respect to any matter relating to the welfare of the district and its residents;
-	
-	      (3)   At its discretion hold public or private hearings or investigations with respect to any matter relating to the welfare of the district and its residents, but the board shall take action only at a meeting open to the public;
-	
-	      (4)   Assist city departments and agencies in communicating with and transmitting information to the people of the district;
-	
-	      (5)   Cooperate with the boards of other districts with respect to matters of common concern;
-	
-	      (6)   Render an annual report to the mayor, the council and the borough board within three months of the end of each year and such other reports to the mayor or the borough board as they shall require (such reports or summaries thereof to be published in the City Record);
-	
-	      (7)   Elect its own officers; adopt, and make available for reasonable public inspection, by-laws and statements of the duties assigned by the board to its district manager and other professional staff appointed pursuant to subdivision f of this section; and keep a public record of its activities and transactions, including minutes of its meetings, majority and minority reports, and all documents the board is required by law to review, which shall be made available, in accordance with law, to elected officials upon request and for reasonable public inspection;
-	
-	      (8)   Request the attendance of agency representatives at meetings of the community board;
-	
-	      (9)   Prepare comprehensive and special purpose plans for the growth, improvement and development of the community district;
-	
-	      (10)   Prepare and submit to the mayor, on or before a date established by the mayor, an annual statement of community district needs, including a brief description of the district, the board's assessment of its current and probable future needs, and its recommendations for programs, projects, or activities to meet those needs;
-	
-	      (11)   Consult with agencies on the capital needs of the district, review departmental estimates, hold public hearings on such needs and estimates and prepare and submit to the mayor capital budget priorities for the next fiscal year and the three succeeding fiscal years;
-	
-	      (12)   Conduct public hearings and submit recommendations and priorities to the mayor, the council and the city planning commission on the allocation and use within the district of funds earmarked for community development activities under city, state or federal programs;
-	
-	      (13)   Consult with agencies on the program needs of the community district to be funded from the expense budget, review departmental estimates, hold public hearings on such needs and estimates, and prepare and submit to the mayor expense budget priorities for the next fiscal year;
-	
-	      (14)   Assist in the planning of individual capital projects funded in the capital budget to be located in the community district and review scopes of projects and designs for each capital project provided, however, that such review shall be completed within thirty days after receipt of such scopes or designs;
-	
-	      (15)   Evaluate the progress of capital projects within the community district based on status reports to be furnished to the board;
-	
-	      (16)   Be authorized to assign a representative to attend any meeting held by a city agency to determine, in advance of drafting, the form and content of any environmental impact statement required by law for a proposal or application for a project in such board's district;
-	
-	      (17)   Exercise the initial review of applications and proposals of public agencies and private entities for the use, development or improvement of land located in the community district, including the conduct of a public hearing and the preparation and submission to the city planning commission of a written recommendation;
-	
-	      (18)   Assist agencies in the preparation of service statements of agency objectives, priorities, programs and projected activities within the community district and review such statements;
-	
-	      (19)   Evaluate the quality and quantity of services provided by agencies within the community district;
-	
-	      (20)   Within budgetary appropriations for such purposes, disseminate information about city services and programs, process complaints, requests, and inquiries of residents of the community district; and
-	
-	      (21)   Conduct substantial public outreach, including identifying the organizations active in the community district, maintaining a list of the names and mailing addresses of such community organizations, and making such names and, with the consent of the organization, mailing addresses available to the public upon request.
-	
-	   e.   Each agency shall furnish promptly to each community board on request any information or assistance necessary for the board's work. Each agency shall also report periodically to each board on its service activities programs and operations within the community district.
-	
-	   f.   Each community board, within the budgetary appropriations therefor, shall appoint a district manager and shall be authorized to utilize the services of such other professional staff and consultants, including planners and other experts, as it may deem appropriate, all of whom shall serve at the pleasure of the community board and shall provide the board with the staff support and technical assistance it requires to fulfill the duties assigned to it by this charter or other law. The district manager shall (1) have responsibility for processing service complaints, (2) preside at meetings of the district service cabinet and (3) perform such other duties as are assigned by the community board in accordance with the statement of duties required by paragraph seven of subdivision d of this section. One of the board members shall be elected by the other members to serve as chairperson. The chairperson shall use no title other than chair or chairperson of the community board and the other members shall use no title other than member of the community board or community board member, except that any member who is elected or appointed to an official position on the board, including but not limited to, vice-chairperson, secretary, treasurer, or chair of a committee or subcommittee of the board shall be allowed to use such title when acting in such capacity. The department of investigation shall investigate any allegations concerning the misuse of a community board title and shall report its findings to the mayor, the council and the borough president in whose borough the community board is located. The knowing and intentional use of an improper title by any member of a community board shall be punishable by a civil penalty of not less than one hundred dollars nor more than two hundred and fifty dollars for every infraction thereof. The chairperson of the community board or his or her representative shall be a member of the district service cabinet. A member of a community board shall be eligible for appointment to the position of district manager provided that such member does not participate in any manner in the selection of the district manager by the board and resigns as a member of any board prior to or upon assuming the duties of district manager.
-	
-	   g.   Each community board may employ such other assistants as it may require within budgeted appropriations for such purposes or funds contributed for such purpose. Any funds appropriated by the city to enable the community boards to conduct their duties and responsibilities pursuant to this chapter shall be allocated directly to each board subject to the terms and conditions of such appropriations. The basic budget appropriation for the personal service and other than personal service needs of each community board shall not include rent. Within reasonable limits appropriate to each board's location, rent shall be separately appropriated for the board.
-	
-	   h.   Except during the months of July and August, each community board shall meet at least once each month within the community district and conduct at least one public hearing each month. Notwithstanding the foregoing, a community board shall be required to meet for purposes of reviewing the scope or design of a capital project located within such community board's district when such scope or design is presented to the community board. Such review shall be completed within thirty days after receipt of such scope or design. Each board shall give adequate public notice of its meetings and hearings and shall make such meetings and hearings available for broadcasting and cablecasting. At each public meeting, the board shall set aside time to hear from the public. The borough president shall provide each board with a meeting place if requested by the board.
-	
-	   i.   Each community board may create committees on matters relating to its duties and responsibilities. It may include on such committees persons with a residence or significant interest in the community who are not members of the board, but each such committee shall have a member of the board as its chairperson. Except as otherwise provided by law, meetings of such committees shall be open to the public.
+	   There shall be a department of cultural affairs, the head of which shall be the commissioner of cultural affairs.
 
 
 
 
-Section 2801.
+Section 2502.
 ----------
 
-Section 2801. Actions of community boards. ::
+Section 2502. Deputies. ::
 
 
-	   a.   A majority of the appointed members of any community board shall constitute a quorum of such board.
+	   The commissioner may appoint a deputy.
+
+
+
+
+Section 2503.
+----------
+
+Section 2503. Powers and duties of commissioner. ::
+
+
+	   Except as otherwise provided by law, the commissioner shall have the power and duty:
 	
-	   b.   Whenever any act is authorized to be done or any determination or decision made by any community board, the act, determination or decision of the majority of the members present entitled to vote during the presence of a quorum, shall be held to be the act, determination or decision of such board.
+	      (a)   to plan, acquire, design, construct, improve and manage facilities for the conduct of cultural activities by the city and, to the extent possible, to use the resources of other agencies to perform design and planning functions subject to the approval of such agencies;
+	
+	      (b)   to plan, develop, conduct and supervise such cultural activities; and
+	
+	      (c)   to foster coordination among city, state and federal agencies, other organizations and institutions with respect to cultural activities in the city.
+
+
+
+
+Section 2504.
+----------
+
+Section 2504. Budget estimates of cultural institutions. ::
+
+
+	   The capital and expense budget estimates, to the extent involving expenditures to be paid from the city treasury, of all institutions or other organizations engaging in cultural activities in the city, shall be submitted to the commissioner, who shall submit such expense budget estimates to the director of management and budget and such capital budget estimates to the mayor, the borough presidents, the council, and the city planning commission in accordance with law, together with the commissioner's recommendations.
+
+
+
+
+Section 2505.
+----------
+
+Section 2505. Cultural affairs advisory commission. ::
+
+
+	   1.   There shall be in the department a cultural affairs advisory commission consisting of not fewer than fifteen nor more than twenty-one members, exclusive of a deputy mayor, the commissioner of cultural affairs, and the commissioner of parks and recreation, who shall serve as ex-officio members. The members of the advisory commission shall serve without compensation.
+	
+	   2.   a.   Members other than ex-officio members shall be appointed by the mayor for a term of three years and provided that of those members first taking office one-third shall serve for one year, one-third shall serve for two years and the remainder shall serve for three years. Notwithstanding the date of appointment, the terms of members first taking office shall be deemed to commence on the effective date of this chapter.
+	
+	      b.   The mayor shall designate one of the members of the commission to be chairman and one to be vice-chairman.
+	
+	   3.   The commission shall advise the commissioner and the mayor with respect to cultural activities in the city and in furtherance of this function shall:
+	
+	      a.   formulate and recommend goals with regard to cultural activities and policy;
+	
+	      b.   foster coordination among city, state and federal agencies and other organizations and institutions with respect to cultural activities;
+	
+	      c.   compile data and reports and submit its findings to the commissioner and the mayor; and
+	
+	      d.   perform such other related functions and duties which may, from time to time, be deemed appropriate by the mayor.
+	
+	   4.   All city agencies are directed to cooperate with the commission, consistent with the law, in order to coordinate and promote cultural activities in this city.
+
+
+
+
+Section 2506.
+----------
+
+Section 2506. Cultural plan. ::
+
+
+	   1.   On or before July 1, 2017, the commissioner shall submit to the mayor and speaker of the council and post on the department's website a comprehensive cultural plan. The department shall be the primary agency responsible for developing, implementing, and overseeing the cultural plan.
+	
+	   2.   The cultural affairs advisory commission shall advise the department with respect to the cultural plan in accordance with section twenty-five hundred five of this charter.
+	
+	   3.   The department shall establish a citizens' advisory committee to advise the department with respect to the development of the cultural plan, gathering community input for such plan, and how to implement such plan. The commissioner shall determine the size and composition of such committee consistent with the provisions set forth in paragraph a of this subdivision.
+	
+	      a.   The citizens' advisory committee shall consist of a minimum of twelve members. Each borough president shall appoint one member, the speaker of the council shall appoint at least three members, and the mayor shall appoint at least three members, provided that the speaker and mayor shall have an equal number of appointments, exclusive of the chair of such committee who shall be appointed by the commissioner. Such committee shall consist of members whose backgrounds and experiences are relevant to the plan and who collectively represent a variety of interests relevant to the plan. The members appointed by the speaker of the council shall include at least one representative of a cultural institution that is a member of the Cultural Institutions Group and at least two members meeting the following description: a representative of a community-based organization whose principal purpose is the promotion or support of cultural activities; an individual with background and experience in business; an individual with background and experience in real estate; a representative of a charitable organization; an individual with background and experience in public housing; or a representative of a borough arts council. All committee members shall serve without compensation.
+	
+	      b.   Appointments to the citizens' advisory committee shall occur not more than ninety days after the effective date of this section. Any vacancy in membership shall be filled in the same manner as the original appointment.
+	
+	      c.   Prior to the submission of the cultural plan, the citizens' advisory committee shall meet as often as needed, as determined by the committee in consultation with the department, but not less than quarterly. Following the submission of the cultural plan, and subject to the provisions of paragraph d of this subdivision, the citizens' advisory committee shall meet as needed, but not more than semiannually, to review the biannual reports required pursuant to subdivision nine of this section.
+	
+	      d.   The citizens' advisory committee shall cease to exist following its submission to the commissioner of any recommendations it may make following its review of the second biannual report required pursuant to subdivision nine of this section, or five years following the submission of the cultural plan, whichever is shorter.
+	
+	   4.   The cultural plan shall address, but not be limited to:
+	
+	      a.   the availability and distribution of cultural activities throughout the city;
+	
+	      b.   the relationship between cultural activities and social and economic health and welfare in the city;
+	
+	      c.   the role of the community outreach process in the development of the plan;
+	
+	      d.   feedback from a robust community outreach process;
+	
+	      e.   the needs of artists with respect to affordable housing and affordable long-term and temporary studio, office, and rehearsal space;
+	
+	      f.   increasing arts education and cultural activities in the schools of the city school district;
+	
+	      g.   how cultural activities can be incorporated into community development, economic development and land use planning processes and policies;
+	
+	      h.   the needs of artists and communities with respect to the creation of public art in public settings; and
+	
+	      i.   a plan of how city agencies will coordinate with respect to cultural activities, as consistent with the law.
+	
+	   5.   The cultural plan may refer to data sets relevant to the plan.
+	
+	   6.   The cultural plan shall, where feasible, utilize technology to enhance outreach and communication of the planning process.
+	
+	   7.   All recommendations, initiatives, and priorities included in the cultural plan shall be designated, if known, as short-, medium-, or long-term.
+	
+	   8.   The department and other relevant agencies shall consider the conclusions and recommendations in the cultural plan and may act upon such recommendations as appropriate.
+	
+	   9.   Beginning two years following the submission of the cultural plan and every two years thereafter, the department shall submit to the mayor and the speaker a report detailing progress made on the recommendations, initiatives and priorities that result from such plan. The cultural affairs advisory commission and the citizens' advisory committee, during such committee's existence, shall review such biannual report and may make recommendations to the commissioner. The commissioner shall consider any recommendations received from the cultural affairs advisory commission and the citizens' advisory committee.
+	
+	   10.   The cultural plan may be revised as appropriate every ten years.
+
+
+
+
+Section 2507.
+----------
+
+Section 2507. Data on cultural institutions group. ::
+
+
+	   1.   For purposes of this section:
+	
+	      Cultural institutions group. The term "cultural institutions group" means the group of cultural institutions that operate on city-owned property and are recognized by the department as members of such group.
+	
+	      Public school student. The term "public school student" means any pupil under the age of 21 who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York or a charter school that is located within the city of New York, not including pre-kindergarten students.
+	
+	      Non-public school student. The term "non-public school student" means any pupil under the age of 21 who does not meet the definition of public school student in this paragraph, who does not have a high school diploma, and who is enrolled in a school serving students in the elementary, middle or high school grades, or any combination thereof, that is located within the city of New York, not including pre-kindergarten students.
+	
+	   2.   No later than September 17, 2017, and annually no later than September 17 of each year, the department shall send to the council, or shall include in the mayor's management report prepared pursuant to section 12 of the charter, data in the aggregate regarding the cultural institutions group to the extent such data is made available to the department, including at a minimum:
+	
+	      a.   total visitor attendance;
+	
+	      b.   number of free or reduced-price visits;
+	
+	      c.   total attendance by public school students through school-organized visits;
+	
+	      d.   total attendance by non-public school students through school-organized visits;
+	
+	      e.   number of partnerships with public schools;
+	
+	      f.   total number of free admission hours;
+	
+	      g.   number of programs, such as performances, exhibitions, and lectures, related to the cultural institution's mission or discipline and targeted to a general audience; and
+	
+	      h.   number of programs that are targeted to or designed to reach specific groups of people including, but not limited to, seniors or youth.
+	
+	
 
 
 

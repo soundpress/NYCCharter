@@ -1,97 +1,115 @@
-Chapter 54 - Collective Bargaining
+Chapter 48: Department of Information Technology and Telecommunications
 =================
-Section 1170.
+Section 1070.
 ----------
 
-Section 1170. Office of collective bargaining; director. ::
+Section 1070. Department; commissioner. ::
 
 
-	   There shall be an office of collective bargaining, the head of which shall be the director of such office, who shall be the person holding the office of chairman of the board of collective bargaining. The director may appoint, and at pleasure remove, two deputies.
+	   There shall be a department of information technology and telecommunications the head of which shall be the commissioner of information technology and telecommunications and the chief information officer of the city.
 
 
 
 
-Section 1171.
+Section 1071.
 ----------
 
-Section 1171. Board of collective bargaining. ::
+Section 1071. Deputies. ::
 
 
-	   There shall be in the office of collective bargaining a board of collective bargaining, which shall consist of seven members. Two members of the board shall be city members, two members of the board shall be labor members, and three members of the board, of whom one shall be chairman, shall be impartial members. The mayor shall have the power to appoint the city members of the board to serve at his pleasure, and the labor members of the board from designations by the municipal labor committee. Each labor and city member shall have an alternate, who shall be appointed and removed in the same manner as the member for whom he is the alternate. The chairman and other impartial members shall be elected by the unanimous vote of the city and labor members, and shall serve for three year terms, provided, that of the impartial members first elected, the chairman shall serve for a term ending on January first, nineteen hundred seventy, one member shall serve for a term ending on January first nineteen hundred sixty-nine, and one member shall serve for a term ending on January first, nineteen hundred sixty-eight.
+	   The commissioner may appoint four deputies, one of whom may be designated the first deputy commissioner.
+
+
+
+
+Section 1072.
+----------
+
+Section 1072. Powers and duties of the department. ::
+
+
+	   Except as otherwise provided by law, the department shall have the following powers and duties:
 	
-	   Notwithstanding any other provision of law, a labor member may not be removed from the board except upon request of the municipal labor committee, or except for cause, as hereinafter provided. Any member may be removed for cause by a majority of the entire board, including at least one city member and one labor member, after having been given a copy of the charges against him and an opportunity to be heard in person or by counsel in his defense upon not less than ten days' notice. Vacancies in the office of a city member or a labor member shall be filled in the same manner as herein provided for appointment. Vacancies in the office of an impartial member occurring otherwise than by expiration of term shall be filled by unanimous vote of the city and labor members for the unexpired balance of the term.
-
-
-
-
-Section 1172.
-----------
-
-Section 1172. Board of certification. ::
-
-
-	   There shall be in the office of collective bargaining a board of certification, which shall consist of the impartial members of the board of collective bargaining. The chairman of the board of certification shall be the person who is chairman of the board of collective bargaining.
-
-
-
-
-Section 1173.
-----------
-
-Section 1173. Powers and duties. ::
-
-
-	   The office of collective bargaining, the board of collective bargaining and the board of certification shall have such powers and duties with respect to labor relations and collective bargaining as shall be prescribed by law.
-
-
-
-
-Section 1174.
-----------
-
-Section 1174. Compensation. ::
-
-
-	   a.   Board of collective bargaining: board of certification; director. The city members and the labor members of the board of collective bargaining and their alternates shall serve without compensation. The director shall be salaried for his or her services as director, chair of the board of collective bargaining, and chair of the board of certification. The impartial members, excluding the director, shall be paid a per diem fee to be determined by the city members and labor members of the board of collective bargaining. The director and all members of both such boards and their alternates shall be entitled to receive reimbursement for their actual and necessary expenses incurred in the performance of their duties. Fifty per cent of the salary, fees, and expenses provided for in this subdivision shall be paid by members of the municipal committee, under rules and regulations issued by the board of collective bargaining, which rules may provide how such costs shall be distributed among such members.
+	      a.   to plan, formulate, coordinate and advance information technology and telecommunications policies for the city;
 	
-	   b.   Members of mediation and impasse panels; arbitrators. Members of mediation and impasse panels, and arbitrators, shall be paid a per diem fee to be determined by the board of collective bargaining, unless the parties to the particular dispute shall have agreed to a different fee, and shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties. The public employer and public employee organization which are parties to the particular negotiation or grievance shall each pay fifty percent of such fees and expenses and related expenses incidental to the handling of deadlocked negotiations and unresolved grievances.
+	      b.   to develop, maintain and implement a long range telecommunications strategy;
 	
-	   c.   Appointment of counsel and attorneys. The director may appoint a counsel and attorneys, who, at the direction of the board of certification or the board of collective bargaining may appear for and represent the office of collective bargaining or either of the aforesaid boards in any legal proceeding.
-
-
-
-
-Section 1175.
-----------
-
-Section 1175. Publication of collective bargaining agreements. ::
-
-
-	   Not later than sixty calendar days after the execution of a collective bargaining agreement, a copy shall be published in the City Record together with a statement by the mayor (1) of the total costs and current and future budgetary and economic consequences of the agreement and (2) of the implications and likely impact of the agreement on the efficient management of city agencies and the productivity of city employees.
-
-
-
-
-Section 1176.
-----------
-
-Section 1176. Budgeting for agreements. ::
-
-
-	   a.   So far as practicable, each collective bargaining agreement covering city employees shall be executed prior to the commencement of the fiscal year during which its provisions shall first be in effect.
+	      c.   to administer all franchises and revocable consents relating to telecommunications pursuant to the provisions of chapter fourteen, including, without limitation, proposing authorizing resolutions for telecommunications franchises, developing and issuing requests for proposals or other solicitations of proposals for telecommunications franchises, selecting telecommunications franchisees, reviewing and approving petitions for revocable consents relating to telecommunications, negotiating the terms of contracts or other agreements relating to telecommunications franchises and revocable consents, and enforcing the terms and conditions of such agreements;
 	
-	   b.   No part of any retroactive wage or salary settlement shall be charged to the capital budget.
+	      d.   to develop municipal uses of cable television and coordinate interagency uses of cable television and other telecommunications;
+	
+	      e.   to ensure that priority is given on at least one municipal channel to the cable casting of the public proceedings of the council and its committees, the city planning commission and other state and city agencies;
+	
+	      f.   to provide to city agencies such land-based and wireless voice, data, video or other communications facilities, and technical assistance or other assistance with respect to such facilities, as they may require for the effective discharge of their responsibilities;
+	
+	      g.   to participate in developing, maintaining and implementing a long-range computer system and data communications strategy for the city of New York;
+	
+	      h.   to assist in providing interagency coordination on matters related to data communications activities and interfacing of computers;
+	
+	      i.   to provide appropriate, reliable, cost-effective and responsive computer and data communications services to agencies that require such services by purchasing and maintaining hardware, software and such other goods and services as may be necessary to effectively discharge the powers and duties of the department;
+	
+	      j.   to provide assistance to agencies in meeting their data processing and data communications objectives;
+	
+	      k.   to provide agencies using or proposing to use the services of this department with technical assistance in determining feasibility and resource requirements;
+	
+	      l.   to simplify access to shared information, reduce communication costs and provide access to multiple computer systems by connecting computers and terminals of various city agencies, and of other public entities requesting such connection where such provision to such other entities would in the judgment of the commissioner be in the city's interests;
+	
+	      m.   to plan and provide telecommunications coordination in support of disaster recovery;
+	
+	      n.   to ensure security for data and other information handled by this department;
+	
+	      o.   to institute procedures to assure restrictions of access to information to the appropriate individuals, where such restrictions is required by law;
+	
+	      p.   to perform such other responsibilities with respect to information technology and telecommunications matters, including responsibilities delegated elsewhere by the charter, as the mayor shall direct;
+	
+	      q.   to provide to the public at no charge on the city's website an interactive map, updated as often as practicable and necessary but not less than once per week, displaying the following:
+	
+	         1.   Permitted and approved street closures that do not allow for the passage of vehicular traffic on that street, including but not limited to closures for special events, crane operations and other construction work, film shoots and paving operations; and
+	
+	         2.   Parking regulations. The information related to paragraph (1) of this subdivision shall be searchable and sortable by time, date and borough, except that street closures for crane operations, construction work and paving operations shall have the notation "subject to closure" during times where closure has been permitted and approved but where such closure may or may not occur on a particular day. All information required by this subdivision shall be available on the city's website as soon as practicable but in no case less than one week prior to any such closure or change, except closures which were applied for or planned less than one week prior to any such closure or change, which shall be available on such interactive map within seventy-two hours of the permit and approval of such closure. Where a permitted and approved street closure is due to a special event, the sponsor of the event with appropriate contact information shall be provided as part of such interactive map. For the purposes of this subdivision, special event shall mean any street fair, block party or festival on a public street(s) where such activity may interfere with or obstruct the normal use by vehicular traffic of such street(s); and
+	
+	      r.   to provide to the public, at no charge on the city's website, an interactive crime map that, for each segment of a street bounded by one or more intersections and/or a terminus, shall visually display the aggregate monthly, yearly and year-to-date totals for the current and the most recent prior calendar years for each class of crime that is reported to the New York city police department, or for which an arrest was made, including crimes that occurred in parks and subway stations. Such map shall be searchable by address, zip code, and patrol precinct. All information required by this subdivision shall be available on the city's website as soon as practicable but in no case more than one month after a crime complaint has been filed. The mayor shall ensure that all agencies provide the department with such assistance and information as the department requires to compile and update the interactive crime map.
 
 
 
 
-Section 1177.
+Section 1073.
 ----------
 
-Section 1177. Agency participation. ::
+Section 1073. [Emergency communications systems of other agencies.] ::
 
 
-	   The heads of city agencies or their designated representatives shall participate in the development of the city's position with respect to work rules and practices and other matters affecting the management of each agency in advance of collective bargaining negotiations affecting employees of an agency.
+	   With respect to emergency communications systems and emergency communications facilities administered by another agency, the department shall exercise its powers and duties only as the mayor shall direct pursuant to subdivision p of section 1072 of this chapter, or at the request of such agency.
+
+
+
+
+Section 1074.
+----------
+
+Section 1074. Telecommunications. ::
+
+
+	   "Telecommunications" shall mean the transmission of writings, signals, pictures, numbers and sounds or intelligence of all kinds by aid of wire, cable, optical fiber, radio, satellite, electromagnetic wave, microwave or other like connection between points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus and services incidental to such transmission.
+
+
+
+
+Section 1075.
+----------
+
+Section 1075. 311 citizen service center reports. ::
+
+
+	   a.   Definitions. For the purposes of this section, the term "department" shall mean the department of information technology and telecommunications. The term "directory assistance call" shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the directory assistance category. The term "request for service" shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the request for service category.
+	
+	   b.   Within seven business days from the end of each month, the department shall submit in electronic format to the speaker of the council, the public advocate and each community board, and shall make available on the city's official website, a report regarding requests for service received by the 311 citizen service center since April 1, 2004, disaggregated on a month-by-month and fiscal year-by-year basis. Such report shall include, but not be limited to, the following information: (1) the total number of requests for service received in each request for service category by each agency or agencies to which the requests for service were directed; (2) the total number of requests for service received in each resolution status category by each request for service category and by each agency or agencies to which the requests for service were directed, where such information can be directly accessed by the 311 citizen service system; and (3) the average resolution time for each request for service category by the agency or agencies to which requests for service were directed, where such information can be directly accessed by the 311 citizen service system. The data contained in the report shall be provided citywide and disaggregated by zip code, community district, council district and borough.
+	
+	   c.   Within seven business days from the end of each month, the department shall submit in electronic format to the speaker of the council, the public advocate and each community board and shall make available on the city's official website a report regarding directory assistance calls received by the 311 citizen service center since April 1, 2004, disaggregated on a month-by-month and fiscal year-by-year basis. Such report shall include, but not be limited to, the following information: the total number of directory assistance calls received for each directory assistance category by each agency or agencies to which the directory assistance calls were directed.
+	
+	   d.   Within seven business days from the end of each month, the department shall submit in electronic format to each community board a list setting forth all requests for service that were identified to have occurred in the respective community district received by the 311 citizen service center during the immediately preceding month, as well as all unresolved requests for service from prior months. Such report shall include, but not be limited to, the following information for each request for service: (1) the request for service category; (2) the agency or agencies to which the request for service was directed; and, (3) the current status of the request for service, where such information can be directly accessed by the 311 citizen service system.
+	
+	   e.   The department shall convene a quarterly meeting of representatives from each of the community boards within the city to discuss the content and format of the reports required to be prepared pursuant to this chapter.
 
 
 

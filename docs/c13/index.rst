@@ -1,487 +1,306 @@
-Chapter 13 - Procurement
+Chapter 12: Obligations of the City
 =================
-Section 310.
+Section 265.
 ----------
 
-Section 310. Scope. ::
+Section 265. Allocation of authorizations to department of citywide administrative services. ::
 
 
-	   Except as otherwise provided in this charter or by statute,
-	
-	      1.   all goods, services or construction to be paid for out of the city treasury or out of moneys under the control of or assessed or collected by the city shall be procured as prescribed in this chapter; provided, however, that for (i) the office of an independently elected city official, or (ii) the council, where the provisions of this chapter require action by the mayor or an appointee of the mayor in regard to a particular procurement except for mayoral action pursuant to subdivision c of section three hundred thirty-four, such action shall not be taken by the mayor or such appointee of the mayor, but shall be taken respectively, by (i) by such elected official or (ii) the speaker of the council, or another member of the council designated by the speaker with the approval of a majority of the members of the council, and
-	
-	      2.   all goods, services or construction to be procured by an entity, the majority of the members of whose board are city officials or are individuals appointed directly or indirectly by city officials shall be procured as prescribed in this chapter; provided, however, that where the provisions of this chapter require action by the mayor or an appointee of the mayor in regard to a particular procurement except for mayoral action pursuant to subdivision c of section three hundred thirty-four, such action shall not be taken by the mayor or such appointee of the mayor, but shall be taken by the governing board of such entity or by the chair of the board or chief executive officer of such entity pursuant to a resolution adopted by such board delegating such authority to such officer.
+	   So much of the amount of any obligation authorized as is applicable to the purchase of supplies, materials and equipment or the provision of services, utilities or facilities which the department of citywide administrative services is authorized to purchase or provide shall be allotted to the department of citywide administrative services, but shall be considered and accounted for as a part of the cost of the project for which the obligations were authorized.
 
 
 
 
-Section 311.
+Section 265-a.
 ----------
 
-Section 311. Procurement Policy Board. ::
+Section 265-a. Allocation of authorizations to department of design and construction. ::
 
 
-	   a.   There shall be a procurement policy board consisting of five members, three of whom shall be appointed by the mayor and two of whom shall be appointed by the comptroller. Each member shall serve at the pleasure of the appointing official. Members shall have demonstrated sufficient business or professional experience to discharge the functions of the board. At least one member appointed by the mayor and one member appointed by the comptroller shall not hold any other public office or public employment. The remaining members shall not be prohibited from holding any other public office or employment provided that no member may have substantial authority for the procurement of goods, services or construction pursuant to this chapter. The mayor shall designate the chair.
-	
-	   b.   The board shall promulgate rules as required by this chapter, including rules establishing:
-	
-	      1.   the methods for soliciting bids or proposals and awarding contracts, consistent with the provisions of this chapter;
-	
-	      2.   the manner in which agencies shall administer contracts and oversee the performance of contracts and contractors;
-	
-	      3.   standards and procedures to be used in determining whether bidders are responsible;
-	
-	      4.   the circumstances under which procurement may be used for the provision of technical, consultant or personal services, which shall include but not be limited to, circumstances where the use of procurement is (a) desirable to develop, maintain or strengthen the relationships between non-profit and charitable organizations and the communities where services are to be provided, (b) cost-effective, or (c) necessary to (i) obtain special expertise, (ii) obtain personnel or expertise not available in the agency, (iii) to provide a service not needed on a long-term basis, (iv) accomplish work within a limited amount of time, or (v) avoid a conflict of interest;
-	
-	      5.   the form and content of the files which agencies are required to maintain pursuant to section three hundred thirty-four and such other contract records as the board deems necessary and appropriate;
-	
-	      6.   the time schedules within which city officials shall be required to take the actions required by this chapter, sections thirteen hundred four and thirteen hundred five, or by any rule issued pursuant thereto, in order for contracts to be entered into, registered or otherwise approved, and time schedules within which city officials should take action pursuant to any other provision of law or rule regarding individual contracts, which rules shall specify the appropriate remedies, including monetary remedies, for failure to meet the terms of any applicable schedule for taking such actions. The board may set forth exceptions to these rules. The promulgation of rules defining time schedules for actions by the division of economic and financial opportunity of the department of small business services and the division of labor services of such department shall require the approval of each division, as such rules pertain to actions required of such divisions, prior to the adoption of such rules by the procurement policy board;
-	
-	      7.   procedures for the fair and equitable resolution of contract disputes; and
-	
-	      8.   rules relating to the making of small purchases in a manner that will advance the purposes of the program for minority- and women-owned business enterprises and emerging business enterprises established pursuant to subdivision b of section thirteen hundred four.
-	
-	      9.   such other rules as are required by this chapter.
-	
-	   c.   The board may promulgate such additional rules, policies and procedures consistent with and as may be necessary to implement the provisions of this chapter. The board shall annually review all of its rules, policies and procedures and make such revisions as the board deems necessary and desirable. Nothing herein shall prevent the board from reviewing its rules, policies, and procedures, and making such revisions as the board deems necessary and desirable, more than once per year.
-	
-	   d.   The board shall promulgate rules to facilitate the timely and efficient procurement of client services, and to ensure that such contracts are administered in the best interests of the city. Such rules shall include but not be limited to: (i) rules authorizing city agencies to meet annual financial audit requirements through the acceptance of consolidated audits across multiple contracts and multiple agencies; (ii) rules providing for expedited renewal or extension of existing client services contracts; (iii) rules mandating the promulgation of draft and final contract plans by all agencies procuring client services.
-	
-	   e.   The board shall submit an annual report to the mayor, comptroller, and council setting forth the professional standards for agency contracting officers adopted by the mayor, including any applicable certification process.
-	
-	   f.   In the promulgation of any rules pertaining to the procurement of construction or construction related services, the board shall consult with any office designated by the mayor to provide overall coordination to the city's capital construction activities.
-	
-	   g.   The board shall make such recommendations as it deems necessary and proper to the mayor and the council regarding the organization, personnel structure and management of the agency procurement function including, where appropriate, recommendations for revision of this charter or local laws affecting procurement by the city. Such reports may include recommendations regarding agency use of advisory groups to assist in preparation of bids or proposals and selection of contractors. The board shall also review the form and content of city contract documents and shall submit to the law department recommendations for standardization and simplification of contract language.
-	
-	   h.   The board shall not exercise authority with respect to the award or administration of any particular contract, or with respect to any dispute, claim or litigation pertaining thereto.
-	
-	   i.   In addition to other rules authorized by this section, the board may provide by rule that:
-	
-	      1.   agencies may make procurements of goods and services for amounts not exceeding one hundred fifty thousand dollars from businesses certified as minority or women-owned business enterprises pursuant to section thirteen hundred four of the charter without a formal competitive process.
-	
-	      2.   agencies may award contracts for goods and services on the basis of best value to the bidder or offerer which optimizes quality, cost and efficiency, among responsive and responsible bidders or offerers. Such basis shall reflect, wherever possible, objective and quantifiable analysis and may include the prospective bidder's record of complying with existing labor standards, maintaining harmonious labor relations, and protecting the health and safety of workers. Such basis may also identify a quantitative factor for awarding of contracts for bidders or offerers that are businesses certified as minority or women-owned business enterprises pursuant to article fifteen-a of the executive law and section thirteen hundred four of the charter. Where an agency identifies a quantitative factor pursuant to this paragraph, the agency must specify that businesses certified as minority or women-owned business enterprises pursuant to article fifteen-a of the executive law as well as those certified as minority or women-owned business enterprises pursuant to section thirteen hundred four of the charter are eligible to qualify for such factor. Nothing in this paragraph shall be construed as a requirement that such businesses be concurrently certified as minority or women-owned business enterprises under both article fifteen-a of the executive law and section thirteen hundred four of the charter to qualify for such quantitative factor.
-	
-	      3.   the rule or rules promulgated to implement paragraph one of this subdivision shall provide that the city shall, commencing on the first of October of the first full calendar year following the adoption of such rule or rules, submit an annual report to the governor and the state legislature of the total number and total dollar value of procurements of goods and services for amounts not exceeding one hundred fifty thousand dollars from:
-	
-	         (i)   businesses certified as minority or women-owned business enterprises pursuant to section thirteen hundred four of the charter;
-	
-	         (ii)   all other businesses; and
-	
-	         (iii)   information about the number of businesses certified as minority or women-owned business enterprises pursuant to section thirteen hundred four of this charter able to perform the specific type and scale of work involved in each procurement.
-	
-	
+	   So much of the amount of any obligation authorized as is applicable to the completion of construction projects, acquisition of real property or acquisition of personal property in connection with construction or a capital project by the department of design and construction, including but not limited to the provision of services, utilities or facilities of such department, shall be allotted to the department of design and construction, but shall be considered and accounted for as a part of the cost of the project for which the obligations were authorized.
 
 
 
 
-Section 312.
+Section 266.
 ----------
 
-Section 312. Procurement; general rule and exceptions. ::
+Section 266. Short term debt. ::
 
 
-	   a.   Prior to entering into, renewing, or extending a contract valued at more than two hundred thousand dollars to provide standard or professional services, including agency task orders pursuant to multi-agency task order contracts, but excluding emergency procurements, government-to-government purchases, and the procurement of legal services or consulting services in support of current or anticipated litigation, investigative or confidential services, an agency shall follow the procedure established herein and the mayor shall comply with the reporting requirements set forth in paragraph 8.
+	   a.   Subject to the provisions of subdivisions b through j of this section, the city may issue temporary debt obligations in anticipation of taxes and revenues as authorized by state law. The city shall issue no short-term obligations which shall be inconsistent with the limitations set forth in subdivisions b through j of this section. The limitations on short-term borrowing imposed upon the city by this section shall be in addition to the limitations on short-term borrowing imposed on the city under the state local finance law. The powers, duties, and obligations set forth in this section shall be subject to the powers, duties, and obligations placed upon any state or local officer or agency, including but not limited to the New York state financial control board, by or pursuant to the New York State Financial Emergency Act for the City of New York, while such act remains in effect.
 	
-	      1.   Prior to issuing an invitation for bids, request for proposals, or other solicitation, or renewing or extending an existing contract, the agency shall determine whether such contract is the result of or would result in the displacement of any city employee within the agency. For the purpose of this section, "displacement" shall mean a reduction in the number of funded positions, including but not limited to, that resulting from the attrition; layoff; demotion; bumping; involuntary transfer to a new class, title, or location; time-based reductions, or reductions in customary hours of work, wages, or benefits of any city employee.
+	   b.   Revenue or tax anticipation notes shall be issued against a specific tax or revenues receivable which are clearly identified by source and fiscal year.
 	
-	         a.   There shall be a presumptive determination that a proposed contract is the result of or would result in displacement if any of the following events occurred in the three year period preceding the date the agency intends to issue an invitation for bids, request for proposal, or other solicitation, or renew or extend an existing contract:
+	   c.   If the amount of taxes or revenues receivable against which anticipation notes have been issued becomes equal to the amount of such notes outstanding, the city shall deposit all further funds obtained from such sources into a segregated bank account which may be used only to redeem such debt upon maturity.
 	
-	            (1)   the displacement of a city employee within the agency who performs or has performed the services sought by the proposed contract and/or services of a substantially similar nature or purpose; or
+	   d.   The city shall not issue anticipation notes against taxes or revenues which have been receivable for more than two years.
 	
-	            (2)   the announcement of spending reductions in connection with a budgetary program, including but not limited to a Program to Eliminate the Gap, that could result or has resulted in the displacement of a city employee within the agency who performs or has performed the services sought by the proposed contract and/or services of a substantially similar nature or purpose; or
+	   e.   No tax anticipation notes shall be issued by the city in anticipation of the collection of taxes or assessments levied for a fiscal year which would cause the principal amount of such issue of tax anticipation notes to exceed an amount equal to ninety per cent of the available tax levy with respect to such issue. For purposes of this subdivision, "available tax levy" with respect to an issue of tax anticipation notes means at any date of computation the total amount of city real estate taxes or assessments projected, consistent with the financial plan then in effect, to be received in cash on or before the fifth day preceding the maturity date of such tax anticipation note issue, less amounts required during the period between the date of computation and the fifth day preceding such maturity date to be paid into a general debt service fund or otherwise required to pay interest payable on other outstanding city bonds and notes, principal (including payments into sinking funds) coming due on outstanding city bonds and principal to be paid from sources other than the proceeds of bonds or renewal notes on other outstanding city notes (exclusive of revenue anticipation notes or renewals thereof issued less than two years prior to the date of computation) but not including payments from sinking funds required by the terms of certain city bonds.
 	
-	            (3)   any other statement by an agency or the mayor of a specific anticipated employment action that could result or has resulted in the displacement of a city employee within the agency who performs or has performed the services sought by the proposed contract and/or services of a substantially similar nature or purpose.
+	   f.   Tax anticipation notes and renewals thereof shall mature not later than the last day of the fiscal year in which they were issued.
 	
-	         b.   If the agency determines that displacement would not occur, it shall include a certification to that effect, signed by the agency head, in any invitation for bids, request for proposals, or other solicitation, or with any contract renewal or extension. Such certification shall detail the basis upon which the agency determined that displacement would not occur, construing broadly the nature of the services sought and providing information including but not limited to: (i) whether any civil service title and/or job title within the agency currently performs the services solicited and/or services of a substantially similar nature or purpose, the names of such titles, and the extent to which agency employees within such titles currently perform such services; (ii) whether the solicited services expand, supplement, or replace existing services, and a detailed description comparing the solicited services with such existing services; (iii) whether there is capacity within the agency to perform the services solicited and, if there is no such capacity, a detailed description specifying the ways in which the agency lacks such capacity; (iv) for the term of the proposed contract, the projected headcount of employees within such titles or employees who perform such services and/or services of a substantially similar nature or purpose; and (v) confirmation that none of the events set forth in subparagraph a of this paragraph occurred within the agency in the three year period preceding the date such agency intends to issue an invitation for bids, request for proposal, or other solicitation, or renew or extend an existing contract.
+	   g.   (1)   No revenue anticipation note shall be issued by the city in anticipation of the collection or receipt of revenue in a fiscal year which would cause the principal amount of revenue anticipation notes outstanding to exceed ninety per cent of the available revenues for such fiscal year. For purposes of this subdivision, "available revenues" shall be the revenues other than real estate taxes and assessments which have been estimated in the financial plan prepared pursuant to section two hundred fifty-eight to be realized in cash during such year, less revenues previously collected, other than revenues on deposit in any special fund or account established pursuant to law for the payment of interest and/or principal of revenue anticipation notes.
 	
-	         c.   If the agency determines that displacement would occur, the agency shall determine the costs incurred and the benefits derived in performing the service, consistent with the scope and specifications within the solicitation, renewal, or extension, with city employees, and shall submit such analysis, with all supporting documentation, prior to issuance of any solicitation or entry into any contract renewal or extension, to the comptroller.
+	      (2)   Each issue of revenue anticipation notes shall be issued only in anticipation of the receipt of a specific type or types of revenue and the amount of revenue, the source of revenue and the anticipated date of payment shall be stated in the proceedings authorizing the issuance of such notes.
 	
-	      2.   Immediately upon receipt of bids, proposals, and other solicitation responses, or prior to the renewal or extension of an existing contract, the agency shall submit such determination, analysis, and supporting documentation to the council and to the appropriate collective bargaining representatives representing employees who would be affected pursuant to paragraph 1 of subdivision a of this section.
+	      (3)   Revenue anticipation notes shall mature not later than the last day of the fiscal year in which they were issued, and may not be renewed or extended to a date more than ten days after the anticipated date of receipt of such revenue. No such renewal note shall mature after the last day of such fiscal year unless the mayor shall certify that the revenue against which such renewal note is issued has been properly accrued and estimated in the financial plan set forth in section two hundred fifty-eight in effect on the date of issuance of such renewal note; provided that in no event shall any such renewal notes mature later than one year subsequent to the last day of the fiscal year during which such revenue anticipation notes were originally issued.
 	
-	      3.   Prior to award of a contract, a renewal, or an extension, the agency shall perform a comparative analysis of the costs expected to be incurred and the benefits expected to be derived from entering into, renewing, or extending a contract with the proposed vendor, based on such vendor's best and final offer, and such agency's analysis of the costs incurred and the benefits derived from providing the service with city employees. If the agency head intends to award, renew, or extend the contract, he or she shall submit the reasons therefor, together with such analysis, and all supporting documentation, to the comptroller, the council, and the appropriate collective bargaining representatives representing employees who would be affected pursuant to paragraph 1 of subdivision a of this section.
+	   h.   (1)   No bond anticipation note shall be issued by the city in any fiscal year which would cause the principal amount of bond anticipation notes outstanding, together with interest due or to become due thereon, to exceed fifty per cent of the principal amount of bonds issued by the city in the twelve months immediately preceding the month in which the note is to be issued.
 	
-	      4.   The council may, within thirty days after receipt of such reasons, analysis, and supporting documentation hold a hearing on this matter. No contract award, renewal, or extension shall be made prior to the expiration of this thirty-day period or a council hearing, whichever is sooner.
+	      (2)   The proceeds of each bond issue shall be (i) held in trust for the payment, at maturity, of the principal of and interest on any bond anticipation notes of the city issued in anticipation of such bonds and outstanding at the time of the issuance of such bonds, (ii) paid into the general fund of the city in repayment of any advance made from such fund pursuant to section 165.10 of the state local finance law, and (iii) any balance shall be expended for the object or purpose for which such bonds were issued.
 	
-	      5.   a.   All cost and comparative analyses required under this section shall be conducted in accordance with standard methodology of the office of management and budget, and consistent with the rules of the procurement policy board, as both are modified herein, subject to further modification by local law. Such analyses shall include all reasonable costs associated with performing the service using city employees and all reasonable costs associated with performing the service under the proposed contract or contract renewal or extension.
+	      (3)   Bond anticipation notes shall mature not later than one year after their date of issuance and may be renewed for a period not to exceed two years, or such longer period as may be permitted for bond anticipation notes of the state, from the date of original issue.
 	
-	         b.   Such analyses shall further include the total number, qualifications, job descriptions, and titles of all personnel to be employed by the vendor under the proposed contract or contract renewal or extension, as well as the nature and cost of salaries and benefits to be provided to such personnel.
+	   i.   Budget notes issued pursuant to section 29.00 of the state local finance law may only be issued to fund projected expense budget deficits. No budget notes or renewals thereof shall mature later than sixty days prior to the last day of the fiscal year next succeeding the fiscal year during which such budget notes were originally issued.
 	
-	         c.   Such analyses shall further include, but not be limited to, the cost of employee supervision directly related to the provision of the service, vendor solicitation, contract preparation, contract administration, monitoring and evaluating the contractor, capitalization of equipment over the period such equipment shall be in use, supplies, the cost of providing the equivalent quantity and quality of service by city employees compared to the cost of providing such service by contract, based upon the best and final offer of the proposed vendor, and such other factors as will assist in arriving at full and accurate cost determinations and comparisons.
-	
-	      6.   The reasons given to award, renew, or extend the contracts shall include all factors that have been considered in determining whether contracting for this service is in the best interest of the city, whether or not such reasons are contained within the cost or comparative analyses. Such factors shall include, but not be limited to, the potential for contractor default, the time required to perform the service, and the quality of the service to be delivered.
-	
-	      7.   The mayor or his or her designee may prepare and implement a plan of assistance for displaced city employees, which may include, but need not be limited to, training to place such employees in comparable positions within the contracting agency or any other agency. The cost of such assistance plan may be included within the cost of contracting-out in the cost and comparative analyses.
-	
-	      8.   a.   For the purposes of this paragraph, "agency" means a city, county, borough or other office, position, administration, department, division, bureau, board, commission, authority, corporation, advisory committee or other agency of government, the expenses of which are paid in whole or in part from the city treasury, and shall include but not be limited to, the department of education, the health and hospitals corporation, and the New York city housing authority, but shall not include any court, or any local development corporation or other not for profit corporation or institution, including such a corporation or institution maintaining or operating a public library, museum, botanical garden, arboretum, tomb, memorial building, aquarium, zoological garden or similar facility.
-	
-	         b.   The mayor shall, no later than July 31st of each year, produce and publish on the mayor's office of contract services website a plan and schedule for each agency detailing the anticipated contracting actions of each such agency for the upcoming fiscal year. The plan and schedule shall include: (i) information specific to each prospective invitation for bids, request for proposal, or other solicitation, including, but not limited to, the nature of services sought, the term of the proposed contract, the method of the solicitation the agency intends to utilize, the anticipated fiscal year quarter of the planned solicitation, the civil service and/or job titles within the agency who perform the services sought and/or services of a substantially similar nature or purpose, if any, and the headcount of employees within such titles who perform such services; and (ii) information specific to each proposed contract renewal or extension, including, but not limited to, any modifications sought to the nature of the services performed under the contract, the term of the proposed renewed or extended contract, the reason(s) the agency intends to renew or extend such contract, the month and year of the expiration of the existing contract, the civil service and/or job titles within the agency who perform the services sought and/or services of a substantially similar nature or purpose, if any, and the headcount of employees within such titles who perform such services.
-	
-	         c.   If an agency intends to issue an invitation for bids, request for proposal, or other solicitation, or renew or extend an existing contract, but the mayor fails to include such prospective invitation, request, solicitation, renewal or extension in the plan and schedule, the mayor shall provide public notice sixty days before such agency issues such invitation, request, or solicitation, or enters into such renewal or extension. Such notice, which shall be posted on the mayor's office of contract services website and in the city record, shall include: (i) information specific to the prospective invitation for bids, request for proposal, or other solicitation, including, but not limited to, the nature of services sought, the term of the proposed contract, the method of the solicitation the agency intends to utilize, the civil service and/or job titles within the agency who perform the services sought and/or services of a substantially similar nature or purpose, if any, and the headcount of employees within such titles who perform such services; or (ii) information specific to the proposed contract renewal or extension, including, but not limited to, any modifications sought to the nature of the services performed under the contract, the term of the proposed renewed or extended contract, the reason(s) the agency intends to renew or extend such contract, the civil service and/or job titles within the agency who perform the services sought and/or services of a substantially similar nature or purpose, if any, and the headcount of employees within such titles who perform such services.
-	
-	   b.   1.   Except as provided for in sections three hundred fourteen, three hundred fifteen and three hundred sixteen, contracts shall be awarded by competitive sealed bidding under such rules as shall be made by the procurement policy board, except that, in a special case as defined in subdivision b of this section, the head of an agency proposing to award such contract may order otherwise in accordance with policies and procedures established by the procurement policy board.
-	
-	      2.   A determination by the head of an agency to use other than competitive sealed bidding except as provided for by sections three hundred fourteen and three hundred sixteen shall be made in writing, stating the reasons why competitive sealed bidding is not practicable or not advantageous and why the method of procurement selected pursuant to section three hundred seventeen is the most competitive alternative that is appropriate under the circumstances. The head of the agency shall include the determination or a summary of the determination in the notice of solicitation, or for an emergency procurement in the notice of award, required to be published pursuant to section three hundred twenty-five of this chapter.
-	
-	   c.   1.   For the purposes of this chapter, the term "special case" shall be defined as a situation in which it is either not practicable or not advantageous to the city to use competitive sealed bidding for one of the following reasons:
-	
-	         i.   specifications cannot be made sufficiently definite and certain to permit selection based on price alone;
-	
-	         ii.   judgment is required in evaluating competing proposals, and it is in the best interest of the city to require a balancing of price, quality, and other factors;
-	
-	         iii.   the good, service or construction to be procured is available only from a single source;
-	
-	         iv.   testing or experimentation is required with a product or technology, or a new source for a product or technology, or to evaluate the service or reliability of such product or technology; or
-	
-	         v.   such other reasons as defined by rule of the procurement policy board.
-	
-	      2.   The procurement policy board may provide by rule that it is either not practicable or not advantageous to the city, for one of the reasons set forth in paragraph one of this subdivision, to procure a specified type of good, service or construction by competitive sealed bidding.
+	   j.   All references to the state local finance law in this section shall be deemed to refer to the provisions of the New York state local finance law as such provisions may be amended over time or any successor provisions thereto.
 
 
 
 
-Section 313.
+Section 270.
 ----------
 
-Section 313. Competitive sealed bidding. ::
+Section 270. Application. ::
 
 
-	   a.   The term competitive sealed bidding shall mean a method of procurement where the award of a contract is made to the lowest responsible bidder whose bid meets the requirements and criteria set forth in the invitation for bids.
-	
-	   b.   Procedures for competitive sealed bidding. 
-	
-	      1.   Bids shall be solicited through an invitation for bids, which shall include a purchase description and a notice of where vendors may obtain a copy of all contractual terms and conditions applicable to the procurement. A notice of the intention to solicit bids shall be publicly advertised in accordance with the provisions of section three hundred twenty-five of this chapter. The terms of such contracts shall be settled by the corporation counsel as an act of preliminary specification to an invitation for bids.
-	
-	      2.   The agency letting the contract may reject all bids if it shall deem it for the interest of the city so to do; if not, it shall, without other consent or approval, award the contract to the lowest responsible bidder, unless the mayor shall determine in writing, justifying the reasons therefor, that it is the best interest of the city that a bid other than that of the lowest responsible bidder shall be accepted. Such determination shall be published in the City Record. Tie bids are to be decided by the agency letting the contract and the award made. Whenever a contract is awarded to other than the lowest bidder because the lowest bidder is determined by the agency not to be a responsible bidder or because the lowest bid is determined by the agency to not meet the requirements and criteria set forth in the invitation for bids, the agency making such determination and awarding such contract shall immediately notify the lowest bidder of such determination and shall file in the agency contract file a statement in detail of the reasons therefor.
-	
-	      3.   Any bidder who is declared not responsible by an agency and any bidder whose bid is determined by an agency to not meet the requirements and criteria set forth in the invitation for bids may, within five days of receipt of notice of the agency decision, appeal such decision to the agency head. A determination of an agency head of an appeal of a decision of non-responsibility may be appealed to the mayor who shall take final action regarding such matter. A determination of an agency head of an appeal of a decision that a bid does not meet the requirements and criteria set forth in the invitation for bids shall be final.
-	
-	   c.   No bid shall be valid unless accompanied by a deposit in the amount and manner set forth and specified in the proposal; provided, however, that the procurement policy board shall establish such requirements for bid deposits as are necessary and practicable, and, pursuant to rules and standards, may waive the bid deposit requirement for specific classes of purchase or types of transactions. Upon the award of the contract the deposits of unsuccessful bidders shall be returned to them, and the deposit of the successful bidder shall be returned upon execution of the contract and furnishing of the required security.
-	
-	   d.   Every invitation for bids shall contain a provision that in the event of the failure of the bidder to execute the contract and furnish the required security within ten days after notice of the award of the contract, the deposit or so much thereof as shall be applicable to the amount of the award made shall be retained by the city, and the bidder shall be liable for and shall agree to pay on demand the difference between the price bid and the price for which such contract shall be subsequently relet, including the cost of such reletting and less the amount of such deposit. No plea of mistake in such accepted bid shall be available to the bidder for the recovery of the deposit or as a defense to any action based upon such accepted bid.
+	   The provisions of sections two hundred seventy-one through two hundred seventy-nine shall apply to the several sinking funds of the city established prior to July first, nineteen hundred eighty-one.
 
 
 
 
-Section 314.
+Section 271.
 ----------
 
-Section 314. Small purchases. ::
+Section 271. Sinking fund of the city of New York. ::
 
 
-	   a.   Notwithstanding any other provision of this charter, the procurement policy board and the council may, by concurrent action, establish dollar limits for procurement of goods, services, construction, or construction-related services that may be made without competition or without public advertisement. Awards pursuant to this section shall be made in accordance with rules of the procurement policy board.
-	
-	   b.   On or before September thirtieth, two thousand and three, and on or before the last day of every quarter thereafter, the mayor or his or her designee shall submit to the council and the comptroller a report detailing each small purchase award made pursuant to this section during the quarter that ended three months before such report is due and for which information is required to be contained in the computerized data base maintained pursuant to subdivision a of section 6-116.2 of the administrative code. Such report shall provide the name of the vendor selected to fulfill the requirements of each such small purchase award, the date and dollar amount of each such small purchase award and the type of goods or services provided.
+	   There is hereby continued the fund known as the "sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of the principal of the debt of the city of New York incurred on and after the first day of January eighteen hundred ninety-eight, and evidenced by corporate stock of the city of New York, excepting that issued to provide for the supply of water and that issued since the first day of January, nineteen hundred ten, for rapid transit or rapid transit unification purposes and that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
 
 
 
 
-Section 315.
+Section 272.
 ----------
 
-Section 315. Emergency procurement. ::
+Section 272. Water sinking fund of the city of New York. ::
 
 
-	   Notwithstanding the provisions of section three hundred twelve of this chapter, in the case of unforeseen danger to life, safety, property or a necessary service, an emergency procurement may be made with the prior approval of the comptroller and corporation counsel, provided that such procurement shall be made with such competition as is practicable under the circumstances, consistent with the provisions of section three hundred seventeen of this chapter. A written determination of the basis for the emergency and the selection of the contractor shall be placed in the agency contract file, and shall further be submitted to the council no later than fifteen days following contract award, and the determination or summary of such determination shall be included in the notice of the award of contract published pursuant to section three hundred twenty-five of this chapter.
+	   There is hereby continued the fund known as the "water sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, eighteen hundred ninety-eight, to provide for the supply of water, excepting that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
 
 
 
 
-Section 316.
+Section 273.
 ----------
 
-Section 316. Intergovernmental procurement. ::
+Section 273. Rapid transit sinking fund of the city of New York. ::
 
 
-	   Notwithstanding any other requirement of this chapter,
-	
-	      a.   any goods may be procured, ordered or awarded through the United States General Services Administration, or any other federal agency if the price is lower than the prevailing market price; any services or construction may be procured, ordered or awarded through the United States General Services Administration, or any other federal agency if the price is fair and reasonable, and
-	
-	      b.   any goods may be procured, ordered or awarded through the New York State office of general services, or any other state agency, if the price is lower than the prevailing market price; any services or construction may be procured, ordered or awarded through the New York State office of general services, or any other state agency, if the price is fair and reasonable.
+	   There is hereby continued the fund known as the "rapid transit sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, nineteen hundred ten, for rapid transit purposes, excepting that issued since the first day of July nineteen hundred eighty-one which is redeemable from the general sinking fund or any other sinking fund established pursuant to sections two hundred ninety through two hundred ninety-nine.
 
 
 
 
-Section 317.
+Section 273-a.
 ----------
 
-Section 317. Alternatives to competitive sealed bidding. ::
+Section 273-a. Transit unification sinking fund of the city of New York. ::
 
 
-	   a.   If, in accordance with section three hundred twelve, an agency determines that the use of competitive sealed bidding is not practicable or not advantageous to the city, the agency shall select the most competitive alternative method of procurement provided for by sections three hundred eighteen through three hundred twenty-two which is appropriate under the circumstance. Each agency contract file shall contain documentation of such determination and of the basis upon which each contract is awarded, as is required by the procurement policy board.
-	
-	   b.   Each contract for goods, services or construction in value of more than five million dollars proposed by an agency to be awarded which is let by other than (i) competitive sealed bidding, (ii) competitive sealed bids from prequalified vendors, or (iii) competitive sealed proposals, where the weight assigned to each of the factors or criteria to be considered in selecting the proposal most advantageous to the city was set forth in a writing filed in the agency contract file prior to the opening of proposals, shall require the approval of the mayor prior to its execution. Notwithstanding the preceding sentence, the mayor may, where the mayor has determined that it is appropriate, exclude an agency's contracts or a particular category of contracts from the approval requirement of this subdivision.
+	   There is hereby continued the fund known as the "transit unification sinking fund of the city of New York" which shall have for its purpose the amortization and redemption of all corporate stock of the city of New York issued on and after the first day of January, nineteen hundred thirty-nine, for transit unification purposes.
 
 
 
 
-Section 318.
+Section 274.
 ----------
 
-Section 318. Competitive sealed bids from prequalified vendors. ::
+Section 274. Administration of sinking funds. ::
 
 
-	   In accordance with section three hundred seventeen, bids may be solicited from vendors who have been prequalified for the provision of a good, service or construction pursuant to section three hundred twenty-four by mailing notice to each prequalified vendor or, if special circumstances require, to a selected list of prequalified vendors. Award of the contract shall be made in accordance with the provisions of section three hundred thirteen of this chapter. A determination to employ selective solicitation for a particular procurement or for a particular category of procurement shall be made in writing by the agency and approved by the mayor; unless the mayor, upon adequate assurances of an agency's capacity to comply with procedural requirements in relation to this section, has determined that such approval is not required for an agency's contracts or particular categories of contracts.
+	   The comptroller shall administer and manage the several sinking funds of the city established prior to July first, nineteen hundred eighty-one, and shall have custody of the securities in such funds. In the administration of such funds the comptroller shall be deemed to be acting in a fiduciary capacity. Where moneys of such sinking funds are invested pursuant to section two hundred seventy-five, in securities which are obligations of the United States or of any agency, subdivision, department, division or instrumentality thereof, or obligations fully guaranteed or insured as to interest and principal by an agency, subdivision, department, division or instrumentality of the United States, acting pursuant to a grant of authority from the congress of the United States, notwithstanding any other provision of law, the comptroller may turn over the physical custody and safekeeping of these obligations to (a) any bank or trust company incorporated in this state, or (b) any national bank located in this state, or (c) any private banker duly authorized by the superintendent of banks of this state to engage in business here. All such private bankers shall, as private bankers, maintain a permanent capital of not less than one million dollars in this state. The comptroller may direct such bank, trust company or private banker to register and hold any such securities in its custody, in the name of its nominee. The comptroller may deposit, or authorize such bank, trust company or private banker, to deposit, or arrange for the deposit of, any of such securities with a federal reserve bank to be credited to an account as to which the ownership of, and other interest in, such securities may be transferred by entries on the books of such federal reserve bank without physical delivery of any such securities. The records of any such bank, trust company or private banker shall show, at all times, the ownership of such obligations, and they shall, when held in the possession of such bank, trust company or private banker be, at all times, kept separate from the assets of such bank, trust company or private banker. When any such obligations are so registered in the name of a nominee, such bank, trust company or private banker shall be absolutely liable for any loss occasioned by the acts of such nominee with respect to such obligations.
 
 
 
 
-Section 319.
+Section 275.
 ----------
 
-Section 319. Competitive sealed proposals. ::
+Section 275. Investment of sinking fund moneys. ::
 
 
-	   In accordance with section three hundred seventeen, proposals may be solicited through a request for proposals with award to the responsible offeror whose proposal is determined to be the most advantageous to the city, taking into consideration the price and such other factors or criteria as are set forth in the request for proposals. No other factors or criteria shall be used in the evaluation and award of the contract except those specified in the request for proposals. Discussions may be conducted with responsible offerors who submit proposals, provided that offerors shall be accorded fair treatment with respect to any opportunity for discussion and revision of the proposals.
+	   The comptroller may invest the moneys of the several sinking funds of the city established prior to July first, nineteen hundred eighty-one in any of the following securities:
+	
+	      1.   Obligations of the city of New York.
+	
+	      2.   Obligations of the state of New York.
+	
+	      3.   Obligations of the United States or of any agency, subdivision, department, division or instrumentality thereof, or obligations fully guaranteed or insured as to interest and principal by any agency, subdivision, department, division or instrumentality of the United States, acting pursuant to a grant of authority from the congress of the United States.
+	
+	      4.   Obligations of the municipal assistance corporation for the city of New York.
 
 
 
 
-Section 320.
+Section 276.
 ----------
 
-Section 320. Competitive sealed proposals from prequalified vendors. ::
+Section 276. Annual appropriations to the sinking funds. ::
 
 
-	   In accordance with section three hundred seventeen, proposals may be solicited from vendors who have been prequalified for the provision of a good, service or construction pursuant to section three hundred twenty-four by mailing notice to each prequalified vendor or, if special circumstances require, to a selected list of prequalified vendors. Award of the contract shall be made in accordance with the provisions of section three hundred nineteen. A determination to employ selective solicitation for a particular procurement or for a particular category of procurement shall be made in writing by the agency by the mayor; unless the mayor, upon adequate assurance of an agency's capacity to comply with the procedural requirements in relation to this section, has determined that such approval is not required for an agency's contracts or particular categories of contracts.
+	   For the redemption of the corporate stock redeemable from the several sinking funds of the city established prior to July first, nineteen hundred eighty-one there shall be included annually in the budget and paid into each of such sinking funds an amount to be estimated and certified by the comptroller, which amount shall be not less than the aggregate of such annual contributions, as calculated at the time each issue of corporate stock redeemable from such sinking fund was made, would be sufficient if thereafter annually contributed to such fund together with the accumulations of interest thereon computed at the rate of four per centum per annum to meet and discharge such outstanding corporate stock when the same shall be payable; provided, however, that if at the close of a fiscal year there is in any sinking fund a surplus over and above the reserve required by such sinking fund computed as hereinabove provided, the comptroller, in estimating the amount to be included for such sinking fund in the budget, shall reduce the amount of the annual contributions by the amount of such surplus. Amounts received annually from the operation of any rapid transit railroad for the construction, equipment or acquisition of which corporate stock redeemable from any such fund shall have been issued, shall not be considered or treated as surplus, but such amounts shall be deducted from the amount certified by the comptroller for the budget for the ensuing year.
 
 
 
 
-Section 321.
+Section 277.
 ----------
 
-Section 321. Sole source. ::
+Section 277. Monthly report. ::
 
 
-	   a.   In accordance with section three hundred seventeen, a contract may be awarded for a good, service or construction without competition when an agency determines, pursuant to rules promulgated by the procurement policy board, that there is only one source for the required good, service or construction. The agency contract file shall contain the agency's determination that only a single source is available for the required good, service or construction, including the process by which the agency made such determination. Copies of such notice shall be filed with the comptroller.
-	
-	   b.   Whenever an agency determines that there is only a single source for a good, service or construction, an agency shall give immediate notice in the City Record of such determination and shall in such notice solicit the application of vendors qualified to provide such good, service or construction, or interested in providing such good service or construction in the future. The procurement policy board shall by rule define the timing and duration of such notification to ensure that vendors qualified to provide such good, service or construction have sufficient opportunity to express their interest to the agency prior to the initiation of any sole source negotiation; provided, however, that if the agency has determined that it should not reveal to the vendor with whom it is negotiating that it is doing so on a sole source basis under circumstances defined by rule of the procurement policy board, the notice required by this subdivision shall be made upon the completion of such negotiations or the award of the contract. Vendors interested in providing such good, service or construction in the future shall be prequalified in accordance with section three hundred twenty-four, or shall be included for receipt of notice in accordance with subdivision a of section three hundred twenty-five.
+	   Not later than the tenth day in each month, the comptroller shall submit to the mayor and the council a certified report, which shall be published forthwith in the City Record, setting forth the operations of the several sinking funds during the preceeding* month and the condition of such funds at the commencement and close of such month and such other information as may be required.
 
 
 
 
-Section 322.
+Section 278.
 ----------
 
-Section 322. Alternative procurement procedures. ::
+Section 278. Annual report. ::
 
 
-	   In accordance with section three hundred seventeen, a contract may be awarded according to another procurement procedure established by rule of the procurement policy board, under circumstances, defined by rule of the procurement policy board, in which the use of such procedures is in the best interest of the city. An agency determination to utilize such an alternative procurement procedure for a particular procurement or for a particular type of procurement shall require the written approval of the mayor prior to seeking bids or proposals. The agency contract file shall contain the determination to use an alternative procurement procedure which shall state (1) which circumstances defined by the board to be in the best interest of the city apply to the procurement, including the basis upon which the agency made such determination, and (2) which procedure, as defined by the board pursuant to this section, was used in awarding the contract.
+	   Not later than the first day of September in each year, the comptroller shall submit to the mayor and the council a certified report, which shall be published forthwith in convenient form as a supplement to the City Record and which shall set forth in detail the operations of the several sinking funds during the preceding fiscal year, the reserves required, the assets of such funds at the close of such year, the obligations redeemable from such funds, the dates of their maturities and such other information as may be required.
 
 
 
 
-Section 323.
+Section 290.
 ----------
 
-Section 323. Multi-step sealed proposals. ::
+Section 290. Application. ::
 
 
-	   A preliminary request for proposals may be issued requesting the submission of unpriced offers. Submissions in response to such a preliminary request for proposals may be relied upon by an agency (a) to solicit competitive sealed bids in accordance with section three hundred thirteen of this chapter; (b) to solicit competitive sealed bids from prequalified vendors in accordance with section three hundred eighteen; (c) to solicit competitive sealed proposals in accordance with section three hundred nineteen; or (d) to solicit proposals from prequalified vendors in accordance with section three hundred twenty.
+	   The provisions of sections two hundred ninety-one through two hundred ninety-nine shall apply to the establishment, operation and administration of sinking funds established on or after July first, nineteen hundred eighty-one.
 
 
 
 
-Section 324.
+Section 291.
 ----------
 
-Section 324. Prequalification. ::
+Section 291. General sinking fund. ::
 
 
-	   a.   Agencies may maintain lists of prequalified vendors and entry into a prequalified group shall be continuously available. Prospective vendors may be prequalified as contractors for the provision of particular types of goods, services and construction, in accordance with general criteria established by rule of the procurement policy board which may include, but shall not be limited to, the experience, past performance, ability to undertake work, financial capability, responsibility, and reliability of prospective bidders, and which may be supplemented by criteria established by rule of the agency for the prequalification of vendors for particular types of goods, services or construction or by criteria published in the City Record by the agency prior to the prequalification of vendors for a particular procurement. Such prequalification may be by categories designated by size and other factors.
-	
-	   b.   Any vendor who is denied prequalification or whose prequalification is revoked by an agency may appeal such decision to the agency head. A determination of an agency head may be appealed to the office of administrative trials and hearings for a hearing and such office shall take final action regarding such matter. A decision by an agency to suspend a vendor's prequalification may be appealed to the agency head, provided that if such suspension extends for more than three months, it shall be deemed a revocation of the prequalification for the purposes of this section.
+	   There is hereby established a general sinking fund to amortize and redeem any or all of the sinking fund bonds issued and sold from time to time by the city of New York on or after July first, nineteen hundred eighty-one for any purpose for which sinking fund bonds may be authorized, excepting sinking fund bonds which are redeemable from the sinking fund of the city of New York, the water sinking fund of the city of New York, the rapid transit sinking fund of the city of New York, or any additional sinking fund established pursuant to section two hundred ninety-eight.
 
 
 
 
-Section 325.
+Section 292.
 ----------
 
-Section 325. Planning and Notification. ::
+Section 292. Administration. ::
 
 
-	   a.   Agencies that award client services contracts shall produce a draft and final plan and schedule detailing anticipated contracting actions for the upcoming fiscal year, and shall hold at least one public hearing each year immediately following the release of the draft plan and schedule to receive testimony regarding the plan and schedule. The draft and final plan and schedule shall include, but not be limited to: the type of services to be provided, the authorized maximum amount of funding associated with the program, the authorized number of contracts to be let for a particular program, the month and year of the next planned competitive solicitation. Failure to include a contract in the plan and schedule issued pursuant to this section shall not be grounds for invalidating the contract. The procurement policy board shall promulgate rules governing the issuance of the draft and final plans and schedules, which shall ensure that the draft plan and schedule is issued promptly following the submission of the executive budget and that the final plan and schedule is issued no later than September thirtieth each year.
-	
-	   b.   Pursuant to rules of the procurement policy board, each agency shall
-	
-	      1.   for each category of goods, services or construction which is regularly procured by the agency, periodically publish in the City Record a notice soliciting the names of vendors interested in being notified of future procurement opportunities in each such category,
-	
-	      2.   for each category of goods, services or construction for which the agency prequalifies vendors for future procurement, periodically publish in the City Record a notice soliciting the names and qualifications of vendors interested in being considered for prequalification for such category, and
-	
-	      3.   publish in the City Record, and, where appropriate, in newspapers of city, state or national distribution and trade publications, notice of
-	
-	         (a)   the solicitation of bids or proposals pursuant to section three hundred thirteen and three hundred seventeen through three hundred twenty-two, where the value of a contract is estimated to be above the small purchase limits, except where the agency has determined pursuant to section three hundred eighteen or three hundred twenty that solicitation should be limited to prequalified vendors,
-	
-	         (b)   the award of a contract exceeding the small purchase limits in value. Each such notice of award shall indicate the name of the contractor, the dollar value of the contract, the procurement method by which the contract was let, and for contracts let by other than competitive sealed bidding, a citation of the clause of subdivision b of section three hundred twelve pursuant to which a procurement method other than competitive sealed bidding was utilized.
-	
-	   c.   The procurement policy board, in consultation with the commissioner of citywide administrative services, shall promulgate rules providing for the publication and content of notices of contract actions required by this chapter. Such rules shall include provisions regarding,
-	
-	      i.   the timing and frequency of notices,
-	
-	      ii.   the required duration of solicitation periods,
-	
-	      iii.   the form and content of notices, including the organization and presentation of such notices within standard categories of goods, services and construction which are sufficiently detailed to provide meaningful distinctions among categories.
-	
-	   d.   The notice required by subparagraph a of paragraph three of subdivision a of this section shall not apply to contracts awarded on an emergency basis pursuant to section three hundred fifteen, provided that the agency shall, as soon as is practicable, publish notice that such a contract has been entered into, pursuant to rules of the procurement policy board, nor shall such notice requirements apply where the notice would disclose litigation strategy or otherwise impair the conduct of litigation by the city.
+	   The comptroller shall administer and manage the general sinking fund and any additional sinking funds established pursuant to section two hundred ninety-eight of this chapter and shall have custody of the securities and other assets in such funds. In the administration of such funds the comptroller shall be deemed to be acting in a fiduciary capacity.
 
 
 
 
-Section 326.
+Section 293.
 ----------
 
-Section 326. Public hearings on contract awards. ::
+Section 293. Terms and conditions with respect to the general sinking fund. ::
 
 
-	   a.   Prior to entering into any contract for goods, services or construction to be awarded by other than competitive sealed bidding or competitive sealed bids from prequalified vendors, the value of which exceeds one hundred thousand dollars, the agency shall upon reasonable public notice conduct a public hearing to receive testimony regarding the proposed contract. Notwithstanding the preceding sentence, if, within a period of time after such notice, which period of time shall be determined by the procurement policy board, no individual requests an opportunity to speak at such a public hearing with respect to any such proposed contract the value of which does not exceed one million dollars, then such public hearing need not be conducted. The procurement policy board may by rule exempt from this public hearing requirement contracts to be let which do not differ materially in terms and conditions, as defined by the board, from contracts currently held by the city where the parties to such contracts are the same; provided, that under no circumstance may such exemption apply to any contract in value exceeding ten million dollars.
+	   a.   The comptroller may:
 	
-	   b.   The requirements of this section shall not apply to any procurement (i) let pursuant to a finding of an emergency under section three hundred fifteen, (ii) required to be made on an accelerated basis due to markets which experience significant, short-term price fluctuations, as identified by rule of the board, or (iii) where a public hearing would disclose litigation strategy or otherwise impair the conduct of litigation by the city.
+	      (1)   provide for the redemption, purchase and cancellation prior to maturity of sinking fund bonds redeemable from the general sinking fund;
+	
+	      (2)   establish accounts within the general sinking fund for the amortization and redemption of specific issues of sinking fund bonds and provide for restrictions on the use of assets of any such account for purposes other than the redemption of the sinking fund bonds to be redeemed from such account; and
+	
+	      (3)   subject to the rights of bondholders and notwithstanding any other provision of this charter (i) withdraw moneys from the general sinking fund, or (ii) transfer any or all responsibility for the administration and management of the general sinking fund and the custody of securities and other assets contained therein to any bank or trust company incorporated in this state, or any national bank located in this state.
+	
+	   b.   The sinking fund bonds of a particular series redeemable from the general sinking fund may differ among themselves in their stated maturities, rates of interest and applicable redemption provisions.
+	
+	   c.   A schedule of annual or semiannual payments shall be established at the time of issuance of any series of sinking fund bonds redeemable from the general sinking fund sufficient to provide for the redemption of the principal amount of such bonds, and annual appropriations shall be made to the general sinking fund in accordance with such schedule of payments.
 
 
 
 
-Section 327.
+Section 294.
 ----------
 
-Section 327. Certification of legal authority and procedural requisites. ::
+Section 294. Redemption. ::
 
 
-	   a.   In the case of any contract which is let by other than competitive sealed bidding, the mayor shall certify, prior to the filing of the contract with the comptroller for registration in accordance with section three hundred twenty-eight of this chapter, that the procedural requisites for the solicitation and award of the contract have been met. The mayor may delegate such function to the agency proposing to award a contract only upon adequate assurance of an agency's capacity to comply with procedural requirements.
-	
-	   b.   The corporation counsel shall certify prior to the filing of a contract with the comptroller for registration in accordance with section three hundred twenty-eight of this chapter, that each agency proposing to award a contract has legal authority to award each such contract.
+	   The sinking fund bonds to be redeemed from the general sinking fund or any additional sinking funds established pursuant to section two hundred ninety-eight may be selected in such manner as the comptroller may determine and may be identified on the face thereof. The principal amount of sinking fund bonds required to be redeemed on any date by payment from the general sinking fund or any additional sinking fund shall be reduced by the principal amount of any such bonds which has been timely purchased or redeemed and cancelled by the city and not theretofore applied as a credit against such requirements.
 
 
 
 
-Section 328.
+Section 295.
 ----------
 
-Section 328. Registration of contracts by the comptroller. ::
+Section 295. Defeasance. ::
 
 
-	   a.   No contract or agreement executed pursuant to this charter or other law shall be implemented until (1) a copy has been filed with the comptroller and (2) either the comptroller has registered it or thirty days have elapsed from the date of filing, whichever is sooner, unless an objection has been filed pursuant to subdivision c of this section, or the comptroller has grounds for not registering the contract under subdivision b of this section.
-	
-	   b.   Subject to the provisions of subdivision c of this section, the comptroller shall register a contract within thirty days unless the comptroller has information indicating that:
-	
-	      i.   there remains no unexpended and unapplied balance of the appropriation or fund applicable thereto, sufficient to pay the estimated expense of executing such contract, as certified by the officer making the same;
-	
-	      ii.   that a certification required by section three hundred twenty-seven of this chapter has not been made; or
-	
-	      iii.   the proposed vendor has been debarred by the city in accordance with the provisions of section three hundred thirty-five.
-	
-	   c.   The comptroller may, within thirty days of the date of filing of the contract with the comptroller's office, object in writing to the registration of the contract, if in the comptroller's judgment there is sufficient reason to believe that there is possible corruption in the letting of the contract or that the proposed contractor is involved in corrupt activity. Such objection shall be delivered within such thirty day period to the mayor setting forth in detail the grounds for the comptroller's determination. After the mayor has responded to the comptroller's objections in writing, indicating (i) the corrective actions if any, that have been taken or will be taken in response to the comptroller's objections, or (ii) the reasons why the mayor disagrees with the comptroller's objections, the mayor may require registration of the contract despite the comptroller's objections. Such response by the mayor shall not serve as the basis for further objection by the comptroller, and the comptroller shall register the contract within ten days of receipt of the mayor's response.
-	
-	   d.   The requirements of this section shall not apply to
-	
-	      (1)   an emergency contract awarded pursuant to section three hundred fifteen or to an accelerated procurement as defined under section three hundred twenty-six, provided that the agency shall, as soon as is practicable, submit any such contract to the comptroller for an audit of the procedures and basis for the determination of the need for an emergency or accelerated procurement, or
-	
-	      (2)   a contract awarded pursuant to this chapter for the provision of goods, services or construction that is not to be paid for out of the city treasury or out of moneys under the control of the city, provided that the board of the entity awarding such a contract shall within ten days of awarding contract, file a copy of such contract and any related materials specified by the mayor, with the mayor or the mayor's designee for purposes of section three hundred thirty-four of this charter.
+	   A series or part of a series of sinking fund bonds redeemable from the general sinking fund or any additional sinking fund established pursuant to section two hundred ninety-eight, including any covenants or other agreements relative thereto, shall be fully discharged and of no further force and effect at such time as (a) sufficient moneys or direct obligations of the United States or obligations guaranteed by the United States have been deposited in a separate trust account with a bank, trust company or other fiduciary, the principal of and/or interest on which will provide sufficient moneys to pay punctually when due at maturity or prior to maturity by redemption, in accordance with their terms, all principal of, applicable redemption premium, if any, and interest on such sinking fund bonds, and irrevocable instructions from the city to such bank, trust company or other fiduciary to make payment of such principal, applicable redemption premium, if any, and interest with such moneys shall have been given, or (b) such sinking fund bonds, together with interest thereon, shall have been paid in full at maturity, or shall have otherwise been refunded, redeemed, defeased or discharged.
 
 
 
 
-Section 329.
+Section 296.
 ----------
 
-Section 329. By whom procured. ::
+Section 296. Investments. ::
 
 
-	   a.   All services to be performed by contract, including the furnishing of goods incident thereto, shall be obtained by the agency for whose use the appropriation therefor shall have been made, except as otherwise provided by law or by rule of the procurement policy board.
+	   Subject to subdivision a of section two hundred ninety-three, the comptroller may invest the moneys of the general sinking fund or any additional sinking funds established pursuant to section two hundred ninety-eight in any securities in which the city is authorized to invest, including but not limited to the following securities:
 	
-	   b.   All other goods shall be purchased or procured by the department of citywide administrative services, except as otherwise provided pursuant to this chapter or other law.
+	      (1)   Obligations of the city of New York;
 	
-	   c.   Pursuant to rules of the procurement policy board and subject to other sections of this chapter, each agency may purchase directly goods in an amount not to exceed one thousand dollars for each transaction or, with the prior approval of the commissioner of citywide administrative services, in an amount not to exceed five thousand dollars for each transaction. The limitation of this subdivision shall not apply to purchases by an agency under a vendor contract entered into by the commissioner of general services.
+	      (2)   Obligations of the state of New York;
 	
-	   d.   The dollar limits for direct agency purchases without the prior approval of the commissioner of citywide administrative services pursuant to subdivision c of this section may be raised to five thousand dollars for each transaction for any or all agencies by the commissioner of citywide administrative services with the approval of the mayor. Any proposed increases in the limits for such purchases above five thousand dollars shall be subject to the further approval of the comptroller. Any increase in dollar limits pursuant to this subdivision shall be published in the City Record and may be rescinded by the commissioner of citywide administrative services, the mayor, or the comptroller.
+	      (3)   Obligations of the United States or of any agency, subdivision, department, division or instrumentality thereof, or obligations fully guaranteed or insured as to interest and principal by an agency, subdivision, department, division or instrumentality of the United States, acting pursuant to a grant of authority from the congress of the United States;
 	
-	   e.   Subject to the approval of the comptroller, a specific procurement of a specific good may be delegated by the commissioner of citywide administrative services, in the best interest of the city, to any agency for direct purchase by such agency, and shall not be subject to the provisions of subdivisions b, c or d of this section; provided, however, that such delegation shall not be made for goods that are to be generally used by city agencies.
+	      (4)   Obligations of the municipal assistance corporation for the city of New York.
 
 
 
 
-Section 330.
+Section 297.
 ----------
 
-Section 330. Inspection. ::
+Section 297. [Monthly and annual reports.] ::
 
 
-	   Inspection and acceptance or rejection of all deliveries of goods shall be made by the agency that makes the direct purchase other than under a vendor contract. The commissioner of citywide administrative services may authorize an agency to which delivery is made to perform such functions on purchases made by the department of citywide administrative services subject to standards and policies of the commissioner. The comptroller may continue to perform such inspectional duties as are necessary for auditing purposes, including ascertainment of whether items purchased and paid for by the department of citywide administrative services or other agencies have been received and put to use by agencies.
+	   The provisions of sections two hundred seventy-seven and two hundred seventy-eight of the charter shall apply to the general sinking fund and any additional sinking funds established pursuant to section two hundred ninety-eight.
 
 
 
 
-Section 331.
+Section 298.
 ----------
 
-Section 331. Specifications. ::
+Section 298. Additional sinking funds. ::
 
 
-	   All purchases shall be based upon specifications which are definite and certain, which permit of competition and which shall not be at variance with standard specifications for the various classes of goods approved by the commissioner of citywide administrative services. Before adopting standard specifications the commissioner shall obtain and consider the recommendations of agencies using the items to be standardized.
+	   On or after July first nineteen hundred eighty-one the comptroller may establish from time to time additional sinking funds to amortize and redeem any or all of the sinking fund bonds issued and sold from time to time by the city of New York on or after that date for any purpose for which sinking fund bonds may be authorized excepting sinking fund bonds which are redeemable from the sinking fund of the city of New York, the water sinking fund of the city of New York, the rapid transit sinking fund of the city of New York or the general sinking fund. Notwithstanding any inconsistent provision of section two hundred ninety-three, such additional sinking funds shall be established with such terms and conditions as the comptroller shall prescribe.
 
 
 
 
-Section 332.
+Section 299.
 ----------
 
-Section 332. Payments procedure. ::
+Section 299. [Redemption from sinking funds established prior to July first, nineteen hundred eighty-one.] ::
 
 
-	   a.   Electronic voucher processing. All city agencies and departments shall, to the extent practicable and consistent with operational and fiscal needs, develop and implement programs to accept vouchers by electronic means.
-	
-	   b.   The procurement policy board shall promulgate rules for the expeditious processing of payment vouchers by city agencies and departments including (i) the maximum amount of time allowed for the processing and payment of such vouchers from the later of (a) the date such vouchers are received by the agency, or (b) the date on which the goods, services or construction to which the voucher relates have been received and accepted by the agency, (ii) a program for the payment of interest, at a uniform rate, to vendors on vouchers not paid within the maximum amount of time pursuant to clause i of this subdivision, (iii) a process for the allocation and charging of any such interest payments to the budget of the agency responsible for the delay leading to the interest payments and (iv) agency reporting on the promptness of such payments in such form and containing such information as the board shall prescribe. The board shall coordinate and publish such agency prompt payment reports. Such rules shall facilitate the development and implementation of programs pursuant to subdivision a of this section.
-	
-	
-
-
-
-
-Section 333.
-----------
-
-Section 333. Evaluation and monitoring of contractor performance. ::
-
-
-	   a.   Each agency letting contracts shall monitor the performance of every contractor. Information with resxpect to contractor performance shall be maintained in a central place in accordance with subdivision c of section three hundred thirty-four.
-	
-	   b.   1.   If a borough president determines there is reason to believe a term or condition of a contract providing for the delivery of services in the borough is not being complied with and that the contract should be terminated for noncompliance, modified, not renewed, modified at the time of renewal, or that the existing terms of the contract should be enforced, the borough president shall document in writing the reasons for that determination and present such determination, with a recommendation for appropriate action, to the agency head for review. In the case of a recommendation that a contract should not be renewed or should be modified at the time of renewal, such recommendation shall be made to the agency head at least one hundred and twenty days prior to the expiration of the contract.
-	
-	      2.   The agency head shall respond to the borough president's findings within ten days from receipt of such findings, indicating what action, if any, shall be taken. If such action is not satisfactory to the borough president, the borough president shall, within thirty days of receipt of such responses, be authorized to require that a hearing be held in the borough by a contract performance panel consisting of the public advocate, the comptroller and the mayor, or their designees, to receive the testimony of the borough president and other interested persons on the borough president's recommendations. The hearing shall be held within twenty days from the borough president's request for the hearing. The head of the agency which procured the services in question, or designee of such agency head, and the contractor whose performance is being evaluated, shall have the right, and it shall be their duty when requested by the panel to appear and be heard.
-	
-	      3.   The panel shall recommend, within thirty days of the date of such hearing, such action as it deems appropriate and shall promptly deliver its recommendations in writing to the agency head, borough president and contractor. Within thirty days of receipt of the panel's recommendation, the agency head shall respond in writing to the panel and the borough president, indicating which of the panel's recommendations shall be acted upon and what, if any, alternative action will be taken.
-	
-	      4.   In the case of any contract regarding which more than one borough president has submitted a determination in accordance with paragraph one of this subdivision, the agency receiving such determinations shall notify each such borough president of the agency response submitted in accordance with paragraph two of this subdivision. A hearing, if any, held shall include the comments of all such borough presidents.
-
-
-
-
-Section 334.
-----------
-
-Section 334. Information on city contracts. ::
-
-
-	   a.   Agency contract files. Each agency shall maintain files containing information pertaining to the solicitation, award and management of each contract of the agency in accordance with standard record maintenance requirements established pursuant to section three thousand four of this charter. The agency contract files shall contain copies of each determination, writing or filing required by this chapter pertaining to a contract and such information as is prescribed by rule of the procurement policy board, in such form as is prescribed by the procurement policy board. Agency contract files shall be open to the public inspection with adequate protection for information which is confidential.
-	
-	   b.   Requests by elected officials for contract documentation. Whenever an elected official of the city requests documentation relating to the solicitation or award of any city contract, the mayor and city agencies shall promptly provide such documentation as is requested or shall promptly respond to the requesting official with reason why such documentation cannot be provided. If the mayor or agency is unable to provide the requested documentation within ten business days of the day the request is received, the mayor or agency shall within such time deliver to the requesting official a statement of the reasons the documentation can not be promptly provided and shall include in such statement a timetable within which the documentation will be provided, not to exceed thirty days from the date of the original request.
-	
-	   c.   Centralized contract and contractor information. The mayor shall ensure that copies of city contracts and other standard information regarding city contracts and contractors are reasonably available for public inspection in accordance with provisions of section one thousand sixty-four of this charter.
-
-
-
-
-Section 335.
-----------
-
-Section 335. Centralized evaluation of contractor integrity, performance, and capability. ::
-
-
-	   a.   The mayor may evaluate the integrity, performance, and capability of entities that contract with the city, are seeking to contract with the city, or may seek to contract with the city. The mayor may designate one or more agencies to participate in such efforts. The evaluations of the mayor and any agency designated by the mayor may include conclusions regarding whether the entity should be considered a responsible contractor. The mayor and any agency designated by the mayor may make such evaluations and conclusions available to agencies and the public through a centralized data base.
-	
-	   b.   Where evaluation pursuant to subdivision a of this section or other applicable rules and procedures includes a determination by the department of investigation of whether an entity that contracts with the city, seeks to contract with the city, or may seek to contract with the city, or any individual affiliated with such entity, is currently or has ever been, within a relevant timeframe the subject of an investigation by such department, such department shall, to the extent practicable, submit such determination to the relevant agency at least 30 days prior to the anticipated commencement of the contract. However, such department may exercise its discretion with respect to the release of information that may affect the integrity of an ongoing investigation or may be subject to confidentiality requirements imposed by law or agreements with other law enforcement agencies. Such department shall provide an explanation to an agency if its review is not completed within thirty calendar days of the request. This subdivision shall not be construed to create a private right of action in relation to its provisions.
-	
-	
+	   The comptroller shall determine whether sinking fund bonds issued on or after July first, nineteen hundred eighty-one shall be redeemable from any of the several sinking funds of the city established prior to July first nineteen hundred eighty-one, the general sinking fund or any of the additional sinking funds established pursuant to section two hundred ninety-eight.
 
 
 

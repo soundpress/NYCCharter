@@ -1,4 +1,4 @@
-Chapter 2 - Council
+Chapter 2: Council
 =================
 Section 21.
 ----------

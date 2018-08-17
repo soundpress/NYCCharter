@@ -1,393 +1,346 @@
-Chapter 8 - City Planning
+Chapter 7: Tax Appeals
 =================
-Section 191.
+Section 150.
 ----------
 
-Section 191. Department and director of city planning. ::
+Section 150. Office of administrative tax appeals. ::
 
 
-	   a.   There shall be a department of city planning, the head of which shall be the director of city planning. The director of city planning shall be the chair and a member of the city planning commission and shall serve at the pleasure of the mayor.
-	
-	   b.   The director of city planning shall:
-	
-	      1.   Advise and assist the mayor, the borough presidents and the council in regard to the physical planning and public improvement aspects of all matters related to the development of the city.
-	
-	      2.   Provide staff assistance to the city planning commission in all matters under its jurisdiction.
-	
-	      3.   Be the custodian of the city map and record thereon all changes legally authorized.
-	
-	      4.   Conduct continuous studies and collect statistical and other data to serve as the basis for planning recommendations.
-	
-	      5.   Provide community boards with such staff assistance and other professional and technical assistance as may be necessary to permit such boards to perform their planning duties and responsibilities under this chapter.
-	
-	      6.   Assist the mayor in the preparation of strategic plans, including the preparation of the report provided for in section sixteen concerning the social, economic and environmental health of the city, the strategic policy statement provided for in section seventeen and the ten-year capital strategy provided for in section two hundred fifteen.
-	
-	      7.   Appoint a deputy executive director for strategic planning.
-	
-	      8.   Make a complete transcript of the public meetings and hearings of the commission available for public inspection free of charge within sixty days after any such meeting or hearing. The director shall also provide a copy of any requested pages of such transcript at a reasonable fee to cover the costs of copying and, where relevant, mailing.
-	
-	      9.   Indicate on the department’s website the name and contact information of an employee who acts as a coordinator with the board of standards and appeals.
-	
-	      10.   Provide on the department’s website, a record of each application for a variance or special permit to the board of standards and appeals where the department or the city planning commission has submitted testimony and a copy of such testimony in a searchable format.
-	
-	      11.   Perform such other functions as are assigned to him or her by the mayor or other provisions of law.
-	
-	   c.   The department shall employ such planning experts, engineers, architects and other officers and employees as may be required to perform its duties, within the appropriation therefor.
-	
-	
+	   There shall be an office of administrative tax appeals, which shall consist of the tax commission established by section one hundred fifty-three of this charter and the tax appeals tribunal established by section one hundred sixty-eight of this charter and shall provide staff and administrative assistance to such commission and such tribunal. The office of administrative tax appeals shall operate pursuant to a written agreement between the president of the tax commission and the president of the tax appeals tribunal, and shall be headed by a director appointed in accordance with such agreement. Such director may be the president of the tax commission or the president of the tax appeals tribunal or both. If there is no such agreement, such office shall provide staff and administrative assistance to such commission and such tribunal in accordance with the respective powers of such presidents.
 
 
 
 
-Section 192.
+Section 153.
 ----------
 
-Section 192. City planning commission. ::
+Section 153. Tax commission. ::
 
 
-	   a.   There shall be a city planning commission to consist of the chair and twelve other members. The mayor shall appoint the chair and six other members of the commission, the public advocate shall appoint one member, and each borough president shall appoint one member. Members shall be chosen for their independence, integrity and civic commitment. Appointments of all members, except for the chair, shall be subject to the advice and consent of the council. For such appointments by officials other than the mayor, the procedure for obtaining the advice and consent of the council shall be the same as the procedure provided for in section thirty-one for appointments by the mayor. Except as otherwise provided in section one hundred ninety-one, no member shall hold any other city office. Members other than the chair shall be appointed for a term of five years; provided, however, that of the members other than the chair, one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-one; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-two; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-three; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-four; and two members appointed by the mayor, the member appointed by the public advocate and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-five. The borough presidents shall determine by lot the length of the term to be served by the member first appointed by each borough president. The appointing officials shall make their first appointments to the commission on or before the first day of March, nineteen hundred ninety. The commission members so appointed shall assume office on the first day of July, nineteen hundred ninety. Members of the commission shall serve until their successors have been confirmed. Any vacancy occurring other than by expiration of term shall be filled by the official who appointed the member in the same manner as the original appointment. A person so appointed shall serve for the unexpired portion of the term of the member succeeded. Terms shall begin on the next date after the expiration date of the preceding term.
+	   a.   There shall be within the office of administrative tax appeals a tax commission to consist of the president and six commissioners who shall be appointed by the mayor for a term of six years, except the term of two commissioners first appointed pursuant to this section shall be two years, the term of the president and two additional commissioners shall be four years and the term of the remaining two commissioners shall be six years. Each commissioner shall have at least three years business experience in the field of real estate or real estate law. At least one resident of each borough shall be included among the commissioners.
 	
-	   b.   Members, except for the chair, shall not be considered regular employees of the city for purposes of chapter sixty-eight. The agency served by the members of the commission shall for purposes of chapter sixty-eight be deemed to be both the commission and the department of city planning. No member, while serving as a member, shall appear directly or indirectly before the department, the commission, or any other city agency for which the conflicts of interest board shall, by rule, determine such appearance creates a conflict of interest with the duties and responsibilities of the member. No firm in which a member has an interest may appear directly or indirectly before the department or commission. For purposes of this section, the terms "agency," "appear," "firm," and "interest" shall be defined as provided in chapter sixty-eight.
-	
-	   c.   One of the members other than the chair shall be designated by the mayor as vice-chair and shall serve as vice-chair at the pleasure of the mayor. The vice-chair shall possess the powers and perform the duties of the chair when the chair is absent or while a vacancy exists in the office of the chair, and shall at such times serve as director of city planning.
-	
-	   d.   The city planning commission shall be responsible for the conduct of planning relating to the orderly growth, improvement and future development of the city, including adequate and appropriate resources for the housing, business, industry, transportation, distribution, recreation, culture, comfort, convenience, health and welfare of its population.
-	
-	   e.   The city planning commission shall oversee implementation of laws that require environmental reviews of actions taken by the city. The commission shall establish by rule procedures for environmental reviews of proposed actions by the city where such reviews are required by law. Such rules shall include procedures for (1) selection of the city agency or agencies that will be responsible for determining whether an environmental impact statement is required in connection with a proposed action and for preparation and filing of any such statement required by law, (2) participation by the city in environmental reviews involving agencies other than city agencies and (3) coordination of environmental review procedures with the land use review procedures set forth in this charter. The director of city planning and the commissioner of the department of environmental protection shall assign from the staffs of such departments an office of environmental coordination, which shall provide assistance to all city agencies in fulfilling their environmental review responsibilities.
-	
-	   f.   Not later than the thirty-first day of December, nineteen hundred ninety-two and every four years thereafter, the commission shall file with the mayor, the council, the public advocate, the borough presidents, and community boards, a zoning and planning report. The report shall include (1) a statement of the planning policy of the commission, which policy shall take into consideration, among other things, the ten-year capital strategy, the four-year capital program, the report on the social, economic and environmental health of the city issued pursuant to section sixteen, the strategic policy statements provided for in section seventeen and plans approved pursuant to section one hundred ninety-seven-a, (2) a summary of the significant plans and studies completed or undertaken by the department of city planning in the preceding four years, (3) an analysis of those portions of the zoning resolution that merit reconsideration in light of the planning policy of the commission and (4) proposals for implementing the planning policy of the commission whether by amendment of the zoning resolution, development of plans or otherwise.
+	   b.   The tax commission shall be charged with the duty of reviewing and correcting all assessments of real property made pursuant to the provisions of section fifteen hundred six.
 
 
 
 
-Section 193.
+Section 154.
 ----------
 
-Section 193. Removal of commission members. ::
+Section 154. Administrative powers of commissioners. ::
 
 
-	   A member of the commission other than the chair may be removed by the appointing official only upon proof of official misconduct, neglect of official duties, conduct in any manner connected with his or her official duties which tends to discredit his or her office, or mental or physical inability to perform his or her office, or mental or physical inability to perform his or her duties. Before removal, any such member shall receive a copy of the charges and shall be entitled to a hearing on a record by the office of administrative trials and hearings, which shall make final findings of fact, recommend a decision and submit such findings and recommended decision to the appointing official for final action.
+	   Any commissioner shall exercise such other powers and duties as the president may from time to time assign to him.
 
 
 
 
-Section 195.
+Section 155.
 ----------
 
-Section 195. Acquisitions of office space. ::
+Section 155. Annual report. ::
 
 
-	   Acquisitions by the city of office space or existing buildings for office use, whether by purchase, condemnation, exchange or lease, shall be subject to the following review and approval procedure:
+	   a.   The tax commission shall issue an annual report to the city council and the mayor not later than the first day of March in each year. Such report shall include the following information compiled for the previous calendar year:
 	
-	      a.   The agency proposing any such acquisition shall file with the department of city planning a notice of intent to acquire. The department of city planning shall send such notice to the community board in which the proposed acquisition is located and to all borough presidents.
+	      (1)   the number of applications for correction filed with the tax commission;
 	
-	      b.   Within thirty days of the filing of such notice, the city planning commission shall hold a public hearing on such acquisition and shall approve or disapprove such acquisition. Notice of such hearing shall be published in the City Record not less than ten days in advance of such hearing.
+	      (2)   the total actual assessed valuation of all applications for correction filed with the tax commission;
 	
-	      c.   In reviewing any such acquisition, the commission shall apply the criteria for the location of city facilities provided for in section two hundred and three.
+	      (3)   the total number of hearings conducted on applications for correction;
 	
-	      d.   Within the thirty days provided for commission action pursuant to subdivision b of this section, the commission shall file any approval of such an acquisition with the council. Within twenty days of such filing, the council may by two-thirds vote disapprove such acquisition.
+	      (4)   the total number of applications for which a reduction or remittance was offered by the commission and accepted;
+	
+	      (5)   the total actual assessed valuation of the reductions and remittances offered by the commission and accepted;
+	
+	      (6)   the number of accepted offers of reduction in assessed valuation that amounted to (i) less than $50,000, (ii) $50,000 to $249,999 and (iii) $250,000 or more; and
+	
+	      (7)   any planned or implemented improvements or modifications in the manner in which the tax commission operates, including, but not limited to, hearing practices and procedures, record-keeping, fact-finding and information-gathering procedures, supervision and staff productivity and efficiency measures.
+	
+	   b.   The foregoing information shall be classified, wherever applicable, according to real property class designation.
 
 
 
 
-Section 196.
+Section 156.
 ----------
 
-Section 196. Affected boards and borough presidents. ::
+Section 156. Right of entry. ::
 
 
-	   For purposes of this chapter: the term "affected community board" shall mean the community board for a community district in which land included in a plan or an application pursuant to this chapter is located; the term "affected borough president" shall mean the president of a borough in which land included in such a plan or an application is located; and a borough board shall be deemed "affected" if such a plan or application includes land within two or more community districts within the borough represented by such borough board.
+	   The president or any commissioner may enter upon real property and into buildings and structures at all reasonable times to ascertain the character of the property. Refusal by the owner or his agent to permit such entry shall be triable by a judge of the criminal court and punishable by not more than thirty days' imprisonment, or by a fine of not more than fifty dollars, or both.
 
 
 
 
-Section 197-a.
+Section 163.
 ----------
 
-Section 197-a. Plans. ::
+Section 163. Application for correction of assessment for taxation. ::
 
 
-	   a.   Plans for the development, growth, and improvement of the city and of its boroughs and community districts may be proposed by (1) the mayor, (2) the city planning commission, (3) the department of city planning, (4) a borough president with respect to land located within his or her borough, (5) a borough board with respect to land located within its borough, or (6) a community board with respect to land located within its community district. A community board, borough board or borough president that proposes any such plan shall submit the plan together with a written recommendation to the city planning commission for determinations pursuant to subdivision b of this section. Any such submission may be made by a community board, borough board or borough president only after the board or borough president proposing such a plan has held a public hearing on the plan.
+	   a.   When used in this chapter:
 	
-	   b.   The city planning commission shall adopt rules establishing minimum standards for the form and content of plans pursuant to this section within a reasonable time period after the first day of July, nineteen hundred ninety. Upon receipt of a plan proposed pursuant to this section by a community board, borough board or borough president, the city planning commission shall, within a reasonable time period, determine whether such plan satisfies the standards established in such rules and is consistent with sound planning policy. If the commission makes such determinations with respect to a plan submitted by a community board, it shall prepare or cause to be prepared any environmental analysis of such plan required by law to enable the city planning commission and the council to act on the plan pursuant to subdivision d of this section. If the city planning commission makes the determinations provided for in this subdivision with respect to a plan, such plan shall be referred to the department of city planning for circulation and review pursuant to subdivisions c and d of this section.
+	      1.   "Class designation" shall mean the determination, pursuant to section eighteen hundred two of the real property tax law, of whether real property is included in class one, two, three or four.
 	
-	   c.   All plans proposed pursuant to this section shall be referred to the department of city planning for circulation by the department to all affected community boards, all affected borough boards and all affected borough presidents for review and written recommendation, except that any such plan need not be circulated to the agency or official that proposed such plan. All affected community boards and borough boards to which such a plan is referred shall hold a public hearing on any such plan, except that in the case of a plan that includes an entire borough or land in more than one borough, only one public hearing need be held in each affected borough. The city planning commission shall establish by rule the procedures and schedule for review of such plans, consistent with the provisions of this section. A community board or borough board may review a plan which does not involve land so located as to require its review if in its judgment the plan significantly affects the welfare of the district or borough served by such board. In such case, the plan and any written recommendations relative thereto shall be made available to such board on request. Such board may hold its own public hearing on such plan if it desires and may submit its own written recommendations in regard thereto to the city planning commission.
+	      2.   "Excessive assessment" or an assessment which is excessive shall mean and include:
 	
-	   d.   Within a reasonable time period following review and recommendation of a plan pursuant to subdivision c of this section, the city planning commission shall (1) review such plan, (2) hold a public hearing on such plan, and (3) by resolution approve, approve with modifications or disapprove such plan. If the commission has approved a plan or approved a plan with modifications, such plan shall be subject to review and action by the council pursuant to section one hundred ninety-seven-d. The council may by a two-thirds vote approve a plan which the city planning commission disapproved or on which the commission has failed to act if the mayor so requests. Upon the filing by the mayor of such a request with the commission and the council, the commission shall within five days file with the council a copy of its decision together with a copy of the plan. Copies of approved plans shall be filed with the city clerk, the department of city planning, the affected borough presidents, the affected borough boards and the affected community boards.
+	         (a)   an entry on an assessment roll of the assessed valuation or real property which exceeds the full value of real property; or
+	
+	         (b)   an entry on an assessment roll of the taxable assessed valuation of real property which is excessive because the real property failed to receive all or a portion of a partial exemption to which the property or owner thereof is entitled pursuant to the law authorizing the partial exemption; or
+	
+	         (c)   an entry on an assessment roll of an assessed valuation for real property which is excessive because of a failure to comply with the limitations on increases in assessed value set forth in section eighteen hundred five of the real property tax law.
+	
+	      3.   "Misclassification" or real property which is misclassified shall mean and include:
+	
+	         (a)   an entry on an assessment roll of an incorrect class designation; or
+	
+	         (b)   an entry on an assessment roll of a class designation which results in an incorrect allocation of a parcel's assessed valuation between two or more classes.
+	
+	      4.   "Unequal assessment" or an assessment which is unequal shall mean and include an entry on an assessment roll of the assessed valuation of real property which is made at a higher proportionate valuation than the assessed valuation of other real property in the same class on the same roll by the same officer.
+	
+	      5.   "Unlawful assessment" or an assessment which is unlawful shall mean and include:
+	
+	         (a)   an entry on the taxable portion of an assessment roll of the assessed value of real property which, except for the provisions of section four hundred ninety of the Real Property Tax Law, is wholly exempt from taxation; or
+	
+	         (b)   an entry on an assessment roll of the assessed value of real property which is entirely outside the boundaries of the city of New York; or
+	
+	         (c)   an entry on an assessment roll of the assessed value of real property which cannot be identified from the assessment roll description or tax map land parcel number on the assessment roll; or
+	
+	         (d)   an entry of the assessed value of real property on an assessment roll which has been made by a person or body without authority to make such entry.
+	
+	   b.   During the time that the books of annual records of the assessed valuation of real estate are open for public inspection, any person or corporation claiming to be aggrieved by the assessed valuation of real estate may apply for correction of such assessment. Such application shall be duly verified by a person having personal knowledge of the facts stated therein, provided that if the application is signed by someone other than the person or an officer of the corporation claiming to be aggrieved, the application must be accompanied by a duly executed power of attorney as prescribed by the rules and regulations of the tax commission.
+	
+	   c.   The grounds for review of an assessment shall be that the assessment complained of is excessive, unequal, or unlawful, or that the real property is misclassified.
+	
+	   d.   The application with respect to an assessment shall be on a form prescribed by the tax commission and shall contain a statement specifying the respect in which the assessment is excessive, unequal, or unlawful, or the respect in which the real property is misclassified, and the reduction in assessed valuation or taxable assessed valuation or change in class designation or allocation of assessed valuation sought.
+	
+	   e.   Except in the case of a multiple or other dwelling which is occupied or is to be occupied exclusively by fewer than seven families, all income received or accrued and all expenses paid or incurred in the operation of the property, to be reported as follows:
+	
+	      (a)   if the applicant's books and records reflecting the operation of the property are maintained on a calendar year basis, and the applicant operated the property or has knowledge of the income and expenses of said operation for a period of operation of at least two calendar years preceding the first day of January of the year of the application, the income and expense figures for the second calendar year preceding the date of the application shall be filed with the application;
+	
+	      (b)   if the applicant's books and records reflecting the operation of the property are maintained on a calendar year basis, and the applicant has operated the property or has knowledge of the income and expenses of such operation for a period of less than two calendar years but at least six months of the calendar year immediately preceding the date of the application, the income and expense figures, related to the time during which the applicant operated the property or had knowledge of the income and expenses of the operation in the calendar year immediately preceding the date of the application, shall be filed either with the application or prior to the twenty-fifth day of March in the year of the application;
+	
+	      (c)   if the applicant's books and records reflecting the operation of the property are maintained on a fiscal year basis for federal income tax purposes and such fiscal year ended at least six months prior to the date of the application, and the applicant has operated the property for at least one year and six months prior to the date of the application or has knowledge of the income and expenses of the property for a period of at least one year and six months prior to the date of the application, the income and expense figures of the operation of the property for the last complete fiscal year preceding the date of the application shall be filed with the application;
+	
+	      (d)   if the books and records reflecting the operation of the property are maintained on a fiscal year basis for federal income tax purposes and either such fiscal year ended less than six months prior to the date of the application, or the applicant has not operated the property or has no knowledge of the income and expenses of such operation for the last entire fiscal year which ended at least six months prior to the date of the application, income and expense figures shall be filed, either with the application or prior to the twenty-fifth day of March in the year of the application, reflecting the period of the applicant's operation or knowledge of the operation of the property during the fiscal year preceding the date of the application, provided such period encompassed at least six months and further provided however, such fiscal year ends prior to the taxable status date under review;
+	
+	      (e)   if the applicant has not operated the property for at least six months of the calendar year preceding the date of the application and is without knowledge of the income and expenses of operation, it shall state such facts under oath in lieu of filing an income and expense statement.
+	
+	   f.   The filing of an application in the manner and form hereinabove described shall be prerequisite to the review of a final determination of the tax commission as provided in section one hundred sixty-six. Such application, in the case of real property indicated on a tax map by a parcel number, shall be filed in the office of the tax commission in the borough in which such real property is situated and in the case of real property indicated by an identification number, it shall be filed in the main office of the tax commission. Employees of the commission assigned by the president for the purpose of receiving such applications are thereby authorized to administer oaths between the fifteenth day of January and the first day of March.
 
 
 
 
-Section 197-b.
+Section 164.
 ----------
 
-Section 197-b. Notification of plans and proposals. ::
+Section 164. Procedure on application. ::
 
 
-	   a.   Advance notice of all preliminary and final plans of public agencies and public benefit corporations or of private agencies, entities or developers filed with the city that relate to the use, development or improvement of land subject to city regulation shall be given to the affected community board or boards and the office of the affected borough president, provided that exceptions may be made in matters of no appreciable public concern by agency rule.
+	   a.   Between the fifteenth day of January and the twenty-fifth day of May, the tax commission may itself or by a commissioner or assessor thereunto authorized by the commission or any other person with qualifications relevant to the review of real property tax assessments, including real estate and real estate law, as determined by the commission and consistent with state law, act upon applications, compel the attendance of witnesses, administer oaths or affirmations and examine applicants and other witnesses under oath. It shall make rules of practice for proceedings before the tax commission, and such rules and regulations as may be appropriate and expedient to the end that the taxpayers may have a hearing in the borough in which they reside or in which their property is located, except that all applications with respect to property indicated on the tax maps by identification numbers shall be heard by the tax commission sitting as a body at its main office.
 	
-	   b.   Copies of (1) all requests for proposals and other solicitations of proposals issued by or on behalf of the city, whether or not issued by an agency, a local development corporation or other entity, and (2) all letters of intent executed by or on behalf of the city, whether or not executed by an agency, a local development corporation or other entity, that relate to the private use or the disposition of city-owned land, shall be conveyed to the community boards where such land is located and the office of the borough president where such land is located promptly after issuance or execution.
+	   b.   The tax commission shall determine the final assessed valuation or taxable assessed valuation, or the actual assessment or transition assessment, or the proper class designation of the real property of each applicant. The final assessed valuation or taxable assessed valuation of real property may be the same as or less than the original assessment or, if determined to be unlawful, the same shall be ordered stricken from the roll or where appropriate entered on the exempt portion of the roll. If it is determined that the real property is misclassified, the correct class designation or allocation of assessed valuation shall be entered on the roll.
 
 
 
 
-Section 197-c.
+Section 164-a.
 ----------
 
-Section 197-c. Uniform land use review procedure. ::
+Section 164-a. Procedure on application for correction of an assessment of seven hundred fifty thousand dollars or more. ::
 
 
-	   a.   Except as otherwise provided in this charter, applications by any person or agency for changes, approvals, contracts, consents, permits or authorization thereof, respecting the use, development or improvement of real property subject to city regulation shall be reviewed pursuant to a uniform review procedure in the following categories:
+	   a.   Notwithstanding any other provision of this charter or the administrative code, the tax commission may itself or by a commissioner or assessor authorized by the commission act upon applications for correction of an assessment of real property assessed at seven hundred fifty thousand dollars or more between the first day of February and the first day of September. Any such application shall specify all income received or accrued and all expenses paid or incurred in the operation of the property during the calendar year preceding the date of application, or during the applicant's last fiscal year preceding the date of the application if the applicant's books and records are maintained on a fiscal year basis for federal income tax purposes which ends six months or more prior to the date of application, or during any part of such calendar or fiscal year in which the property was operated by the applicant, except that where the applicant has not operated the property and is without knowledge of the income and expenses of the operation, it shall state such facts under oath in lieu thereof. In the event that the statement of income and expenses is not filed as part of the application, such statement, when duly verified, shall be filed prior to the twenty-fifth day of March.
 	
-	      (1)   Changes in the city map pursuant to section one hundred ninety-eight and section one hundred ninety-nine;
+	   b.   All other provisions of law shall apply to the review of applications for correction of tentative assessed valuation of property assessed for seven hundred fifty thousand dollars or more except insofar as the dates contained therein are inconsistent with the dates set forth in this section.
 	
-	      (2)   Maps of subdivisions or plattings of land into streets, avenues or public places pursuant to section two hundred two;
+	   c.   [Repealed.]
 	
-	      (3)   Designations of zoning districts under the zoning resolution, including conversion from one land use to another land use, pursuant to sections two hundred and two hundred one;
+	   d.   Whenever such a reduction is granted after a final completion of the assessment roll any tax imposed upon the amount of such reduction shall be refunded or credited as soon as practicable.
 	
-	      (4)   Special permits within the jurisdiction of the city planning commission under the zoning resolution, pursuant to sections two hundred and two hundred one;
-	
-	      (5)   Site selection for capital projects pursuant to section two hundred eighteen;
-	
-	      (6)   Revocable consents pursuant to section three hundred sixty-four, requests for proposals and other solicitations for franchises pursuant to section three hundred sixty-three, and major concessions as defined pursuant to section three hundred seventy-four;
-	
-	      (7)   Improvements in real property the costs of which are payable other than by the city pursuant to section two hundred twenty;
-	
-	      (8)   Housing and urban renewal plans and projects pursuant to city, state and federal housing laws;
-	
-	      (9)   Sanitary or waterfront land-fills pursuant to applicable charter provisions or other provisions of law;
-	
-	      (10)   Sale, lease (other than the lease of office space), exchange, or other disposition of the real property of the city, including the sale or lease of land under water pursuant to section sixteen hundred two, chapter fifteen, and other applicable provisions of law;
-	
-	      (11)   Acquisition by the city of real property (other than the acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to section sixteen hundred two, chapter fifteen, and other applicable provisions of law; and
-	
-	      (12)   Such other matters involving the use, development or improvement of property as are proposed by the city planning commission and enacted by the council pursuant to local law.
-	
-	   b.   The following documents shall be filed with the department of city planning: (1) applications under this section, (2) any amendments thereto that are made prior to approval of such applications pursuant to this chapter, (3) any written information submitted by an applicant for purposes of determining whether an environmental impact statement will be required by law, and (4) documents or records intended to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law. The department of city planning shall forward a copy of any materials it receives pursuant to this subdivision (whether or not such materials have been certified as complete) within five days to each affected borough president, community board or borough board.
-	
-	   c.   The department of city planning shall be responsible for certifying that applications pursuant to subdivision a of this section are complete and ready to proceed through the uniform land use review procedure provided for in this section. Upon certification of an application, the department shall give notice of such certification to the council. If an application under this section has not been certified within six months after filing, both the applicant and, if the land use proposed in an application is consistent with the land use policy or strategic policy statement of the affected borough president, the affected borough president shall have the right at any time thereafter to appeal to the city planning commission for certification. The commission shall promptly, but in any event within sixty days of the filing of such an appeal, either certify the application or state in writing what further information is necessary to complete the application. If such an appeal is brought by an affected borough president, the affirmative vote of five members of the commission shall be sufficient to certify the application.
-	
-	   d.   If a meeting involving a city agency and an applicant is convened to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law for an application subject to review under this section, each affected community board and each affected borough president shall receive advance notice of such meeting, and each shall have the right to send one representative to the meeting.
-	
-	   e.   Each affected community board shall, not later than sixty days after receipt of an application that has been certified pursuant to subdivision c of this section,
-	
-	      (1)   notify the public of the application in a manner specified by the city planning commission pursuant to subdivision i of this section, and
-	
-	      (2)   either (a) conduct a public hearing thereon and prepare and submit a written recommendation directly to the city planning commission and to the affected borough president or (b) where authorized by this charter, submit a written waiver of the right to conduct a public hearing and to submit such written recommendations to the commission and the affected borough president.
-	
-	   f.   A copy of a recommendation or waiver by a community board pursuant to subdivision e of this section that involves land located within two or more community districts in a borough shall also be filed with the affected borough board within the same time period as specified in subdivision e. Not later than thirty days after the filing of a recommendation or waiver with the borough board by all affected community boards, or, if any affected community board shall fail to act, thirty days after the expiration of the time allowed for such community board to act, the borough board may hold a public hearing on the application and any such recommendations and submit a written recommendation or waiver thereof to the city planning commission.
-	
-	   g.   Not later than thirty days after the filing of a recommendation or waiver with the borough president by all affected community boards, or, if any affected community board shall fail to act, thirty days after the expiration of the time allowed for such community board to act, the borough president shall submit a written recommendation or waiver thereof to the city planning commission.
-	
-	   h.   Not later than sixty days after expiration of time allowed for the filing of a recommendation or waiver with the city planning commission by a borough president, the commission shall approve, approve with modifications, or disapprove the application. Any such approval or approval with modifications of the commission shall require the affirmative vote of at least seven of the members, except that the affirmative vote of nine members shall be required to approve or approve with modifications an application pursuant to paragraph five, ten or eleven of subdivision a of this section relating to a new city facility if the affected borough president recommends against approval of such application pursuant to subdivision g of this section and has proposed an alternative location in the same borough for such new city facility pursuant to subdivision f or g of section two hundred four. The commission shall conduct a public hearing on all applications that are subject to review and approval by the commission pursuant to this section. Prior to taking any action pursuant to this subdivision on a matter involving the siting of a capital project, the sale, lease, exchange or other disposition or acquisition of real property, a request for a proposal or other solicitation for a franchise or a revocable consent, the city planning commission may obtain a report from the office of management and budget or the department of citywide administrative services, as appropriate. Any action of the city planning commission which modifies or disapproves a written recommendation of the community board, borough president or borough board shall be accompanied by a written explanation of its reason for such action.
-	
-	   i.   The city planning commission shall establish rules providing (1) guidelines, minimum standards, and procedural requirements for community boards, borough presidents, borough boards and the commission in the exercise of their duties and responsibilities pursuant to this section, (2) minimum standards for certification of applications pursuant to subdivision c of this section, and (3) specific time periods for review of applications pursuant to this section prior to certification.
-	
-	   j.   If a community board, borough president or borough board fails or waives its right to act within the time limits for review pursuant to subdivisions e, f and g of this section, the application shall be referred to the next level of review. If the city planning commission fails to act on an application within the time limit specified in subdivision h of this section, the application shall be deemed to have been denied unless the application (i) is pursuant to paragraph three or four of subdivision a of this section, in which case the application may be forwarded to the council for review pursuant to the provisions of subdivision b of section two hundred, if applicable, or (ii) is pursuant to paragraph eight of subdivision a of this section, in which case the application shall be referred to the council for review and action as provided by state law.
-	
-	   k.   Notice of any hearing on an application by the city planning commission shall be published in the City Record at least ten days immediately prior to the date of the hearing, and a copy of the notice shall be mailed to all community boards or borough boards affected by the application.
-	
-	   l.   The commission shall establish by rule procedures for advance posting of notices of commission hearings on applications. Such notices shall be posted at the location of the land involved in such manner and with respect to such types of applications as the commission deems appropriate. Failure to post any such notice shall not affect or impair the validity of any decision of the city planning commission, the council or other agency or official pursuant to this chapter.
-	
-	   m.   A community or borough board may review an application which is subject to the uniform land use review procedure pursuant to this section but does not involve land so located as to require reference to such board for review, if in the board's judgment the application might significantly affect the welfare of the community district or borough served by such board. In such a case the application and the related materials submitted to the affected board or boards by the city planning department shall be submitted also to such board upon the request of such board, and such board may hold its own public hearing thereon if it so desires and may submit its own written recommendations in regard thereto to the city planning commission for consideration at any time before the city planning commission takes action thereon.
+	   e.   Any reduction shall be made public within sixty days after it is rendered. A list of reductions in real property assessments shall be published thereafter in the city record on or before the first of November.
 
 
 
 
-Section 197-d.
+Section 164-b.
 ----------
 
-Section 197-d. Council Review. ::
+Section 164-b. Procedure on application for correction of an assessment of class one property. ::
 
 
-	   a.   The city planning commission shall file with the council and with the affected borough president a copy of its decisions to approve or approve with modifications (1) all matters described in subdivision a of section one hundred ninety-seven-c, (2) plans pursuant to section one hundred ninety-seven-a, and (3) changes in the text of the zoning resolution pursuant to sections two hundred and two hundred one. Any such filing of a decision pursuant to section one hundred ninety-seven-c shall be completed prior to the expiration of the sixty-day period for action by the commission. Any such filing with the council shall include copies of all written recommendations of community boards, borough boards and borough presidents with respect to the decision being filed.
+	   a.   When used in this section:
 	
-	   b.   The following decisions filed with the council pursuant to subdivision a of this section, shall be subject to review and action by the council:
+	      1.   "Class designation" shall mean the determination, pursuant to article eighteen of the real property tax law, of whether real property is included in class one, two, three or four.
 	
-	      (1)   any decision of the city planning commission to approve or approve with modifications a matter described in paragraph three or eight of subdivision a of section one hundred ninety-seven-c, a disposition of residential real property (as defined in this paragraph) pursuant to paragraph ten of subdivision a of section one hundred ninety-seven-c (except for dispositions to companies that have been organized exclusively to develop housing projects for persons of low income), a plan pursuant to section one hundred ninety-seven-a, or a change in the text of the zoning resolution pursuant to sections two hundred or two hundred one. For purposes of this section, residential real property shall mean real property improved by structures, whether or not occupied, built for or converted to a use which is primarily residential, but shall not include property subsequently converted to non-residential use;
+	      2.   "Excessive assessment" or an assessment which is excessive shall mean and include:
 	
-	      (2)   any other decision of the city planning commission to approve or approve with modifications a matter described in subdivision a of section one hundred ninety-seven-c, if (i) both an affected community board (after holding a public hearing) and the affected borough president, within the time periods allotted for their reviews pursuant to section one hundred ninety-seven-c, have recommended in writing against approval and (ii) the affected borough president, within five days of receiving a copy of the decision of the commission, files with the commission and the council a written objection to the decision; and
+	         (a)   an entry on an assessment roll of the assessed valuation of real property which exceeds the full value of real property; or
 	
-	      (3)   any other decision of the city planning commission to approve or approve with modifications a matter described in subdivision a of section one hundred ninety-seven-c, if within twenty days of the filing of such decision pursuant to subdivision a of this section, the council resolves by the majority vote of all the council members to review the decision of the commission.
+	         (b)   an entry on an assessment roll of the taxable assessed valuation of real property which is excessive because the real property failed to receive all or a portion of a partial exemption to which the real property or owner thereof is entitled pursuant to the law authorizing the partial exemption; or
 	
-	   c.   Within fifty days of the filing with the council pursuant to subdivision a of this section of any decision of the city planning commission which pursuant to subdivision b of this section is subject to review by the council, the council shall hold a public hearing, after giving public notice not less than five days in advance of such hearing, and the council, within such fifty days, shall take final action on the decision. The affirmative vote of a majority of all the council members shall be required to approve, approve with modifications or disapprove such a decision. If, within the time period provided for in this subdivision and, if applicable, in subdivision d of this section, the council fails to act or fails to act by the required vote on a decision of the city planning commission subject to council review pursuant to subdivision b of this section, the council shall be deemed to have approved the decision of the commission.
+	         (c)   an entry on the assessment roll of an assessed valuation for real property which is excessive because of a failure to comply with the limitations on increases in assessed value set forth in section eighteen hundred five of the real property tax law.
 	
-	   d.   The council shall not approve with modifications a commission decision if the commission has determined pursuant to this subdivision that additional review of the modifications is required. Prior to approving a decision of the commission with modifications, the council shall file the text of any such proposed modifications with the commission. Within fifteen days of such filing, the commission shall file with the council a written statement indicating whether such proposed modifications are of such significance that additional review of environmental issues or additional review pursuant to section one hundred ninety-seven-c is required. If no additional review is required, the commission may include in such statement its advisory recommendation concerning the proposed modifications, together with any proposed amendments to the proposed modifications. The council may thereafter approve such proposed modifications, with or without the amendments proposed by the commission. The time period for council action shall be tolled during such fifteen-day period; provided, however, that proposed modifications may be referred to the commission pursuant to this subdivision only once with respect to each application or group of related applications under review by the council.
+	      3.   "Misclassification" or real property which is misclassified shall mean and include:
 	
-	   e.   All actions of the council pursuant to this section shall be filed by the council with the mayor prior to the expiration of the time period for council action under subdivisions c and, if applicable, d of this section. Actions of the council pursuant to this section shall be final unless the mayor within five days of receiving a filing with respect to such an action of the council files with the council a written disapproval of the action. Any mayoral disapproval under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
+	         (a)   an entry on an assessment roll of an incorrect class designation; or
 	
-	   f.   The mayor shall have the right to file a written disapproval of any approval deemed to have occurred pursuant to subdivision c of this section as a result of a failure of the council to act or to act by the required vote. Any such written disapproval must be filed within five days of the expiration of the time period for action by the council under subdivisions c and, if applicable, d of this section. Any mayoral disapproval under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
+	         (b)   an entry on the assessment roll of a class designation which results in an incorrect allocation of a parcel's assessed valuation between two or more classes.
 	
-	   g.   If a decision of the commission approving an application is not subject to council review pursuant to paragraph one of subdivision b of this section or is not made subject to council review pursuant to paragraphs two or three of subdivision b of this section, the mayor may nonetheless file with the council a written objection to such decision of the commission within five days of the expiration of time for the council to act under paragraph three of subdivision b of this section. Any mayoral objection under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
+	      4.   "Unequal assessment" or an assessment which is unequal shall mean and include an entry on an assessment roll of the assessed valuation of real property improved by a one, two or three family residence which is made at either a higher proportion of full value than the assessed valuation of other residential property on the same roll or at a higher proportion of full value than the assessed valuation of all real property on the same roll.
+	
+	      5.   "Unlawful assessment" or an assessment which is unlawful shall mean and include:
+	
+	         (a)   an entry on the taxable portion of the assessment roll of the assessed valuation of real property which, except for the provisions of section four hundred ninety of the real property tax law, is wholly exempt from taxation; or
+	
+	         (b)   an entry on an assessment roll of the assessed valuation of real property which is entirely outside the boundaries of the city of New York; or
+	
+	         (c)   an entry on an assessment roll of the assessed valuation of real property which cannot be identified from the assessment roll description or tax map land parcel number on the assessment roll; or
+	
+	         (d)   an entry of the assessed valuation of real property on an assessment roll which has been made by a person or body without the authority to make such entry.
+	
+	   b.   Notwithstanding any other provision of this charter or administrative code, any party claiming to be aggrieved by the assessed valuation of a parcel designated class one pursuant to the provisions of article eighteen of the real property tax law may apply for correction of such assessment from the fifteenth day of January until the fifteenth day of March, including the filing of exemptions for senior citizens, and the office of the real property assessment bureau of the department of finance in each borough shall remain open for accepting such applications during normal business hours and for at least three additional hours each week.
+	
+	   c.   the grounds for review of an assessment shall be that the assessment complained of is excessive, unequal, unlawful, or that the real property is mis- classified.
+	
+	   d.   The application for correction of assessment shall be on a form prescribed by the tax commission and shall contain a statement specifying the respect in which the assessment is excessive, unequal, or unlawful, or the respect in which the real property is misclassified, and the reduction in assessed valuation or taxable assessed valuation or change in class designation or allocation of assessed valuation sought. Such application must be made by the aggrieved party or by some person authorized in writing by the aggrieved party or his agent to make such statement who has knowledge of the facts stated therein. Such written authorization must be made a part of the application and bear a date within one year of the date on which the application is filed. In lieu of a verification the application shall contain the following sentence: "I certify that all statements made on this application, including the attached sheet(s) consisting of pages, are true and correct to the best of my knowledge and belief and I understand that the making of any willful false statement of material fact herein will subject me to the provisions of the penal law relevant to the making and filing of false statements."
+	
+	   e.   The tax commission shall thereafter determine the final assessed valuation or taxable assessed valuation, or the actual assessment or transition assessment, or the proper class designation of the real property of each applicant. When the applicant specifies that the assessment is unequal, in addition to other evidence presented, the tax commission shall consider the residential assessment ratio determined pursuant to section seven hundred thirty-eight of the real property tax law. The final assessed valuation or taxable assessed valuation of real property may be the same as or less than the original assessment or, if determined to be unlawful, the same shall be ordered stricken from the roll or where appropriate entered on the exempt portion of the roll. If it is determined that the real property is misclassified, the correct class designation or allocation of assessed valuation shall be ordered entered on the roll.
+	
+	   f.   All other provisions of law shall apply to the review of applications for correction of tentative assessed valuation of class one property except when inconsistent with any provision of this section.
 
 
 
 
-Section 198.
+Section 165.
 ----------
 
-Section 198. City map. ::
+Section 165. Final determination of the tax commission. ::
 
 
-	   a.   The city map is hereby continued.
-	
-	   b.   The director of city planning shall be the custodian of the city map, and it shall be his or her duty to complete and maintain the same and to register thereon all changes resulting from action authorized by law.
-	
-	   c.   The city map shall be on file in the office of the department of city planning, and certified copies thereof and of all changes thereto shall be filed in the offices of the corporation counsel, of the city clerk and of the borough president of the borough in which the land shown on the map is located and in the office in which conveyances of real estate are required to be recorded in the county in which the land shown on the map is located.
+	   The final determination of the tax commission upon any application for the correction of an assessment shall be rendered not later than the twenty-fifth day of May. Otherwise, the assessment objected to shall be deemed to be the final determination of the tax commission.
 
 
 
 
-Section 199.
+Section 165-a.
 ----------
 
-Section 199. Projects and changes in city map. ::
+Section 165-a. Notices of final determination on applications for owner-occupied residential property. ::
 
 
-	   a.   No improvement or project affecting the city map and no addition to or change in the city map shall be authorized otherwise than as provided in this charter.
-	
-	   b.   The review of any proposed addition to or change in the city map initiated by or referred to the city planning commission shall be made pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d.
+	   On or before the last day provided by law for the rendering of the final determination of the tax commission pursuant to section one hundred sixty-five of this charter the tax commission shall mail to each applicant who has filed an application for the correction of the assessment of a one, two or three family residential structure, except such property held in a cooperative or condominium form of ownership, a notice of the tax commission's determination of his or her assessment. Such notice shall also contain the statement: "If you are dissatisfied with the determination of the New York city tax commission and you are the owner of a one, two or three family residential structure and reside at such residence, you may seek judicial review of your assessment either under title one of article seven of the real property tax law or under the small claims assessment review law provided by title one-A of article seven of the real property tax law." Such notice shall also state the last date to file petitions for judicial review and the location where small claims assessment review petitions may be obtained. Failure to mail any such notice or failure of the applicant to receive the same shall not affect the validity of the assessment.
 
 
 
 
-Section 200.
+Section 166.
 ----------
 
-Section 200. Zoning resolution. ::
+Section 166. Proceeding to review final determination of the tax commission. ::
 
 
-	   a.   Except as provided in subdivision b, any existing resolution or regulation of the council, the board of estimate or of the city planning commission to regulate and limit the height and bulk of buildings, to regulate and determine the area of yards, courts and other open spaces, to regulate density of population or to regulate and restrict the locations of trades and industries and location of buildings designed for specific uses or creating districts for any such purpose, including any such regulation which provides that the board of standards and appeals may determine and vary the application of such resolutions or regulations in harmony with their general purpose and intent and in accordance with general or specific rules contained in such regulations, may be amended, repealed or added to only in the following manner:
-	
-	      1.   The city planning commission may upon its own initiative at any time or upon application as provided in section two hundred one, adopt a resolution to amend the text of the zoning resolution subject to the limitations provided by law. Before adopting any such resolution, the commission shall notify any community board or borough board affected by the resolution and shall afford persons interested an opportunity to be heard at a time and place to be specified in a notice of hearing to be published in the City Record for the ten days of publication of the City Record immediately prior thereto setting forth in general terms the nature of the proposed resolution and a statement of the place at which the entire resolution may be examined.
-	
-	      2.   Any resolution by the commission approving a change in the text of the zoning resolution shall be subject to review and approval by the council pursuant to section one hundred ninety-seven-d. Any resolution for a zoning text change which the mayor shall have certified to the council as necessary, and which has been disapproved by the commission, may be adopted by the council by a two-thirds vote and, after notice to the parties affected, a public hearing. The council shall act upon such resolution within fifty days of the filing of the certification of the mayor with the council, and such resolution shall become effective upon approval by the council.
-	
-	      3.   In case a protest against such a resolution approved by the city planning commission shall have been presented to the city clerk within thirty days from the date of the filing of such resolution with the council, duly signed and acknowledged by the owners of twenty per centum or more of the area of:
-	
-	         (1)   the land included in changes proposed in such proposed resolution, or
-	
-	         (2)   the land immediately adjacent extending one hundred feet therefrom, or
-	
-	         (3)   the land, if any, directly opposite thereto extending one hundred feet from the street frontage of such opposite land, such resolution shall not be effective after the filing of such protest unless approved by the council by a three-fourths* vote within one hundred eighty days after the filing of said resolution with the city clerk. The effective date of such resolution, if so approved, shall be the date of such approval. A protest duly filed as herein provided may be withdrawn at any time within sixty days from the date of the filing of such resolution.
-	
-	   b.   Designations of zoning districts under the zoning resolution and the issuance of special permits which under the terms of the zoning resolution are within the jurisdiction of the city planning commission shall be subject to review and approval pursuant to the procedures provided in section one hundred ninety-seven-c and section one hundred ninety-seven-d, except that whenever the city planning commission has not recommended approval of a proposed change in the designation of a zoning district or the issuance of a special permit under the zoning resolution or has failed to act on such a matter within the time specified in section one hundred ninety-seven-c, the council by a two-thirds vote may approve such change or the issuance of such permit only if the mayor shall have certified to the council that such change or issuance is necessary. The council shall act upon such designation or permit within fifty days of the filing of the certification of the mayor with the council.
+	   A proceeding to review or correct on the merits any final determination of the tax commission may be had as provided by law, and if brought to review a determination mentioned in section one hundred sixty-five must be commenced before the twenty-fifth day of October following the time when the determination sought to be reviewed or corrected was made.
 
 
 
 
-Section 201.
+Section 167.
 ----------
 
-Section 201. Applications for zoning changes and special permits. ::
+Section 167. Exemptions for persons sixty-five years of age or over. [Repealed] ::
 
 
-	   a.   Applications for changes in the zoning resolution may be filed by any taxpayer, community board, borough board, borough president, by the mayor or by the land use committee of the council if two-thirds of the members of the committee shall have voted to approve such filing with the city planning commission. All such applications involving changes in the designation of zoning districts under the zoning resolution shall be subject to review and approval pursuant to section one hundred ninety-seven-c, and one hundred ninety-seven-d. For applications involving other changes in zoning resolutions and regulations, the commission prior to taking action upon any such application shall refer it to the affected community boards or borough boards for a public hearing and recommendation.
+	   a.   An independent tax appeals tribunal is hereby established. Such tribunal shall be within the office of administrative tax appeals established under section one hundred fifty of this charter. The tribunal shall have jurisdiction to hear and determine cases initiated by the filing of petitions protesting notices issued by the commissioner of finance, which give a person the right to a hearing, including but not limited to any notice of determination of tax due, of a tax deficiency, of a denial of a refund or credit application or of the refusal to grant, the suspension or the revocation of a license issued pursuant to chapter thirteen of title eleven of the administrative code, which notices relate to nonproperty taxes, excise taxes and annual vault charges imposed by the city, except those taxes and charges administered by the State of New York on behalf of the City of New York. For purposes of the preceding sentence, if the commissioner of finance fails to act with respect to a refund application before the expiration of the time period after which the taxpayer may file a petition for refund with the tribunal pursuant to subdivision (c) of section 11-529 or subdivision three of section 11-680 of the administrative code, such failure shall be deemed to be a notice of denial of a refund issued by the commissioner of finance pursuant to such subdivision. The tribunal shall review petitions and other documents submitted to it, hold hearings, and render decisions as provided in this chapter. In rendering its decisions on claims asserted by taxpayers or the commissioner of finance, the tribunal shall have the same power and authority as the commissioner of finance to impose, modify or waive any taxes within its jurisdiction, interest thereon, and any applicable civil penalties. In appeals in which the rules of the commissioner of finance are at issue, the tribunal shall have the power and authority to rule on the legality of such rules.
 	
-	   b.   Applications for special permits within the jurisdiction of the city planning commission under the zoning resolution may be filed by any person or agency. All such applications for the issuance of special permits shall be subject to review and approval pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d.
+	   b.   The tribunal shall be composed of three commissioners, each of whom shall be appointed by the mayor. The mayor shall designate one of the three commissioners as president of the tribunal, who shall serve as president during his or her term as commissioner. The president of the tribunal, in addition to performing his or her duties as a commissioner, shall be in charge of the administration and operation of the tribunal. Each commissioner shall serve a term of six years, except the mayor shall specify in the case of the first three commissioners appointed that (i) the term of one of those commissioners shall expire on June thirtieth, nineteen hundred and ninety-two, (ii) the term of another of those commissioners shall expire on June thirtieth, nineteen hundred and ninety-four, and (iii) the term of the commissioner designated president shall expire on June thirtieth, nineteen hundred and ninety-six. The mayor may remove any commissioner from the tribunal for neglect of duty, for inability to perform duties because of mental or physical disability, for malfeasance or for any other just cause, after providing such commissioner prior notice and an opportunity to be heard. The mayor shall fill any vacancy in the tribunal occurring other than by expiration of term in the same manner as for making original appointments, except an appointment to fill a vacancy shall expire at the end of the term of the commissioner whose departure created the vacancy. The number of commissioners on the tribunal may be increased by local law.
+	
+	   c.   No person shall be appointed as a commissioner unless that person possesses substantial knowledge and competence in the area of taxation and has been admitted to practice as an attorney in the State of New York for at least ten years. Every commissioner, while in office, shall give his or her whole time to the duties of the office, and shall not engage in the practice of law or other occupation, profession or employment. Each commissioner shall receive an annual salary in the same amount as is payable to a judge of the civil court of the City of New York. A commissioner's annual salary shall not be diminished during his or her term of office.
+	
+	   d.   The president of the tribunal shall appoint administrative law judges, subject to appropriations therefor, who shall be authorized to conduct any hearing or motion procedure within the jurisdiction of the tribunal, subject to en banc review by the tribunal. Each administrative law judge shall be an attorney admitted to practice in the state of New York for at least five years or is currently employed as a hearing officer in the department of finance. Each administrative law judge shall be appointed pursuant to the civil service law. The president may designate one of the administrative law judges to be the chief administrative law judge, having such powers as are prescribed under the rules of the tribunal. A determination issued by an administrative law judge shall finally decide the matters in controversy unless any party to the hearing takes exception by timely requesting a review by the tribunal sitting en banc as provided for by rules adopted under section one hundred sixty-nine of the charter. Determinations issued by administrative law judges shall not be cited, shall not be considered as precedent nor given any force or effect in any other proceedings conducted by the tribunal or in any judicial proceedings conducted in this state.
+	
+	   e.   The president of the tribunal shall appoint presiding officers, subject to appropriations therefor, who shall be authorized to conduct small claims hearings under a procedural system to be established pursuant to subdivision e of section one hundred sixty-nine of the charter. The qualifications for the position of presiding officer shall be determined by rules adopted pursuant to subdivision e of section one hundred sixty-nine of the charter, and each presiding officer shall be appointed pursuant to the civil service law.
+	
+	   f.   The tribunal shall collect, compile and prepare for publication statistics and other data with respect to its operations, and shall submit annually to the mayor a report on such operations, including, but not limited to, the number of proceedings initiated, the types of dispositions made and the number of proceedings pending.
 
 
 
 
-Section 202.
+Section 169.
 ----------
 
-Section 202. Platting of land and dedication of streets and public places. ::
+Section 169. Rules of tribunal. ::
 
 
-	   a.   No map of a subdivision or platting of land into streets, avenues or public places and blocks within the limits of the city shall be received for filing in the office in which instruments affecting real property are required to be recorded in the county in which the land is situated, unless such map shall have been reviewed and approved pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d. If such map is disapproved, the chair of the city planning commission shall certify such fact in writing upon such map, and such map shall be received only for record without such approval.
+	   Pursuant to chapter forty-five of this charter, the tribunal shall promulgate rules of procedure, which shall include, but not be limited to, rules on the following matters:
 	
-	   b.   No street, avenue, highway or public place, the layout of which has not been approved as provided in this section, shall be deemed to have been accepted by the city as a street, avenue, highway or public place, unless such street, avenue, highway or public place shall lie within the lines of a street, avenue, highway or public place upon the city map.
+	      a.   The types of representatives, such as accountants and enrolled agents enrolled to practice before the internal revenue service, who may appear, in addition to lawyers, on behalf of a petitioner before the tribunal;
+	
+	      b.   The form and contents of the petition, answer, affidavits and memoranda to be submitted to the tribunal, and reasonable time limitations for serving and filing such papers;
+	
+	      c.   A procedure for promptly hearing and determining any matter concerning jeopardy assessments or predecision warrants based thereon;
+	
+	      d.   A procedural system guaranteeing a hearing in compliance with chapter forty-five of this charter. Such a system shall be designed to assign each petition filed with the tribunal to an administrative law judge who shall hear and determine all matters pertaining to questions of law or fact. Such a system also shall be designed to require the tribunal to review en banc at the request of any party the determination rendered by an administrative law judge, provided, however, that if there is no such request for a review within thirty days of the giving of notice of such determination by the administrative law judge, such determination shall finally and irrevocably decide all the issues in the proceeding before the administrative law judge and shall be considered a final decision of the tribunal upon the expiration of such thirty-day period, except that, notwithstanding any other provision of law, such determination by the administrative law judge shall not be subject to judicial review. Such a system shall provide that the tribunal may, based upon the record of the hearing before the administrative law judge, make its own findings of fact and conclusions of law and issue a decision either affirming, reversing or modifying the determination of the administrative law judge, or the tribunal may remand the case for additional proceedings before the administrative law judge, as it may deem appropriate. The tribunal in its discretion may grant oral argument. Such a system shall provide that when the tribunal reviews a matter en banc it must have a majority present and that not less than two votes shall be necessary to take any action. Such a system also shall provide for a pre-hearing conference at which settlement is encouraged; reasonable discovery; and the submission of papers addressing both the factual and legal merits in each proceeding;
+	
+	      e.   A procedural system to be followed in cases in which the matter in controversy is ten thousand dollars or less, exclusive of interest and penalties. Such a system shall be designed to provide a simplified and informal procedure for such small claims proceedings. The option to proceed with a small claims hearing shall be exercised by the petitioner. At any time prior to the conclusion of such hearing, a petitioner may by written notice to the tribunal discontinue such small claims hearing and request that the matter be transferred to a hearing conducted before an administrative law judge. Such transfer shall be effectuated by such written notice and such discontinuance shall be without prejudice to any subsequent hearing before an administrative law judge. The determination of the presiding officer conducting the small claims hearing shall be conclusive upon all parties, shall be considered a final decision of the tribunal and shall not be subject to review by the tribunal sitting en banc or by any court of the state. However, the tribunal may order a rehearing upon proof or allegation of misconduct by the small claims presiding officer. Determinations issued by presiding officers shall not be cited, shall not be considered as precedent nor given any force or effect in any other proceedings conducted by the tribunal or in any judicial proceedings conducted in this state; and
+	
+	      f.   A method for notifying taxpayers and the commissioner of finance of, and for publishing, the decisions of the tribunal.
 
 
 
 
-Section 203.
+Section 170.
 ----------
 
-Section 203. Criteria for location of city facilities. ::
+Section 170. Commencing an appeal before the tribunal. ::
 
 
-	   a.   Not later than the first day of July, nineteen hundred ninety, the mayor, after consulting with each of the borough presidents, shall file with the city planning commission proposed rules establishing criteria for (1) the location of new city facilities and (2) the significant expansion, closing or significant reduction in size or capacity for service delivery of existing facilities. The criteria shall be designed to further the fair distribution among communities of the burdens and benefits associated with city facilities, consistent with community needs for services and efficient and cost effective delivery of services and with due regard for the social and economic impacts of such facilities upon the areas surrounding the sites. Not later than thirty days after the filing of such proposed rules, the city planning commission shall publish a notice of proposed rule making under section one thousand forty-three with regard to such rules, as proposed by the mayor or as proposed to be modified by the commission. Promptly thereafter, the commission shall approve or approve with modifications the rules and shall file the rules as approved with the council.
+	   a.   Any taxpayer who has been issued a notice referred to in subdivision a of section one hundred sixty-eight of the charter by the commissioner of finance may petition the tribunal for administrative review. To commence a proceeding, such a taxpayer must, within ninety days after being issued the notice at issue by the commissioner of finance or, if the commissioner of finance has established a conciliation procedure pursuant to section 11-124 of the administrative code and the taxpayer has requested a conciliation conference in accordance therewith, within ninety days from the mailing of the conciliation decision or the date of the commissioner's confirmation of the discontinuance of the conciliation proceeding, both (1) serve a petition upon the commissioner of finance and (2) file the petition with the tribunal. Notwithstanding the time specified in the preceding sentence for filing a petition, a petition for refund filed pursuant to subdivision (c) of section 11-529 of the administrative code or subdivision three of section 11-680 of such code may be filed within the time specified in such subdivision (c) or such subdivision three. The tribunal shall not extend the time limitations for commencing a proceeding for any petitioner failing to comply with such time limitations. The petition shall contain a plain and concise statement of the facts and law on which the proceeding is based.
 	
-	   b.   At any time after the adoption of such criteria, the mayor, after consulting with the borough presidents, may submit to the city planning commission proposed amendments to the rules. Not later than thirty days after the filing of such proposed amendments, the city planning commission shall publish a notice of proposed rule making under section one thousand forty-three with regard to such amendments, as proposed by the mayor or as proposed to be modified by the commission. Promptly thereafter, the commission shall approve, approve with modifications or determine not to approve the amendments and shall file any approved amended rules with the council.
+	   b.   Within thirty days after service of the petition on the commissioner of finance, or within such longer period as the tribunal may prescribe by rule, the commissioner of finance shall serve and file an answer responding to each of the allegations in the petition and setting forth all affirmative defenses and requests for counter-relief.
 	
-	   c.   For purposes of this chapter, "city facility" shall mean a facility used or occupied or to be used or occupied to meet city needs that is located on real property owned or leased by the city or is operated by the city or pursuant to a written agreement on behalf of the city.
+	   c.   The filing of a petition with the tribunal shall stay (1) the collection of any taxes or annual vault charges and (2) the payment of any refund of taxes or annual vault charges, together with interest and penalties, which are the subject of the petition, provided, however, if the commissioner of finance finds that the assessment or collection of a tax, charge, penalty or interest will be jeopardized by delay, such assessment or collection shall not be stayed.
+	
+	   d.   Upon assignment of a petition filed with the tribunal to an administrative law judge, such administrative law judge shall hear and determine any issues of fact or law. Unless otherwise provided by law, the party seeking relief as to each issue shall bear the burden of proof. Upon a request to the tribunal for review of a determination of an administrative law judge, the tribunal shall proceed in accordance with the rules adopted pursuant to subdivision d of section one hundred sixty-nine of the charter. The tribunal shall follow as precedent the prior precedential decisions of the tribunal (but not of its small claims presiding officers), the New York State Tax Appeals Tribunal or of any federal or New York state court or the U.S. Supreme Court insofar as those decisions pertain to any substantive legal issues currently before the tribunal.
+	
+	   e.   The tribunal shall have power to subpoena and require the attendance of witnesses and the production of books, papers and documents pertinent to the proceedings which it is authorized to conduct, and to examine them in relation to any matter which it has power to investigate and to issue commissions for the examination of witnesses who are out of the state or unable to attend proceedings conducted pursuant to the authority of the tribunal or excused from attendance at such proceedings. The tribunal may designate and authorize administrative law judges and other officers or employees of the tribunal to exercise any of the powers or perform any of the functions provided for in this subdivision. A subpoena issued under this subdivision shall be regulated by the civil practice law and rules. Any person who shall testify falsely in any proceeding conducted pursuant to the authority of the tribunal shall be guilty of and punishable for perjury.
+	
+	   f.   The tribunal shall have power to provide that an attorney for any party at a hearing conducted before an administrative law judge may issue a subpoena as provided in the civil practice law and rules.
 
 
 
 
-Section 204.
+Section 171.
 ----------
 
-Section 204. Citywide statement of needs. ::
+Section 171. Decisions of the tribunal and judicial review. ::
 
 
-	   a.   Each year not later than the fifteenth day of November, the mayor shall submit to the council, borough presidents, borough boards and community boards a citywide statement of needs concerning city facilities prepared in accordance with the criteria established pursuant to section two hundred three. Copies of the statement shall also be made available to the public in the main branch of the public library in each borough. The statement shall identify by agency and program: (1) all new city facilities and all significant expansions of city facilities for which the mayor or an agency intends to make or propose an expenditure or to select or propose a site during the ensuing two fiscal years and (2) all city facilities which the city plans to close or to reduce significantly in size or in capacity for service delivery during the ensuing two fiscal years.
+	   a.   (1)   The determinations of the administrative law judges and the decisions of the tribunal sitting en banc shall be in writing. Each determination or decision, with the exception of those rendered pursuant to the small claims procedure, shall contain findings of fact and conclusions of law. A final decision of the tribunal may (i) grant in whole or in part the relief sought by the petitioner and/or the commissioner of finance, or (ii) dismiss the petition or request for counter-relief either on the merits or with leave to renew.
 	
-	   b.   With respect to the city facilities referred to in clause one of subdivision a of this section, the statement of needs shall describe for each proposed new city facility or significant expansion: (1) the public purpose to be served thereby, (2) the size and nature of the facility, (3) the proposed location by borough and, if practicable, by community district or group of community districts, and (4) the specific criteria to be used in locating the new facility or expansion.
+	      (2)   An administrative law judge shall render a determination after a hearing, within six months after submission of briefs subsequent to completion of such a hearing or, if such briefs are not submitted, then within six months after completion of such a hearing. Such six month period may be extended by the administrative law judge, for good cause shown, to no more than three additional months. If the administrative law judge fails to render a determination within such six month period (or such period as extended pursuant to this subdivision), the petitioner for such hearing or the commissioner of finance, or both, may institute a proceeding under article seventy-eight of the civil practice law and rules to compel the issuance of such determination.
 	
-	   c.   With respect to the city facilities referred to in clause two of subdivision a of this section, the statement of needs shall describe with respect to each such city facility: (1) the reasons for such proposed closing or reduction, (2) the location, and (3) the specific criteria for selecting the city facility for closure or for reduction in size or capacity for service delivery.
+	      (3)   A decision of the tribunal sitting en banc shall be issued within six months from the date of the request to the tribunal for en banc review of an administrative law judge's determination, except that where oral argument is granted or written arguments are submitted such six month period will commence to run on the date that such oral argument was concluded or written argument received by the tribunal, whichever was later.
 	
-	   d.   The statement of needs shall be accompanied by a map together with explanatory text, indicating (1) the location and current use of all city-owned real property, (2) all final commitments relating to the disposition or future use of city-owned real property, including assignments by the department of citywide administrative services pursuant to clause b of subdivision three of section sixteen hundred two, and (3) to the extent such information is available to the city, (i) the location of health and social service facilities operated by the state of New York or the federal government or pursuant to written agreement on behalf of the state or the federal government; and (ii) the location of transportation or waste management facilities operated by public entities or by private entities pursuant to written agreements with public entities, or by other private entities that provide comparable services. Information which can be presented most effectively in text may be presented in this manner. In addition to being transmitted with the statement of needs pursuant to subdivision a of this section, such map shall be kept on file with the department of city planning and shall be available for public inspection and copying. The map shall be updated on at least an annual basis.
+	   b.   Except as otherwise provided in subdivisions d and e of section one hundred sixty-nine of the charter, each decision of the tribunal, shall finally and irrevocably decide all the issues raised in the proceedings before it, unless the petitioner who commenced the proceeding seeks judicial review of any such decision in the manner provided in article seventy-eight of the civil practice law and rules within four months after the giving of the notice of such decision.
 	
-	   e.   Preparation of the statement of needs.
+	   c.   A decision of the tribunal shall be deemed to have been rendered on the postmarked date on the decision sent by certified mail, return receipt requested, to the address most recently provided to the tribunal by each of the parties to the proceeding.
 	
-	      (1)   Annually on such date as the mayor shall direct, each agency shall submit to the mayor a statement containing all the information required to be included in the statement of needs for the ensuing two fiscal years pursuant to subdivisions a, b and c of this section that relates to the plans, jurisdiction and responsibility of such agency. Such statements shall be known as the departmental statements of need for city facilities. In preparing such departmental statements of needs, each agency shall review and consider the district needs statements submitted by community boards pursuant to paragraph ten of subdivision d of section twenty eight hundred and the statements of budget priorities submitted by the community boards pursuant to section two hundred thirty.
-	
-	      (2)   The mayor, assisted by the department of city planning, the department of design and construction and the department of citywide administrative services, shall review such departmental statements of need and use them to prepare the statement of needs. In preparing the statement of needs, the mayor shall apply the criteria established pursuant to section two hundred three.
-	
-	   f.   Upon receipt of the statement of needs pursuant to subdivision a of this section, each community board and borough president shall review the statement of needs. Each community board shall make the statement of needs available to the public and conduct a public hearing on the statement of needs. Each community board and borough president shall have the right to submit comments on the statement of needs to the department of city planning within ninety days of receipt of the statement. Each borough president shall have the right, within ninety days of receipt of the statement of needs, to submit a written statement to the mayor proposing locations for any new city facilities to be located in his or her borough pursuant to the statement of needs. All such locations proposed by a borough president shall be located in his or her borough and shall be certified by the borough president as being consistent with the specific criteria for the location of city facilities contained in the statement of needs and with the criteria established pursuant to section two hundred three. Each city agency shall consider such written statements in taking actions with respect to matters included in the statement of needs.
-	
-	   g.   Whenever an application involving a new city facility is submitted to the department of city planning pursuant to paragraph five, ten or eleven of subdivision a of section one hundred ninety-seven-c, the applicant shall include as part of the application a statement of (1) how the proposed action satisfies the criteria for the location of city facilities established pursuant to section two hundred three, (2) whether the proposed action is consistent with the most recent statement of needs, and (3) whether the proposed action is consistent with any written statements or comments submitted by borough presidents and community boards in response to the statement of needs. If the proposed action is not consistent with the criteria for location of city facilities, the statement of needs, or any such written statements or comments submitted in response to the statement of needs, the agency shall include as part of its application a statement of the reasons for any such inconsistencies. If the proposed new facility is not referred to in the statement of needs, the applicant shall submit to the affected borough president a description of the public purpose to be served by the city facility, its proposed location, the appropriation (if any) that the agency intends to use in connection with the facility, the size and nature of the facility and the specific criteria for the location of the facility. The affected borough president shall have the right, within thirty days of the submission of such description, to propose an alternative location in his or her borough for the proposed city facility, provided that the borough president shall certify that the alternative location satisfies the criteria for location of city facilities under section two hundred three and the specific criteria for locating the facility in the statement of needs. The application for the proposed site selection, disposition or acquisition shall not be certified and shall not be reviewed pursuant to section one hundred ninety-seven-c until at least thirty days after the submission of such information to the affected borough president. A borough president may elect to waive the right to such thirty-day review period.
-	
-	   h.   The mayor's management report, prepared pursuant to section twelve, shall include a review of the implementation of the statement of needs. Such review shall consist of (1) a list of the proposed actions in the statement of needs that have been implemented and of those proposed actions that have not been implemented and (2) a description of the proposed actions in the statement of needs which have been implemented in a manner significantly different from what was proposed in the statement of needs and the reasons therefor.
-	
-	   i.*   The map and explanatory text accompanying the statement of needs shall include an appendix with respect to city waterfront property, which shall consist of a list indicating for each such property its borough and map location; street address; tax block and lot; applicable zoning district; approximate area in square feet; number of structures, if any; current user and use; and such other information as the departments of city planning and citywide administrative services deem appropriate. For purposes of this subdivision, the term "city waterfront property" shall mean property owned or leased by the city, which is seaward of the first upland mapped and improved street, provided that it shall also include areas upland of such street which would be contiguous with the property but for such intervening street where such areas are in the same use.
-	
-	* Editor's note: expired December 31, 2008.
+	   d.   The tribunal shall not participate in proceedings for judicial review of its decisions. The record to be reviewed in such proceedings for judicial review shall include but not be limited to the notice of the commissioner of finance which was the subject of the petition filed with the tribunal, the determination of the administrative law judge, the decision of the tribunal, the stenographic transcript of the hearing before the administrative law judge and any exhibit or document admitted into evidence at any proceeding before the administrative law judge or the tribunal.
 
 
 
 
-Section 205.
+Section 172.
 ----------
 
-Section 205. Comprehensive waterfront plan. ::
+Section 172. Sanctions. ::
 
 
-	   Not later than the thirty-first day of December, two thousand and ten and not less than every ten years thereafter, the department of city planning shall file with the mayor, the council, the public advocate, the borough presidents, and the community boards, a comprehensive waterfront plan. Such plan shall be drafted in consultation with the appropriate city, state, and federal agencies and regulatory bodies, and with input from the public, and shall include (1) an assessment of waterfront resources for the natural waterfront, the public waterfront, the working waterfront and the developing waterfront, (2) a statement of the planning policy of the department of city planning, which policy shall take into consideration, among other things, the ten year capital strategy, the assessment of waterfront resources included pursuant to (1) above, the four year capital plan, the strategic policy statements provided for in section seventeen and plans approved pursuant to section one hundred ninety-seven-a and (3) proposals for implementing the planning policy of the department whether by amendment of the zoning resolution, development of plans or otherwise.
-
-
-
-
-Section 206.
-----------
-
-Section 206. Tracking of commitments. ::
-
-
-	   a.   For the purposes of this section:
+	   a.   The failure of any party to appear for a conference or hearing without having obtained an extension from all the opposing parties or the tribunal at least forty-eight hours in advance of such conference or hearing shall be grounds for the tribunal to enter a decision in favor of the opposing party or parties.
 	
-	      Block. The term "block" has the meaning given to that term in section 12-10 of the zoning resolution.
-	
-	   b.   Such agency as the mayor shall designate shall establish and maintain a publicly accessible online searchable list of all commitments described in this section that relate to an application that:
-	
-	      (1)   the city planning commission has approved or approved with modifications for a matter described in paragraph one, three, four, five, six, eight, ten, or eleven of subdivision a of section one hundred ninety-seven-c or a change in the text of the zoning resolution pursuant to section two hundred or two hundred one;
-	
-	      (2)   the commission decision has been approved or approved with modifications by the council pursuant to section one hundred ninety-seven-d and is not subject to further action pursuant to subdivision e or f of such section; and
-	
-	      (3)   involves at least four adjacent blocks of real property.
-	
-	   c.   Such list shall include all commitments made by letter by the mayor or a representative designated by the mayor to the council or a council member that relate to an application described in subdivision b of this section on which the city or a not-for-profit corporation of which a majority of its members are appointed by the mayor is either the applicant or co-applicant.
-	
-	   d.   Such list shall include any commitment made by letter by the mayor or a representative designated by the mayor to the council or a council member for which a funding amount of one million dollars or more is set forth in the letter establishing such commitment in relation to an application described in subdivision b of this section on which neither the city nor a not-for-profit corporation of which a majority of its members are appointed by the mayor is either the applicant or co-applicant.
-	
-	   e.   Within thirty days of final council approval of a commission decision described in this section, the designated agency shall submit to the council and record on such list the commitments described in this section, including a description of each commitment, the target commencement and completion dates, the application number, the agency or agencies responsible for implementation of such commitment, and any funding amount set forth in the letter establishing the commitment. The designated agency may include other information that it deems relevant.
-	
-	   f.   Beginning June 30, 2017, and annually thereafter, the designated agency shall report to the mayor and the speaker of the council information relating to commitments that have been recorded pursuant to this section, including any changes to information described in subdivision e that indicate progress toward the fulfillment of each such commitment and whether the commitment has been completed within the preceding year.
-	
-	
+	   b.   The signing of any paper submitted to the tribunal constitutes a certificate by the signer that the signer has read the paper, and that to the best of the signer's knowledge, information and belief formed after reasonable inquiry, the paper is well grounded in fact and is warranted by existing law or a good faith argument for the extension, modification, or reversal of existing law, and that the paper is not interposed for any improper purpose, such as to harass or cause unnecessary delay or needless increase in the cost of the proceedings. If a paper is signed in violation of this section, the tribunal, upon motion or upon its own initiative, shall impose upon the person who signed the paper, a represented party, or both, an appropriate sanction, which may include an order to pay the other party or parties such sanction. The amount of any sanction shall be related to the amount of reasonable expenses, including a reasonable attorney's fee, incurred by the other party or parties because of the serving or filing of the paper.
 
 
 

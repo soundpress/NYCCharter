@@ -1,69 +1,56 @@
-Chapter 66 - Department For the Aging
+Chapter 63: Business Integrity Commission
 =================
-Section 2400.
+Section 2100.
 ----------
 
-Section 2400. Department; commissioner. ::
+Section 2100. Business integrity commission. ::
 
 
-	   There shall be a department for the aging, the head of which shall be the commissioner for the aging.
+	   a.   There shall be a business integrity commission, which shall consist of a full-time chairperson appointed by the mayor and of the commissioners of the department of small business services, the department of consumer affairs, the department of investigation, the police department and the department of sanitation, or their designees.
+	
+	   b.   The chairperson may appoint a first deputy who shall possess all the powers and perform all the duties of the chairperson during the absence or disability of the chairperson and in case of the death of the chairperson or of a vacancy in that office shall act as chairperson until the appointment of a chairperson by the mayor.
+	
+	   c.   The chairperson shall have charge of the organization of the commission and shall have authority to employ, assign and superintend the duties of such officers and employees as may be necessary to carry out the provisions of this chapter. In addition, the commissioner of any agency represented on the commission or the commissioner of any other appropriate city agency may, if requested, provide staff and other assistance with respect to any matter within the jurisdiction of the commission.
 
 
 
 
-Section 2401.
+Section 2101.
 ----------
 
-Section 2401. Deputies. ::
+Section 2101. Jurisdiction; powers and duties. ::
 
 
-	   The commissioner may appoint and at pleasure remove a deputy commissioner.
+	   a.   The business integrity commission shall be responsible for the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets. In regulating such industries, areas and markets, the commission shall have the powers and duties conferred by this chapter and such other powers and duties as are conferred by law.
+	
+	   b.   The powers and duties of the business integrity commission shall be exercised in a manner consistent with all local laws governing the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets and shall include but not be limited to the following:
+	
+	      1.   to establish standards for the issuance, denial, suspension and revocation of licenses and other authorizations necessary for the operation of businesses in the industries, areas and markets it regulates; and to issue, deny, suspend and revoke such licenses and other authorizations;
+	
+	      2.   to investigate any matter within its jurisdiction and to have full power to compel the attendance, examine and take testimony under oath of such persons as it may deem necessary in relation to such investigation, and to require the production of books, accounts, papers and other evidence relevant to such investigation;
+	
+	      3.   to establish standards for service provided by, and for the conduct of, regulated businesses;
+	
+	      4.   to conduct studies of, or investigations into, any matter within its jurisdiction in order to assist the city in formulating policies relating to the industries, areas and markets it regulates;
+	
+	      5.   to create and disseminate materials on any matter within its jurisdiction in order to advise or educate regulated businesses and members of the public regarding such matters;
+	
+	      6.   to adopt rules necessary or appropriate to carry out the powers and duties conferred on it by law;
+	
+	      7.   to establish fees to enable it to effectuate the purposes of this chapter, including fees sufficient to cover the costs of processing applications and conducting investigations; and
+	
+	      8.   to enforce compliance with applicable laws and rules through the imposition of fines and penalties.
 
 
 
 
-Section 2402.
+Section 2102.
 ----------
 
-Section 2402. Powers and duties. ::
+Section 2102. Cooperation with other agencies. ::
 
 
-	   The department shall have the following powers and duties:
-	
-	      a.   to stimulate community interest in the problems of the aging;
-	
-	      b.   to promote public awareness of resources available for the aging, and to refer the public to appropriate departments and agencies of the city, state and federal governments for advice, assistance and available services in connection with particular problems;
-	
-	      c.   to cooperate with and assist local neighborhoods in the development of programs and the establishment of local offices;
-	
-	      d.   to serve as a clearing house for information relating to the needs of the aging;
-	
-	      e.   to disburse available city, state and federal funds to programs throughout the city and, when practical, coordinate such funds with available funding from the private sector;
-	
-	      f.   to promulgate rules and regulations for the operation of facilities, services and programs under its jurisdiction; and
-	
-	      g.   to maintain, operate and control such programs and facilities as may be necessary or required for the proper administration of the department.
-
-
-
-
-Section 2403.
-----------
-
-Section 2403. Advisory council. ::
-
-
-	   a.   There shall be in the department an advisory council consisting of thirty-one members at least sixteen of whom shall be recipients of services rendered to the elderly. These members shall include representatives from the areas of social service, health care, the academic community and local neighborhoods.
-	
-	   b.   It shall be the duty of the council to advise the commissioner and make recommendations. The council shall submit an annual report of its activities to the mayor.
-	
-	   c.   The members of the council shall be appointed by the mayor. Ten of said members, two residents from each of the five boroughs of the city, shall be recommended for appointment by a majority vote of the city council members of the respective boroughs.
-	
-	   d.   The terms of office of the thirty-one members of the council first appointed shall be as follows: eleven appointees, five of whom shall be recommended for appointment by the city council members of the respective boroughs, one from each borough, shall serve for a term ending the thirty-first day of March, nineteen hundred eighty-one; ten appointees shall serve for a term ending the thirty-first day of March, nineteen hundred eighty-two; and ten appointees, five of whom shall be recommended for appointment by the city council members of the respective boroughs, one from each borough, shall serve for a term ending the thirty-first day of March, nineteen hundred eighty-three. Upon the expiration of such terms, the terms of office of their successors shall be three years. Vacancies occurring otherwise than by expiration of term shall be filled for the unexpired term in the same manner as regular appointments.
-	
-	   e.   The mayor shall designate one of the members of the council to be chairman and one to be vice-chairman.
-	
-	   f.   The members of the council shall serve without compensation.
+	   The business integrity commission shall provide such assistance to the mayor and other agencies as requested and shall establish liaison and information-sharing arrangements with other law enforcement, prosecutorial, investigative and regulatory agencies as it deems appropriate.
 
 
 

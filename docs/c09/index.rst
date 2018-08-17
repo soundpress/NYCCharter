@@ -1,529 +1,393 @@
-Chapter 9 - Capital Projects and Budget
+Chapter 8: City Planning
 =================
-Section 210.
+Section 191.
 ----------
 
-Section 210. Definitions. ::
+Section 191. Department and director of city planning. ::
 
 
-	   As used in this charter:
+	   a.   There shall be a department of city planning, the head of which shall be the director of city planning. The director of city planning shall be the chair and a member of the city planning commission and shall serve at the pleasure of the mayor.
 	
-	   1.   The term "capital project" shall mean:
+	   b.   The director of city planning shall:
 	
-	      (a)   A project which provides for the construction, reconstruction, acquisition or installation of a physical public betterment or improvement which would be classified as a capital asset under generally accepted accounting principles for municipalities or any preliminary studies and surveys relative thereto or any underwriting or other costs incurred in connection with the financing thereof.
+	      1.   Advise and assist the mayor, the borough presidents and the council in regard to the physical planning and public improvement aspects of all matters related to the development of the city.
 	
-	      (b)   The acquisition of property of a permanent nature including wharf property.
+	      2.   Provide staff assistance to the city planning commission in all matters under its jurisdiction.
 	
-	      (c)   The acquisition of any furnishings, machinery, apparatus or equipment for any public betterment or improvement when such betterment or improvement is first constructed or acquired.
+	      3.   Be the custodian of the city map and record thereon all changes legally authorized.
 	
-	      (d)   Any public betterment involving either a physical improvement or the acquisition of real property for a physical improvement consisting in, including or affecting:
+	      4.   Conduct continuous studies and collect statistical and other data to serve as the basis for planning recommendations.
 	
-	         (1)   Streets and parks;
+	      5.   Provide community boards with such staff assistance and other professional and technical assistance as may be necessary to permit such boards to perform their planning duties and responsibilities under this chapter.
 	
-	         (2)   Bridges and tunnels;
+	      6.   Assist the mayor in the preparation of strategic plans, including the preparation of the report provided for in section sixteen concerning the social, economic and environmental health of the city, the strategic policy statement provided for in section seventeen and the ten-year capital strategy provided for in section two hundred fifteen.
 	
-	         (3)   Receiving basins, inlets and sewers, including intercepting sewers, plants or structures for the treatment, disposal or filtration of sewage, including grit chambers, sewer tunnels and all necessary accessories thereof;
+	      7.   Appoint a deputy executive director for strategic planning.
 	
-	         (4)   The fencing of vacant lots and the filling of sunken lots.
+	      8.   Make a complete transcript of the public meetings and hearings of the commission available for public inspection free of charge within sixty days after any such meeting or hearing. The director shall also provide a copy of any requested pages of such transcript at a reasonable fee to cover the costs of copying and, where relevant, mailing.
 	
-	      (e)   Any other project allowed to be financed by the local finance law, with the approval of the mayor and the comptroller.
+	      9.   Indicate on the department’s website the name and contact information of an employee who acts as a coordinator with the board of standards and appeals.
 	
-	      (f)   Any combination of the above.
+	      10.   Provide on the department’s website, a record of each application for a variance or special permit to the board of standards and appeals where the department or the city planning commission has submitted testimony and a copy of such testimony in a searchable format.
 	
-	   2.   The term "pending" shall mean not yet completed.
+	      11.   Perform such other functions as are assigned to him or her by the mayor or other provisions of law.
 	
-	   3.   The term "standards" for each category of capital projects to which they apply shall include: maximum gross and net areas allowed; types of programs which may be operated in the facility; performance requirements for environmental systems; allowable materials and finishes; maximum areas allowed for different functions and activities; approximate cost limits per square foot of construction; and such other items designated by the mayor or by resolution of the council.
+	   c.   The department shall employ such planning experts, engineers, architects and other officers and employees as may be required to perform its duties, within the appropriation therefor.
 	
-	   4.   The term "scope of project" or "proposed scope of project" shall mean a description of a capital project included in the capital budget that contains specific guidelines for the design and implementation of such project consistent with the standards for the appropriate category of capital projects and includes each of the following items of information which are relevant to the capital project involved:
 	
-	      (a)   Purposes and public to be served;
-	
-	      (b)   Programs to be conducted in the facility;
-	
-	      (c)   Gross and net amounts of space and bulk for any building or structure and for areas for different functions and activities;
-	
-	      (d)   Identification of required architectural, engineering or other consultants and estimated fees for such consultants;
-	
-	      (e)   Estimated completion dates for scope, design and construction;
-	
-	      (f)   Total estimated project costs, including costs for site acquisition, preparation and tenant relocation, design, construction and equipment;
-	
-	      (g)   Estimated expenditures for the project for each fiscal year until its completion;
-	
-	      (h)   Estimated annual costs to operate programs within the facility when fully staffed and to maintain the facility; and,
-	
-	      (i)   Such other information as shall be required by the mayor or by resolution of the council.
-	
-	   5.   The term "cost" shall include the contract liabilities and expenditure incurred for work in carrying out the physical improvement and interest thereon, and the compensation to be made to the owner of any real property acquired for the improvement as determined by a court or by agreement, and interest thereon.
-	
-	   6.   The term "expenses" shall mean any expenses incurred in relation to an assessable improvement exclusive of cost and of damages assessed by the board of assessors.
-	
-	   7.   The term "street," as used in this chapter, shall include street, avenue, road, alley, lane, highway, boulevard, concourse, parkway, driveway, culvert, sidewalk, crosswalk, boardwalk, and viaduct, and every class of public road, square and place, except marginal streets.
-	
-	   8.   The term "real property" shall include all lands and improvements, lands under water, water front property, the water of any lake, pond or stream, all easements and hereditaments, corporeal or incorporeal, and every estate, interest and right, legal or equitable, in lands or water, and right, interest, privilege, easement and franchise relating to the same, including terms for years and liens by way judgment, mortgage or otherwise.
 
 
 
 
-Section 211.
+Section 192.
 ----------
 
-Section 211. Capital budget borough allocations. ::
+Section 192. City planning commission. ::
 
 
-	   a.   Borough allocation. Five percent of the appropriations, funded by debt supported by city tax levy funds and state and federal funds over which the city has substantial discretion, proposed in the executive capital budget for the ensuing fiscal year, except any lump sum appropriation for school construction or rapid transit proposed to be made to public authorities established pursuant to the provisions of state law, shall be allocated among the boroughs by a formula based on an equal weighting of factors relating to population and geographic area, and shall be known as the capital budget borough allocation. Such formula shall be established by local law, but in any fiscal year for which no such local law is effective such amount shall be allocated among the boroughs on the basis of the average of (i) each borough's share of the total population of the city, and (ii) each borough's share of the total land area of the city.
+	   a.   There shall be a city planning commission to consist of the chair and twelve other members. The mayor shall appoint the chair and six other members of the commission, the public advocate shall appoint one member, and each borough president shall appoint one member. Members shall be chosen for their independence, integrity and civic commitment. Appointments of all members, except for the chair, shall be subject to the advice and consent of the council. For such appointments by officials other than the mayor, the procedure for obtaining the advice and consent of the council shall be the same as the procedure provided for in section thirty-one for appointments by the mayor. Except as otherwise provided in section one hundred ninety-one, no member shall hold any other city office. Members other than the chair shall be appointed for a term of five years; provided, however, that of the members other than the chair, one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-one; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-two; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-three; one member appointed by the mayor and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-four; and two members appointed by the mayor, the member appointed by the public advocate and one member appointed by a borough president shall serve for terms to expire on the thirtieth day of June, nineteen hundred ninety-five. The borough presidents shall determine by lot the length of the term to be served by the member first appointed by each borough president. The appointing officials shall make their first appointments to the commission on or before the first day of March, nineteen hundred ninety. The commission members so appointed shall assume office on the first day of July, nineteen hundred ninety. Members of the commission shall serve until their successors have been confirmed. Any vacancy occurring other than by expiration of term shall be filled by the official who appointed the member in the same manner as the original appointment. A person so appointed shall serve for the unexpired portion of the term of the member succeeded. Terms shall begin on the next date after the expiration date of the preceding term.
 	
-	   b.   Preliminary borough allocations; initial borough president notification. Concomitantly with the submission of the preliminary capital budget and preliminary certificate, the mayor shall inform each borough president of the portion of the executive capital budget for the ensuing fiscal year and of the executive capital budgets for each of the three succeeding years that, pursuant to the formula required by subdivision a of this section, would be allocated to each borough if the amount of the appropriations proposed in the executive capital budget for each of such fiscal years were the same as the maximum amounts of appropriations for such years which the mayor anticipates to be certified in the preliminary certificate issued in accordance with section two hundred thirty-five. The amount of such portion shall be known as the preliminary capital budget borough allocation.
+	   b.   Members, except for the chair, shall not be considered regular employees of the city for purposes of chapter sixty-eight. The agency served by the members of the commission shall for purposes of chapter sixty-eight be deemed to be both the commission and the department of city planning. No member, while serving as a member, shall appear directly or indirectly before the department, the commission, or any other city agency for which the conflicts of interest board shall, by rule, determine such appearance creates a conflict of interest with the duties and responsibilities of the member. No firm in which a member has an interest may appear directly or indirectly before the department or commission. For purposes of this section, the terms "agency," "appear," "firm," and "interest" shall be defined as provided in chapter sixty-eight.
 	
-	   c.   Borough president proposals.
+	   c.   One of the members other than the chair shall be designated by the mayor as vice-chair and shall serve as vice-chair at the pleasure of the mayor. The vice-chair shall possess the powers and perform the duties of the chair when the chair is absent or while a vacancy exists in the office of the chair, and shall at such times serve as director of city planning.
 	
-	      1.   Each borough president, during the consultations required by section two hundred forty-four, shall submit to the mayor, in such form as the mayor shall prescribe, proposed capital appropriations in an amount not exceeding that borough's allocation of the capital budget borough allocation as certified by the mayor to the borough presidents during such consultations. The timing of such certification shall allow sufficient time for such consultations and for meeting the deadlines established by section two hundred forty-nine. Each such proposed appropriation shall be accompanied by the following information:
+	   d.   The city planning commission shall be responsible for the conduct of planning relating to the orderly growth, improvement and future development of the city, including adequate and appropriate resources for the housing, business, industry, transportation, distribution, recreation, culture, comfort, convenience, health and welfare of its population.
 	
-	         (a)   for each such proposed appropriation for construction of a capital project, the estimated annual cost to operate and maintain the facility to be constructed pursuant to such appropriation when construction is completed. Such estimates shall be prepared in accordance with the standards established for this purpose pursuant to section two hundred twenty-one of this chapter and shall be certified by the director of the office of management and budget. In the event that a borough president and the director of management and budget do not agree on such estimate for a particular project, such director and the director of the independent budget office shall jointly certify an estimate for such purpose;
+	   e.   The city planning commission shall oversee implementation of laws that require environmental reviews of actions taken by the city. The commission shall establish by rule procedures for environmental reviews of proposed actions by the city where such reviews are required by law. Such rules shall include procedures for (1) selection of the city agency or agencies that will be responsible for determining whether an environmental impact statement is required in connection with a proposed action and for preparation and filing of any such statement required by law, (2) participation by the city in environmental reviews involving agencies other than city agencies and (3) coordination of environmental review procedures with the land use review procedures set forth in this charter. The director of city planning and the commissioner of the department of environmental protection shall assign from the staffs of such departments an office of environmental coordination, which shall provide assistance to all city agencies in fulfilling their environmental review responsibilities.
 	
-	         (b)   for each such proposed appropriation for the planning and design of a capital project, (i) the estimated cost of the construction of the project, and (ii) the fiscal year in which the borough president intends to propose an appropriation for the construction of the project, if no technical problems regarding the viability of the project are identified during planning, site selection or design;
-	
-	         (c)   the total of all appropriations which will be necessary during the three ensuing fiscal years to provide for the construction of projects for which planning and design appropriations are being proposed.
-	
-	      2.   If a borough president proposes an appropriation for the construction of a capital project, the appropriation must provide for the total amount estimated to be necessary for the completion of the project. If such a proposed appropriation for the construction of a capital project is for an amount which is less than the amount that the office of management and budget estimates to be necessary for the completion of the project, the borough's capital budget borough allocation in any future year in which additional appropriations are necessary for the completion of the project shall be reduced by the amount of such additional appropriations.
-	
-	      3.   If the total appropriations necessary, during any of the ensuing three fiscal years, to provide for the construction of (i) projects for which the borough president is proposing appropriations for planning and design, and (ii) projects for which appropriations were previously made for planning and design on the recommendation of the borough president, is greater than the capital budget borough allocation anticipated to be available during such years based on the certificate issued pursuant to paragraph sixteen of section two hundred fifty of this charter, then the borough president shall submit for inclusion in the executive budget a list of the projects requiring construction appropriations during such year, in priority order.
-	
-	      4.   If the estimated annual cost to operate and maintain the capital projects being proposed for construction by a borough president is greater than the amounts dedicated to such expense budget purposes from the expense budget borough allocation and the capital budget borough allocation expense budget contingency projected to be available to the borough president in one or more ensuing fiscal years then such proposed appropriations may only be included by a borough president in the capital budget with the concurrence of the mayor.
-	
-	   d.   The mayor shall include the proposed appropriations submitted by the borough presidents in accordance with subdivision c of this section in the executive capital budget provided however, that the mayor may also include such comments and recommendations relating to such proposals as the mayor deems appropriate.
+	   f.   Not later than the thirty-first day of December, nineteen hundred ninety-two and every four years thereafter, the commission shall file with the mayor, the council, the public advocate, the borough presidents, and community boards, a zoning and planning report. The report shall include (1) a statement of the planning policy of the commission, which policy shall take into consideration, among other things, the ten-year capital strategy, the four-year capital program, the report on the social, economic and environmental health of the city issued pursuant to section sixteen, the strategic policy statements provided for in section seventeen and plans approved pursuant to section one hundred ninety-seven-a, (2) a summary of the significant plans and studies completed or undertaken by the department of city planning in the preceding four years, (3) an analysis of those portions of the zoning resolution that merit reconsideration in light of the planning policy of the commission and (4) proposals for implementing the planning policy of the commission whether by amendment of the zoning resolution, development of plans or otherwise.
 
 
 
 
-Section 212.
+Section 193.
 ----------
 
-Section 212. Format of departmental estimates for capital projects, preliminary capital budget and executive capital budget. ::
+Section 193. Removal of commission members. ::
 
 
-	   The departmental estimates for capital projects and the executive capital budget shall consist of a detailed estimate of all capital projects pending or which the agency head, for departmental estimates, or the mayor, for the executive budget, believes should be undertaken within the ensuing fiscal year and the three succeeding fiscal years. Each agency head, for departmental estimates, and the mayor, for the executive budget, shall submit a written response to each of the capital budget priorities included in the community board's statement of budget priorities submitted in accordance with section two hundred thirty. Such responses shall include the response of the agency head and the mayor, as appropriate, regarding the disposition of each such priority and meaningful explanations of any disapprovals contained in such estimates or budget.
+	   A member of the commission other than the chair may be removed by the appointing official only upon proof of official misconduct, neglect of official duties, conduct in any manner connected with his or her official duties which tends to discredit his or her office, or mental or physical inability to perform his or her office, or mental or physical inability to perform his or her duties. Before removal, any such member shall receive a copy of the charges and shall be entitled to a hearing on a record by the office of administrative trials and hearings, which shall make final findings of fact, recommend a decision and submit such findings and recommended decision to the appointing official for final action.
 
 
 
 
-Section 213.
+Section 195.
 ----------
 
-Section 213. Preliminary capital budget. ::
+Section 195. Acquisitions of office space. ::
 
 
-	   The preliminary capital budget shall consist of: (1) a financial plan, consistent with section two hundred fifty-eight, covering estimates of capital expenditures for the four ensuing fiscal years, (2) departmental estimates for capital projects as provided in section two hundred twelve together with the cash flow requirements and proposed sources of funding for each project included in such estimates, (3) a capital program status report which sets forth the appropriations for each project included in the capital budget for the current fiscal year together with the expenditures to date, and (4) a summary description of the purpose of each capital project and the needs it will fulfill, the schedule for beginning and constructing the project, its period of probable usefulness and an appropriate maintenance schedule.
+	   Acquisitions by the city of office space or existing buildings for office use, whether by purchase, condemnation, exchange or lease, shall be subject to the following review and approval procedure:
+	
+	      a.   The agency proposing any such acquisition shall file with the department of city planning a notice of intent to acquire. The department of city planning shall send such notice to the community board in which the proposed acquisition is located and to all borough presidents.
+	
+	      b.   Within thirty days of the filing of such notice, the city planning commission shall hold a public hearing on such acquisition and shall approve or disapprove such acquisition. Notice of such hearing shall be published in the City Record not less than ten days in advance of such hearing.
+	
+	      c.   In reviewing any such acquisition, the commission shall apply the criteria for the location of city facilities provided for in section two hundred and three.
+	
+	      d.   Within the thirty days provided for commission action pursuant to subdivision b of this section, the commission shall file any approval of such an acquisition with the council. Within twenty days of such filing, the council may by two-thirds vote disapprove such acquisition.
 
 
 
 
-Section 214.
+Section 196.
 ----------
 
-Section 214. Executive capital budget. ::
+Section 196. Affected boards and borough presidents. ::
 
 
-	   a.   The executive capital budget shall set forth separately each capital project, including the capital projects proposed by the borough presidents in accordance with section two hundred eleven, and shall include:
-	
-	      (1)   A brief description and the location of each project; the total estimated cost of the project; the appropriations which have been previously adopted for this project; the amount of appropriations recommended to be adopted for the ensuing fiscal year, the aggregate amount of which shall not exceed the amount in the mayor's certificate; the amount of appropriations required thereafter to complete the project; the sources of funds for the project including state, federal, private and other funds; the period of probable usefulness; the estimated additional annual maintenance and operation costs; any terms and conditions of the project; and the estimated dates of completion of final scope, final design and final construction;
-	
-	      (2)   A listing of all pending projects; and any recommendations that any pending projects be modified, rescinded or postponed accompanied by a statement of the budgetary impact of any such action; and
-	
-	      (3)   A listing of proposed capital projects by community district and by borough and an identification of those projects which were included in the statement of capital priorities submitted by each community board and borough board.
-	
-	   b.   The executive capital program shall set forth for both program categories and individual projects:
-	
-	      (1)   A statement for each of the three succeeding fiscal years of the total dollar amounts necessary to complete projects initiated in prior years and projects proposed in the executive budget, the amounts necessary for projects proposed to be initiated in future years and the amounts necessary for amendments and contingencies; and
-	
-	      (2)   A statement of the likely impact on the expense budget of staffing, maintaining and operating the capital projects included in or contemplated by the capital program.
+	   For purposes of this chapter: the term "affected community board" shall mean the community board for a community district in which land included in a plan or an application pursuant to this chapter is located; the term "affected borough president" shall mean the president of a borough in which land included in such a plan or an application is located; and a borough board shall be deemed "affected" if such a plan or application includes land within two or more community districts within the borough represented by such borough board.
 
 
 
 
-Section 215.
+Section 197-a.
 ----------
 
-Section 215. Ten-year capital strategy. ::
+Section 197-a. Plans. ::
 
 
-	   a.   The ten-year capital strategy shall be issued by the mayor pursuant to section two hundred forty-eight after (i) submission of a preliminary strategy by the department of city planning and the office of management and budget pursuant to section two hundred twenty-eight, and (ii) submission of a report on the preliminary strategy by the city planning commission following a public hearing, pursuant to section two hundred thirty-four.
+	   a.   Plans for the development, growth, and improvement of the city and of its boroughs and community districts may be proposed by (1) the mayor, (2) the city planning commission, (3) the department of city planning, (4) a borough president with respect to land located within his or her borough, (5) a borough board with respect to land located within its borough, or (6) a community board with respect to land located within its community district. A community board, borough board or borough president that proposes any such plan shall submit the plan together with a written recommendation to the city planning commission for determinations pursuant to subdivision b of this section. Any such submission may be made by a community board, borough board or borough president only after the board or borough president proposing such a plan has held a public hearing on the plan.
 	
-	   b.   Contents of ten-year capital strategy. Each ten-year capital strategy shall include:
+	   b.   The city planning commission shall adopt rules establishing minimum standards for the form and content of plans pursuant to this section within a reasonable time period after the first day of July, nineteen hundred ninety. Upon receipt of a plan proposed pursuant to this section by a community board, borough board or borough president, the city planning commission shall, within a reasonable time period, determine whether such plan satisfies the standards established in such rules and is consistent with sound planning policy. If the commission makes such determinations with respect to a plan submitted by a community board, it shall prepare or cause to be prepared any environmental analysis of such plan required by law to enable the city planning commission and the council to act on the plan pursuant to subdivision d of this section. If the city planning commission makes the determinations provided for in this subdivision with respect to a plan, such plan shall be referred to the department of city planning for circulation and review pursuant to subdivisions c and d of this section.
 	
-	      (1)   a narrative describing the strategy for the development of the city's capital facilities for the ensuing ten fiscal years; the factors underlying such strategy including goals, policies, constraints and assumptions and the criteria for assessment of capital needs; the anticipated sources of financing for such strategy; and the implications of the strategy, including possible economic, social and environmental effects;
+	   c.   All plans proposed pursuant to this section shall be referred to the department of city planning for circulation by the department to all affected community boards, all affected borough boards and all affected borough presidents for review and written recommendation, except that any such plan need not be circulated to the agency or official that proposed such plan. All affected community boards and borough boards to which such a plan is referred shall hold a public hearing on any such plan, except that in the case of a plan that includes an entire borough or land in more than one borough, only one public hearing need be held in each affected borough. The city planning commission shall establish by rule the procedures and schedule for review of such plans, consistent with the provisions of this section. A community board or borough board may review a plan which does not involve land so located as to require its review if in its judgment the plan significantly affects the welfare of the district or borough served by such board. In such case, the plan and any written recommendations relative thereto shall be made available to such board on request. Such board may hold its own public hearing on such plan if it desires and may submit its own written recommendations in regard thereto to the city planning commission.
 	
-	      (2)   tables presenting the capital commitments estimated to be made during each of the ensuing ten fiscal years, by program category and agency. Where relevant the anticipated sources of financing for particular categories and projects shall be specified; and
-	
-	      (3)   a map or maps which illustrate major components of the strategy as relevant.
-	
-	   c.   In the preparation of the preliminary ten-year capital strategy, the department of city planning and office of management and budget shall consider (i) the strategic policy statements of the mayor and the borough presidents pursuant to section seventeen, (ii) relevant citywide, borough and community plans adopted pursuant to section one hundred ninety seven-a, and (iii) the reports pursuant to section two hundred fifty-seven comparing the most recent ten-year capital strategy with the capital budgets and programs adopted for the current and previous fiscal years.
+	   d.   Within a reasonable time period following review and recommendation of a plan pursuant to subdivision c of this section, the city planning commission shall (1) review such plan, (2) hold a public hearing on such plan, and (3) by resolution approve, approve with modifications or disapprove such plan. If the commission has approved a plan or approved a plan with modifications, such plan shall be subject to review and action by the council pursuant to section one hundred ninety-seven-d. The council may by a two-thirds vote approve a plan which the city planning commission disapproved or on which the commission has failed to act if the mayor so requests. Upon the filing by the mayor of such a request with the commission and the council, the commission shall within five days file with the council a copy of its decision together with a copy of the plan. Copies of approved plans shall be filed with the city clerk, the department of city planning, the affected borough presidents, the affected borough boards and the affected community boards.
 
 
 
 
-Section 216.
+Section 197-b.
 ----------
 
-Section 216. Amendment. ::
+Section 197-b. Notification of plans and proposals. ::
 
 
-	   a.   Upon receipt of a recommendation in writing from the mayor or a borough president, in manner specified herein, the council may amend the capital budget or capital program in the same manner as the adoption of the capital budget and capital program including the right to approve the proposed amendment as submitted or to increase or decrease the amounts of funds proposed to be appropriated thereby, but only if funds are available within the capital budget and the applicable program category of the capital program; provided, however, that (i) the mayor may only recommend such an amendment relating to an appropriation included in the capital budget pursuant to section two hundred eleven with the concurrence of the relevant borough president; and (ii) the borough president may only make such a recommendation with regard to such an appropriation if it provides for an offsetting reduction in another appropriation included in the capital budget pursuant to section two hundred eleven on the recommendation of such borough president and it is concurred in by the mayor.
+	   a.   Advance notice of all preliminary and final plans of public agencies and public benefit corporations or of private agencies, entities or developers filed with the city that relate to the use, development or improvement of land subject to city regulation shall be given to the affected community board or boards and the office of the affected borough president, provided that exceptions may be made in matters of no appreciable public concern by agency rule.
 	
-	   b.   Upon the adoption of any such amendment by the council, it shall be certified by the mayor, the public advocate and the city clerk and the capital budget shall be amended accordingly.
-	
-	   c.   Not later than five days after such certification such amendment shall be filed in the office of the comptroller and shall be published forthwith in the City Record.
+	   b.   Copies of (1) all requests for proposals and other solicitations of proposals issued by or on behalf of the city, whether or not issued by an agency, a local development corporation or other entity, and (2) all letters of intent executed by or on behalf of the city, whether or not executed by an agency, a local development corporation or other entity, that relate to the private use or the disposition of city-owned land, shall be conveyed to the community boards where such land is located and the office of the borough president where such land is located promptly after issuance or execution.
 
 
 
 
-Section 217.
+Section 197-c.
 ----------
 
-Section 217. Restrictions on capital projects. ::
+Section 197-c. Uniform land use review procedure. ::
 
 
-	   a.   No obligations of the city shall be issued or authorized for or on account of any capital project not included in a capital budget, or for which funds have not been reserved in an appropriate program category of the capital program for any year of such program in which it is projected that funds will be expended for the completion of the project, or in excess of the maximum amount of obligations which may be issued on account of such project as fixed in such capital budget; and no amount may be expended on account of any capital project in excess of the amount appropriated for such purposes in a capital budget, except that the amount appropriated for such purposes may be increased by the mayor by not more than fifteen per centum thereof in order to meet any costs required to advance such project. Notice of any such increase shall be provided to the council together with a statement of identifiable funds available for payment of the increase.
+	   a.   Except as otherwise provided in this charter, applications by any person or agency for changes, approvals, contracts, consents, permits or authorization thereof, respecting the use, development or improvement of real property subject to city regulation shall be reviewed pursuant to a uniform review procedure in the following categories:
 	
-	   b.   Funds included in the capital budget for a capital project that are not obligated or committed during the fiscal year in which appropriated shall not be obligated or committed in the subsequent fiscal year unless reappropriated in a subsequent capital budget or an amendment thereto. A capital project included in a capital budget that is not initiated by the expenditure of funds within two years after its inclusion in the budget shall be eliminated from the budget.
+	      (1)   Changes in the city map pursuant to section one hundred ninety-eight and section one hundred ninety-nine;
 	
-	   c.   The city may issue capital debt only to finance capital projects as defined in section two hundred ten. The capital budget may not include expense items that are properly includable only in the expense budget, as determined in accordance with the accounting principles set forth in the state comptroller's uniform system of accounts for municipalities, as the same may be modified by the state comptroller, in consultation with the city comptroller, for application to the city.
+	      (2)   Maps of subdivisions or plattings of land into streets, avenues or public places pursuant to section two hundred two;
 	
-	   d.   No capital project shall be included in the proposed executive capital budget or otherwise adopted as part of the capital budget or as an amendment thereto unless sufficient funds are available within the appropriate general program category of the capital program for any year of such program in which it is projected that additional appropriations will be necessary for the completion of the project.
+	      (3)   Designations of zoning districts under the zoning resolution, including conversion from one land use to another land use, pursuant to sections two hundred and two hundred one;
+	
+	      (4)   Special permits within the jurisdiction of the city planning commission under the zoning resolution, pursuant to sections two hundred and two hundred one;
+	
+	      (5)   Site selection for capital projects pursuant to section two hundred eighteen;
+	
+	      (6)   Revocable consents pursuant to section three hundred sixty-four, requests for proposals and other solicitations for franchises pursuant to section three hundred sixty-three, and major concessions as defined pursuant to section three hundred seventy-four;
+	
+	      (7)   Improvements in real property the costs of which are payable other than by the city pursuant to section two hundred twenty;
+	
+	      (8)   Housing and urban renewal plans and projects pursuant to city, state and federal housing laws;
+	
+	      (9)   Sanitary or waterfront land-fills pursuant to applicable charter provisions or other provisions of law;
+	
+	      (10)   Sale, lease (other than the lease of office space), exchange, or other disposition of the real property of the city, including the sale or lease of land under water pursuant to section sixteen hundred two, chapter fifteen, and other applicable provisions of law;
+	
+	      (11)   Acquisition by the city of real property (other than the acquisition of office space for office use or a building for office use), including acquisition by purchase, condemnation, exchange or lease and including the acquisition of land under water pursuant to section sixteen hundred two, chapter fifteen, and other applicable provisions of law; and
+	
+	      (12)   Such other matters involving the use, development or improvement of property as are proposed by the city planning commission and enacted by the council pursuant to local law.
+	
+	   b.   The following documents shall be filed with the department of city planning: (1) applications under this section, (2) any amendments thereto that are made prior to approval of such applications pursuant to this chapter, (3) any written information submitted by an applicant for purposes of determining whether an environmental impact statement will be required by law, and (4) documents or records intended to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law. The department of city planning shall forward a copy of any materials it receives pursuant to this subdivision (whether or not such materials have been certified as complete) within five days to each affected borough president, community board or borough board.
+	
+	   c.   The department of city planning shall be responsible for certifying that applications pursuant to subdivision a of this section are complete and ready to proceed through the uniform land use review procedure provided for in this section. Upon certification of an application, the department shall give notice of such certification to the council. If an application under this section has not been certified within six months after filing, both the applicant and, if the land use proposed in an application is consistent with the land use policy or strategic policy statement of the affected borough president, the affected borough president shall have the right at any time thereafter to appeal to the city planning commission for certification. The commission shall promptly, but in any event within sixty days of the filing of such an appeal, either certify the application or state in writing what further information is necessary to complete the application. If such an appeal is brought by an affected borough president, the affirmative vote of five members of the commission shall be sufficient to certify the application.
+	
+	   d.   If a meeting involving a city agency and an applicant is convened to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law for an application subject to review under this section, each affected community board and each affected borough president shall receive advance notice of such meeting, and each shall have the right to send one representative to the meeting.
+	
+	   e.   Each affected community board shall, not later than sixty days after receipt of an application that has been certified pursuant to subdivision c of this section,
+	
+	      (1)   notify the public of the application in a manner specified by the city planning commission pursuant to subdivision i of this section, and
+	
+	      (2)   either (a) conduct a public hearing thereon and prepare and submit a written recommendation directly to the city planning commission and to the affected borough president or (b) where authorized by this charter, submit a written waiver of the right to conduct a public hearing and to submit such written recommendations to the commission and the affected borough president.
+	
+	   f.   A copy of a recommendation or waiver by a community board pursuant to subdivision e of this section that involves land located within two or more community districts in a borough shall also be filed with the affected borough board within the same time period as specified in subdivision e. Not later than thirty days after the filing of a recommendation or waiver with the borough board by all affected community boards, or, if any affected community board shall fail to act, thirty days after the expiration of the time allowed for such community board to act, the borough board may hold a public hearing on the application and any such recommendations and submit a written recommendation or waiver thereof to the city planning commission.
+	
+	   g.   Not later than thirty days after the filing of a recommendation or waiver with the borough president by all affected community boards, or, if any affected community board shall fail to act, thirty days after the expiration of the time allowed for such community board to act, the borough president shall submit a written recommendation or waiver thereof to the city planning commission.
+	
+	   h.   Not later than sixty days after expiration of time allowed for the filing of a recommendation or waiver with the city planning commission by a borough president, the commission shall approve, approve with modifications, or disapprove the application. Any such approval or approval with modifications of the commission shall require the affirmative vote of at least seven of the members, except that the affirmative vote of nine members shall be required to approve or approve with modifications an application pursuant to paragraph five, ten or eleven of subdivision a of this section relating to a new city facility if the affected borough president recommends against approval of such application pursuant to subdivision g of this section and has proposed an alternative location in the same borough for such new city facility pursuant to subdivision f or g of section two hundred four. The commission shall conduct a public hearing on all applications that are subject to review and approval by the commission pursuant to this section. Prior to taking any action pursuant to this subdivision on a matter involving the siting of a capital project, the sale, lease, exchange or other disposition or acquisition of real property, a request for a proposal or other solicitation for a franchise or a revocable consent, the city planning commission may obtain a report from the office of management and budget or the department of citywide administrative services, as appropriate. Any action of the city planning commission which modifies or disapproves a written recommendation of the community board, borough president or borough board shall be accompanied by a written explanation of its reason for such action.
+	
+	   i.   The city planning commission shall establish rules providing (1) guidelines, minimum standards, and procedural requirements for community boards, borough presidents, borough boards and the commission in the exercise of their duties and responsibilities pursuant to this section, (2) minimum standards for certification of applications pursuant to subdivision c of this section, and (3) specific time periods for review of applications pursuant to this section prior to certification.
+	
+	   j.   If a community board, borough president or borough board fails or waives its right to act within the time limits for review pursuant to subdivisions e, f and g of this section, the application shall be referred to the next level of review. If the city planning commission fails to act on an application within the time limit specified in subdivision h of this section, the application shall be deemed to have been denied unless the application (i) is pursuant to paragraph three or four of subdivision a of this section, in which case the application may be forwarded to the council for review pursuant to the provisions of subdivision b of section two hundred, if applicable, or (ii) is pursuant to paragraph eight of subdivision a of this section, in which case the application shall be referred to the council for review and action as provided by state law.
+	
+	   k.   Notice of any hearing on an application by the city planning commission shall be published in the City Record at least ten days immediately prior to the date of the hearing, and a copy of the notice shall be mailed to all community boards or borough boards affected by the application.
+	
+	   l.   The commission shall establish by rule procedures for advance posting of notices of commission hearings on applications. Such notices shall be posted at the location of the land involved in such manner and with respect to such types of applications as the commission deems appropriate. Failure to post any such notice shall not affect or impair the validity of any decision of the city planning commission, the council or other agency or official pursuant to this chapter.
+	
+	   m.   A community or borough board may review an application which is subject to the uniform land use review procedure pursuant to this section but does not involve land so located as to require reference to such board for review, if in the board's judgment the application might significantly affect the welfare of the community district or borough served by such board. In such a case the application and the related materials submitted to the affected board or boards by the city planning department shall be submitted also to such board upon the request of such board, and such board may hold its own public hearing thereon if it so desires and may submit its own written recommendations in regard thereto to the city planning commission for consideration at any time before the city planning commission takes action thereon.
 
 
 
 
-Section 218.
+Section 197-d.
 ----------
 
-Section 218. Site selection. ::
+Section 197-d. Council Review. ::
 
 
-	   a.   The selection of sites for capital projects shall be pursuant to the uniform procedures provided pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d, except for acquisition of office space pursuant to section one hundred ninety-five.
+	   a.   The city planning commission shall file with the council and with the affected borough president a copy of its decisions to approve or approve with modifications (1) all matters described in subdivision a of section one hundred ninety-seven-c, (2) plans pursuant to section one hundred ninety-seven-a, and (3) changes in the text of the zoning resolution pursuant to sections two hundred and two hundred one. Any such filing of a decision pursuant to section one hundred ninety-seven-c shall be completed prior to the expiration of the sixty-day period for action by the commission. Any such filing with the council shall include copies of all written recommendations of community boards, borough boards and borough presidents with respect to the decision being filed.
 	
-	   b.   To the maximum extent feasible, final approval of a site for a capital project shall occur prior to or simultaneously with the approval of the scope of the project pursuant to this chapter.
+	   b.   The following decisions filed with the council pursuant to subdivision a of this section, shall be subject to review and action by the council:
 	
-	   c.   During the review required by subdivision a, the community board and borough president shall also review, and may comment on, the scope of the project.
+	      (1)   any decision of the city planning commission to approve or approve with modifications a matter described in paragraph three or eight of subdivision a of section one hundred ninety-seven-c, a disposition of residential real property (as defined in this paragraph) pursuant to paragraph ten of subdivision a of section one hundred ninety-seven-c (except for dispositions to companies that have been organized exclusively to develop housing projects for persons of low income), a plan pursuant to section one hundred ninety-seven-a, or a change in the text of the zoning resolution pursuant to sections two hundred or two hundred one. For purposes of this section, residential real property shall mean real property improved by structures, whether or not occupied, built for or converted to a use which is primarily residential, but shall not include property subsequently converted to non-residential use;
+	
+	      (2)   any other decision of the city planning commission to approve or approve with modifications a matter described in subdivision a of section one hundred ninety-seven-c, if (i) both an affected community board (after holding a public hearing) and the affected borough president, within the time periods allotted for their reviews pursuant to section one hundred ninety-seven-c, have recommended in writing against approval and (ii) the affected borough president, within five days of receiving a copy of the decision of the commission, files with the commission and the council a written objection to the decision; and
+	
+	      (3)   any other decision of the city planning commission to approve or approve with modifications a matter described in subdivision a of section one hundred ninety-seven-c, if within twenty days of the filing of such decision pursuant to subdivision a of this section, the council resolves by the majority vote of all the council members to review the decision of the commission.
+	
+	   c.   Within fifty days of the filing with the council pursuant to subdivision a of this section of any decision of the city planning commission which pursuant to subdivision b of this section is subject to review by the council, the council shall hold a public hearing, after giving public notice not less than five days in advance of such hearing, and the council, within such fifty days, shall take final action on the decision. The affirmative vote of a majority of all the council members shall be required to approve, approve with modifications or disapprove such a decision. If, within the time period provided for in this subdivision and, if applicable, in subdivision d of this section, the council fails to act or fails to act by the required vote on a decision of the city planning commission subject to council review pursuant to subdivision b of this section, the council shall be deemed to have approved the decision of the commission.
+	
+	   d.   The council shall not approve with modifications a commission decision if the commission has determined pursuant to this subdivision that additional review of the modifications is required. Prior to approving a decision of the commission with modifications, the council shall file the text of any such proposed modifications with the commission. Within fifteen days of such filing, the commission shall file with the council a written statement indicating whether such proposed modifications are of such significance that additional review of environmental issues or additional review pursuant to section one hundred ninety-seven-c is required. If no additional review is required, the commission may include in such statement its advisory recommendation concerning the proposed modifications, together with any proposed amendments to the proposed modifications. The council may thereafter approve such proposed modifications, with or without the amendments proposed by the commission. The time period for council action shall be tolled during such fifteen-day period; provided, however, that proposed modifications may be referred to the commission pursuant to this subdivision only once with respect to each application or group of related applications under review by the council.
+	
+	   e.   All actions of the council pursuant to this section shall be filed by the council with the mayor prior to the expiration of the time period for council action under subdivisions c and, if applicable, d of this section. Actions of the council pursuant to this section shall be final unless the mayor within five days of receiving a filing with respect to such an action of the council files with the council a written disapproval of the action. Any mayoral disapproval under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
+	
+	   f.   The mayor shall have the right to file a written disapproval of any approval deemed to have occurred pursuant to subdivision c of this section as a result of a failure of the council to act or to act by the required vote. Any such written disapproval must be filed within five days of the expiration of the time period for action by the council under subdivisions c and, if applicable, d of this section. Any mayoral disapproval under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
+	
+	   g.   If a decision of the commission approving an application is not subject to council review pursuant to paragraph one of subdivision b of this section or is not made subject to council review pursuant to paragraphs two or three of subdivision b of this section, the mayor may nonetheless file with the council a written objection to such decision of the commission within five days of the expiration of time for the council to act under paragraph three of subdivision b of this section. Any mayoral objection under this subdivision shall be subject to override by a two-thirds vote of all the council members within ten days of such filing by the mayor.
 
 
 
 
-Section 219.
+Section 198.
 ----------
 
-Section 219. Project initiation; commitment plan. ::
+Section 198. City map. ::
 
 
-	   a.   The inclusion of a capital project in the capital budget as adopted or amended shall constitute a direction and order to the agency to proceed with the preparation of a scope of project pursuant to this chapter unless sufficient planning funds for such purpose have not been appropriated in the capital budget. The head of the agency shall notify the comptroller of the amount of appropriated planning funds to be encumbered for such purpose.
+	   a.   The city map is hereby continued.
 	
-	   b.   The approval of a scope of project for a capital project pursuant to this chapter, including the amount of obligations necessary to finance the design and construction of the project, shall constitute a direction and order to the agency to design the project, unless sufficient funds for such purpose have not been appropriated in the capital budget or are otherwise not available within the appropriate program category of the capital program. Such approval shall constitute notification to the comptroller of the comptroller's authorization to expend appropriated design funds.
+	   b.   The director of city planning shall be the custodian of the city map, and it shall be his or her duty to complete and maintain the same and to register thereon all changes resulting from action authorized by law.
 	
-	   c.   The approval of the final design for a capital project pursuant to this chapter shall constitute a direction and order to the agency responsible for construction to prepare bid and award documents and to proceed to bid, unless sufficient funds for such purpose have not been appropriated in the capital budget or are otherwise not available within each year of the capital program in which it is projected that funds will be expended for the completion of the project. Such approval shall constitute notification to the comptroller of the comptroller's authorization to expend appropriated construction funds.
-	
-	   d.   The mayor shall require each agency to prepare and submit periodic reports in regard to the progress of its capital projects, including schedules and clear explanations of any delays for particular prospects and summary information on each agency's record on such matters. Such reports shall be published at least three times each year: within ninety days of the adoption of the capital budget; with the preliminary capital budget; and with the executive capital budget. Copies of such reports shall be transmitted by the mayor to the council, the city planning commission, and the community boards, the borough boards and borough presidents. Such reports shall include, for each project, the dates set in the adopted capital budget for the completion of scope, design, and construction and any changes in such dates.
-	
-	      1.   The report issued with the executive budget shall include, for each new capital project being proposed in the executive budget, a description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
-	
-	      2.   The report issued following the adoption of the budget shall include, for each capital project added to the budget, a description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
-	
-	      3.   The report issued following the adoption of the budget shall include, for each capital project for which a substantial change was made, a revised description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
-	
-	   e.   Any capital project which results in the acquisition or construction of a capital asset which will be subject to the requirements of section eleven hundred ten-a shall contain a provision requiring a comprehensive manual setting forth the useful life of the asset and explaining the activities necessary to maintain the asset throughout such useful life.
-	
-	   f.   The mayor may issue directives and adopt rules and regulations in regard to the execution of capital projects, consistent with the requirements of subdivisions a, b, c and d of this section, which shall be binding upon all agencies.
+	   c.   The city map shall be on file in the office of the department of city planning, and certified copies thereof and of all changes thereto shall be filed in the offices of the corporation counsel, of the city clerk and of the borough president of the borough in which the land shown on the map is located and in the office in which conveyances of real estate are required to be recorded in the county in which the land shown on the map is located.
 
 
 
 
-Section 220.
+Section 199.
 ----------
 
-Section 220. Improvements payable other than by city. ::
+Section 199. Projects and changes in city map. ::
 
 
-	   Any owner of real property or any other person interested may apply to the council to authorize an improvement referred to in paragraph d of subdivision one of section two hundred ten hereof, not included in the capital budget. The council may authorize such improvement to be made by the city or by such owner or other person interested upon compliance with the following conditions:
+	   a.   No improvement or project affecting the city map and no addition to or change in the city map shall be authorized otherwise than as provided in this charter.
 	
-	      1.   Such owner or group or other persons interested shall enter into an agreement with the city, whereby they will either authorize the city, or themselves agree, to perform such work in accordance with such plans and specifications approved by the agencies having jurisdiction thereover and under their supervision.
-	
-	      2.   All of such work shall be done for the account of or at the sole cost and expense of the person or persons applying for permission to do the same, who shall furnish to the city such security and in such amount as may be required to secure the payment of such cost and expense or the proper performance of the said work in the time and in the manner agreed upon, and shall further secure the city, in the latter case, against latent defects in such work for a period of two years.
-	
-	      3.   Such improvement shall be approved by the city planning commission and reviewed pursuant to sections one hundred ninety-seven-c and one hundred ninety-seven-d.
-	
-	      4.   Any agreement providing for the performance of such work and the furnishing of such security, shall be first approved by the council before the same shall become effective.
+	   b.   The review of any proposed addition to or change in the city map initiated by or referred to the city planning commission shall be made pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d.
 
 
 
 
-Section 221.
+Section 200.
 ----------
 
-Section 221. Standards for capital projects. ::
+Section 200. Zoning resolution. ::
 
 
-	   The mayor shall prepare general standards and cost limits for categories of capital projects and standards for the preparation of the scope of project for capital projects of various types. Such standards and limits shall be submitted by the mayor to the council for review. The proposed standards shall become effective thirty days after they have been filed with the council unless within that time the council modifies or disapproves them or part of them, after conducting a public hearing. Any modification by the council shall be subject to disapproval by the mayor in accordance with section thirty-eight and any such disapproval shall be subject to override by the council in accordance with such section.
+	   a.   Except as provided in subdivision b, any existing resolution or regulation of the council, the board of estimate or of the city planning commission to regulate and limit the height and bulk of buildings, to regulate and determine the area of yards, courts and other open spaces, to regulate density of population or to regulate and restrict the locations of trades and industries and location of buildings designed for specific uses or creating districts for any such purpose, including any such regulation which provides that the board of standards and appeals may determine and vary the application of such resolutions or regulations in harmony with their general purpose and intent and in accordance with general or specific rules contained in such regulations, may be amended, repealed or added to only in the following manner:
+	
+	      1.   The city planning commission may upon its own initiative at any time or upon application as provided in section two hundred one, adopt a resolution to amend the text of the zoning resolution subject to the limitations provided by law. Before adopting any such resolution, the commission shall notify any community board or borough board affected by the resolution and shall afford persons interested an opportunity to be heard at a time and place to be specified in a notice of hearing to be published in the City Record for the ten days of publication of the City Record immediately prior thereto setting forth in general terms the nature of the proposed resolution and a statement of the place at which the entire resolution may be examined.
+	
+	      2.   Any resolution by the commission approving a change in the text of the zoning resolution shall be subject to review and approval by the council pursuant to section one hundred ninety-seven-d. Any resolution for a zoning text change which the mayor shall have certified to the council as necessary, and which has been disapproved by the commission, may be adopted by the council by a two-thirds vote and, after notice to the parties affected, a public hearing. The council shall act upon such resolution within fifty days of the filing of the certification of the mayor with the council, and such resolution shall become effective upon approval by the council.
+	
+	      3.   In case a protest against such a resolution approved by the city planning commission shall have been presented to the city clerk within thirty days from the date of the filing of such resolution with the council, duly signed and acknowledged by the owners of twenty per centum or more of the area of:
+	
+	         (1)   the land included in changes proposed in such proposed resolution, or
+	
+	         (2)   the land immediately adjacent extending one hundred feet therefrom, or
+	
+	         (3)   the land, if any, directly opposite thereto extending one hundred feet from the street frontage of such opposite land, such resolution shall not be effective after the filing of such protest unless approved by the council by a three-fourths* vote within one hundred eighty days after the filing of said resolution with the city clerk. The effective date of such resolution, if so approved, shall be the date of such approval. A protest duly filed as herein provided may be withdrawn at any time within sixty days from the date of the filing of such resolution.
+	
+	   b.   Designations of zoning districts under the zoning resolution and the issuance of special permits which under the terms of the zoning resolution are within the jurisdiction of the city planning commission shall be subject to review and approval pursuant to the procedures provided in section one hundred ninety-seven-c and section one hundred ninety-seven-d, except that whenever the city planning commission has not recommended approval of a proposed change in the designation of a zoning district or the issuance of a special permit under the zoning resolution or has failed to act on such a matter within the time specified in section one hundred ninety-seven-c, the council by a two-thirds vote may approve such change or the issuance of such permit only if the mayor shall have certified to the council that such change or issuance is necessary. The council shall act upon such designation or permit within fifty days of the filing of the certification of the mayor with the council.
 
 
 
 
-Section 222.
+Section 201.
 ----------
 
-Section 222. Scope of project. ::
+Section 201. Applications for zoning changes and special permits. ::
 
 
-	   a.   Each agency, with respect to a capital project under its jurisdiction included in a capital budget, shall prepare a proposed scope of project within appropriated planning funds. In preparing the proposed scope of project, the agency shall consult with the community board for the community district in which the capital project is to be located. The proposed scope of project, or, in the case of a delay, an explanation for such delay along with a revised schedule, shall be submitted to the mayor and to the respective council committee, borough president and community board by the date specified in the adopted capital budget in which the capital project is included. Such proposed scope shall identify all substantial differences between the guidelines for the capital project as contained in such scope and the description of the capital project contained in the report issued pursuant to subdivision d of section two hundred nineteen at the time such project was proposed in the executive budget or following the budget adoption in which such project was added to the capital budget.
+	   a.   Applications for changes in the zoning resolution may be filed by any taxpayer, community board, borough board, borough president, by the mayor or by the land use committee of the council if two-thirds of the members of the committee shall have voted to approve such filing with the city planning commission. All such applications involving changes in the designation of zoning districts under the zoning resolution shall be subject to review and approval pursuant to section one hundred ninety-seven-c, and one hundred ninety-seven-d. For applications involving other changes in zoning resolutions and regulations, the commission prior to taking action upon any such application shall refer it to the affected community boards or borough boards for a public hearing and recommendation.
 	
-	   b.   Not later than sixty days after receipt of the proposed scope of project from an agency pursuant to subdivision a of this section, the mayor shall approve, modify, or disapprove the proposed scope of project and notify the agency, and the respective council committee, borough president and community board. In the case of a scope approved by the mayor with modifications, such notification shall include a copy of the scope as approved.
-	
-	   c.   During the review of the selection of a site of a capital project pursuant to the uniform land use review procedure established by section one hundred ninety-seven-c, the community board and borough president shall also review, and may comment on, the scope of the project.
-	
-	   d.   No scope of project shall be approved by the mayor unless (1) it contains the information required by paragraph four of section two hundred ten and it conforms to the applicable standards for the type of project adopted pursuant to this chapter, and (2) funds are available within the appropriate program category of the capital program that can be reserved for each fiscal year required to complete the project.
+	   b.   Applications for special permits within the jurisdiction of the city planning commission under the zoning resolution may be filed by any person or agency. All such applications for the issuance of special permits shall be subject to review and approval pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d.
 
 
 
 
-Section 223.
+Section 202.
 ----------
 
-Section 223. Design of capital project. ::
+Section 202. Platting of land and dedication of streets and public places. ::
 
 
-	   The proposed design and final design for a capital project shall be made available for review to the respective council committee, borough president and the community board for the community district in which the project is to be located. The mayor or his representative shall review the final design to determine its conformance with the approved scope of project pursuant to this chapter.
+	   a.   No map of a subdivision or platting of land into streets, avenues or public places and blocks within the limits of the city shall be received for filing in the office in which instruments affecting real property are required to be recorded in the county in which the land is situated, unless such map shall have been reviewed and approved pursuant to section one hundred ninety-seven-c and section one hundred ninety-seven-d. If such map is disapproved, the chair of the city planning commission shall certify such fact in writing upon such map, and such map shall be received only for record without such approval.
+	
+	   b.   No street, avenue, highway or public place, the layout of which has not been approved as provided in this section, shall be deemed to have been accepted by the city as a street, avenue, highway or public place, unless such street, avenue, highway or public place shall lie within the lines of a street, avenue, highway or public place upon the city map.
 
 
 
 
-Section 224.
+Section 203.
 ----------
 
-Section 224. Works of art. ::
+Section 203. Criteria for location of city facilities. ::
 
 
-	   a.   For purposes of this section:
+	   a.   Not later than the first day of July, nineteen hundred ninety, the mayor, after consulting with each of the borough presidents, shall file with the city planning commission proposed rules establishing criteria for (1) the location of new city facilities and (2) the significant expansion, closing or significant reduction in size or capacity for service delivery of existing facilities. The criteria shall be designed to further the fair distribution among communities of the burdens and benefits associated with city facilities, consistent with community needs for services and efficient and cost effective delivery of services and with due regard for the social and economic impacts of such facilities upon the areas surrounding the sites. Not later than thirty days after the filing of such proposed rules, the city planning commission shall publish a notice of proposed rule making under section one thousand forty-three with regard to such rules, as proposed by the mayor or as proposed to be modified by the commission. Promptly thereafter, the commission shall approve or approve with modifications the rules and shall file the rules as approved with the council.
 	
-	      Demographic information. The term "demographic information" includes age, gender, race and any other related information the department of cultural affairs deems relevant.
+	   b.   At any time after the adoption of such criteria, the mayor, after consulting with the borough presidents, may submit to the city planning commission proposed amendments to the rules. Not later than thirty days after the filing of such proposed amendments, the city planning commission shall publish a notice of proposed rule making under section one thousand forty-three with regard to such amendments, as proposed by the mayor or as proposed to be modified by the commission. Promptly thereafter, the commission shall approve, approve with modifications or determine not to approve the amendments and shall file any approved amended rules with the council.
 	
-	      Design agency. The term "design agency" means the agency responsible for the preparation of the design for the capital project that includes works of art pursuant to this section.
-	
-	      Sponsor agency. The term "sponsor agency" means the agency whose capital project is subject to the provisions of this section.
-	
-	      Works of art. The term "works of art" includes all forms of the visual and performing arts conceived in any medium, material or combination thereof.
-	
-	   b.   Works of art shall be provided for each capital project which involves the construction or the substantial reconstruction of a city-owned public building or structure the intended use of which requires that it be accessible to the public generally or to members of the public participating in, requiring or receiving programs, services or benefits provided thereat.
-	
-	   c.   An amount not less than one percent of the first fifty million dollars and one-half of one percent of any amount in excess of fifty million dollars of capital funds appropriated by the city for each such capital project, other than funds appropriated for the acquisition of real property, shall be allocated for works of art; provided, however, that this section shall in no case require, but shall not prohibit, the expenditure of more than nine hundred thousand dollars for works of art for any capital project nor more than the sum of four million dollars for all works of art in any fiscal year. The mayor may exempt a capital project from the provisions of this section if in the mayor's sole judgment the inclusion of works of art as provided hereby would be inappropriate.
-	
-	   d.   1.   The department of cultural affairs shall engage in outreach and education efforts regarding the opportunity to submit works of art for consideration for inclusion in capital projects as provided for by this section. Such outreach and education efforts shall include but not be limited to information sessions in each borough that shall be open to the public and the development of written materials that describe the submission and selection process for works of art. The department shall make such written materials available in a manner deemed appropriate by the department, including but not limited to making such materials available to arts and cultural organizations, community-based organizations, and colleges and universities. Such written materials shall be made available in English and in the six languages most commonly spoken by limited English proficient individuals in the city as determined by the department of city planning.
-	
-	      2.   Reasonable advance notification of the intention to include works of art in a project shall be provided to the appropriate council member, borough president and chairperson of the community board of the community district in which the project is located. Reasonable advance notification of the intention to include works of art in a project shall also be posted on the website of the department of cultural affairs. Following notification of the intention to include works of art in any project, the department of cultural affairs shall hold or present at a public meeting, such as a meeting of the community board of the community district in which the project is located, on such works of art prior to such inclusion. A notice of such public meeting shall be posted on the website of the department of cultural affairs not less than fourteen days prior to any such meeting. All such works of art shall be subject to the approval of the art commission pursuant to section eight hundred fifty-four of this charter.
-	
-	   e.   The mayor shall adopt rules and regulations to implement the provisions of this section.
-	
-	   f.   The department of cultural affairs shall post on the department’s website information about works of art that were included in a capital project pursuant to this section after the effective date of the local law that added this subdivision.
-	
-	      1.   Such information shall include but not be limited to the name of the work of art; name of the artist; capital project completion date; medium and dimensions of the work of art; location of the work of art, including council district and borough; sponsor agency; and design agency.
-	
-	      2.   The department shall post on the department’s website aggregated demographic information about the artists whose works of art are subject to the provisions of this subdivision, to the extent such demographic information is provided to the department.
-	
-	   g.   There shall be an advisory panel to recommend eligible works of art to be included in a capital project pursuant to this section. The commissioner of cultural affairs or his or her designee shall serve as chairperson of such panel and shall ensure that such panel includes members who are knowledgeable about public art, knowledgeable about the project, and knowledgeable about the community in which the project will be located. The panel shall further include but not be limited to at least one representative of the president of the borough in which the project will be located, at least one representative of the council member in whose district the project will be located, and at least one representative of the community board for the community district in which the project will be located, provided, however, that such representatives shall be non-voting ex officio members.
-	
-	
+	   c.   For purposes of this chapter, "city facility" shall mean a facility used or occupied or to be used or occupied to meet city needs that is located on real property owned or leased by the city or is operated by the city or pursuant to a written agreement on behalf of the city.
 
 
 
 
-Section 224.
+Section 204.
 ----------
 
-Section 224. 1. Green building standards. ::
+Section 204. Citywide statement of needs. ::
 
 
-	   a.   As used in this section the following terms shall have the following meanings:
+	   a.   Each year not later than the fifteenth day of November, the mayor shall submit to the council, borough presidents, borough boards and community boards a citywide statement of needs concerning city facilities prepared in accordance with the criteria established pursuant to section two hundred three. Copies of the statement shall also be made available to the public in the main branch of the public library in each borough. The statement shall identify by agency and program: (1) all new city facilities and all significant expansions of city facilities for which the mayor or an agency intends to make or propose an expenditure or to select or propose a site during the ensuing two fiscal years and (2) all city facilities which the city plans to close or to reduce significantly in size or in capacity for service delivery during the ensuing two fiscal years.
 	
-	      Capital project. The term "capital project" means a capital project as defined in section 210 of this chapter that is paid for in whole or in part from the city treasury.
+	   b.   With respect to the city facilities referred to in clause one of subdivision a of this section, the statement of needs shall describe for each proposed new city facility or significant expansion: (1) the public purpose to be served thereby, (2) the size and nature of the facility, (3) the proposed location by borough and, if practicable, by community district or group of community districts, and (4) the specific criteria to be used in locating the new facility or expansion.
 	
-	      City agency. The term "city agency" means a city, county, borough, or other office, position, administration, department, division, bureau, board or commission, or a corporation, institution or agency of government, the expenses of which are paid, in whole or in part, from the city treasury.
+	   c.   With respect to the city facilities referred to in clause two of subdivision a of this section, the statement of needs shall describe with respect to each such city facility: (1) the reasons for such proposed closing or reduction, (2) the location, and (3) the specific criteria for selecting the city facility for closure or for reduction in size or capacity for service delivery.
 	
-	      Construction work. The term "construction work" means any work or operations necessary or incidental to the erection, demolition, assembling, alteration, installing, or equipping of any building.
+	   d.   The statement of needs shall be accompanied by a map together with explanatory text, indicating (1) the location and current use of all city-owned real property, (2) all final commitments relating to the disposition or future use of city-owned real property, including assignments by the department of citywide administrative services pursuant to clause b of subdivision three of section sixteen hundred two, and (3) to the extent such information is available to the city, (i) the location of health and social service facilities operated by the state of New York or the federal government or pursuant to written agreement on behalf of the state or the federal government; and (ii) the location of transportation or waste management facilities operated by public entities or by private entities pursuant to written agreements with public entities, or by other private entities that provide comparable services. Information which can be presented most effectively in text may be presented in this manner. In addition to being transmitted with the statement of needs pursuant to subdivision a of this section, such map shall be kept on file with the department of city planning and shall be available for public inspection and copying. The map shall be updated on at least an annual basis.
 	
-	      Green building standards. The term "green building standards" means design guidelines, a rating system or rules for constructing buildings that ensure site planning, water efficiency, energy efficiency and renewable energy, conservation of materials and resources and indoor environmental quality.
+	   e.   Preparation of the statement of needs.
 	
-	      Inflation. The term "inflation" shall mean the annual 12-month average of the consumer price index published by the United States department of labor.
+	      (1)   Annually on such date as the mayor shall direct, each agency shall submit to the mayor a statement containing all the information required to be included in the statement of needs for the ensuing two fiscal years pursuant to subdivisions a, b and c of this section that relates to the plans, jurisdiction and responsibility of such agency. Such statements shall be known as the departmental statements of need for city facilities. In preparing such departmental statements of needs, each agency shall review and consider the district needs statements submitted by community boards pursuant to paragraph ten of subdivision d of section twenty eight hundred and the statements of budget priorities submitted by the community boards pursuant to section two hundred thirty.
 	
-	      LEED energy and atmosphere: optimize energy performance credit. The term "LEED energy and atmosphere: optimize energy performance credit" means the credit to achieve points under LEED for New Construction version 4 intended to achieve increased energy performance.
+	      (2)   The mayor, assisted by the department of city planning, the department of design and construction and the department of citywide administrative services, shall review such departmental statements of need and use them to prepare the statement of needs. In preparing the statement of needs, the mayor shall apply the criteria established pursuant to section two hundred three.
 	
-	      LEED green building rating system. The term "LEED green building rating system" means a version of the Leadership in Energy and Environmental Design (LEED) building rating system published by the U.S. Green Building Council, not less stringent than the selected green building rating system, including a standard developed by or for the city consisting of practices and technologies derived from the LEED rating system that are reasonable and appropriate for building in New York city.
+	   f.   Upon receipt of the statement of needs pursuant to subdivision a of this section, each community board and borough president shall review the statement of needs. Each community board shall make the statement of needs available to the public and conduct a public hearing on the statement of needs. Each community board and borough president shall have the right to submit comments on the statement of needs to the department of city planning within ninety days of receipt of the statement. Each borough president shall have the right, within ninety days of receipt of the statement of needs, to submit a written statement to the mayor proposing locations for any new city facilities to be located in his or her borough pursuant to the statement of needs. All such locations proposed by a borough president shall be located in his or her borough and shall be certified by the borough president as being consistent with the specific criteria for the location of city facilities contained in the statement of needs and with the criteria established pursuant to section two hundred three. Each city agency shall consider such written statements in taking actions with respect to matters included in the statement of needs.
 	
-	      LEED water efficiency: indoor water use reduction credit. The term "LEED water efficiency: indoor water use reduction credit" means the credit to achieve points under the LEED for New Construction version 4 intended to achieve water use reduction.
+	   g.   Whenever an application involving a new city facility is submitted to the department of city planning pursuant to paragraph five, ten or eleven of subdivision a of section one hundred ninety-seven-c, the applicant shall include as part of the application a statement of (1) how the proposed action satisfies the criteria for the location of city facilities established pursuant to section two hundred three, (2) whether the proposed action is consistent with the most recent statement of needs, and (3) whether the proposed action is consistent with any written statements or comments submitted by borough presidents and community boards in response to the statement of needs. If the proposed action is not consistent with the criteria for location of city facilities, the statement of needs, or any such written statements or comments submitted in response to the statement of needs, the agency shall include as part of its application a statement of the reasons for any such inconsistencies. If the proposed new facility is not referred to in the statement of needs, the applicant shall submit to the affected borough president a description of the public purpose to be served by the city facility, its proposed location, the appropriation (if any) that the agency intends to use in connection with the facility, the size and nature of the facility and the specific criteria for the location of the facility. The affected borough president shall have the right, within thirty days of the submission of such description, to propose an alternative location in his or her borough for the proposed city facility, provided that the borough president shall certify that the alternative location satisfies the criteria for location of city facilities under section two hundred three and the specific criteria for locating the facility in the statement of needs. The application for the proposed site selection, disposition or acquisition shall not be certified and shall not be reviewed pursuant to section one hundred ninety-seven-c until at least thirty days after the submission of such information to the affected borough president. A borough president may elect to waive the right to such thirty-day review period.
 	
-	      Not less stringent. The term "not less stringent" means providing no less net environmental and health benefits.
+	   h.   The mayor's management report, prepared pursuant to section twelve, shall include a review of the implementation of the statement of needs. Such review shall consist of (1) a list of the proposed actions in the statement of needs that have been implemented and of those proposed actions that have not been implemented and (2) a description of the proposed actions in the statement of needs which have been implemented in a manner significantly different from what was proposed in the statement of needs and the reasons therefor.
 	
-	      Occupancy group. The term "occupancy group" means occupancy group as classified in accordance with the New York city construction codes.
+	   i.*   The map and explanatory text accompanying the statement of needs shall include an appendix with respect to city waterfront property, which shall consist of a list indicating for each such property its borough and map location; street address; tax block and lot; applicable zoning district; approximate area in square feet; number of structures, if any; current user and use; and such other information as the departments of city planning and citywide administrative services deem appropriate. For purposes of this subdivision, the term "city waterfront property" shall mean property owned or leased by the city, which is seaward of the first upland mapped and improved street, provided that it shall also include areas upland of such street which would be contiguous with the property but for such intervening street where such areas are in the same use.
 	
-	      Rehabilitation work. The term "rehabilitation work" means any restoration, replacement or repair of any materials, systems and/or components.
-	
-	      Selected green building rating system. The term "selected green building rating system" means the U.S. Green Building Council; provided, however, at the mayor's discretion, the term "selected green building rating system" shall mean] Building Design and Construction version 4, Building Operations and Maintenance version 4 or Interior Design and Construction version 4 of the building rating system published by the U.S. Green Building Council, whichever is most appropriate for the project under U.S. Green Building Council guidelines.
-	
-	      Substantial reconstruction. For buildings other than buildings classified in occupancy group R, the term "substantial reconstruction" means a capital project in which (i) the scope of work includes rehabilitation work in at least two of the following three major systems of the building: electrical, HVAC (heating, ventilating and air conditioning) and plumbing, and (ii) construction work affects at least 50 percent of the building's floor area. For buildings classified in occupancy group R, the term "substantial reconstruction" means a capital project that includes (i) heating system replacement, (ii) work on at least 75 percent of dwelling units contained within such building, including but not limited to fixture replacements in kitchens and bathrooms, and (iii) substantial work on the building envelope, including but not limited to the addition of building wide air sealing measures performed in conjunction with window replacements on at least 50 percent of total glazing, addition of roof insulation on 100 percent of the roof or the addition of at least 50 percent wall insulation.
-	
-	   b.   (1)   Except as provided in paragraphs (3) of this subdivision, each capital project with an estimated construction cost of $2,000,000 or more involving (i) the construction of a new building, (ii) an addition to an existing building, or (iii) the substantial reconstruction of an existing building shall be designed and constructed to comply with green building standards not less stringent than the standards prescribed for buildings designed in accordance with the LEED green building rating system to achieve a LEED gold or higher rating, or, with respect to buildings classified in groups F or H, to achieve a LEED certified or higher rating, or with respect to buildings classified in occupancy group R, to comply with the version of the New York city overlay of the Enterprise green communities criteria in effect as of the effective date of the local law adding paragraph (3) of this subdivision, or the version of such criteria designated by the department of housing preservation and development by rule; provided that capital projects with an estimated construction cost of less than $10,000,000 and that involve only an addition to or substantial reconstruction of an existing building classified in occupancy groups F or H are exempted from complying with this subdivision; and further provided that capital projects with an estimated construction cost of $10,000,000 or more involving an addition to or substantial reconstruction of an existing building classified in occupancy groups F or H may be designed and constructed as low energy intensity buildings, as defined in subdivision l of this section, in lieu of complying with this subdivision. If the mayor elects to utilize green building standards other than the LEED green building rating system, the mayor shall publish findings demonstrating that such other green building standards are not less stringent than the LEED standards described above for achievement of a LEED gold or, if applicable, a LEED certified rating. The green building standards utilized by the city in accordance with this section shall be reviewed and updated, as necessary, by the mayor no less often that once every three years.
-	
-	      (2)   In addition, if the estimated construction cost of a capital project required to comply with green building standards in accordance with paragraph (1) of this subdivision is $12,000,000 or more, such project shall be designed and constructed to reduce energy cost as follows; provided that this paragraph shall not apply to capital projects involving city-owned buildings or buildings classified in occupancy groups E or R:
-	
-	         (i)   Capital projects with an estimated construction cost of $12,000,000 or more but less than $30,000,000 shall be designed and constructed to reduce energy cost by a minimum of 20 percent , as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent. In addition to such 20 percent reduction in energy cost, the design agency shall make investments in energy efficiency that reduce energy cost by an additional five percent if it finds that the payback on such investment through savings in energy cost would not exceed seven years.
-	
-	         (ii)   Capital projects with an estimated construction cost of $30,000,000 or more shall be designed and constructed to reduce energy cost by a minimum of 25 percent, as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent. In addition to such 25 percent reduction in energy cost, the design agency shall make investments in energy efficiency that reduce energy cost by an additional five percent if it finds that the payback on such investment through savings in energy cost would not exceed seven years.
-	
-	      (3)   For capital projects required to comply with paragraph (1) of this subdivision which are buildings classified in occupancy groups E, I-2 or in any occupancy group that, before the enactment of the local law adding this paragraph, was not required to comply with paragraph (1) of this subdivision, the mayor or an office or agency designated by the mayor may, in conjunction with the New York city economic development corporation, the New York city school construction authority and any other relevant offices or agencies, establish alternative design and construction standards. Such alternative standards may be as stringent or more stringent than the standards described by paragraph (1) of this subdivision. For buildings that are not classified in occupancy group E, such alternative standards may be less stringent than the standards described by paragraph (1) of this subdivision if the mayor or such designated office or agency determines that compliance with the standards described by such paragraph would be impracticable or unduly burdensome for a particular occupancy group; provided that such alternative standards may be less stringent than the standards described by such paragraph only to the minimum extent necessary and, except in the case of alternative standards prescribed for buildings classified in occupancy group R, shall be not less stringent than standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system. For buildings that are classified in occupancy group E, such alternative standards may be the New York city green schools guide in effect as of the effective date of the local law adding this paragraph, or the version of such guide designated by rule by the mayor or such designated office or agency; provided that such alternative standards are not less stringent than standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system. If the mayor or such designated office or agency establishes alternative standards under this paragraph, the mayor or such designated office or agency shall:
-	
-	         (i)   Within 60 days after adopting such alternative standards, submit to the council and make publicly available online a report that, at a minimum:
-	
-	            (A)   Describes such standards and the occupancy groups to which they will apply;
-	
-	            (B)   Identifies any provisions in such standards that are less stringent than the standards described in paragraph (1) of this subdivision and, for each such provision, sets forth the reasons why compliance with the standards described in such paragraph would be impracticable or unduly burdensome for buildings classified in such occupancy groups;
-	
-	            (C)   Except in the case of alternative standards prescribed for buildings classified in occupancy group R, describes how such alternative standards are not less stringent than the standards prescribed for buildings designed to achieve a LEED certified rating under version 4 of the LEED green building rating system; and
-	
-	         (ii)   If such alternative standards are less stringent than the standards described in paragraph (1) of this subdivision, in every third fiscal year thereafter, submit to the council and make publicly available online a report that, at a minimum, states whether the mayor or such designated office or agency has determined that such less stringent standards continue to be necessary and, if so, a description of the reasons therefor and whether such standards can reasonably be made more stringent.
-	
-	   c.   Capital projects, other than those required to comply with green building standards in accordance with subdivision b of this section, shall be subject to the following:
-	
-	      (1)   Each capital project that includes the installation or replacement of a boiler at an estimated construction cost for such installation or replacement of $2,000,000 or more, or that involves the installation or replacement of lighting systems in a building at an estimated construction cost for such installation or replacement of $1,000,000 or more, shall be designed and constructed to reduce energy cost by a minimum of ten percent, as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent; provided that compliance with this paragraph shall not be required for capital projects that would be subject to this paragraph solely because such project involves replacement of a boiler, unless the cost of such project equals or exceeds 50 percent of the cost of replacing the heating distribution system of such building.
-	
-	      (2)   Each capital project, other than a project required to comply with paragraph (1) of this subdivision, that involves the installation or replacement of HVAC systems at an estimated construction cost for such installation or replacement of $2,000,000 or more, shall be designed and constructed to reduce energy cost by a minimum of five percent as determined by the methodology prescribed in LEED energy and atmosphere: optimize energy performance credit or the New York state energy conservation code, whichever is more stringent.
-	
-	   d.   In addition to complying with any other applicable subdivision in this section, each capital project involving the installation or replacement of plumbing systems that includes the installation or replacement of plumbing fixtures at an estimated construction cost for such installation or replacement of plumbing systems of $500,000 or more shall be designed and constructed to reduce potable water consumption in the aggregate by a minimum of 30 percent, as determined by a methodology not less stringent than that prescribed in LEED water efficiency: indoor water use reduction credit; provided, however, that such percentage shall be reduced to a minimum of 20 percent if the department of buildings rejects an application for the use of waterless urinals for the project.
-	
-	   e.   This section shall not apply to capital projects that only involve buildings classified in occupancy groups A-5 or U.
-	
-	   f.   The mayor may exempt from each provision of this section capital projects accounting for up to 20 percent of the capital dollars in each fiscal year subject to such provision if in such mayor's sole judgment such exemption is necessary in the public interest. At the conclusion of each fiscal year the mayor shall report to the council the exemptions granted pursuant to this section.
-	
-	   g.   This section shall not apply to capital projects of entities that are not city agencies unless 50 percent or more of the estimated cost of such project is to be paid for out of the city treasury. This exemption shall not apply to any capital project that receives $10,000,000 or more out of the city treasury.
-	
-	   h.   This section shall not apply to capital projects that have received capital dollars from the city treasury before January 1, 2007.
-	
-	   i.   The mayor shall promulgate rules to carry out the provisions of this section.
-	
-	   j.   The costs listed in subdivisions b, c, d and g of this section are denominated in January 2007 dollars and shall be indexed to inflation annually.
-	
-	   k.   Capital projects that are subject to paragraph (1) of subdivision b of this section that utilize a version of the LEED green building rating system for which the U.S. Green Building Council will accept applications for certification, shall apply to the U.S. Green Building Council for certification that such projects have achieved a gold or higher rating under the LEED green building rating system. The mayor or an office or agency designated by the mayor shall by rule establish an alternative certification process for capital projects that are complying with alternative standards promulgated by the mayor or such designated office or agency under paragraph (3) of subdivision b of this section.
-	
-	   l.   (1)   As used in this subdivision:
-	
-	         ASHRAE 90.1-2013. The term "ASHRAE 90.1-2013" means the 2013 edition of the energy standard for buildings except low-rise residential buildings, standard reference number 90.1-2013, published by the American society of heating, refrigerating and air conditioning engineers (ASHRAE).
-	
-	         Base building systems. The term "base building systems" has the same meaning as set forth in section 28-308.1 of the administrative code.
-	
-	         Design energy use intensity. The term "design energy use intensity" means, for a building, the source energy use intensity projected for such building based on its design at the time of filing with the department of buildings.
-	
-	         Energy use intensity baseline. The term "energy use intensity baseline" means, for a building either (i) the median source energy use intensity for buildings designed and constructed for similar uses according to benchmarking data obtained under article 309 of title 28 of the administrative code within the year preceding the effective date of the local law that added this paragraph or (ii) the design energy use intensity of such building if designed and constructed according to the prescriptive and mandatory requirements of ASHRAE 90.1-2013.
-	
-	         Low energy intensity building. The term "low energy intensity building" means (i) a building that is not classified in occupancy groups F or H and that has been designed and constructed such that its design energy use intensity is equal to or less than (A) the low energy intensity target for such building or (B) if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target or (ii) a building that is classified in occupancy groups F or H and that has been designed and constructed such that (A) the energy usage of its base building systems, exclusive of process loads, is equal to or less than the low energy intensity target for such building or, if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target for such building or (B) its design energy use intensity is at least 50 percent below the median source energy use intensity for buildings designed and constructed for similar uses according to benchmarking data obtained under article 309 of title 28 of the administrative code within the year preceding the effective date of the local law that added this paragraph.
-	
-	         Low energy intensity target. The term "low energy intensity target" means, (i) for a building that is not classified in occupancy groups F or H, the less stringent of (A) 50 percent below the energy use intensity baseline or (B) for new buildings, a source energy use intensity of 38 kBTU/yr per square foot of floor area and for additions to, or substantial reconstructions of, existing buildings, a source energy use intensity of 42 kBTU/yr per square foot of floor area and (ii) for a building classified in occupancy groups F or H, energy usage of the base building systems, exclusive of process loads, which is at least 50 percent less than such energy usage would be if such building were designed and constructed according to ASHRAE 90.1-2013.
-	
-	         Net zero energy building. The term "net zero energy building" means a building that has been designed and constructed to produce energy onsite from renewable energy sources in an amount equal to or greater than such building's total energy needs.
-	
-	         Onsite energy generating building. The term "onsite energy generating building" means a building that has been designed and constructed to produce energy onsite from renewable energy sources in an amount equal to or greater than ten percent of such building's total energy needs.
-	
-	         Renewable energy sources. The term "renewable energy sources" means qualified energy resources, as such term is defined in section 45 of title 26 of the United States code. Source energy use intensity. The term "source energy use intensity" means, for a building, the total energy used by such building in a year, including losses that take place during generation, transmission and distribution of such energy, divided by the building's gross floor area.
-	
-	      (2)   (i)   Each capital project that involves the construction of a new city-owned building and each capital project that involves an addition to an existing city-owned building or the substantial reconstruction of an existing city-owned building, where such substantial reconstruction involves substantial work on the building envelope, shall be designed and constructed as a low energy intensity building.
-	
-	         (ii)   For each capital project subject to subparagraph (i) of this paragraph the design agency shall consider the feasibility of designing and constructing such project as an onsite energy generating building.
-	
-	         (iii)   For each capital project subject to subparagraph (i) of this paragraph with an estimated height of no more than three stories above grade, the design agency shall consider the feasibility of designing and constructing such project as a net zero energy building.
-	
-	         (iv)    For each capital project subject to subparagraph (i) of this paragraph the design agency shall consider the feasibility of designing and constructing such project to incorporate green infrastructure.
-	
-	         (v)   This paragraph shall apply only to capital projects which are added to the capital plan on or after July 1, 2017.
-	
-	      (3)   The mayor, or an office or agency designated by the mayor, may establish an alternative low energy intensity target for buildings designed and constructed for a particular use, or for additions to, or substantial reconstructions of, existing buildings. Such alternative target may be equivalent to or more stringent than the low energy intensity target or, if the mayor or such designated office or agency determines that compliance with subparagraph (i) of paragraph (2) of this subdivision would be impracticable or unduly burdensome for such buildings or such work using the low energy intensity target, less stringent than such target. Where the mayor or such designated office or agency adopts such an alternative target, the mayor or such designated office or agency shall, no later than 60 days after such adoption, submit to the council and make publicly available online a report describing such alternative target and the types of buildings or work to which it will apply. If such alternative target is less stringent than the corresponding low energy intensity target, such report shall set forth the reasons that compliance with subparagraph (i) of paragraph (2) of this subdivision using such low energy intensity target would be impracticable or unduly burdensome for such types of buildings or work and, in each fiscal year thereafter, the mayor or such designated office or agency shall submit to the council and make publicly available online a report stating whether the mayor or such designated office or agency has determined that such alternative targets continue to be necessary and, if so, a description of the reasons therefor and whether such targets can reasonably be made more stringent.
-	
-	      (4)   No later than January 1, 2017, the mayor shall submit to the speaker of the council and make publicly available online a plan for ensuring that by 2030 capital projects subject to paragraph (2) of this subdivision will be designed and constructed so that new buildings have a source energy use intensity no greater than 38 kBTU/yr per square foot of floor area and that additions to, or substantial reconstructions of, existing buildings have a source energy use intensity of no greater than 42 kBTU/yr per square foot of floor area. Such plan shall include a list of policies, programs and actions that the city will seek to undertake to achieve such targets.
-	
-	      (5)   In 2019 and every third year thereafter, the mayor shall, by June 30 of such year, submit to the speaker of the council and make publicly available online a report containing, at a minimum, recommended practices for designing and constructing low energy intensity buildings.
-	
-	   m.   By no later than December 1 of each year, the mayor shall submit to the speaker of the council a report, in accordance with the procedure and format established by the department of design and construction, containing, at a minimum, the following information:
-	
-	      (1)   for each capital project subject to this section completed during the preceding fiscal year:
-	
-	         (i)   a brief description of such project, including the total cost of the project;
-	
-	         (ii)   the street address of such project and the community district and council district in which such project is located;
-	
-	         (iii)   the estimated level of LEED certification such project has achieved as determined by the city agency that designed such project in accordance with the LEED green building rating system or, if applicable, the level achieved, as certified by the U.S. Green Building Council;
-	
-	         (iv)   additional costs attributed to complying with the LEED green building rating system or any other green building standard;
-	
-	         (v)   a statement as to whether such project has been designed and constructed as a low energy intensity building, onsite energy generating building or a net zero energy building and, for each project designed and constructed as a low energy intensity building, the low energy intensity target for such building or if the mayor, or an office or agency designated by the mayor, has adopted an alternative low energy intensity target pursuant to paragraph (3) of this subdivision, such alternative target;
-	
-	         (vi)   if such capital project was not designed and constructed as an onsite energy generating building, a description of the reasons therefor, a statement as to whether such building has been designed and constructed to produce any energy onsite from renewable energy sources and, if so, the amount of such onsite energy production expressed as a percentage of the building's total energy needs;
-	
-	         (vii)   additional costs attributable to complying with the low energy intensity building requirements, the onsite energy generating requirements and the net zero energy building requirements of paragraph (2) of subdivision 1 of this section; and
-	
-	         (viii)   an assessment of the health, environmental and energy-related benefits achieved in comparison with a base-case code compliant project, including projected energy savings and reductions in peak load, reductions in emissions and potable water use;
-	
-	      (2)   for each capital project subject to paragraph (2) of subdivision l that was commissioned before the preceding fiscal year and that is not a low energy intensity building, a summary of remedial actions taken and to be taken and the anticipated or actual start and completion dates of such actions;
-	
-	      (3)   a summary of agency findings related to additional investment in energy efficiency pursuant to subparagraphs (i) and (ii) of paragraph 2 of subdivision b of this section, including any additional investment in energy efficiency considered and the estimated payback time for such investment through savings in energy cost; and
-	
-	      (4)   the total value of capital allocations in the preceding calendar year to projects exempted from the requirements of this section by the mayor pursuant to subdivision f of this section, and a list and brief description of each such project, including but not limited to square footage, project cost and the reason for such exemption, disaggregated by city agency.
-	
-	
+	* Editor's note: expired December 31, 2008.
 
 
 
 
-Section 224.
+Section 205.
 ----------
 
-Section 224. 2. Required energy conservation projects in city buildings. ::
+Section 205. Comprehensive waterfront plan. ::
 
 
-	   a.   Definitions. For the purposes of this section, the terms "base building systems", "city building", "energy audit", "energy efficiency report", and "simple payback" shall have the same meanings as defined in section 28-308.1 of the administrative code.
-	
-	   b.   No later than one year after the submission, in accordance with article three hundred eight of chapter three of title twenty-eight of the administrative code, of an energy efficiency report for a city building, reasonable capital improvements to the building's base building systems that are recommended in the building's energy audit shall be completed, including, at a minimum, all those improvements of the base building systems having a simple payback of not more than seven years or capital improvements that, when combined, would equal or exceed the overall reduction in energy consumption of such recommended capital improvements having a simple payback of not more than seven years.
-	
-	   c.   The mayor shall promulgate rules as may be necessary to carry out the provisions of this section.
+	   Not later than the thirty-first day of December, two thousand and ten and not less than every ten years thereafter, the department of city planning shall file with the mayor, the council, the public advocate, the borough presidents, and the community boards, a comprehensive waterfront plan. Such plan shall be drafted in consultation with the appropriate city, state, and federal agencies and regulatory bodies, and with input from the public, and shall include (1) an assessment of waterfront resources for the natural waterfront, the public waterfront, the working waterfront and the developing waterfront, (2) a statement of the planning policy of the department of city planning, which policy shall take into consideration, among other things, the ten year capital strategy, the assessment of waterfront resources included pursuant to (1) above, the four year capital plan, the strategic policy statements provided for in section seventeen and plans approved pursuant to section one hundred ninety-seven-a and (3) proposals for implementing the planning policy of the department whether by amendment of the zoning resolution, development of plans or otherwise.
 
 
 
 
-Section 224.
+Section 206.
 ----------
 
-Section 224. 3. Induction loop systems. ::
+Section 206. Tracking of commitments. ::
 
 
-	   a.   As used in this section, the following terms have the following meanings:
+	   a.   For the purposes of this section:
 	
-	      Assembly area. The term “assembly area” means an assembly area, as defined in section 106.5 of the 2010 Americans with Disabilities Act standards for accessible design, in which audible communication is integral to the use of the space, except that such term shall not include classrooms in schools; facilities primarily used to deploy first responders, courthouses and outdoor facilities such as athletic fields and stadiums.
+	      Block. The term "block" has the meaning given to that term in section 12-10 of the zoning resolution.
 	
-	      Baseline construction cost. The term "baseline construction cost" means the total cost of a proposed capital project not including the cost of installing an assistive listening system.
+	   b.   Such agency as the mayor shall designate shall establish and maintain a publicly accessible online searchable list of all commitments described in this section that relate to an application that:
 	
-	      Capital project. The term "capital project" means a capital project as defined in section 210 of this chapter that is paid for in whole or in part from the city treasury.
+	      (1)   the city planning commission has approved or approved with modifications for a matter described in paragraph one, three, four, five, six, eight, ten, or eleven of subdivision a of section one hundred ninety-seven-c or a change in the text of the zoning resolution pursuant to section two hundred or two hundred one;
 	
-	   b.   Each capital project with an estimated baseline construction cost of $950,000 or more involving the construction or reconstruction of one or more assembly areas shall be designed and constructed to include in at least one assembly area the installation of an induction loop assistive listening system that complies with section N102 of appendix N of the New York city building code, or an alternative assistive listening system that complies with appendix N of the New York city building code that has been determined by the mayor in accordance with subdivision i of this section to be significantly more effective for the hard of hearing than an induction loop system. Each security, information, or reception desk used for the checking-in or screening of persons attending a meeting or event held in a looped assembly area shall be equipped with microloops. This section shall not apply to a capital project involving the reconstruction of an assembly area if the estimated cost of installing an induction loop system or alternative system exceeds 5% of the baseline construction cost of the project.
+	      (2)   the commission decision has been approved or approved with modifications by the council pursuant to section one hundred ninety-seven-d and is not subject to further action pursuant to subdivision e or f of such section; and
 	
-	   c.   Directional signage that includes guidance to an assistive listening assembly area, including raised graphics and letters with Braille descriptors, must be provided in accordance with section 1110.2 of the New York city building code, and other signage indicating any special accessibility features must be provided in accordance with section 1110.3 of such code.
+	      (3)   involves at least four adjacent blocks of real property.
 	
-	   d.   The entrance to any building containing an assistive listening assembly area and any security, information, or reception area used for the checking-in or screening of persons attending a meeting or event held in such assembly area shall display the international symbol of access for hearing loss pursuant to figure 703.6.3.3 of ICC A117.1-2009 and a “T” in the lower right-hand corner of such symbol indicating the availability of an induction loop system or a symbol indicating an alternative system if applicable.
+	   c.   Such list shall include all commitments made by letter by the mayor or a representative designated by the mayor to the council or a council member that relate to an application described in subdivision b of this section on which the city or a not-for-profit corporation of which a majority of its members are appointed by the mayor is either the applicant or co-applicant.
 	
-	   e.   No later than July 1, 2018, the mayor or an office or agency designated by the mayor shall post on its website the locations of facilities owned or operated by the city at which an assistive listening system such as an induction loop, infrared, FM, or other type of system, is permanently available or in the process of being installed, as well as which type of assistive listening system is permanently available or in the process of being installed, including the cost associated with installation of new assistive listening systems. The list shall be updated annually thereafter.
+	   d.   Such list shall include any commitment made by letter by the mayor or a representative designated by the mayor to the council or a council member for which a funding amount of one million dollars or more is set forth in the letter establishing such commitment in relation to an application described in subdivision b of this section on which neither the city nor a not-for-profit corporation of which a majority of its members are appointed by the mayor is either the applicant or co-applicant.
 	
-	   f.   This section shall not apply to capital projects involving the construction or reconstruction of assembly areas that are not owned by the city unless 50 percent or more of the estimated cost of such project is to be paid for out of the city treasury, provided that this exemption shall not apply to any capital project that receives $1,000,000 or more out of the city treasury.
+	   e.   Within thirty days of final council approval of a commission decision described in this section, the designated agency shall submit to the council and record on such list the commitments described in this section, including a description of each commitment, the target commencement and completion dates, the application number, the agency or agencies responsible for implementation of such commitment, and any funding amount set forth in the letter establishing the commitment. The designated agency may include other information that it deems relevant.
 	
-	   g.   The mayor may exempt from this section projects accounting for up to 20% of the capital dollars in each fiscal year subject to this section for the installation of assistive listening systems if in his or her sole judgment such exemption is necessary in the public interest. At the conclusion of each fiscal year the mayor shall report to the council the exemptions granted pursuant to this section, including the basis for such exemption.
+	   f.   Beginning June 30, 2017, and annually thereafter, the designated agency shall report to the mayor and the speaker of the council information relating to commitments that have been recorded pursuant to this section, including any changes to information described in subdivision e that indicate progress toward the fulfillment of each such commitment and whether the commitment has been completed within the preceding year.
 	
-	   h.   The mayor or an office or agency designated by the mayor shall promulgate rules to carry out the provisions of this section.
 	
-	   i.   Where the mayor determines, after consulting with experts in the field of hearing disabilities and assistive listening systems and advocates for people who are hard of hearing, that there is new technology with respect to an assistive listening system that makes such system significantly more effective than an induction loop system, the mayor may promulgate a rule allowing the use of such system as an alternative to an induction loop system in accordance with subdivision b.
-	
-	(L.L. 2017/051, 3/21/2017, eff 1/2/2018)
-	
-	Editor's note: L.L. 2017/051, 3/21/2017, eff. 1/1/2018, § 2 provides: "This local law takes effect on January 1, 2018, and applies to projects for which an application for construction document approval is filed with the department of buildings on and after such date, except that prior to such effective date the mayor or office or agency designated by the mayor shall take all actions necessary for the timely implementation of this local law, including the promulgation of rules."
 
 
 

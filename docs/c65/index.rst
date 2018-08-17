@@ -1,124 +1,196 @@
-Chapter 65 - New York City Taxi and Limousine Commission
+Chapter 61: Department of Housing Preservation and Development
 =================
-Section 2300.
+Section 1800.
 ----------
 
-Section 2300. Commission. ::
+Section 1800. Department; commissioner. ::
 
 
-	   There shall be a New York city taxi and limousine commission, the purposes of which shall be the continuance, further development and improvement of taxi and limousine service in the city of New York. It shall be the further purpose of the commission, consonant with the promotion and protection of the public comfort and convenience to adopt and establish an overall public transportation policy governing taxi, coach, limousine, wheelchair accessible van services and commuter van services as it relates to the overall public transportation network of the city; to establish certain rates, standards of service, standards of insurance and minimum coverage; standards for driver safety, standards for equipment safety and design; standards for noise and air pollution control; and to set standards and criteria for the licensing of vehicles, drivers and chauffeurs, owners and operators engaged in such services; all as more particularly set forth herein.
+	   There shall be a department of housing preservation and development, the head of which shall be the commissioner of housing preservation and development.
 
 
 
 
-Section 2301.
+Section 1801.
 ----------
 
-Section 2301. Membership of commission. ::
+Section 1801. Officials of the department. ::
 
 
-	   a.   The commission shall consist of nine members to be appointed by the mayor with the advice and consent of the city council; five of said members, one resident from each of the five boroughs of New York city, shall be recommended for appointment by a majority vote of the councilmen of the respective borough.
-	
-	   b.   Such members shall be appointed for terms of seven years. The members shall first be appointed to serve as follows:
-	
-	      1.   Five members recommended by the city council for a term of two years.
-	
-	      2.   Two members for a term of four years.
-	
-	      3.   Two members for a term of six years.
-	
-	   Each such other member shall serve until the appointment and qualification of a successor. For the purpose of fixing the expiration of terms, they shall be deemed to have commenced on the first day of February in the year of appointment and qualification, irrespective of the actual date of appointment and qualification. Vacancies other than by expiration of a term shall be filled for the unexpired term. The mayor may remove any such member for cause, upon stated charges. Notwithstanding the provisions of this paragraph, any public officer appointed to the commission shall serve only during the period that he holds such public office and shall receive no additional compensation.
-	
-	   c.   The mayor shall designate one member of the commission to act as the chairman and chief executive officer. The chairman shall have charge of the organization of its office and have authority to employ, assign and superintend the duties of such officers and employees as may be necessary to carry out the provisions of this chapter. The chairman shall devote his full time to this position and as such he shall receive compensation.
-	
-	   d.   The other members of the commission shall not be entitled to com- pensation.
-	
-	   e.   A majority of the whole number of members of the commission then in office shall constitute a quorum for the transaction of any business. The commission shall have power to act by a majority of its members.
+	   The commissioner may appoint not more than five deputy commissioners, one of whom may be a first deputy commissioner and one of whom shall be a deputy commissioner charged with the powers and duties that include, but are not limited to, the powers and duties descrribed in paragraphs (j), (k), (l) and (m) of subdivision six of section eighteen hundred two of this chapter.
 
 
 
 
-Section 2302.
+Section 1802.
 ----------
 
-Section 2302. Reports of commission. ::
+Section 1802. Powers and duties of the commissioner. ::
 
 
-	   a.   All proceedings of the commission and all documents and records in its possession shall be public records and the commission shall make an annual report to the city council on or before the second Monday of January in each year. Such annual report shall contain information regarding complaints received by the commission from the public, including, but not limited to, complaints of overcharging, as well as enforcement actions undertaken by the commission, whether the enforcement action was dismissed or settled, or if a penalty was imposed by the commission on the subject of the enforcement action. The information regarding enforcement actions shall include, but not be limited to, enforcement actions relating to illegal street hails, unlicensed vehicles, overcharging, and toll lane infractions. The complaint and enforcement action information shall be disaggregated by the type of license held by the person or entity who is the subject of the complaint or action and the month during which the complaint was received or enforcement action undertaken. Enforcement actions shall be further disaggregated by the subject matter of the action and geographic location. Complaint information shall be further disaggregated to the extent practicable by the subject matter of the complaint. In addition to inclusion in the commission's annual report, the disaggregated complaint and enforcement information shall be posted on the commission's website updated no less than monthly. Information shall be published in a manner that does not identify the individual parties involved in the actions reported upon in this section. The chairman of the city council committee on transportation may at any time direct the commission or the chairman of the commission to appear before the committee to give testimony pertaining thereto, and to furnish to the members of the council any reports deemed necessary.
+	   Except as otherwise specifically provided by law, the commissioner may exercise or delegate any of the following functions, powers and duties which are vested in the department:
 	
-	   b.   The commission shall make a quarterly report to the city council on or before the second Monday of March, June, September and December in each year. Each such quarterly report shall contain information for the immediately preceding quarter regarding the average wait time to secure a vehicle inspection at the commission's assigned inspection facility as required under the rules of the commission. Such report shall also contain the number of instances when the wait for an inspection exceeds four weeks. All information shall be disaggregated by vehicle type.
+	      1.   all functions of the city relating to the rehabilitation, maintenance, alteration and improvement of residential buildings and privately owned housing including, but not limited to, the making of rehabilitation loans pursuant to article eight ("municipal loans"), article eight-a ("mini-loans") and article fifteen ("participation loans") of the private housing finance law, acting as liaison with the New York city rehabilitation mortgage insurance corporation established pursuant to article fourteen of the private housing finance law ("REMIC") and the New York city housing development corporation established pursuant to article twelve of the private housing finance law ("HDC"), the execution of emergency repairs to and the sealing, removal and demolition of buildings, structures and privately-owned housing in accordance with applicable provisions of law and the enforcement of those provisions of the multiple dwelling law or any other law, rule or regulation which relate to the maintenance, use, occupancy, safety or sanitary condition of any building or portion thereof which is occupied, arranged or intended to be occupied as a home, residence or dwelling place;
+	
+	      2.   such functions and duties as may be prescribed by law with respect to the relocation of tenants of real property and the selection of tenants for publicly owned or publicly aided housing in the city;
+	
+	      3.   all functions of the city, and all powers, rights and duties as provided by any federal, state or local law or resolution, relating to slum clearance, slum prevention and urban renewal; neighborhood conservation; prevention and rehabilitation of blighted, substandard, deteriorated or unsanitary areas, and publicly-aided and public housing, including the regulation of rents in housing built with state or local financing, except housing under the jurisdiction of the New York city housing authority;
+	
+	      4.   the functions, rights, powers and duties and the offices granted to, vested in or delegated to the housing and redevelopment board, the housing and development administration or the administrator of the housing and development administration;
+	
+	      5.   such powers, rights and duties vested in or exercised by the New York city housing authority as may be transferred to or vested in the city;
+	
+	      6.   the functions, powers and duties to:
+	
+	         (a)   establish and administer programs designed to encourage the rehabilitation and preservation of existing housing;
+	
+	         (b)   administer laws authorizing tax exemption or tax abatement, or both, including, but not limited to, section 11-243 of the administrative code of the city of New York and section four hundred twenty-one of the real property tax law, which are in aid of the construction, rehabilitation, alteration or improvement of residential buildings and structures and the elimination of substandard conditions therein, process applications for such exemption or abatement or both, and coordinate the activities of officers and agencies of the city relating thereto;
+	
+	         (c)   manage and superintend all real property acquired by the city for, or devoted to, housing or urban renewal purposes;
+	
+	         (d)   represent the city in carrying out the provisions of the private housing finance law including, but not limited to, article two (relating to limited-profit housing companies), article five (relating to redevelopment companies), article eight, article eight-a, article eleven (relating to housing development fund companies) and article fifteen, and act as and exercise the powers, rights and duties vested in the "supervising agency" pursuant to the private housing finance law;
+	
+	         (e)   represent the city in carrying out the provisions of article fifteen of the general municipal law ("urban renewal law") including, but not limited to, acquiring, leasing or disposing of real property pursuant to said law and establishing the disposition price of real property in an urban renewal area;
+	
+	         (f)   undertake projects and exercise the rights, powers and privileges authorized by sections fifty-five and fifty-five-a of the public housing law;
+	
+	         (g)   impose and collect charges and fees for the financing, regulation, supervision and audit of municipality-aided projects and loan programs administered by the commissioner, which charges and fees shall be set aside in a special account for administrative expenses of the department;
+	
+	         (h)   act as the coordinating agency with respect to the activities of officers and agencies of the city concerning areas designated by the planning commission or any analogous officer or body, as districts for development or improvement of neighborhoods;
+	
+	         (i)   acquire real property, pursuant to the federal housing and community development act of nineteen hundred seventy-four, on behalf of other city agencies.
+	
+	         (j)   sell, lease, exchange or otherwise dispose of residential real property of the city, provided that no such sale, lease, exchange or other disposition shall be authorized without the approval of the mayor and until a public hearing has been held with respect to such action after the publishing of notice in the City Record at least thirty days in advance of such hearing, and provided further that any disposition by public auction shall be conducted by the department of citywide administrative services, except as otherwise provided by law;
+	
+	         (k)   manage and superintend all residential real property of the city not used for public purposes, including real property acquired for a public purpose and not being currently utilized for such purpose, but not wharf property or other real property under the jurisdiction of the New York city transit authority, real property under the jurisdiction of the department of small business services, or real property under the jurisdiction of the New York city housing authority by virtue of an authorization granted by the mayor pursuant to the provisions of subdivision three of section one hundred twenty-five of the public housing law, or real property under the jurisdiction of the triborough bridge and tunnel authority;
+	
+	         (l)   exercise such other powers and duties as may be prescribed by law in relation to the management, demolition or sealing or other treatment of residential real property of the city; and
+	
+	         (m)   employ professional community and other personnel to manage residential real property of the city.
 
 
 
 
-Section 2303.
+Section 1803.
 ----------
 
-Section 2303. Jurisdiction, powers and duties of commission. ::
+Section 1803. Inspectors, inspection. ::
 
 
-	   a.   The jurisdiction, powers and duties of the commission shall include the regulation and supervision of the business and industry of transportation of persons by licensed vehicles for hire in the city, pursuant to provisions of this chapter. Except as otherwise provided herein, charges of violations of the provisions of the administrative code and rules promulgated thereunder shall be adjudicated by the administrative tribunal established by the commission and governed by the citywide administrative procedure act.
+	   1.   Housing maintenance inspectors shall have such qualifications as shall be prescribed by the department of citywide administrative services after consultation with the commissioner.
 	
-	   b.   Such regulation and supervision shall extend to:
-	
-	      1.   The regulation and supervision of rates of fare to be charged and collected.
-	
-	      2.   The regulation and supervision of standards and conditions of service.
-	
-	      3.   The revocation and suspension of licenses for vehicles, other than licenses issued pursuant to state law, provided, however, that taxicab licenses represented by medallions heretofore issued shall in all respects remain valid in accordance with their terms and transferable according to law.
-	
-	      4.   Taxicab licenses represented by medallions which have heretofore been surrendered are hereby revoked. Additional taxicab licenses may be issued from time to time only upon the enactment of a local law providing therefor. Any nontransferable licenses shall be deemed revoked upon the surrender by or death of the holder thereof.
-	
-	      5.   The issuance, revocation, suspension of licenses for drivers, chauffeurs, owners or operators of vehicles, other than licenses issued pursuant to state law, and for taxicab brokers and the establishment of qualifying standards required for such licensees.
-	
-	      6.   Requirements of standards of safety, and design, comfort, convenience, noise and air pollution control and efficiency in the operation of vehicles and auxiliary equipment.
-	
-	      7.   Requirements for the maintenance of financial responsibility, insurance and minimum coverage.
-	
-	      8.   The establishment of, and the requirement of adherence to, uniform system of accounts, with the right of the commission to inspect books and records and to require the submission of such reports as the commission may determine.
-	
-	      9.   The development and effectuation of a broad public policy of transportation affected by this chapter as it relates to forms of public transportation in the city, including innovation and experimentation in relation to type and design of equipment, modes of service and manner of operation, which for limited purposes and limited periods of time may depart from the requirements otherwise established for licensed vehicles pursuant to this chapter.
-	
-	      10.   Assistance to the business and industry of public transportation affected by this chapter in aid of the continuation, development and improvement of service and the safety and convenience of the public, including assistance in securing federal and state grants.
-	
-	      11.   The formulation, promulgation and effectuation of rules and regulations reasonably designed to carry out the purposes, terms and provisions of this chapter.
-	
-	   c.   (1)   The commission shall create an administrative tribunal to adjudicate charges of violation of provisions of the administrative code and rules promulgated thereunder. The commission shall have the power to enforce its tribunal's decisions and orders imposing civil penalties, not to exceed ten thousand dollars for each respondent, for violations relating to unlicensed vehicles for hire and unlicensed drivers of vehicles for hire* and for violations relating to the operation of commuter van services without authorization and the operation of unlicensed commuter vans and unlicensed drivers of commuter vans pursuant to chapter five of title nineteen of the administrative code* as if they were money judgments, without court proceedings, in the following manner: Any such decision or order of the commission's administrative tribunal imposing a civil penalty, whether the adjudication was had by hearing or upon default or otherwise, shall constitute a judgment rendered by the commission which may be entered in the civil court of New York or any other place provided for the entry of civil judgments within the state. Before a judgment based upon a default may be so entered the commission or administrative tribunal shall have first notified the respondent by first class mail in such form as the commission may direct: (i) of the default and order and the penalty imposed; (ii) that a judgment will be entered in the civil court of the city of New York or any other place provided by law for the entry of civil judgments within the state of New York; and (iii) that entry of such judgment may be avoided by requesting a stay of default for good cause shown and either requesting a hearing or entering a plea pursuant to** the rules of the commission or administrative tribunal within thirty days of** the mailing of such notice.
-	
-	      (2)   The commission or tribunal shall not enter any decision or order pursuant to paragraph one of this subdivision unless the notice of violation shall have been served in the same manner as is prescribed for service of process by article three of the civil practice law and rules or article three of the business corporation law except that: (a) with respect to any notice of violation which alleges the operation of an unlicensed vehicle for hire the operator of such vehicle who is not the owner thereof but who uses or operates such vehicle with the permission of the owner, express or implied, shall be deemed to be the agent of such owner to receive such notice of violation and service made pursuant to this paragraph on such operator shall also be deemed to be lawful service upon such owner; or (b) with respect to any notice of violation which alleges the operation of an unauthorized commuter van service or an unlicensed commuter van, the operator of the vehicle giving rise to such violation who is not the owner of such commuter van service or such commuter van, as applicable, but who uses or operates such vehicle with the permission, express or implied, of the owner of such commuter van service or such commuter van, as the case may be, shall be deemed to be the agent of the owner of such commuter van service or such commuter van, as the case may be, to receive such notice of violation. Service made pursuant to this paragraph on such operator shall be deemed to be lawful service upon the owner of such commuter van service or commuter van, as applicable.
-	
-	   d.   No resolution of approval of a pilot program shall be approved by the commission unless such resolution is posted in a prominent location on the commission's website and electronically transmitted to each member of the commission at least three calendar days, exclusive of Sundays, prior to the commission's vote to approve or reject such resolution of approval; provided, however, that revisions may be made to a resolution of approval for a pilot program posted online and sent electronically in conformity with this subdivision at any time prior to a vote on such resolution if such revisions are approved by all members of the commission by unanimous consent.
+	   2.   The commissioner or any inspector or any officer of the department authorized in writing by the commissioner or the commissioner's delegate may, in accordance with law, for the purpose of performing their respective official duties, enter and inspect any building, structure, enclosure, premises or any part thereof, or anything therein or attached thereto, and any refusal to permit such entry or inspection shall be a misdemeanor triable in the criminal court and punishable upon conviction by not more than thirty days imprisonment, or by a fine of not more than one hundred dollars or both.
 
 
 
 
-Section 2304.
+Section 1804.
 ----------
 
-Section 2304. Rates. ::
+Section 1804. Acquisitions of real property. ::
 
 
-	   a.   The amount to be charged and collected for the hire of a taxicab for one or more passengers within the city of New York shall be the total of the following items:
+	   No purchase, lease, condemnation or other acquisition of real property by the department shall be authorized until (1) a public hearing has been held with respect to the acquisition after the publishing of notice in the City Record at least thirty days in advance of such hearing and (2) the department shall have received the approval of the mayor; provided, however, that in the case of an acquisition by purchase or condemnation, no such hearing shall be required if a public hearing is held with respect to such purchase or condemnation pursuant to any other requirement of law. In the case of a lease in which the city is to be the tenant, the notice for the hearing required in this subdivision shall include a statement of the location and proposed use of the premises, and the term and annual rent of the proposed lease.
+
+
+
+
+Section 1805.
+----------
+
+Section 1805. Establishment of affordable housing trust fund. ::
+
+
+	   1.   Notwithstanding any provision of law to the contrary and in addition to the functions, powers and duties that the commissioner may exercise or delegate pursuant to section eighteen hundred two of this chapter, the commissioner shall be authorized to establish or cause to be established an affordable housing trust fund.
 	
-	      1.   For the first one-fifth mile or fraction thereof, or the first one minute of waiting time or fraction thereof, or the combination thereof, sixty cents.
+	   2.   Such fund may be established through agreement with a public benefit corporation authorized pursuant to the private housing finance law to finance the development and rehabilitation of affordable housing.
 	
-	      2.   For each additional one-fifth mile or fraction thereof, or seventy-two seconds of waiting time or fraction thereof, or the combination thereof, ten cents.
+	   3.   The sole purpose of the fund established pursuant to subdivision one of this section shall be to fund affordable housing outside of the areas set forth in paragraphs two through four* of subdivision (a) of section 11-245 of the administrative code of the city of New York.
 	
-	      3.   Fifty cents for each trunk.
+	   4.   Payments from such fund shall be subject to the following requirements:
 	
-	      4.   All bridge and tunnel and ferry tolls.
+	      (a)   Priority shall be given first to projects in the ten sub-borough areas, as established by the United States census bureau, with the highest percentage of households below the poverty line based on the most recent United States census bureau data, with a target of forty percent of the total amount of the fund as initially funded to be used in such areas; and then to projects in the next five sub-borough areas, as established by the United States census bureau, with the highest percentage of households below the poverty line based on the most recent United States census bureau data, with a target of fifteen percent of the total amount of the fund as initially funded to be used in such areas.
 	
-	      5.   There shall be no charge for personal luggage or for other belongings of the passengers transported in the interior of the taxicab.
+	      (b)   Priority shall be given to projects that will create affordable housing for persons of low income as defined in rules of the department in effect on the date of enactment of the local law that added this paragraph.
 	
-	   b.   Hereafter, and notwithstanding the rates set forth in paragraph a of this section, the commission shall prescribe, revise and otherwise regulate reasonable rates of fare which may be charged and collected for each type of service rendered.
+	      (c)   Priority shall be given to projects in which the developer agrees to maintain the affordability of the housing significantly beyond the period of the governmental assistance.
 	
-	   c.   In determining the rates of fare, the commission may consider all facts which in its judgment have a bearing on a proper determination, with due regard among other things to the time and distance of travel, to the character of the service provided, to the gross revenues derived from operation, to the net return derived from operation, to the expenses of operation including the income of drivers or operators, to the return upon capital actually expended and the necessity of making reservations out of income for surplus and contingencies, to the number of passengers transported, to the effect of fares upon the public and in relation to the fares for other forms of public transportation, and to the fares and practices with respect to similar services in other cities of the United States.
+	      (d)   Payments from such fund shall be made in accordance with subsidy guidelines, including, but not limited to, guidelines concerning the maximum amount of subsidy per dwelling unit and per project, established by the commissioner or established in the agreement, if any, with the public benefit corporation pursuant to subdivision two of this section provided however, that no project may receive a subsidy in excess of twenty million dollars.
 	
-	   d.   No determination by the commission changing the rates of fare shall be made except after a public hearing before the commission, at which evidence shall be taken.
+	      (e)   The aggregate payments from such fund in any calendar year beginning on or after January first, two thousand seven shall not be less than five percent of the total amount of the fund as initially funded, provided, however, that in no calendar year shall a lesser amount be spent other than pursuant to the written approval of the mayor.
 	
-	   e.   At any public hearing involving a change in the rates of fare, the burden of proof to show that existing rates are not reasonable shall be upon such segment of the business or industry affected by this chapter as is involved in the change in rates.
+	   5.   On or before February first, two thousand eight and each year thereafter, the commissioner shall report to the council on the payments from the fund. Such report shall include a description of each project funded, including location, number of units, affordability requirements, status of the project and amount of funding for each project. Within forty-five days of receipt of such report the council shall conduct a hearing on such report and such fund created pursuant to this section.
+
+
+
+
+Section 1806.
+----------
+
+Section 1806. Urban renewal data. ::
+
+
+	   1.   Definitions. For the purposes of this section, the following terms have the following meanings:
 	
-	   f.   The costs reasonably attributable to a public hearing involving a change in the rates of fare, including the expenses of the commission and the compensation of its officers, agents and employees, shall be charged to and paid by such segment of the business or industry affected by this chapter as is involved in the change in rates.
+	      Project boundary. The term “project boundary” means the perimeter of an urban renewal area.
+	
+	      Urban renewal area. The term “urban renewal area” has the same meaning ascribed to such term in section 502 of the general municipal law.
+	
+	      Urban renewal plan. The term “urban renewal plan” has the same meaning ascribed to such term in section 502 of the general municipal law.
+	
+	      Urban renewal site. The term “urban renewal site” means a tract of land that is designated for acquisition for one or more particular land uses and identified as a redevelopment parcel pursuant to an urban renewal plan.
+	
+	   2.   Not less than one year before the expiration date of any urban renewal plan in effect on or after March 1, 2018, the department, in coordination with the department of city planning, shall provide written notice of the expiration date of such urban renewal plan to the speaker of the council, each borough president, council member, and community board whose district includes any real property within the project boundary of the affected urban renewal area, provided that in the case of any urban renewal plan with an expiration date that is less than one year after March 1, 2018, such notice shall be provided as soon as practicable. Such written notice shall include any restrictions on use, density or design contained in such expiring urban renewal plan, the status of any pending application to change any applicable large-scale special permit, the status of any pending application to amend such urban renewal plan, including any pending application to extend the duration of such urban renewal plan with respect to any unsold parcels of real property, the department of city planning application number of such pending application, and a notice that upon expiration of such urban renewal plan existing zoning regulations may allow as-of-right development subject to less restrictive use, density, and design requirements,
+	
+	   3.   The department, in coordination with the department of city planning, shall establish a publicly accessible website on nyc.gov to provide information about currently and formerly designated urban renewal areas in the city of New York. Such website shall include information regarding the urban renewal law, an explanatory guide to researching urban renewal restrictions on designated urban renewal sites, and links to resources for conducting such research, including but not limited to the city’s online zoning and land use maps, the automated city register information system, and the land use and ceqr application tracking system. The department shall post on such website an illustrative map of the city that indicates by graphical representation or icon the approximate locations of all currently and formerly designated urban renewal areas in the city of New York. The department shall link each such graphical representation or icon to the information about each such urban renewal area posted on such website pursuant to this subdivision. The department shall post on such website the following information or links to such information about each such urban renewal area, to the extent that such information is available in department or city records:
+	
+	      (a)   The name of such urban renewal area;
+	
+	      (b)   The history of approvals of the applicable urban renewal plan and all amendments thereto;
+	
+	      (c)   A downloadable copy of the applicable urban renewal area and all amendments thereto;
+	
+	      (d)   The project boundary of such urban renewal area;
+	
+	      (e)   The designated urban renewal sites within the project boundary of such urban renewal area and the permitted uses of such designated urban renewal sites pursuant to such urban renewal plan;
+	
+	      (f)   Whether such urban renewal plan is currently in effect or has expired and, if currently in effect, the expiration date of such urban renewal plan;
+	
+	      (g)   With respect to any urban renewal plan currently in effect, the status of any pending application to amend such urban renewal plan, including any pending application to extend the duration of such urban renewal plan with respect to any unsold parcels of real property, and the department of city planning application number of such pending application; and
+	
+	      (h)   A link to zola.planninglabs.nyc or successor website that directs to the highest practicable zoom level that contains all blocks and lots within such urban renewal area.
+	
+	   4.   Information required to be posted on the website established pursuant to subdivision 3 of this section shall be posted on the following schedule:
+	
+	      (a)   The informational map of the city posted on such website pursuant to subdivision 3 of this section shall display the approximate locations of all current and former urban renewal areas no later than six months after the effective date of the local law that added this section and shall include links to the information about each such urban renewal area posted on such website pursuant to such subdivision in accordance with the scheduled posting of each such urban renewal plan as described in paragraphs (b), (c) and (d) of this section.
+	
+	      (b)   Such information about urban renewal areas subject to an urban renewal plan currently in effect shall be posted to such website no later than six months after the effective date of the local law that added this section;
+	
+	      (c)   Such information about urban renewal areas for which the final version of an urban renewal plan expired less than 10 years before the effective date of the local law that added this section shall be posted to such website no later than one year after the effective date of the local law that added this section; and
+	
+	      (d)   Such information about urban renewal areas for which the final version of an urban renewal plan expired 10 or more years before the effective date of the local law that added this section shall be posted no later than eighteen months after the effective date of the local law that added this section.
+	
+	      (e)   Notwithstanding paragraphs (b), (c) and (d) of this subdivision, the downloadable copy of all amendments to applicable urban renewal areas referred to in paragraph (c) of subdivision 3 of this section, as required to be posted on the website established pursuant to subdivision 3 of this section, shall be posted as soon as practicable, but no later than 5 years after the effective date of the local law that added this section.
+	
+	   5.   No later than two years after the effective date of the local law that added this section, the department shall report the following information to the mayor, the speaker of the council, the borough presidents, the affected council members, and the community boards, to the extent that such information is available in department or city records:
+	
+	      (a)   Maps displaying the project boundaries of all currently and formerly designated urban renewal areas in the city of New York, to the extent practicable;
+	
+	      (b)    An illustrative map or maps of the city displaying the approximate locations of all such urban renewal areas;
+	
+	      (c)   A list, organized by borough, of all such urban renewal areas;
+	
+	      (d)   The council districts that may include real property within the project boundary of any such urban renewal area;
+	
+	      (e)   For each such urban renewal area, the expiration date of the final version of the applicable urban renewal plan;
+	
+	      (f)   The land use restrictions imposed pursuant to such urban renewal plans; and
+	
+	      (g)   A notice that upon expiration of such urban renewal plans existing zoning regulations may allow as-of-right development subject to less restrictive use, density, and design requirements. Such notice shall be accompanied by information about researching urban renewal restrictions on currently and previously designated urban renewal sites.
+	
+	   6.   No later than March 1, 2018, every lot on the city’s online zoning and land use map at zola.planninglabs.nyc or successor website shall have an attribute that links to the website established pursuant to subdivision 3 of this section.
+	
+	
 
 
 
