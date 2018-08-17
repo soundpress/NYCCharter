@@ -51,10 +51,3 @@ Section 3103. Veterans' advisory board. ::
 
 	   There shall be a veterans' advisory board consisting of eleven members, all of whom shall be veterans, six of whom shall be appointed by the mayor and five of whom shall be appointed by the speaker of the council. Of these eleven appointees, there shall be one representative from each of the five boroughs of the city of New York. The mayor and the speaker shall each consider service in conflicts involving members of the United States armed forces when making such appointments. All members shall serve for a term of three years and may be removed by the appointing official for cause. Members of the advisory board shall elect by majority vote one such member to serve as chairperson and one such member to serve as vice-chairperson, each to serve in that capacity for one-year terms. In the event of a vacancy on the advisory board during the term of office of a member by reason of removal, death, resignation, or otherwise, a successor shall be chosen in the same manner as the original appointment. A member appointed to fill a vacancy shall serve for the balance of the unexpired term. The advisory board shall (i) advise the commissioner on all matters concerning veterans; (ii) hold at least one meeting open to the public in each borough on an annual basis, with notice of each public meeting provided in accordance with the public notice requirements of article 7 of the public officers law except with respect to those requirements provided in section 31-105 of the administrative code, and with each public meeting recorded and broadcast in accordance with subdivision d of section 1063 of the charter; (iii) keep a record of its deliberations; (iv) determine its own rules of procedure; and (v) submit an annual report of its activities to the mayor and the council on or before December 31 of each year. Such annual report should include policy and legislative recommendations for the department of veterans' services and the council.
 	
-	(L.L. 2015/113, 12/10/2015, eff. 4/8/2016)
-	
-	 
-
-
-
-
