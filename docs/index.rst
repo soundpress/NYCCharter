@@ -1,10 +1,12 @@
-.. New York City Administrative Code documentation master file, created by
+.. NYC Charter documentation master file, created by
    sphinx-quickstart
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-NYC Administrative Code
+NYC Charter
 =================================
+
+This document is updated every week from source material at `NYC Laws, Codes and Rules <https://www1.nyc.gov/nyc-resources/service/4080/nyc-charter-laws-codes-and-rules>`. It was last updated: August 21st, 2018. More information about this project at `MyGov.nyc/laws <http://mygov.nyc/>`.
 
 .. toctree::
     :maxdepth: 1
