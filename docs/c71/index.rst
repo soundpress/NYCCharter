@@ -125,7 +125,7 @@ c. Advisory opinions.
 
    3. The board shall make public its advisory opinions with such deletions as may be necessary to prevent disclosure of the identity of any public servant or other involved party. The advisory opinions of the board shall be indexed by subject matter and cross-indexed by charter section and rule number and such index shall be maintained on an annual and cumulative basis.
 
-   4. Not later than the first day of September, nineteen hundred ninety, the board shall initiate a rulemaking to adopt, as interpretive of the provisions of this chapter, any advisory opinions of the board of ethics constituted pursuant to chapter sixty-eight of the charter heretofore in effect, which the board determines to be consistent with and to have interpretive value in construing the provisions of this chapter.
+   4. All advisory opinions of the board shall include a statement that the opinion applies only to the requesting public servant or public servants, and any citation to a previously issued advisory opinion shall be accompanied by a statement that such previously issued advisory opinion applies only to the public servant or public servants on whose request it was originally rendered. Not later than the first day of May annually, the board shall determine whether any advisory opinion issued in the prior calendar year has interpretive value in construing the provisions of this chapter and either (a) establishes a test, standard or criterion; or (b) the board anticipates will be the subject of future advisory opinion requests from multiple persons. The board shall make that determination public in its annual report that is required pursuant to subdivision i of section 2603 of this chapter, The board shall initiate a rulemaking to adopt any such opinion, or part of an opinion, so determined.
 
    5. For the purposes of this subdivision, public servant includes a prospective and former public servant, and a supervisory official includes a supervisory official who shall supervise a prospective public servant and a supervisory official who supervised a former public servant.
 
@@ -188,6 +188,8 @@ i. Annual report. The board shall submit an annual report to the mayor and the c
 j. Revision. The board shall review the provisions of this chapter and shall recommend to the council from time to time such changes or additions as it may consider appropriate or desirable. Such review and recommendation shall be made at least once every five years.
 
 k. Except as otherwise provided in this chapter, the records, reports, memoranda and files of the board shall be confidential and shall not be subject to public scrutiny.
+
+
 
 
 
