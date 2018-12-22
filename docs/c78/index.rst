@@ -57,8 +57,6 @@ There shall be a veterans' advisory board consisting of eleven members, all of w
 
 
 
- 
-
 
 
 

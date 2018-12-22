@@ -128,3 +128,51 @@ f. The costs reasonably attributable to a public hearing involving a change in t
 
 
 
+Section 2305.
+--------------------------------------------------
+
+
+*Section 2305. Office of inclusion.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Director. The term “director” means the director of the office of inclusion.
+
+   Driver. The term “driver” means any driver licensed by the commission.
+
+   Office. The term “office” means the office of inclusion.
+
+b. The commission shall establish an office of inclusion. Such office shall be headed by a director.
+
+c. The director shall have the power and duty to:
+
+   1. Compile and report statistics relating to driver demographics, disaggregated by ethnicity or race, gender, disability and other categories as appropriate;
+
+   2. Compile and report statistics relating to discrimination against passengers or prospective passengers on the basis of ethnicity or race, gender, disability and other categories as appropriate;
+
+   3. Examine and address issues related to discrimination in the taxi and for-hire vehicle industry, including but not limited to refusals by drivers to provide service to passengers or prospective passengers on the basis of ethnicity or race, disability, gender, sexual orientation or destination;
+
+   4. Develop policies and best practices to encourage greater representation of drivers from members of communities underserved by taxi and for-hire vehicle transportation services;
+
+   5. Develop and implement trainings for drivers that promote cultural sensitivity towards passengers and prospective passengers and educate drivers about discriminatory treatment in the taxi and for-hire vehicle industry. Such trainings shall be conducted by persons with experience. Such trainings shall include best practices on how drivers can meet the needs of passengers with disabilities, including but not limited to caring for mobility devices, communicating with persons who are hearing impaired and alerting passengers with visual impairments awaiting a ride once the vehicle has arrived;
+
+   6. Assess the feasibility of driver-to-driver mentorship and cultural awareness programs which the commission may implement as warranted;
+
+   7. Expand public awareness regarding service refusals by drivers through means such as, but not limited to, running a public awareness campaign and conducting outreach to community groups whose members have experienced service refusals;
+
+   8. Provide one or more mechanisms by which passengers and prospective passengers can submit complaints of discrimination directly to the commission, and ensure such complaints are processed by the appropriate authorities;
+
+   9. Serve as a resource to support the needs of persons with disabilities in receiving services from vehicles licensed by the commission; and
+
+   10. Perform any other relevant duties as the commission deems appropriate.
+
+d. Within 12 months of the effective date of the local law that added this section, and annually thereafter for the next three years, the director shall post on the commission’s website and submit to the mayor and the speaker of the council a report containing, at a minimum, the findings required by paragraphs 1 and 2 of subdivision c of this section. The report shall also contain information on the programs and resources described in paragraphs 4, 5, 6, 7 and 8 of subdivision c of this section, including statistics on how many people utilized these programs and resources.
+
+
+
+Editor's note: Section 2 of L.L. 2018/219 provides that subdivision d. of this section shall expire and be repealed four years after the effective date of the local law that added this section.
+
+
+
+

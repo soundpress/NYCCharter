@@ -1052,3 +1052,37 @@ e. In carrying out the requirements of this section, the committee shall provide
 
 
 
+Section 20-f.
+--------------------------------------------------
+
+
+*Section 20-f. Office of data analytics.* ::
+
+
+a. Definitions. For purposes of this section, the term “director” means the director of the office of data analytics.
+
+b. The mayor shall establish an office of data analytics. Such office may be established in the executive office of the mayor and may be established as a separate office or within any other office of the mayor or within any department the head of which is appointed by the mayor. Such office shall be headed by a director who shall be appointed by the mayor or head of such department and who shall serve as the city’s chief analytics officer and chief open platform officer, as defined in the open data policy and technical standards manual.
+
+c. The director shall have the power and duty to:
+
+   1. Collaborate with agencies to: (i) analyze data, promote data-driven policy making, decision making, conduct research and analysis to best fulfill agencies’ respective missions, and support agencies in developing strategies to conduct their own analytics based on such data; and (ii) convene directors of analytics or their equivalents from agencies to encourage and implement citywide analytics strategies;
+
+   2. Collaborate with the department of information technology and telecommunications, mayor’s office of operations, the mayor’s office for economic opportunity, the mayor’s office of information privacy, and other relevant offices in order to: (i) facilitate data sharing between city agencies and citywide analytics of publicly and non-publicly available data by contributing to technology system requirements and protocols, using open standards whenever practicable; (ii) advise on data strategy for data integration use cases;
+
+   3. Advise agencies on data analytics and data integration strategy best practices when sharing data, procuring new data systems, and hiring or training analytics staff;
+
+   4. Maintain an open analytics library that shall allow the office of data analytics to share the source code for data analytics projects to increase awareness of the way city agencies use data and develop analytical tools. Such library shall be maintained on the office’s website and made available to the public;
+
+   5. Serve as the designated point of contact for outside partners contributing to or using public data sets;
+
+   6. Work with department of information technology and telecommunications, and other agencies as appropriate, to implement the city’s open data law, assist agency open data coordinators in ensuring compliance by their agencies with requirements regarding accessibility to public data sets, and take action to make data more accessible to and actionable by the public, in accordance with applicable law; and
+
+   7. Guide the training of agency staff, community boards and members of the public on the use of the web portal required by section 23-502 of the administrative code, and develop and implement an open data public education strategy.
+
+d. The director shall possess such powers, in addition to any powers vested in him or her pursuant to any other provision of law that may be assigned by the mayor or head of such department wherein the office has been established.
+
+
+
+
+
+

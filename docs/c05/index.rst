@@ -87,6 +87,58 @@ The president of a borough shall:
 
    16. Perform such other functions and duties and exercise such other powers as may be assigned by law.
 
+   17. a. No later than July 1, 2019, and by July 1 of each year thereafter, each borough president shall submit to the mayor and the speaker of the council and shall make available on the borough president's website a report in a format that is searchable and downloadable that shall include the following information for the previous calendar year, or as otherwise specified:
+
+         (i) The names of persons serving in community board member positions in the previous calendar year, disaggregated by community district, including the first date of appointment, dates of reappointment, if any, length of service, nominating council member or other nominating party, and community board leadership positions, if any;
+
+         (ii) Demographic information about community board members voluntarily disclosed pursuant to clause (v) of subparagraph 1 of paragraph b of this subdivision for each community board in an aggregate form that is anonymized. provided, however, that age shall be reported in 10 year age ranges, and provided further that no information shall be required to be reported pursuant to this subparagraph if such information may be withheld from disclosure pursuant to article 6 of the New York public officers law;
+
+         (iii) The number of vacant community board member positions within the borough, disaggregated by community district;
+
+         (iv) A description of the borough president's recruitment plan for filling vacant community board member positions, including:
+
+            (a) A description of outreach efforts to publicize community board member openings; and
+
+            (b) The particular methods used to seek out candidates for membership from diverse backgrounds, including with regard to race, ethnicity, gender, age, disability status, sexual orientation, language, geographic residence, and other characteristics the borough president deems relevant to promoting diversity and inclusion of under-represented groups and communities within community boards:
+
+         (v) The number of applicants for open community board member positions received, disaggregated by community district;
+
+         (vi) The number of persons interviewed for open community board member positions, disaggregated by community district;
+
+         (vii) A general description of the evaluation criteria followed in the selection process;
+
+         (viii) Any particular tools employed by such borough president in the selection process, such as the use of a screening panel;
+
+      b. 1. Each borough president shall make available on the borough president's website an application for community board member positions, which shall include, but not be limited to, the following information regarding the applicant:
+
+            (i) Name and address;
+
+            (ii) Residence, business, professional or other significant interest in the community district;
+
+            (iii) Past service on a community board, including prior appointment dates and number and length of prior terms served;
+
+            (iv) Age, if less than 18 years old, or a certification that the applicant is at least 18 years old;
+
+            (v) The option to provide additional demographic information, including age, gender, race, ethnicity, sexual orientation, disability status, languages spoken, or other demographic information the applicant chooses to disclose, together with a notification that such information will be made public in aggregate and anonymized form as provided in subparagraph (ii) of paragraph a of this subdivision;
+
+            (vi) Work and education history, special skills, and professional licenses;
+
+            (vii) Relevant professional, civic or community involvement experience;
+
+            (viii) Disclosure of city employment as such term is used in subdivision (a) of section 2800;
+
+            (ix) Disclosure of potential conflicts of interest;
+
+            (x) Statement describing the applicant's interest in the community board member position;
+
+            (xi) A certification that the applicant meets all requirements for the position of community board member pursuant to subdivision a of section 2800 and section 1135 and any other applicable law and, if appointed, will abide by all applicable conflicts of interest laws; and
+
+            (xii) Any additional information that the borough president determines to be relevant or necessary to the application process.
+
+         2. The department of information technology and telecommunications shall provide assistance to borough presidents in developing such an application and making the application readily accessible to the public online.
+
+
+
 
 
 

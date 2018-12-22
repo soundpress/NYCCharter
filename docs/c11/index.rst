@@ -16,6 +16,20 @@ c. The comptroller shall produce timely analyses of the preliminary and executiv
 
 
 
+Section 225-a.
+--------------------------------------------------
+
+
+*Section 225-a. Citywide participatory budgeting.* ::
+
+
+The mayor shall, consistent with this charter and other applicable law, establish a program to be implemented no later than the fiscal year beginning on July 1, 2020, to promote the participation of residents in identifying and expressing preferences among recommendations for local projects in their communities, and shall consider such projects for inclusion in the executive budget. The council, borough presidents, community boards, and city agencies shall, to the extent practicable, coordinate with the mayor and the civic engagement commission in implementing such program established pursuant to this section and section 3202.
+
+
+
+
+
+
 Section 226.
 --------------------------------------------------
 
