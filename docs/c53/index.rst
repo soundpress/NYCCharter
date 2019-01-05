@@ -113,7 +113,9 @@ b. The procurement policy board shall regularly review the scope and form of all
 
 c. The mayor shall ensure adequate public access to the information on contracts and contractors, which shall be maintained in a manner to facilitate public review, with due consideration for the need to protect, where appropriate, the confidentiality of any such information.
 
-d. The information on contracts and contractors shall be computerized to the extent feasible. The computerized information shall be stored in a manner which allows for meaningful read-only access to such information by the agency name, contractor name, contract category, and contract number included in prior notices published in the City Record pursuant to section three hundred twenty-five. At least one computer terminal shall be available for such access in the central place established by the mayor pursuant to subdivision a of this section.
+d. The information on contracts and contractors shall be computerized to the extent feasible. The computerized information shall be stored in a manner which allows for meaningful read-only access to such information by the agency name, contractor name, contract category, and contract number included in prior notices published in the City Record pursuant to section three hundred twenty-five. At least one computer terminal shall be available for such access in the central place established by the mayor pursuant to subdivision a of this section, and such access shall also be provided to the public through the City’s website.
+
+ 
 
 
 
