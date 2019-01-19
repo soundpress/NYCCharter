@@ -132,6 +132,46 @@ e. The commissioner shall submit a quarterly report to the mayor, the council, t
 
 
 
+Section 814.
+--------------------------------------------------
+
+
+*Section 814. 1. Office of diversity and inclusion.* ::
+
+
+a. Definitions.
+
+   Chief. The term “chief” means the director of the office of diversity and inclusion.
+
+   Office. The term “office” means the office of diversity and inclusion.
+
+b. The commissioner shall establish an office of diversity and inclusion. Such office shall be headed by a chief who shall be appointed by the commissioner.
+
+c. Powers and duties. The commissioner, acting through the office, shall have the power to:
+
+   (1) Compile and report on statistics relating to hiring, salary, and promotion for all city agencies disaggregated by race, gender, civil service classification, and other categories as appropriate, and make such reports publicly available online on an annual basis.
+
+   (2) Establish and enforce uniform procedures and standards to be utilized by city agencies in establishing measures, programs and plans to ensure a fair and effective affirmative employment plan for equal employment opportunities for minority group members and women who are employed by, or who seek employment with, city agencies. Such procedures shall include a time schedule for the development of such plans which provides for the preparation by each agency of a draft plan, the review of such draft plan by the department of citywide administrative services, the equal employment practices commission, and such other agency as the mayor requires, and the consideration by the agency of any comments received on such draft plans prior to the adoption of a final plan as required by paragraph nineteen of subdivision a of section eight hundred fifteen;
+
+   (3) Establish a uniform format to be utilized by all city agencies in the preparation of the quarterly reports required by subdivision i of section eight hundred fifteen. Such format shall provide for the presentation of statistical information regarding total employment, including provisional, seasonal, per-diem and part-time employees, new hiring and promotions in a manner that facilitates understanding of an agency’s efforts to provide fair and effective equal opportunity employment for minority group members, women and members of other groups who are employed by, or who seek employment with, city agencies;
+
+   (4) Ensure accountability by evaluating each city agency in accordance with the procedures and standards set by the office pursuant to paragraph 1 of this subdivision. The office shall ensure that each evaluation shall include, but not be limited to, the following: (i) a determination for each city agency of whether such agency is compliant with such procedures and standards; (ii) an analysis of whether and how such procedures and standards should be expanded or modified for the next annual reporting period, with a view towards improving upon prior benchmarks; and (iii) any other information the office deems relevant. The evaluations shall be compiled and included in the annual report to the mayor, the city council, the equal employment practices commission and the city civil service commission pursuant to paragraph 8 of this subdivision. Such report shall be made publicly available on the city’s website.
+
+   (5) Develop, in conjunction with other city agencies, a clearinghouse for information on employment and educational programs and services for minority group members and women; and
+
+   (6) Provide assistance to minority group members and women employed by, or interested in being employed by, city agencies to ensure that such minority group members and women benefit, to the maximum extent possible, from city employment and educational assistance programs.
+
+   (7) Develop policies and best practices to ensure that adequate support, training and mentorship is made available to underrepresented city employees to assist with career advancement in the civil service.
+
+   (8) Develop recruitment, hiring, and career advancement procedures that address unconscious biases and systemic barriers to achieve greater diversity in the recruitment and career advancement of city employees, and provide trainings for city agency employees responsible for recruitment, discretionary hiring, and career advancement.
+
+   (9) No later than September 30, 2020, and no later than September 30 annually thereafter, publish and submit to the mayor, council and the commission on equal employment practices a report on the activities of the department of citywide administrative services and city agencies to provide fair and effective affirmative employment practices to ensure equal employment opportunity for minority group members and women who are employed by, or who seek employment with, city agencies. Such report shall include, but not be limited to, an analysis of the city government workforce and applicants for such employment by agency, title and classification except where a civil service exam was the basis of appointment; statistics relating to hiring, salary and promotion for all city agencies disaggregated by race, gender, and civil service classification and other categories as appropriate; a description of each agency’s employment practices, policies and programs; an analysis of the effectiveness of the city’s efforts to provide fair and effective affirmative employment practices to ensure equal employment opportunity for minority group members and women who are employed by, or who seek employment with, city agencies; an analysis of employee response rates to efforts to collect demographic information over time, and whether changes in the racial and ethnic classification categories used to collect demographic information have had an impact on employee response rates; a review of racial and ethnic classification categories used to collect demographic information and recommendations for how to improve the use of such categories to reflect the city government workforce; and such legislative, programmatic and budgetary recommendations for the development, implementation or improvement of such activities as the commissioner deems appropriate.
+
+
+
+
+
+
 Section 815.
 --------------------------------------------------
 

@@ -413,7 +413,9 @@ Section 1134.
 *Section 1134. [Copies of agency reports, audits or evaluations to council.]* ::
 
 
-The head of each agency shall promptly transmit to the council copies of all final reports or studies which the charter or other law requires the agency or any official thereof to prepare. The head of each agency shall also promptly transmit to the council copies of all final audits, audit reports and evaluations of such agency prepared by state or federal officials or by private parties.
+The head of each agency shall promptly transmit to the council copies of all final reports or studies which the charter or other law requires the agency or any official thereof to prepare. After July 1, 2019, for every such report or study that contains data in a list, table, graph, chart or other non-narrative form, the head of each agency shall also transmit such data to the council in a non-proprietary format that permits automated processing. The head of each agency shall also promptly transmit to the council copies of all final audits, audit reports and evaluations of such agency prepared by state or federal officials or by private parties.
+
+
 
 
 
