@@ -89,15 +89,7 @@ a. The commissioner shall have the following powers and duties in addition to th
 
    (10) To develop and recommend to the mayor standard rules governing working conditions, vacations and leaves of absence; and career, salary and wage plans providing for the creation, abolition and modification of positions and grades and fixing salaries of persons paid from the city treasury, subject to the provisions of this charter, the civil service law, other applicable statutes and collective bargaining agreements;
 
-   (11) To administer the city-wide safety incentive, training and development, and other such personnel programs of the city;
-
-   (12) To establish and enforce uniform procedures and standards to be utilized by city agencies in establishing measures, programs and plans to ensure a fair and effective affirmative employment plan for equal employment opportunity plan for equal employment opportunity for minority group members and women who are employed by, or who seek employment with, city agencies. Such procedures shall include a time schedule for the development of such plans which provides for the preparation by each agency of a draft plan, the review of such draft plan by the department of citywide administrative services, the equal employment practices commission, and such other agency as the mayor requires, and the consideration by the agency of any comments received on such draft plans prior to the adoption of a final plan as required by paragraph nineteen of subdivision a of section eight hundred fifteen;
-
-   (13) To establish a uniform format to be utilized by all city agencies in the preparation of the quarterly reports required by subdivision i of section eight hundred fifteen. Such format shall provide for the presentation of statistical information regarding total employment, including provisional, seasonal, per-diem and part-time employees, new hiring and promotions in a manner which facilitates understanding of an agency's efforts to provide fair and effective equal opportunity employment for minority group members, women and members of other groups who are employed by, or who seek employment with, city agencies;
-
-   (14) To develop, in conjunction with other city agencies, a clearinghouse for information on employment and educational programs and services for minority group members and women; and
-
-   (15) To provide assistance to minority group members and women employed by, or interested in being employed by, city agencies to ensure that such minority group members and women benefit, to the maximum extent possible, from city employment and educational assistance programs.
+   (11) To administer the city-wide safety incentive, training and development, and other such personnel programs of the city.
 
 b. The commissioner shall have the following powers and duties with respect to the personnel management functions assigned to city agencies pursuant to subdivisions a, b, c, and d of section eight hundred fifteen.
 
@@ -113,9 +105,7 @@ b. The commissioner shall have the following powers and duties with respect to t
 
    (6) To delegate to the head of an agency personnel management functions assigned to the commissioner where such delegation is not otherwise prohibited by the civil service law, and pursuant to terms and conditions prescribed by the commissioner;
 
-   (7) To administer personnel programs of a city-wide nature or common to two or more departments where administration by separate agencies would be impracticable and uneconomical;
-
-   (8) To annually publish and submit to the mayor, council and the commission on equal employment practices a report on the activities of the department of citywide administrative services and city agencies to provide fair and effective affirmative employment practices to ensure equal employment opportunity for minority group members and women who are employed by, or who seek employment with, city agencies. Such report shall include, but not be limited to, an analysis of the city government workforce and applicants for such employment by agency, title and classification; a description of each agency's employment practices, policies and programs; an analysis of the effectiveness of the city's efforts to provide fair and effective affirmative employment practices to ensure equal employment opportunity for minority group members and women who are employed by, or who seek employment with, city agencies; and such legislative, programmatic and budgetary recommendations for the development, implementation or improvement of such activities as the commissioner deems appropriate.
+   (7) To administer personnel programs of a city-wide nature or common to two or more departments where administration by separate agencies would be impracticable and uneconomical.
 
 c. The commissioner shall promulgate rules and regulations relating to the personnel policies, programs and activities of city government in furtherance of and consistent with the state civil service law and this chapter. The commissioner shall transmit to the state civil service commission each proposed rule which must be submitted to such commission, including any which establishes or reclassifies titles in the non-competitive or exempt class, within sixty days after the public hearing has been held on such rule.
 
@@ -128,6 +118,8 @@ e. The commissioner shall submit a quarterly report to the mayor, the council, t
    (2) the length of time such provisional employees have served in their positions; and
 
    (3) the actions taken by the city to reduce the number of such provisional employees and the length of their service in such positions. Such reports shall be submitted by the last day of March, June, September, and December of each year.
+
+
 
 
 
@@ -217,7 +209,7 @@ a. Subject to the civil service law and applicable provisions of this charter, h
 
    (18) To perform such other personnel management functions as are delegated by the commissioner pursuant to this chapter or that are not otherwise assigned by this chapter;
 
-   (19) To establish measures and programs to ensure a fair and effective affirmative employment plan to provide equal employment opportunity for minority group members and women who are employed by, or who seek employment with, the agency and, in accordance with the uniform procedures and standards established by the department of citywide administrative services for this purpose, to adopt and implement an annual plan to accomplish this objective. Copies of such plans shall be filed with the mayor, council, department of citywide administrative services, equal employment practices commission, and city civil service commission and shall be made available for reasonable public inspection; and
+   (19) To establish measures and programs to ensure a fair and effective affirmative employment plan to provide equal employment opportunity for minority group members and women who are employed by, or who seek employment with, the agency and, in accordance with the uniform procedures and standards established by the department of citywide administrative services for this purpose, to adopt and implement an annual plan to accomplish this objective. Copies of such plans shall be filed with the mayor, council, department of citywide administrative services, equal employment practices commission, and city civil service commission and shall be made available for reasonable public inspection. In carrying out duties related to this paragraph, the heads of city agencies shall cooperate fully with the department of citywide administrative services’ office of diversity and inclusion in accordance with section 814.1; and
 
    (20) To provide assistance to minority group members and women interested in being employed by city agencies to ensure that such minority group members and women benefit, to the maximum extent possible, from city employment and educational assistance programs.
 
@@ -240,6 +232,8 @@ i. The head of each city agency shall quarterly publish and submit to the mayor,
 j. The head of each city agency shall include in all employment retention, recruitment, training and promotional program literature, advertisements, solicitations and job applications, such language as may be necessary to effectuate the purpose of this chapter.
 
 k. The head of each city agency shall require each employment agency, or authorized representative of workers with which it has a collective bargaining or other agreement or understanding and which is involved in the performance of recruitment and retention with the agency to furnish a written statement that such employment agency, labor union or representative shall not discriminate against employees or applicants for employment pursuant to federal, state or local law and that such union or representative will cooperate in the implementation of the agency's obligations pursuant to this chapter.
+
+
 
 
 
