@@ -151,9 +151,47 @@ c. 1. Within three days of the occurrence of a vacancy in the office of the mayo
 
    10. If at any election held pursuant to this subdivision for which nominations were made by independent nominating petitions, no candidate receives forty percent or more of the vote, the two candidates receiving the most votes shall advance to a runoff election which shall be held on the second Tuesday next succeeding the date on which such election was held.
 
-d   Determination of mayoral inability.
+d. Determination of mayoral inability.
 
    1. Voluntary declaration of temporary inability. Whenever the mayor transmits to the official next in line of succession and to the city clerk, a written declaration that he or she is temporarily unable to discharge the powers and duties of the office of mayor, such powers and duties shall devolve upon the official next in line of succession, subject to the provisions of subdivision a of this section. Thereafter if the mayor transmits to the acting mayor and to the city clerk a written declaration that he or she is able to resume the discharge of the powers and duties of the office of mayor, the mayor shall resume the discharge of such powers and duties immediately upon the receipt of such declaration by the city clerk.
+
+   2. Inability committee.
+
+      (a) There shall be a committee on mayoral inability consisting of: the corporation counsel, the comptroller, the speaker of the council, a deputy mayor who shall be designated by the mayor, and the borough president with the longest consecutive service as borough president. If two or more borough presidents have served for an equal length of time, one of such borough presidents shall be selected by lot to be a member of such committee. If at any time there is no valid mayoral designation in force, the deputy mayor with the longest consecutive service as a deputy mayor shall be a member of such committee. The authority to act as a member of such committee shall not be delegable.
+
+      (b) Such committee by affirmative declaration of no fewer than four of its members shall have the power to make the declarations described in paragraphs four and five of this subdivision. No such declaration shall be effective unless signed by all the members making it.
+
+    3. Panel on mayoral inability.
+
+      (a) There shall be a panel on mayoral inability. Unless otherwise provided by state law, such panel shall consist of all the members of the council.
+
+      (b) The panel shall have the power to make the determinations described in paragraphs four and five of this subdivision.
+
+   4. Temporary inability.
+
+      (a) Whenever the committee on mayoral inability personally serves or causes to be personally served upon the mayor and transmits to the official next in line of succession, the members of the panel on mayoral inability and the city clerk, its written declaration that the mayor is temporarily unable to discharge the powers and duties of the office of mayor, together with a statement of its reasons for such declaration, such declaration shall constitute a determination of temporary inability unless the mayor, within forty-eight hours after receipt of such declaration, transmits to the official next in line of succession, the members of the committee on mayoral inability, the members of the panel on mayoral inability and the city clerk, a written declaration that he or she is able to discharge the powers and duties of the office of mayor, together with responses to the statement by the committee on mayoral inability of its reasons for its declaration.
+
+      (b) If personal service of the committee's declaration upon the mayor cannot be accomplished, or if such service has been accomplished but the mayor has not transmitted a declaration that he or she is able to discharge the powers and duties of the office of mayor within forty-eight hours after receipt of such declaration, such powers and duties shall devolve upon the official next in line of succession, subject to the provisions of subdivision a of this section, unless and until the mayor resumes the authority to discharge such powers pursuant to the provisions of subparagraphs (e) or (f) of this paragraph.
+
+      (c) If within such forty-eight hours, the mayor transmits a declaration that he or she is able to discharge the powers and duties of the office of mayor, such powers and duties shall not devolve upon the official next in line of succession and the mayor shall continue to discharge the powers and duties of the office of mayor, unless and until the panel on mayoral inability, within twenty-one days after its receipt of the mayor's declaration, determines by two-thirds vote of all its members that the mayor is temporarily unable to discharge the powers and duties of the office of mayor. If the panel determines that the mayor is unable to discharge the powers and duties of the office of mayor, such powers and duties shall devolve upon the official next in line of succession, subject to the provisions of subdivision a of this section, unless and until the mayor resumes the authority to discharge such powers and duties pursuant to the provisions of subparagraphs (e) or (f) of this paragraph.
+
+      (d) If, at any time prior to a final determination by the panel pursuant to subparagraph (c) of this paragraph the mayor transmits a voluntary declaration of temporary inability pursuant to the provisions of paragraph one of this subdivision, to the official next in line of succession, the members of the committee on mayoral inability, the members of the panel on mayoral inability, and the city clerk, then the procedures set forth in paragraph one of this subdivision shall be followed.
+
+      (e) If a determination of temporary inability has been made pursuant to the provisions of subparagraphs (a) or (c) of this paragraph, and if thereafter, the mayor transmits to the acting mayor, the members of the committee on mayoral inability, the members of the panel on mayoral inability and the city clerk, a written declaration that he or she is able to resume the discharge of the powers and duties of the office of mayor, then the mayor shall resume the discharge of such powers and duties four days after the receipt of such declaration by the city clerk, unless the committee on mayoral inability, within such four days, personally serves or causes to be personally served upon the mayor and transmits to the acting mayor, the members of the panel on mayoral inability and the city clerk, its written declaration that the mayor remains unable to discharge the powers and duties of the office of mayor.
+
+      (f) If the committee transmits a declaration that the mayor remains unable to discharge the powers and duties of the office of mayor, the mayor shall not resume the discharge of the powers and duties of the office of mayor unless and until the panel on mayoral inability, within twenty-one days of its receipt of such declaration, determines by two-thirds vote of all its members that the inability has in fact ceased. Upon such a determination by the panel, or after the expiration of twenty-one days, if the panel has not acted, the mayor shall resume the discharge of the powers and duties of the office of mayor.
+
+   5. Permanent inability.
+
+      (a) Whenever the committee on mayoral inability personally serves or causes to be personally served upon the mayor and transmits to the official next in line of succession, the members of the panel on mayoral inability and the city clerk, its declaration that the mayor is permanently unable to discharge the powers and duties of the office of mayor, together with its reasons for such declaration, the panel on mayoral inability shall, within twenty-one days after its receipt of such declaration, determine whether or not the mayor is permanently unable to discharge the powers and duties of the office of mayor.
+
+      (b) If the panel determines by two-thirds vote of all its members that the mayor is permanently unable to discharge the powers and duties of the office of mayor, such powers and duties shall devolve upon the official next in line of succession as acting mayor pursuant to subdivision b of this section, and the office of mayor shall be deemed vacant.
+
+   6. Continuation of salary; disability allowance.
+
+      (a) During the time that any official is acting as mayor pursuant to a determination of temporary inability, the mayor shall continue to be paid the salary of the office of mayor, and the acting mayor shall continue to be paid the salary of the office to which such person was elected.
+
+      (b) Any mayor who has been determined to be permanently unable to discharge the powers and duties of the office of mayor pursuant to paragraph five of this subdivision shall continue to receive from the city, a sum which together with the mayor's disability benefits and retirement allowance, if any, computed without optional modification, shall equal the annual salary which such mayor was receiving at the time of the determination of permanent inability. Such disability allowance shall begin to accrue on the date of the determination of permanent inability and shall be payable on the first day of each month until the expiration of the term for which such mayor had been elected or such mayor's death, whichever shall occur first. Such mayor shall apply for any retirement allowance or disability benefits to which he or she may be entitled and the disability allowance provided for in this section shall not reduce or suspend such retirement allowance or disability benefits, notwithstanding any other provision of law.
 
 
 

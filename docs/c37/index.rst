@@ -202,3 +202,37 @@ c.  Posting of office information. The department shall post on its website the 
 
 
 
+Section 651.
+--------------------------------------------------
+
+
+*Section 651. Office of building energy and emissions performance.* ::
+
+
+a. There shall be in the department an office of building energy and emissions performance. The office shall be headed by a director, who is a registered design professional, who shall be appointed by and shall report to the commissioner. The duties of the office shall include, but not be limited to:
+
+   1. Overseeing implementation of building energy and emissions performance laws and policies for existing buildings, new construction and major renovations;
+
+   2. Establishing or administering protocols for assessing annual energy use in buildings;
+
+   3. Monitoring buildings’ energy use and emissions, and reviewing building emissions assessment methodologies, building emissions limits, goals and timeframes to further the goal of achieving a 40 percent reduction in aggregate greenhouse gas emissions from covered buildings by calendar year 2030, relative to such emissions for the calendar year 2005;
+
+   4. Creating an online portal for the submission of annual building emissions assessments by owners;
+
+   5. Receiving and validating annual building emissions assessments;
+
+   6. Auditing building emissions assessments and inspecting covered buildings, as necessary, to ensure proper reporting;
+
+   7. Determining recommended penalties, including minimum penalties, for buildings that are noncompliant with applicable emissions limits;
+
+   8. Reviewing applications for alternative methods of compliance with building emissions limits, including adjustments of emissions limits, deductions for the purchase of greenhouse gas offsets or renewable energy credits, deductions for the use of distributed energy resources, and adjustments for special categories of buildings or for special use and occupancies;
+
+   9. Working in close coordination with the mayor’s office of long-term planning and sustainability; receiving advice and recommendations, as applicable, from the advisory board established pursuant to section 28-320.2 of the administrative code; and
+
+   10. Ensuring the participation and cooperation of agencies, including but not limited to the department of environmental protection, the department of housing preservation and development and the department of citywide administrative services. Such participation and cooperation shall include, but not be limited to, detailing agency staff to assist office staff consistent with agency and office functions and reporting to the office on building energy performance issues and related enforcement efforts.
+
+
+
+
+
+
