@@ -91,7 +91,7 @@ a. The commission shall, subject to appropriation, have the power and duty to:
 
             C. Information related to voter turnout;
 
-            D. Such other information as deemed appropriate by the commission, which mar include the results of a surname analysis of registered voters;
+            D. Such other information as deemed appropriate by the commission, which may include the results of a surname analysis of registered voters;
 
          ii. Notwithstanding any other provision of this paragraph, the commission shall not provide interpreter assistance in a language covered by the voting rights act in a jurisdiction where such language has been determined to be a covered language pursuant to such law;
 
@@ -113,7 +113,7 @@ a. The commission shall, subject to appropriation, have the power and duty to:
 
       (j) Any interpreter services performed by the commission or agent thereof pursuant to this paragraph shall not be construed to supplant, replace, or satisfy any obligations or responsibilities of the board of elections of the city of New York.
 
-      (k) Nothing in this paragraph or the administration or application thereof shall be construed to create a private right of action on the part of any person or entity against the city or any agency, official, or employee thereo;
+      (k) Nothing in this paragraph or the administration or application thereof shall be construed to create a private right of action on the part of any person or entity against the city or any agency, official, or employee thereto;
 
    5. Partnerships with city agencies. Conduct programming in partnership with other city agencies to increase awareness of and access to city services and public engagement processes, create tools to assist city agencies in developing and promoting civic engagement initiatives, and develop strategies to centralize public information about opportunities for civic engagement in the city and to make such information accessible to all city residents, including strategies for outreach to groups or categories of residents that have been historically underrepresented in or underserved by city government and its processes;
 
