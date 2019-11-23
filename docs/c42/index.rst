@@ -51,6 +51,30 @@ c. Such regulations shall be enforced by order of the commissioner. Such order s
 
 d. The commissioner may adopt regulations controlling the use of sidewalks and gutters by abutting owners and occupants for the disposition of sweepings, garbage, refuse or rubbish, and may provide that the violation thereof shall be punishable by civil penalty, fine or imprisonment. Such regulations shall be submitted to the council and when approved by it shall be published and enforced in like manner as local laws.
 
+e. Except as otherwise authorized by section 16-1020 of the administrative code, the commissioner shall have the powers and duties set forth in this subdivision.
+
+   1. The commissioner, in the performance of his or her powers and duties pursuant to paragraph 2 of this subdivision and title 16-B of the administrative code, shall be authorized to receive complaints, conduct investigations, hold public and private hearings, administer oaths, take testimony, serve subpoenas, receive evidence, issue orders, and mediate disputes.
+
+   2. The commissioner shall have the power and duty to regulate the conduct of businesses authorized to collect commercial waste in commercial waste zones pursuant to title 16-B of the administrative code and any other applicable law, including but not limited to, the power and duty to establish and enforce:
+
+      (a) environmental, safety and health standards;
+
+      (b) standards for service;
+
+      (c) requirements regarding contracts for commercial waste removal;
+
+      (d) requirements regarding billing forms and procedures;
+
+      (e) requirements regarding the maintenance and inspection of records;
+
+      (f) requirements regarding the maintenance of appropriate insurance; and
+
+      (g) requirements established in furtherance of the goals of reducing waste and promoting sustainability, safety and efficiency in the commercial waste zone system.
+
+   3. The commissioner shall have the power and duty to establish programs for the education of the public and commercial establishments regarding the commercial waste zone system established pursuant to title 16-B of the administrative code.
+
+
+
 
 
 

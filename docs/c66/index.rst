@@ -23,7 +23,7 @@ Section 2101.
 *Section 2101. Jurisdiction; powers and duties.* ::
 
 
-a. The business integrity commission shall be responsible for the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets. In regulating such industries, areas and markets, the commission shall have the powers and duties conferred by this chapter and such other powers and duties as are conferred by law.
+a. The business integrity commission shall be responsible for the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets. In regulating such industries, areas and markets, the commission shall have the powers and duties conferred by this chapter and such other powers and duties as are conferred by law, except as provided by title 16-B of the administrative code and the local law that added such title.
 
 b. The powers and duties of the business integrity commission shall be exercised in a manner consistent with all local laws governing the regulation of the trade waste industry, the shipboard gambling industry, the fulton fish market distribution area and other seafood distribution areas and the public wholesale markets and shall include but not be limited to the following:
 
@@ -42,6 +42,8 @@ b. The powers and duties of the business integrity commission shall be exercised
    7. to establish fees to enable it to effectuate the purposes of this chapter, including fees sufficient to cover the costs of processing applications and conducting investigations; and
 
    8. to enforce compliance with applicable laws and rules through the imposition of fines and penalties.
+
+
 
 
 

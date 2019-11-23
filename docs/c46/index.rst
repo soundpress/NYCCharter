@@ -109,6 +109,12 @@ a. The art commission shall have general advisory oversight over all works of ar
 
 b. The commission shall maintain and make available for inspection a register of (i) works of art in the city's collection which have been preserved and (ii) works of art in the city's collection which are available, as determined by either the agency or the commission, for a new use or relocation. Every agency shall maintain a list of works of art installed in or erected upon city property assigned for use by the agency and shall notify the commission whenever a work of art becomes available, in its judgment, for a new use or relocation.
 
+c. The commission shall establish a goal that at least 50 percent of new works of art that depict a nonfictional person, historical or otherwise, depict women.
+
+d. The commission shall provide agencies with guidance on submitting works of art depicting a diverse range of subjects and themes. Such guidance shall include strategies to increase the representation of women among works of art depicting nonfictional persons, historical or otherwise, to promote equitable representation.
+
+
+
 
 
 
@@ -139,7 +145,7 @@ Section 859.
 
    Review cycle. The term "review cycle" means the time between the deadline for the filing of a submission to the commission and the scheduled date of the next public meeting of the commission.
 
-2. Not later than August 1, 2018 and no later than August 1 every year thereafter, the commission shall submit to the mayor and the speaker of the council a report with the following data for the previous calendar year:
+2. Not later than August 1, 2018 and no later than August 1 every year thereafter, the commission shall submit to the mayor and the speaker of the council and post online a report with the following data for the previous calendar year:
 
    i. Total number of submissions received by the commission, including submissions for conceptual, preliminary and final review, and disaggregated by the following:
 
@@ -189,7 +195,11 @@ Section 859.
 
    vii. Summary of methods or procedure used to determine approval or rejection of submissions;
 
-   viii. Any other information the commission deems relevant.
+   viii. Number of new works of art that would depict a nonfictional person, historical or otherwise, including a description of each such work of art; the agency which submitted each such work of art; and whether each such submission was approved, approved with conditions, rejected, or commented upon;
+
+   ix. Summary of guidance provided to agencies pursuant to subdivision d of section 857; and
+
+   x. Any other information the commission deems relevant.
 
 
 
