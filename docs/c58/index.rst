@@ -249,6 +249,46 @@ l. (1) [Repealed.]
 
    (4) The amendments to the charter adding section 3203, approved by the electors on November 6, 2018, shall take effect on April 1, 2019, and thereafter shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter. Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of such amendment prior to such date.
 
+m. (1) The amendments to the charter amending paragraphs 6 and 10 of subdivision c of section 10, paragraph 6 of subdivision c of section 24, paragraph 6 of subdivision b of section 25, subdivision c of section 50, subdivisions c, e and f of section 51, paragraph 6 of subdivision e of section 81, and paragraph 6 of subdivision c of section 94, and adding a new section 1057-g, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments to the charter, and thereafter such amendments shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+
+   (2) (a) The amendments to the charter amending paragraphs 1, 3, and 4 of subdivision (b), paragraphs 1, 2, 3, and 5 of subdivision (c), and paragraphs 1 and 2 of subdivision (d), of section 440, approved by the electors on November 5, 2019, shall take effect on March 31, 2020. Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of such amendments prior to such date, and the civilian complaint review board shall promulgate any rules necessary for the timely implementation of such amendments prior to such date.
+
+      (b) The amendments to the charter amending paragraph 3 of subdivision (d) and adding a new subdivision (g) of section 440, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments to the charter.
+
+      (c) Upon the effective dates included in this paragraphs, the amendments described therein shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+
+   (3) (a) The amendments to the charter adding a new section 20-h, approved by the electors on November 5, 2019, shall take effect on March 31, 2020.
+
+      (b) The amendments to the charter amending sections 31 and 391 and subdivision b of section 392, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments to the charter; provided, however, that if the office of the corporation counsel is vacant on such effective date, such vacancy will be deemed to have occurred on such effective date.
+
+      (c) The amendments to the charter amending section 2602, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments to the charter. Provided, however, that:
+
+         (i) The two offices of the conflicts of interest board for which terms expire on March 31, 2022 shall continue until successors have been appointed by the public advocate and comptroller, pursuant to section 2602, for the ensuing terms. The mayor shall not make nominations for successors to such offices unless such offices become vacant prior to March 31, 2022, in which case the mayor shall make nominations for successors to serve for the unexpired portion of the terms. The public advocate and comptroller shall make their initial nominations to the conflicts of interest board by January 30, 2022. If either fails to do so by such date, the term of the member in office shall be extended for an additional year, and the term of the successor to such member shall be shortened by an equal amount of time, pursuant to subdivision c of section 2602.
+
+         (ii) The amendments to the charter amending subdivision b of section 2602 shall only apply to members serving on the conflicts of interest board whose terms begin after the effective date of such amendments, except that such amendments shall apply to any member whose term is extended pursuant to subdivision c of section 2602 after the effective date of such amendments.
+
+      (d) The amendments to the charter amending paragraphs 1 through 3 of subdivision d of section 2604, approved by the electors on November 5, 2019, shall take effect on January 1, 2022 and shall only apply to public servants, as that terms is defined in section 2601, who leave service with the city after such date.
+
+      (e) Upon the effective dates included in this paragraph, the amendments described therein shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as specified by the terms of this paragraph or as specifically provided in other sections of this charter. Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of such amendments prior to such effective dates.
+
+   (4) (a) The following amendments to the charter, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments:
+
+         (1) The amendments to the charter adding a new subdivision o to section 24 and adding a new subdivision 18 to section 82;
+
+         (2) The amendments to the charter renumbering subdivisions 5 through 16 of section 250 to subdivisions 6 through 17, respectively, adding a new subdivision 5 to section 250 and amending section 1515 and subdivision a of section 1516; and
+
+         (3)  The amendments to the charter amending subdivision a and paragraph 1 of subdivision b of section 258 and adding a new section 1528.
+
+      (b) The amendments to the charter relettering subdivisions e and f of section 258 to be subdivisions f and g, respectively, and adding a new subdivision e to section 258, approved by the electors on November 5, 2019, shall take effect on July 1, 2020. Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of these amendments prior to such date.
+
+      (c) Upon the effective dates included in this paragraph, the amendments described therein shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+
+   (5) (a) The amendments to the charter amending subdivision c of section 197-c, approved by the electors on November 5, 2019, shall take effect on August 31, 2020. Officers and employees of the city shall take any actions as are necessary and appropriate to prepare for the implementation of such amendments prior to the such date, and, no later than such date, the city planning commission shall establish rules providing minimum standards for the content and form of pre-certification notices to be submitted to community boards, borough boards and borough presidents.
+
+      (b) The amendments to the charter amending subdivision e of section 197-c, approved by the electors on November 5, 2019, shall take effect immediately upon certification that the electors have approved such amendments to the charter.
+
+      (c)  Upon the effective dates included in this paragraph, the amendments described therein shall control as provided with respect to all the powers, functions and duties of officers, agencies and employees, except as further specifically provided in other sections of this charter.
+
 
 
 

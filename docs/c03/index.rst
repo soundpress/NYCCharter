@@ -27,7 +27,7 @@ b. 1. The commission shall have among its members (a) at least one resident of e
 
    2. The mayor, no later than twenty-two months before the general election of the council to be held in the year nineteen hundred and ninety-three, and every ten years thereafter, shall convene one or more meetings of all of the appointing and recommending authorities specified in subdivision a of this section for the purpose of establishing a screening and selection process for ensuring that the racial and language minority groups in New York city which are protected by the United States voting rights act of nineteen hundred sixty-five, as amended, will be fairly represented on the commission.
 
-c. Each council delegation authorized by subdivision a of this section to make appointments to the commission shall make such appointments no earlier than one year and eight months before, and no later than one year and six months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. In any case in which the chairpersons of the county committees of a political party are authorized to submit nominations to the mayor, such nominations shall be submitted no earlier than one year and eight months before, and no later than one year and six months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. The mayor shall make appointments to the commission after each council delegation authorized to make appointments has done so but not later than one year and five months before such a general election of the council. The commission's term shall end sixty days after the day of the first general election of the council following the commission's adoption of a districting plan, as set forth in section fifty-one.
+c. Each council delegation authorized by subdivision a of this section to make appointments to the commission shall make such appointments no earlier than one year and ten months before, and no later than one year and nine months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. In any case in which the chairpersons of the county committees of a political party are authorized to submit nominations to the mayor, such nominations shall be submitted no earlier than one year and ten months before, and no later than one year and nine months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. The mayor shall make appointments to the commission after each council delegation authorized to make appointments has done so but not later than one year and eight months before such a general election of the council. The commission's term shall end sixty days after the day of the first general election of the council following the commission's adoption of a districting plan, as set forth in section fifty-one.
 
 d. In the event of a vacancy by death, resignation or otherwise, a new member enrolled in the same political party from which his or her predecessor was selected shall be appointed in the same manner as the member whose departure from the commission created the vacancy to serve the balance of the term remaining.
 
@@ -36,6 +36,8 @@ e. No member of the districting commission shall be removed from office except b
 f. The members of the commission shall serve without compensation except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges.
 
 g. The commission may hire or contract for necessary staff assistance and may require agencies of city government to provide technical assistance. The commission shall have a budget as provided by the mayor.
+
+
 
 
 
@@ -51,17 +53,19 @@ a. Following each decennial census, the commission shall prepare a plan for divi
 
 b. The commission shall hold one or more public hearings not less than one month before it submits its plan to the city council, in accordance with subdivision c of this section. The commission shall make its plan available to the public for inspection and comment not less than one month before the first such public hearing.
 
-c. The commission shall submit its plan to the city council not less than one year before the general election of the city council to be held in the year nineteen hundred ninety-three and every ten years thereafter.
+c. The commission shall submit its plan to the city council not less than one year and three months before the general election of the city council to be held in the year nineteen hundred ninety-three and every ten years thereafter.
 
 d. The plan submitted in accordance with subdivision c of this section shall be deemed adopted unless within three weeks, the council by the vote of a majority of all of its members adopts a resolution objecting to such plan and returns the plan to the commission with such resolution and a statement of its objections, and with copies of the written objections of any individual members of the council who have submitted objections to the speaker prior to such date. Any objections from individual members submitted to the speaker by such date shall be transmitted to the districting commission whether or not the council objects to such districting plan.
 
-e. Upon the receipt of any such resolution and objections, the commission shall prepare a revised plan and shall, no later than ten months before such general election of the city council, make such plan available to the council and the public for inspection and comment. The commission shall hold public hearings and seek public comment on such revised plan.
+e. Upon the receipt of any such resolution and objections, the commission shall prepare a revised plan and shall, no later than one year and one month before such general election of the city council, make such plan available to the council and the public for inspection and comment. The commission shall hold public hearings and seek public comment on such revised plan.
 
-f. Following its consideration of the comments received pursuant to subdivision e of this section, the commission shall, no later than eight months before such general election of the council, prepare and submit a final plan for the redistricting of the council.
+f. Following its consideration of the comments received pursuant to subdivision e of this section, the commission shall, no later than eleven months before such general election of the council, prepare and submit a final plan for the redistricting of the council.
 
 g. Notwithstanding the provisions of subdivision d or subdivision f of this section, no plan shall be deemed adopted in accordance with either of such subdivisions until the commission files, with the city clerk, a copy of such plan and a statement signed by at least nine members of the commission certifying that, within the constraint of paragraph a of subdivision one of section fifty-two, the criteria set forth in the other paragraphs of such subdivision have been applied in the order in which they are listed and that such criteria have been implemented, in such order, to the maximum extent practicable. Such certification shall also set forth the manner in which the commission implemented the requirements of paragraph b of subdivision one of section fifty-two. Such plan shall be deemed adopted upon the commission's filing with the city clerk of such plan and such certification.
 
 h. After the commission files its final plan with the city clerk pursuant to subdivision g of this section, the commission shall take all steps necessary to ensure that such plan is effectuated, including but not limited to submitting such plan for preclearance by the United States department of justice pursuant to the United States voting rights act of nineteen hundred sixty-five, as amended, and making such adjustments in its plan as may be necessary and appropriate to respond to a determination of a court or the United States department of justice.
+
+
 
 
 

@@ -177,11 +177,13 @@ c. The department of city planning shall be responsible for certifying that appl
 
 d. If a meeting involving a city agency and an applicant is convened to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law for an application subject to review under this section, each affected community board and each affected borough president shall receive advance notice of such meeting, and each shall have the right to send one representative to the meeting.
 
-e. Each affected community board shall, not later than sixty days after receipt of an application that has been certified pursuant to subdivision c of this section,
+e. (1) Except as otherwise provided in paragraph two of this subdivision each affected community board shall, not later than sixty days after receipt of an application that has been certified pursuant to subdivision c of this section,
 
-   (1) notify the public of the application in a manner specified by the city planning commission pursuant to subdivision i of this section, and
+      (a) notify the public of the application in a manner specified by the city planning commission pursuant to subdivision i of this section, and
 
-   (2) either (a) conduct a public hearing thereon and prepare and submit a written recommendation directly to the city planning commission and to the affected borough president or (b) where authorized by this charter, submit a written waiver of the right to conduct a public hearing and to submit such written recommendations to the commission and the affected borough president.
+      (b) either (i) conduct a public hearing thereon and prepare and submit a written recommendation directly to the city planning commission and to the affected borough president or (ii) where authorized by this charter, submit a written waiver of the right to conduct a public hearing and to submit such written recommendations to the commission and the affected borough president.
+
+   (2) Where an application has been certified during the month of June, the affected community board shall provide notification pursuant to subparagraph (a) of paragraph 1 of this subdivision and conduct a hearing or, where authorized, submit a waiver of the right to conduct a public hearing pursuant to subparagraph (b) of paragraph 1 of this subdivision not later than ninety days after receipt of such application or, where such application is certified during the period of time from and including July 1 to and including July 15, not later than seventy-five days after receipt of such application.
 
 f. A copy of a recommendation or waiver by a community board pursuant to subdivision e of this section that involves land located within two or more community districts in a borough shall also be filed with the affected borough board within the same time period as specified in subdivision e. Not later than thirty days after the filing of a recommendation or waiver with the borough board by all affected community boards, or, if any affected community board shall fail to act, thirty days after the expiration of the time allowed for such community board to act, the borough board may hold a public hearing on the application and any such recommendations and submit a written recommendation or waiver thereof to the city planning commission.
 
@@ -198,6 +200,8 @@ k. Notice of any hearing on an application by the city planning commission shall
 l. The commission shall establish by rule procedures for advance posting of notices of commission hearings on applications. Such notices shall be posted at the location of the land involved in such manner and with respect to such types of applications as the commission deems appropriate. Failure to post any such notice shall not affect or impair the validity of any decision of the city planning commission, the council or other agency or official pursuant to this chapter.
 
 m. A community or borough board may review an application which is subject to the uniform land use review procedure pursuant to this section but does not involve land so located as to require reference to such board for review, if in the board's judgment the application might significantly affect the welfare of the community district or borough served by such board. In such a case the application and the related materials submitted to the affected board or boards by the city planning department shall be submitted also to such board upon the request of such board, and such board may hold its own public hearing thereon if it so desires and may submit its own written recommendations in regard thereto to the city planning commission for consideration at any time before the city planning commission takes action thereon.
+
+
 
 
 

@@ -105,19 +105,21 @@ c. Any vacancy in the office of comptroller shall be filled by popular election,
 
    5. If a vacancy occurs after the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election in each year with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law, but not less than ninety days before the date of the primary election in the fourth year of such term, a special or general election to fill such vacancy for the remainder of the unexpired term shall be held.
 
-   6. Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: a special election to fill the vacancy shall be held on the first Tuesday at least forty-five days after the occurrence of the vacancy, provided that the mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day no more than ten days after such Tuesday and not less than forty days after such proclamation if the mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that
+   6. Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: A special election to fill the vacancy shall be held on the first Tuesday at least eighty days after the occurrence of the vacancy, provided that the mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day no more than ten days after such Tuesday and not less than seventy-five days after such proclamation if the mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that
 
-      (a) if the vacancy occurs before September twentieth in any year and the first Tuesday at least forty-five days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election or between a primary and a general election, the vacancy shall be filled at such general election; and
+      (a) if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election, the vacancy shall be filled at such general election;
 
-      (b) if the vacancy occurs before September twentieth in any year and the first Tuesday at least forty-five days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and
+      (b) if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and
 
-      (c) if the vacancy occurs on or after September twentieth in any year and the first Tuesday at least forty-five days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year.
+      (c) if the vacancy occurs on or after August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year.
 
    7. All nominations for elections to fill vacancies held pursuant to paragraphs four and five of this subdivision shall be by independent nominating petition. A signature on an independent nominating petition made earlier than the date of the proclamation required by paragraph one of this subdivision shall not be counted.
 
    8. A person elected to fill a vacancy in the office of the comptroller at an election held pursuant to paragraph four of this subdivision shall take office immediately upon qualification and serve until December thirty-first of the year in which the vacancy is filled for the remainder of the unexpired term pursuant to paragraph two of this subdivision. A person elected to fill a vacancy in the office of the comptroller at an election held pursuant to paragraph five of this subdivision shall take office immediately upon qualification and serve until the term expires.
 
    9. If a vacancy occurs less than ninety days before the date of the primary election in the last year of the term, the person elected at the general election in such year for the next succeeding term shall take office immediately upon qualification and fill the vacancy for the remainder of the unexpired term.
+
+
 
 
 

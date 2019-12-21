@@ -478,3 +478,135 @@ f. In implementing the provisions of this section, the campaign finance board ma
 
 
 
+Section 1057-g.
+--------------------------------------------------
+
+
+*Section 1057-g. Ranked choice voting for certain primary elections and elections for which nominations were made by independent nominating petitions.* ::
+
+
+a. For the purposes of this section, the following terms have the following meanings:
+
+   Batch elimination. The term "batch elimination" means the simultaneous elimination of multiple candidates whose election is mathematically impossible.
+
+   Continuing ballot. The term "continuing ballot" means a ballot that is not an exhausted ballot.
+
+   Continuing candidate. The term "continuing candidate" means any candidate who has not been eliminated.
+
+   Election is mathematically impossible. The term "election is mathematically impossible" applies to a candidate who cannot be elected because such candidate's vote total in a round, plus all votes that could possibly be transferred to such candidate in future rounds from candidates who received a fewer or an equal number of votes, would not be enough to surpass that of the candidate with the next highest vote total in such round.
+
+   Exhausted ballot. The term "exhausted ballot" means a ballot in which all ranked candidates have been eliminated, or a ballot that assigns equal rank to two or more candidates and all candidates with higher ranks than the rank assigned to two or more candidates are eliminated.
+
+   Highest rank. The term "highest rank" refers to the highest rank whether that be rank number 1, rank number 2, rank number 3, rank number 4, or rank number 5.
+
+   Last place candidate. The term "last place candidate" means a continuing candidate with the fewest votes in a round.
+
+   Rank. The term "rank" means the number assigned on a ballot by a voter to a candidate to express the voter's preference for that candidate. Rank number 1 is the highest ranking, rank number 2 is the next highest ranking, and so on.
+
+   Ranked choice election. The term "ranked choice election" means any primary election for a ranked choice office, and any election for a ranked choice office in which all candidates are nominated by independent nominating petition.
+
+   Ranked choice office. The term "ranked choice office" means the offices of mayor, public advocate, comptroller, borough president, and council member.
+
+   Ranked choice voting. The term "ranked choice voting" means the method of casting and tabulating votes in which voters rank candidates in order of preference, tabulation proceeds in rounds in which last place candidates are eliminated, and the candidate with the most votes in the final round is elected.
+
+b. The provisions of this section shall apply to ranked choice elections. No run-off election shall be held for any ranked choice office.
+
+c. Ranked choice elections shall be governed by applicable provisions of the election law, except that the following provisions of the election law, as amended from time to time, and any successor provisions, shall apply as modified herein. References to the sections modified herein shall be deemed to refer to such sections as they are so modified when and to the extent that they apply to ranked choice elections. References to provisions of the election law in this section shall be deemed to refer to any successor provisions. Provisions of the election law not specified in this subdivision here shall apply to ranked choice elections, provided however that such provisions shall not be construed to prevent or impede the application of this section.
+
+   1. Sections 6-150 and 6-152 shall apply to ranked choice elections, except that where such sections refer to a candidate's receipt of a plurality of votes cast, such sections shall be deemed to refer instead to a candidate's election, or nomination, respectively, pursuant to this section.
+
+   2. Section 6-162 shall not apply to ranked choice elections.
+
+   3. Either subparagraph (a) or (b) shall apply depending on the conditions described in each such subparagraph.
+
+      (a) In the event that A. 2682-A / S. 2300-A from the 2019-2020 New York state legislative session that would enact the voter friendly ballot act does not become law, paragraph (c) of subdivision 3 of section 7-104; subdivisions 5 and 8 of section 7-106; paragraph (c) of subdivision 2 of section 7-114; and paragraph (d) of subdivision 1, and paragraph (c) of subdivision 2 of section 7-122 are superseded with respect to ranked choice elections, and ballots to which these provisions would otherwise apply shall be designed pursuant to subdivision d of this section.
+
+      (b) In the event A. 2682-A / S. 2300-A from the 2019-2020 New York state legislative session that would enact the voter friendly ballot act becomes law, thus amending the election law, paragraph (d) of subdivision 3, and subdivisions 13, 17 and 20 of section 7-104; and paragraph (b) of subdivision 1 of section 7-122 are superseded with respect to ranked choice elections, and ballots to which these provisions would otherwise apply shall be designed pursuant to subdivision d of this section.
+
+   4. Paragraph b of subdivision 1 of section 8-100 shall not apply to ranked choice elections.
+
+   5. Section 9-100 shall apply to ranked choice elections, except that the requirement that canvass be completed shall be deemed to be a canvass completed under Article 9 of the Election Law as modified by this section.
+
+   6. Section 9-102 shall apply to ranked choice elections, except that the requirement that ballots be hand counted pursuant to subdivisions 1 or 1-a, as applicable, 2, and 3 of such section is superseded to the extent that it is not required pursuant to the rules promulgated by the board of elections in the city of New York pursuant to subdivision g of this section of the charter; and except that with respect to reading, announcing, or making a proclamation of results, and with respect to the hand tallying of votes, such requirements shall be deemed to mean reading, announcing, or proclaiming the results of the tally of the number of ballots that marked each candidate as rank number 1 for that ranked choice office; and except that reference to "total of the votes cast" on portable memory devices shall mean the record of how each ballot ranked each candidate for a ranked choice office in a ranked choice election.
+
+   7. Subdivision 2 of section 9-110 is superseded with respect to ranked choice elections, and ballots to which it would otherwise apply shall be hand counted in accordance with the rules promulgated by the board of elections in the city of New York pursuant to subdivision g of this section of the charter.
+
+   8. Section 9-112 shall apply to ranked choice elections, except that references to votes for candidates or other persons shall be deemed to be references to a vote, or the counting of a vote, in a round of tabulation pursuant to this section of the charter if the applicable election is a ranked choice election; and except that subdivisions 4 and 6 of section 9-112 are superseded to the extent that voters are permitted to rank multiple candidates as provided by this section of the charter.
+
+   9. Section 9-114 shall apply to ranked choice elections, except that, to the extent a ballot subject to an objection has been counted under such section, the memorandum of the ruling shall indicate "Counted for (naming the candidate who is ranked as the highest rank on such ballot)."
+
+   10. Section 9-116 shall apply to ranked choice elections, except that, with respect to tallying and the total number of votes for a ranked choice office, the requirements of section 9-116 shall be deemed to refer to the number of ballots that marked each candidate as rank number 1 for that ranked choice office.
+
+   11. Section 9-120 shall apply to ranked choice elections, except that references to the number of votes for candidates shall be deemed in ranked choice elections to be references to the total number of ballots that marked a candidate in such an election as rank number 1 for that ranked choice office.
+
+   12. Section 9-122 shall apply to ranked choice elections, except that references to the number of votes or party votes for candidates shall be deemed in ranked choice elections to be references to the total number of ballots that marked each such candidate as rank number 1 for that ranked choice office.
+
+   13. Section 9-126 shall apply to ranked choice elections, except that the reference in paragraph (a) of subdivision 2 to the number of votes received by each person voted for shall be deemed in ranked choice elections to be a reference to the total number of ballots that marked each such person as rank number 1 for that ranked choice office; and except that, for ranked choice elections, the tabulation of results as they are received pursuant to paragraph (b) of subdivision 2 shall be deemed to refer to either, as determined by the board of elections of the city of New York pursuant to paragraph 1 of subdivision f of this section of the charter, (i) a tabulation of the number of ballots assigning rank number 1 for each candidate for each ranked choice office, or (ii) the number of votes cast for each such candidate for that ranked choice office for each round of tabulation, as tabulated pursuant to subdivision e of this section of the charter.
+
+   14. Section 9-200 shall apply to ranked choice elections, except that the tabulated statements referred to in subdivision 1 of section 9-200 shall be deemed to mean, for ranked choice elections, the number of votes cast for all candidates for a ranked choice office as tabulated pursuant to this section of the charter, and the results for each round of such tabulation for such office; and except that the nominee of his or her party for a ranked choice office shall be determined in accordance with this section of the charter.
+
+   15. Section 9-202 shall apply to ranked choice elections, except that the tabulated statements referred to in section 9-202 shall be deemed to mean, for ranked choice offices, the number of votes cast for all candidates for a ranked choice office as tabulated pursuant to this section of the charter, the number of votes cast for each such candidate for that ranked choice office for each round of tabulation, as tabulated pursuant to subdivision e of this section of the charter; and except that the nominee of his or her party for a ranked choice office shall be determined in accordance with this section of the charter.
+
+   16. Section 9-206 shall apply to ranked choice elections, except that votes cast for all candidates for a ranked choice office shall be tabulated pursuant to this section of the charter.
+
+   17. Subdivision 3 of section 9-208 shall apply to ranked choice elections, except that the reference to the "number of votes recorded on the tabulated results tape" shall, with respect to ranked choice offices, be deemed to be a reference to the total number of ballots recorded on the tabulated results tape.
+
+   18. Section 9-209 shall apply to ranked choice elections, except that subparagraph (ii) of paragraph (c) of subdivision 2 of section 9-209 shall be deemed to refer to manual counting subject to this section of the charter, and the provisions of the election law as superseded or modified herein where not inconsistent with the provisions of this section of the charter; and except that, for ranked choice elections, the requirement in subdivision (e) that ballots be tallied, and that such tally be added to a previous tally, and that the result be announced, are superseded and inapplicable, but that such ballots in ranked choice elections be included in the tabulation undertaken pursuant to sections 9-200, 9-210 and 9-212 as applicable, as superseded or modified herein.
+
+   19. Section 9-210 shall apply to ranked choice elections, except that for ranked choice elections the requirement that a statement set forth the number of votes cast for each candidate shall be deemed to require that the statement set forth the number of votes cast for each candidate for that ranked choice office for each round of tabulation, as tabulated pursuant to subdivision e of this section of the charter; and except that for ranked choice elections an electronic record of how each ballot ranked each candidate for a ranked choice office from which such statements were made, including, to the extent practicable, such information broken down by election district, instead of any tabulation sheets showing the vote by election districts, shall be filed in the office of the board of elections in the city of New York.
+
+   20. Section 9-212 shall apply to ranked choice elections, except that each person elected to a ranked choice office in a ranked choice election shall be determined in accordance with this section of the charter.
+
+d. The board of elections in the city of New York shall determine the design of the ballot and content of ballot instructions for ranked choice elections, subject to the requirements of this subdivision and any election law requirements not superseded under this section, in furtherance of the purposes of this section. For all ranked choice elections, the following requirements for all ballots, including ballots for absentee voters and ballots for military voters, shall apply:
+
+   1. All candidates in a ranked choice election shall be listed on the ballot. The ballot shall permit a voter to rank five candidates, inclusive of any write-in candidate permitted by law, in order of preference for a ranked choice office, unless there are fewer than five candidates on the ballot for such office, in which case the ballot shall permit a voter to rank the total number of such candidates for such office inclusive of any write-in candidate permitted by law.
+
+   2. The sections of the ballot containing ranked choice elections shall be organized in the form of a grid, with dimensions and spacing sufficient to facilitate a ranked choice election pursuant to the requirements set forth in this subdivision. The title of the office shall be arranged horizontally in a row at the top of such grid, with columns underneath. The leftmost column shall contain the names of the candidates for such office and the slot or device for write-in candidates for such office, arranged vertically. For any election for a ranked choice office in which all candidates are nominated by independent nominating petition, the names selected for the independent bodies making the nomination of the candidates shall be included on the ballot in accordance with the election law. The subsequent columns shall contain ovals or squares, with one oval or square per each column and row. Each column containing ovals or squares shall be labeled consecutively with the rankings, starting from "1st choice" and going up to a maximum of "5th choice."
+
+   3. The ballot shall, in plain language, set forth instructions that indicate how to mark a ballot so as to be read by the voting equipment used to tabulate results or manually, as applicable, and how to rank candidates in order of the voter's preference, and any other information deemed necessary by the board of elections in the city of New York. Such instructions and ballot heading information shall be presented above or next to the first election of each type. At a minimum, the text for ballot instructions shall be substantially as follows so that it accurately reflects the ballot layout:
+
+INSTRUCTIONS
+
+Rank candidates in the order of your choice. Mark the (insert "oval" or "square") in the "1st choice" column for your first-choice candidate. Mark the (insert "oval" or "square") in the "2nd choice" column for your second-choice candidate, and so on. (Provide illustration of correctly marked voting positions here.) To rank a candidate whose name is not printed on the ballot, mark (insert "an oval" or "a square") next to the box labeled "write-in" and print the name clearly, staying within the box. You may mark as many or as few candidates as the numbered columns allow, but do not mark more than one (insert "oval" or "square") per candidate. Ranking a second-choice candidate, third-choice candidate, and so on will not hurt your first-choice candidate. Do not mark more than one (insert "oval" or "square") in any column. If you do, your vote may not count. Any mark or writing outside the spaces provided for voting may void the entire ballot. You have a right to a replacement ballot. If you make a mistake, or want to change your vote, (insert "ask a poll worker for a new ballot" or, for absentee ballots, "call the board of elections at (insert phone number here) for instructions on how to obtain a new ballot").
+
+   The board shall also provide line drawing illustrations to supplement these instructions. At a minimum, an illustration of the correct way to mark the ballot shall be provided, but nothing in this section shall be construed to limit the board in providing additional illustrations.
+
+   4. To the greatest extent practicable, the ballot design shall allow for electronic tabulation of all rankings and electronic detection of ballot marking in order to allow a voter to correct a ballot that assigns equal rank to two or more candidates.
+
+   5. If a ranked choice election is on the ballot with one or more elections using other methods of voting, to the extent practicable, the ranked choice elections shall be grouped together and presented either on a separate ballot page from the non-ranked choice elections, or on one side of a combined ranked choice and non-ranked choice ballot page.
+
+   6. The final ballot design shall be based on the space and design limitations of the ballot design software, while following the best practices for ballot design to the greatest extent possible.
+
+e. For all ranked choice elections, the following tabulation procedures apply:
+
+   1. If a candidate receives a majority of highest rank votes, that candidate shall be declared the nominee of his or her party for a primary election, or declared the elected winner for an election for which nominations were made by independent nominating petitions.
+
+   2. If no candidate receives a majority of highest rank votes, tabulation shall proceed in rounds. In each round, the number of votes for each continuing candidate shall be counted; each continuing ballot shall count as one vote for its highest ranked continuing candidate for that round; and exhausted ballots shall not be counted for any continuing candidate. A round ends with one of the following outcomes:
+
+      (a) If there are two continuing candidates, the candidate with the most votes shall be declared the nominee of his or her party for a primary election, or elected winner for an election for which nominations were made by independent nominating petitions.
+
+      (b) If there are more than two continuing candidates, the last place candidate shall be eliminated and a new round shall begin; provided, however, that batch elimination shall occur at the same time as such elimination of the last place candidate, unless such batch elimination would result in only one continuing candidate, in which case no such batch elimination shall occur.
+
+   3. A tie between two or more candidates shall be resolved in accordance with the election law.
+
+f. 1. When making public the results of a ranked choice election pursuant to section 9-126 of the election law, the board of elections in the city of New York shall release as the unofficial tally either, as determined by the board, (i) the total number of ballots that marked a candidate in such an election as rank number 1 that ranked choice office, or (ii) the number of votes cast for each candidate for that ranked choice office for each round of tabulation, as tabulated pursuant to subdivision e of this section of the charter.
+
+   2. When making the statement of results of a ranked choice election pursuant to section 9-210 of the election law, such statement shall set forth the number of votes cast for each candidate for that ranked choice office for each round of tabulation, as tabulated pursuant to subdivision e of this section of the charter, in addition to any other requirements provided by section 9-210 of the election law.
+
+g. The board of elections in the city of New York shall promulgate rules for the hand counting of any ballot in a ranked choice election that is required to be hand counted pursuant to article 9 of the election law, as superseded by this section. Such rules shall ensure that all ranks on a hand counted ballot for candidates in a ranked choice election are tabulated with all machine-counted ballots in a ranked choice election pursuant to the tabulation procedure established in subdivision e of this section.
+
+h. The campaign finance board shall conduct a voter education campaign to familiarize voters with ranked choice voting.
+
+i. The board of elections in the city of New York shall take all necessary steps to ensure timely implementation of ranked choice voting pursuant to this section. No later than June 1, 2020, such board shall submit to the mayor and speaker of the council a report containing a plan for achieving timely implementation of ranked choice voting for applicable elections held on or after January 1, 2021. Failure by such board to submit such a report within 30 days of June 1, 2020 shall create a rebuttable presumption that such board is declining to implement ranked choice voting as required by this section.
+
+j. This section applies to elections held on or after January 1, 2021, if the applicable election is a ranked choice election.
+
+k. 1. Any person who knowingly and willfully violates any provision of this section of the charter which violation is not specifically covered by section 17-168 or any other provision of article seventeen of the election law is guilty of a misdemeanor.
+
+   2. Any person convicted of a misdemeanor under this subdivision shall be punished by imprisonment for not more than one year or by a fine of not less than one hundred dollars nor more than five hundred dollars or by both such fine and imprisonment.
+
+
+
+
+
+

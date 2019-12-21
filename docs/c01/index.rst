@@ -135,13 +135,13 @@ c. 1. Within three days of the occurrence of a vacancy in the office of the mayo
 
    5. If a vacancy occurs after the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election in each year with party nominations of candidates for such election are being made at a primary election, as provided in section 6-116 of the election law, but not less than ninety days before the date of the primary election in the fourth year of such term, a special or general election to fill such vacancy for the remainder of the unexpired term shall be held.
 
-   6. Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: a special election to fill the vacancy shall be held on the first Tuesday at least sixty days after the occurrence of the vacancy, provided that the person acting as mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day not more than ten days after such Tuesday and not less than forty days after such proclamation if the person acting as mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that
+   6. Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: A special election to fill the vacancy shall be held on the first Tuesday at least eighty days after the occurrence of the vacancy, provided that the person acting as mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day not more than ten days after such Tuesday and not less than sixty days after such proclamation if the person acting as mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that
 
-      (a) if the vacancy occurs before September twentieth in any year and the first Tuesday at least sixty days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election or between a primary and a general election, the vacancy shall be filled at such general election; and
+      (a) if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election, the vacancy shall be filled at such general election;
 
-      (b) if the vacancy occurs before September twentieth in any year and the first Tuesday at least sixty days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and
+      (b) if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and
 
-      (c) if the vacancy occurs on or after September twentieth in any year and the first Tuesday at least sixty days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year.
+      (c) if the vacancy occurs on or after August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year.
 
    7. All nominations for elections to fill vacancies held pursuant to paragraphs four and five of this subdivision shall be by independent nominating petition. A signature on an independent nominating petition made earlier than the date of the proclamation required by paragraph one of this subdivision shall not be counted.
 
@@ -149,7 +149,7 @@ c. 1. Within three days of the occurrence of a vacancy in the office of the mayo
 
    9. If a vacancy occurs less than ninety days before the date of the primary election in the last year of the term, the person elected at the general election in such year for the next succeeding term shall take office immediately upon qualification and fill the vacancy for the remainder of the unexpired term.
 
-   10. If at any election held pursuant to this subdivision for which nominations were made by independent nominating petitions, no candidate receives forty percent or more of the vote, the two candidates receiving the most votes shall advance to a runoff election which shall be held on the second Tuesday next succeeding the date on which such election was held.
+   10. If an election is held pursuant to this subdivision for which nominations were made by independent nominating petitions, and if such election has not utilized ranked choice voting as provided in section 1057-g, and if at such election, no candidate receives forty percent or more of the vote, the two candidates receiving the most votes shall advance to a runoff election which shall be held on the second Tuesday next succeeding the date on which such election was held.
 
 d. Determination of mayoral inability.
 
@@ -192,6 +192,8 @@ d. Determination of mayoral inability.
       (a) During the time that any official is acting as mayor pursuant to a determination of temporary inability, the mayor shall continue to be paid the salary of the office of mayor, and the acting mayor shall continue to be paid the salary of the office to which such person was elected.
 
       (b) Any mayor who has been determined to be permanently unable to discharge the powers and duties of the office of mayor pursuant to paragraph five of this subdivision shall continue to receive from the city, a sum which together with the mayor's disability benefits and retirement allowance, if any, computed without optional modification, shall equal the annual salary which such mayor was receiving at the time of the determination of permanent inability. Such disability allowance shall begin to accrue on the date of the determination of permanent inability and shall be payable on the first day of each month until the expiration of the term for which such mayor had been elected or such mayor's death, whichever shall occur first. Such mayor shall apply for any retirement allowance or disability benefits to which he or she may be entitled and the disability allowance provided for in this section shall not reduce or suspend such retirement allowance or disability benefits, notwithstanding any other provision of law.
+
+
 
 
 
@@ -1015,7 +1017,33 @@ c. Powers and duties. The director shall have the power and duty to:
 
 d. Notwithstanding subdivision c of this section, paragraph 1 of such subdivision shall not apply to any cultural organization that is identified by the department of cultural affairs as eligible to receive grant funding from such department, except as otherwise determined by the director and such department.
 
-e. Report. Within 18 months of the effective date of the local law that added this section, and annually thereafter, the director shall prepare and submit a report to the mayor and the speaker of the council that shall include, but not be limited to, the activities of the office and any recommendations developed by the director pursuant to this section.
+e. Reporting.
+
+   1. Within 18 months of the effective date of the local law that added this section, and annually thereafter, the director shall prepare and submit a report to the mayor and the speaker of the council that shall include, but not be limited to, the activities of the office and any recommendations developed by the director pursuant to this section.
+
+   2. The office shall submit to the council and post to the office’s website, in a machine readable format, a report on multi-agency response to community hotspots operations consistent with paragraph 3 of this subdivision. For the purposes of this section, the term “multi-agency response to community hotspots operation” or “operation” means an enforcement effort involving multiple city agencies or offices directed at an establishment which has been the source of community complaints, coordinated by the police department’s civil enforcement unit. Such reports shall include the following information for each operation during the previous six months:
+
+      (a) The borough, council district, and zip code of the operation.
+
+      (b) The conduct or complaint that resulted in an establishment being the subject of an operation, including any relevant 311, 911, department of building, department of health, or other form of complaint and the number of such complaints.
+
+      (c) The number of times each establishment was the subject of an operation and the basis for each operation.
+
+      (d) The date and time of each operation, including the time each operation commenced and the average time spent inside each establishment, and whether the operation resulted in the closure of the establishment for the duration of the operation.
+
+      (e) The agencies present for the operation, including the number of personnel from each agency.
+
+      (f) Any civil or criminal summonses as defined in section 14-101 of the administrative code, issued during an operation and the agency responsible for each such summons.
+
+      (g) The precinct that requested each establishment’s inclusion in the operation.
+
+      (h) Whether the targeted establishment was ordered to cease operations as a result of an operation or enforcement actions taken as part of an operation, including the average duration of such closures.
+
+      (i) The number of written notices provided, as defined in section 14-181 of the administrative code, and the number of times, and reasons why, such written notice was not provided due to a law enforcement exception, as defined in section 14-181 of the administrative code.
+
+   3. No later than two months after January 1 and July 1 in each calendar year beginning in 2020, the office shall publish the information required in paragraph 2 of this section in the aggregate for the periods ending on the preceding December 31 and June 30 respectively. Such information shall include the number and percentage of each data point, provided that such information that cannot be aggregated need not be included in such report. Such reports must be machine readable, and shall be stored on the police department’s or the office of nightlife’s website for at least ten years.
+
+   4. No information that is otherwise required to be reported pursuant to this section shall be reported in a manner that would violate any applicable provision of federal, state or local law relating to the privacy of information.
 
 f. Nightlife advisory board.
 
@@ -1120,6 +1148,88 @@ c. The director shall have the power and duty to:
    7. Guide the training of agency staff, community boards and members of the public on the use of the web portal required by section 23-502 of the administrative code, and develop and implement an open data public education strategy.
 
 d. The director shall possess such powers, in addition to any powers vested in him or her pursuant to any other provision of law that may be assigned by the mayor or head of such department wherein the office has been established.
+
+
+
+
+
+
+Section 20-g.
+--------------------------------------------------
+
+
+*Section 20-g. Office for the prevention of hate crimes.* ::
+
+
+a. The mayor shall establish an office for the prevention of hate crimes. Such office may be established within any office of the mayor or as a separate office or within any other office of the mayor or within any department the head of which is appointed by the mayor. Such office shall be headed by a coordinator who shall be appointed by the mayor or the head of such department. For the purposes of this section only, “coordinator” shall mean the coordinator of the office for the prevention of hate crimes.
+
+b. Powers and duties. The coordinator shall have the power and the duty to:
+
+   1. Advise and assist the mayor in planning and implementing for coordination and cooperation among agencies under the jurisdiction of the mayor that are involved in prevention, awareness, investigation and prosecution, and impact on communities of hate crimes.
+
+   2. Create and implement a coordinated system for the city’s response to hate crimes. Such system shall, in conjunction with the New York city commission on human rights’ bias response teams, the police department, and any relevant agency or office, coordinate responses to hate crime allegations.
+
+   3. Review the budget requests of all agencies for programs related to hate crimes, and recommend to the mayor budget priorities among such.
+
+   4. Prepare and submit to the mayor and the council and post on the city’s website by January 30 of each year an annual report of the activities of the office, regarding the prevalence of hate crimes during the previous calendar year and the availability of services to address the impact of these crimes. Such report shall include but need not be limited to the following information: (i) identification of areas or populations within the city that are particularly vulnerable to hate crimes, (ii) identification and assessment of the efficacy of counseling and resources for victims of hate crimes, making recommendations for improvements of the same, (iii) collation of city, state and federal statistics on hate crime complaints and prosecutions within the city, including incidents by offense, bias motivation, and demographic characteristics such as age and gender of offenders, (iv) the populations to which the division of educational outreach addressed, (v) the types of programs created or provided by the division of educational outreach and the names of the providers of such programs, and (vi) any other outreach, education, and prevention efforts made by the division of educational outreach.
+
+   5. Study the effectiveness of, and make recommendations with respect to, the expansion of safety plans for neighborhoods and institutions that are particularly vulnerable to hate crimes, and the resources available for victims. This paragraph shall not require the disclosure of material that would reveal non-routine investigative techniques or confidential information or where disclosure could compromise the safety of the public or police officers or could otherwise compromise law enforcement investigations or operations.
+
+   6. Serve as liaison for the city with providers of victim services, community groups, and other relevant nongovernmental entities and assist in the coordination among such entities on reporting and responding to allegations of hate crimes, to ensure that city residents have access to relevant services after hate crime events.
+
+   7. Perform other duties as the mayor may assign.
+
+c. The coordinator shall establish a division of educational outreach. The division shall have the power and the duty to:
+
+   1. Ensure, by such means as necessary, including coordination with relevant city agencies and interfaith organizations, community groups, and human rights and civil rights groups, the provision of effective outreach and education on the impact and effects of hate crimes, including measures necessary to achieve greater tolerance and understanding, and including the use of law enforcement where appropriate.
+
+   2. Create a K-12 curriculum addressing issues related to hate crimes, in consultation with the department of education.
+
+   3. Perform other duties as the mayor may assign.
+
+
+
+
+
+
+Section 20-h.
+--------------------------------------------------
+
+
+*Section 20-h. Office of minority and women-owned business enterprises.* ::
+
+
+a. Definitions. As used in this section, the following terms have the following meanings:
+
+   Agency M/WBE officer. The term "agency M/WBE officer" means a deputy commissioner or other executive officer designated pursuant to subdivision f of section 6-129 of the administrative code.
+
+   Director. The term "director" means the holder of the position defined under paragraph (14) of subdivision c of section 6-129 of the administrative code.
+
+   M/WBE. The term "M/WBE" means a minority or women-owned business enterprise certified in accordance with section 1304.
+
+   Office. The term "office" means the office of minority and women-owned business enterprises.
+
+b. Notwithstanding any provision to the contrary contained in section 6-129 of the administrative code, the director shall report directly to the mayor.
+
+c. The mayor shall establish an office of minority and women-owned business enterprises within any office of the mayor. The head of such office shall be either the director or an individual who shall report directly to the director.
+
+d. The office shall perform the following duties:
+
+   1. Monitor agencies' compliance with section 1304 of the charter and section 6-129 of the administrative code, and assist the director in carrying out the director's duties under section 6-129 of the administrative code;
+
+   2. Work with agency staff, including agency M/WBE officers, to facilitate M/WBE participation in city procurement opportunities;
+
+   3. Facilitate communication between M/WBEs, other members of the public and agencies to address M/WBE-related concerns;
+
+   4.  Assist in the development of policies, maintain oversight and help expand agency programming relating to M/WBEs across all city agencies;
+
+   5. Carry out outreach and education efforts regarding programs and opportunities for M/WBEs to engage in city procurement, including efforts to encourage eligible firms to certify as M/WBEs with the city;
+
+   6. Establish and maintain relationships with the public to promote government procurement opportunities for M/WBEs; and
+
+   7. Other duties as the mayor may assign.
+
+e. The head of each agency shall cooperate with and furnish to the office such information and assistance as may be required in order for the office to perform its duties.
 
 
 

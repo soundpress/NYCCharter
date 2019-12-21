@@ -4,10 +4,14 @@ Section 391.
 --------------------------------------------------
 
 
-*Section 391. Department; corporation counsel.* ::
+*Section 391. Department; corporation counsel; vacancy.* ::
 
 
-There shall be a law department the head of which shall be the corporation counsel.
+a. There shall be a law department the head of which shall be the corporation counsel.
+
+b. Within 60 days following the occurrence of a vacancy in the office of the corporation counsel, the mayor shall submit to the council the name of the mayor’s nominee for corporation counsel. If the council disapproves a nomination while the office of the corporation counsel is vacant, the mayor shall submit a new nomination to the council within 60 days of council disapproval. Each subsequent council disapproval of a mayoral nomination shall begin a new 60-day period. The mayor shall make all reasonable efforts to ensure that the vacancy is filled through the process described in this subdivision within 120 days of the occurrence of the vacancy.
+
+
 
 
 
@@ -21,9 +25,11 @@ Section 392.
 
 a. The corporation counsel may appoint a first assistant corporation counsel and such other assistants as may be necessary within the appropriation therefor.
 
-b. The first assistant corporation counsel shall, during the absence or disability of the corporation counsel, possess all the powers and perform all the duties of the corporation counsel and in case of the death or the corporation counsel or of a vacancy in that office shall act as corporation counsel until the appointment and qualification of a corporation counsel.
+b. The first assistant corporation counsel shall, during the absence or disability of the corporation counsel, possess all the powers and perform all the duties of the corporation counsel and in case of the death or the corporation counsel or of a vacancy in that office shall act as corporation counsel until the appointment and qualification of a corporation counsel in accordance with law.
 
 c. Any assistant shall, in addition to the duties regularly assigned to him or her, possess such of the powers and perform such of the duties of the corporation counsel as the corporation counsel shall empower such assistant to exercise by written authority filed and remaining on record in the department.
+
+
 
 
 

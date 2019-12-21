@@ -207,13 +207,17 @@ Section 1515.
 *Section 1515. Statement and estimate by the mayor.* ::
 
 
-a. The mayor shall prepare and submit to the council, immediately upon the adoption of a single budget pursuant to section two hundred fifty-four, a statement setting forth the amount of the budget as approved by the council for the ensuing year and the mayor shall prepare and submit to the council not later than the fifth day of June an estimate of the probable amount of (1) receipts into the city treasury during the ensuing fiscal year from all the sources of revenue of the general fund and (2) all receipts other than those of the general fund and taxes on real property. The mayor may include in the statement of the amount of the budget as approved by the council a confirmation of such amount, and thereby waive mayoral veto power pursuant to section two hundred fifty-five.
+a. The mayor shall prepare and submit to the council, immediately upon the adoption of a single budget pursuant to section two hundred fifty-four, a statement setting forth the amount of the budget as approved by the council for the ensuing year. The mayor may include in the statement of the amount of the budget as approved by the council a confirmation of such amount, and thereby waive mayoral veto power pursuant to section two hundred fifty-five.
 
 b. If, as a result of the exercise of the mayor's veto pursuant to section two hundred fifty-five, the amount of the budget for the ensuing fiscal year differs from the amount of the budget approved by the council pursuant to section two hundred fifty-four, not later than two days after the budget is finally adopted the mayor shall prepare and submit to the council a statement setting forth the amount of the budget for the ensuing year, and the council shall, if necessary, fix new annual tax rates pursuant to subdivision c of section one thousand five hundred sixteen.
 
-c. The mayor, prior to establishing the final estimate of revenues for the ensuing fiscal year as required by this section, shall consider any alternative estimate of revenues which is submitted pursuant to subdivision d of this section and which is accompanied by a statement of the methodologies and assumptions upon which such estimate is based in such detail as is necessary to facilitate official and public understanding of such estimates.
+c. The mayor shall prepare and submit an estimate of the probable amount of (1) receipts into the city treasury during the ensuing fiscal year from all the sources of revenue of the general fund and (2) all receipts other than those of the general fund and taxes on real property in the budget message submitted to the council pursuant to section two hundred forty-nine. After submission of the budget message to the council pursuant to section two hundred forty-nine but not later than the twenty-fifth day of May, the mayor may prepare and submit to the council an updated estimate of the probable amount of (1) receipts into the city treasury during the ensuing fiscal year from all the sources of revenue of the general fund and (2) all receipts other than those of the general fund and taxes on real property. After the twenty-fifth day of May and until adoption of the budget pursuant to section two hundred fifty-four, the mayor may prepare and submit to the council an update of such estimate, provided that the mayor makes a determination that it is fiscally necessary to do so due to changed circumstances, and submits such determination in writing to the council setting forth the basis of that determination and the changed circumstances between the previous estimate and such update that warrant such modification.
 
-d. Any person or organization may, prior to the fifteenth day of May, submit to the mayor an official alternative estimate of revenues for consideration by the mayor in accordance with subdivision c. Such estimate shall be in a form prescribed by the mayor.
+d. The mayor, prior to issuing any estimate of revenues for the ensuing fiscal year as required by this section where such estimate is issued on or after the first of May, shall consider any alternative estimate of revenues which has been timely submitted pursuant to subdivision e of this section at least two weeks before the issuance of the mayor's estimate and which is accompanied by a statement of the methodologies and assumptions upon which such estimate is based in such detail as is necessary to facilitate official and public understanding of such estimates.
+
+e. Any person or organization may, prior to the fifteenth day of May, submit to the mayor an official alternative estimate of revenues for consideration by the mayor in accordance with subdivision d. Such estimate shall be in a form prescribed by the mayor.
+
+
 
 
 
@@ -225,11 +229,13 @@ Section 1516.
 *Section 1516. Fixing of tax rates.* ::
 
 
-a. The council shall fix the annual tax rates immediately upon the approval of the budget pursuant to section two hundred fifty-four. The council shall deduct the total amount of receipts as estimated by the mayor from the amount of the budget, for the ensuing fiscal year, and shall cause to be raised by tax on real property such sum as shall be as nearly as possible but not less than, the balance so arrived at, by fixing tax rates in cents and thousandths of a cent upon each dollar of assessed valuation. The tax rates shall be such to produce a balanced budget within generally accepted accounting principles for municipalities.
+a. The council shall fix the annual tax rates immediately upon the approval of the budget pursuant to section two hundred fifty-four. The council shall deduct the total amount of receipts contained in the most recent estimate submitted by the mayor pursuant to section two hundred fifty or section one thousand five hundred fifteen from the amount of the budget, for the ensuing fiscal year, and shall cause to be raised by tax on real property such sum as shall be as nearly as possible but not less than, the balance so arrived at, by fixing tax rates in cents and thousandths of a cent upon each dollar of assessed valuation. The tax rates shall be such to produce a balanced budget within generally accepted accounting principles for municipalities.
 
 b. If a single budget has not been adopted by the fifth day of June pursuant to subdivision b of section two hundred fifty-four, the tax rates adopted for the current fiscal year shall be deemed to have been extended for the new fiscal year until such time as a new budget is adopted.
 
 c. In the event the mayor exercises the veto power pursuant to section two hundred fifty-five, the council shall, if necessary, fix new annual rates not later than the date the budget is finally adopted in accordance with the requirements of subdivision a of this section.
+
+
 
 
 
@@ -592,6 +598,20 @@ Section 1527.
 5. Before beginning performance of a contract authorized by subdivision one of this section, the contracting collection agency shall give security for faithful performance and shall provide such insurance policies, including but not limited to a comprehensive general liability insurance, naming the city as a party in interest, as the commissioner may require. The adequacy and sufficiency of such security and insurance policies, as well as the justification and acknowledgement thereof, shall be subject to the approval of the comptroller. The commissioner, in his or her discretion, may require additional security or insurance in such amounts and running to such city officers and employees as the commissioner may require, to indemnify them for any liability incurred by reason of any act or omission of such collection agency.
 
 6. No contract entered into pursuant to this section may be so worded as to grant to any contracting collection agency the exclusive right to perform any work authorized by this section.
+
+
+
+
+Section 1528.
+--------------------------------------------------
+
+
+*Section 1528. Revenue stabilization fund.* ::
+
+
+The city may maintain a revenue stabilization fund to serve as a year-to-year reserve account, subject to the New York state financial emergency act for the city of New York as amended from time to time or any successor statute. Such fund shall be created and operated in accordance with any applicable state law.
+
+
 
 
 
