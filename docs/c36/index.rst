@@ -97,9 +97,13 @@ d. The board, annually and at such other times as it may determine, shall submit
 
 e. The board shall establish minimum standards for the care, custody, correction, treatment, supervision, and discipline of all persons held or confined under the jurisdiction of the department; and it shall promulgate such minimum standards in rules and regulations after giving the mayor and commissioner an opportunity to review and comment on the proposed standards, or amendments or additions to such standards.
 
-f. The board shall establish procedures for the hearing of grievances, complaints or requests for assistance (1) by or on behalf of any person held or confined under the jurisdiction of the department or (2) by any employee of the department. The board, or by written designation, a member of the board or the executive director, may conduct hearings, or study or investigate any matter within the jurisdiction of the department, and the board may make recommendations and submit reports of its findings to the appropriate authorities.
+f. The board shall establish procedures for the hearing of grievances, complaints or requests for assistance (1) by or on behalf of any person held or confined under the jurisdiction of the department or (2) by any employee of the department. Starting July 1, 2021, the board shall issue a report, at least every three years, on issues related to the department’s grievance process. Such report shall incorporate direct feedback from incarcerated individuals and proposed recommendations for relevant improvements, and shall include a section of recommendations on how to improve the grievance process for vulnerable populations, including incarcerated individuals who are lesbian, gay, bisexual, transgender, intersex, and gender nonconforming. Such report shall be submitted to the council and posted on the board’s website.
 
 g. Within the scope of its authority pursuant to this section, the board may compel the attendance of witnesses, require the production of books, accounts, papers and other evidence, administer oaths, examine persons, and conduct public or private hearings, studies and investigations. The board may institute proceedings in a court of appropriate jurisdiction to enforce its subpoena power and other authority pursuant to this section.
+
+h. The board, or by written designation, a member of the board or the executive director, may conduct hearings, or study or investigate any matter within the jurisdiction of the department, and the board may make recommendations and submit reports of its findings to the appropriate authorities.
+
+
 
 
 
