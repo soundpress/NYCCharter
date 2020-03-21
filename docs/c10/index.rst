@@ -231,7 +231,7 @@ b. The approval of a scope of project for a capital project pursuant to this cha
 
 c. The approval of the final design for a capital project pursuant to this chapter shall constitute a direction and order to the agency responsible for construction to prepare bid and award documents and to proceed to bid, unless sufficient funds for such purpose have not been appropriated in the capital budget or are otherwise not available within each year of the capital program in which it is projected that funds will be expended for the completion of the project. Such approval shall constitute notification to the comptroller of the comptroller's authorization to expend appropriated construction funds.
 
-d. The mayor shall require each agency to prepare and submit periodic reports in regard to the progress of its capital projects, including schedules and clear explanations of any delays for particular prospects and summary information on each agency's record on such matters. Such reports shall be published at least three times each year: within ninety days of the adoption of the capital budget; with the preliminary capital budget; and with the executive capital budget. Copies of such reports shall be transmitted by the mayor to the council, the city planning commission, and the community boards, the borough boards and borough presidents. Such reports shall include, for each project, the dates set in the adopted capital budget for the completion of scope, design, and construction and any changes in such dates.
+d. The mayor shall require each agency to prepare and submit periodic reports in regard to the progress of its capital projects, including schedules and clear explanations of any delays for particular projects and summary information on each agency's record on such matters. Such reports shall be published at least three times each year: no later than 120 days after the adoption of the capital budget; no later than 30 days after submission of the preliminary capital budget; and no later than 30 days after submission of the executive capital budget. Copies of such reports shall be transmitted by the mayor to the council, the city planning commission, the community boards, the borough boards and borough presidents, and posted online on the website of the office of management and budget in a machine-readable format. Such reports shall include, for each project, the dates set in the adopted capital budget for the completion of scope, design, and construction and any changes in such dates.
 
    1. The report issued with the executive budget shall include, for each new capital project being proposed in the executive budget, a description of the project including, to the extent practicable, the information required to be included in a scope of project by paragraph four of section two hundred ten.
 
@@ -242,6 +242,8 @@ d. The mayor shall require each agency to prepare and submit periodic reports in
 e. Any capital project which results in the acquisition or construction of a capital asset which will be subject to the requirements of section eleven hundred ten-a shall contain a provision requiring a comprehensive manual setting forth the useful life of the asset and explaining the activities necessary to maintain the asset throughout such useful life.
 
 f. The mayor may issue directives and adopt rules and regulations in regard to the execution of capital projects, consistent with the requirements of subdivisions a, b, c and d of this section, which shall be binding upon all agencies.
+
+
 
 
 

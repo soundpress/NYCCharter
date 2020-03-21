@@ -1236,3 +1236,70 @@ e. The head of each agency shall cooperate with and furnish to the office such i
 
 
 
+Section 20-i.
+--------------------------------------------------
+
+
+*Section 20-i. Office of food policy.* ::
+
+
+a. Definitions. For the purposes of this section, the term “director” means the director of the office of food policy. 
+						
+
+b. The mayor shall establish an office of food policy. Such office may be established within the office of the mayor or any department or office the head of which is appointed by the mayor. Such office shall be headed by a director who shall be appointed by the mayor or by the head of such department or office. 
+						
+
+c. Powers and duties. The director shall have the power and duty to: 
+						
+
+   1. Provide recommendations to the mayor and agencies regarding food policy; 
+						
+
+   2. Coordinate multi-agency initiatives relating to food policy; 
+						
+
+   3. Perform outreach to food policy advocates, community based organizations, academic institutions, and other entities to advance the city’s food policy; and 
+						
+
+   4. Support initiatives that are designed to promote access to healthy food, including but not limited to initiatives designed to promote healthy food access for communities that have historically had inequitable access to healthy foods due to economic, racial, or environmental factors. 
+						
+
+d. Food policy plan.
+
+   1. The office of food policy shall develop a comprehensive 10 year food policy plan no later than 180 days after the effective date of this section. The office shall consult, as the director deems appropriate, agencies, community based organizations, and community leaders and other stakeholders that focus on issues including but not limited to food policy, food equity, food justice and food insecurity in developing this plan. Such plan shall, at a minimum, make recommendations relating to: 
+						
+
+      (a) Reducing hunger; 
+						
+
+      (b) Improving nutrition; 
+						
+
+      (c) Increasing access to healthy food; 
+						
+
+      (d) Reducing food waste; 
+						
+
+      (e) Developing and improving food and farm economies; and 
+						
+
+      (f) Increasing urban agriculture and sustainability. 
+						
+
+   2. Such plan shall include implementation strategies for agencies to achieve the recommendations made pursuant to paragraph 1 of this subdivision and any other food policy recommendations made by the office of food policy, and benchmarks by which to measure the city’s progress. 
+						
+
+   3. No later than two years after the submission of the report required pursuant to this subdivision and every two years thereafter, the office of food policy shall prepare and submit to the mayor and the speaker of the council, and post on the office’s website, a report that describes the city’s progress toward the recommendations made pursuant to paragraph 1 of this subdivision and any other food policy recommendations made by such office. 
+						
+
+(
+						L.L. 2020/041, 3/13/2020, eff. 7/11/2020; Am. L.L. 2020/040, 3/13/2020, eff. 7/11/2020
+						) 
+						
+
+Editor's note: L.L. 2020/040, which added subsection d to this section, provides that it is deemed repealed 12 years after it becomes a law.
+
+
+
+
