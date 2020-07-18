@@ -553,9 +553,13 @@ c. The financial plan shall be developed and may from time to time be modified, 
 
 d. The financial plan shall include projections of all revenues, expenditures and cash flows (including but not limited to projected capital expenditures and debt issuances) and a schedule of projected capital commitments of the city. In addition, each financial plan and financial plan modification shall include a statement of the significant assumptions and methods of estimation used in arriving at the projections contained therein.
 
-e. Notwithstanding any inconsistent provision of this charter, in the event of any change in generally accepted accounting principles, or change in the application of generally accepted accounting principles to the city, if the mayor determines that immediate compliance with such change will have a material effect on the city's budget over a time period insufficient to accommodate the effect without a substantial adverse impact on the delivery of essential services, the mayor may authorize and approve a method of phasing the requirements of such change into the budget over such reasonably expeditious time period as the mayor deems appropriate.
+e. When the mayor issues modifications to the financial plan pursuant to subdivision c of this section, and such modifications would require the mayor to make a notification or submission to the council pursuant to subdivision b or e of section 107, the mayor shall make such notification or submission within 30 days of issuance of such modifications to the financial plan.
 
-f. The powers, duties, and obligations set forth in this section shall be subject to the powers, duties, and obligations placed upon any state or local officer or agency, including but not limited to the New York state financial control board, by or pursuant to the New York State Financial Emergency Act for the City of New York, while such act remains in effect.
+f. Notwithstanding any inconsistent provision of this charter, in the event of any change in generally accepted accounting principles, or change in the application of generally accepted accounting principles to the city, if the mayor determines that immediate compliance with such change will have a material effect on the city's budget over a time period insufficient to accommodate the effect without a substantial adverse impact on the delivery of essential services, the mayor may authorize and approve a method of phasing the requirements of such change into the budget over such reasonably expeditious time period as the mayor deems appropriate.
+
+g. The powers, duties, and obligations set forth in this section shall be subject to the powers, duties, and obligations placed upon any state or local officer or agency, including but not limited to the New York state financial control board, by or pursuant to the New York State Financial Emergency Act for the City of New York, while such act remains in effect.
+
+
 
 
 
